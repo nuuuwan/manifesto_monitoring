@@ -1,11 +1,11 @@
 # mm (auto generate by build_inits.py)
 
 from mm.manifesto import (
-    NPPManifestoPDFDetails,
     NPPManifesto,
-    NPPManifestoPDFContents,
-    NPPManifestoBase,
     NPPManifestoPDF,
+    NPPManifestoPDFDetails,
+    NPPManifestoPDFBase,
+    NPPManifestoPDFContents,
 )
 
 from mm.manifesto import (

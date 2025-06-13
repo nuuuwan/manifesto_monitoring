@@ -26,5 +26,3 @@ class NPPManifestoPDFBase:
         lines = self.raw_text.split("\n")
         lines = [re.sub(r"\s+", " ", line).strip() for line in lines]
         return lines
-
-    

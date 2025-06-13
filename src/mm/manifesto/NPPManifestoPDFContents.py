@@ -30,19 +30,6 @@ class NPPManifestoPDFContents:
         return new_contents_lines
 
     @staticmethod
-    def parse_l1(line):
-        pattern = r"^(?:(\d+)\s+)?(\d+)\.\s+(.*)$"
-        match = re.match(pattern, line)
-        if not match:
-            return None
-
-        return L1Topic(
-            l1_num=int(match.group(2)),
-            title=match.group(3),
-            l2_topics=[],
-        )
-
-    @staticmethod
     def parse_l2(line):
         pattern = r'^\s*(\d+)\.(\d+)\.?\s+(.*?)\s+(\d+)\s*$'
         match = re.match(pattern, line)
@@ -59,7 +46,7 @@ class NPPManifestoPDFContents:
     def l1_topics(self):
         l1_topics = []
         for line in self.contents_lines:
-            l1_topic = self.parse_l1(line)
+            l1_topic = L1Topic.from_line(line)
             if l1_topic:
                 l1_topics.append(l1_topic)
 
