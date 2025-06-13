@@ -1,9 +1,10 @@
+import re
 from dataclasses import dataclass
 from functools import cached_property
-import re
+
 from utils import Log
 
-log = Log('L2Topic')
+log = Log("L2Topic")
 
 
 @dataclass
@@ -58,14 +59,14 @@ class L2Topic:
         if not line.strip():
             return False
 
-        if line[:2] == '■ ':
+        if line[:2] == "■ ":
             return False
 
         if (
             len(line) > 64
             or line[0].lower() == line[0]
-            or line[-1] == '.'
-            or line in ['Childhood Development Centres']  # HACK!
+            or line[-1] == "."
+            or line in ["Childhood Development Centres"]  # HACK!
         ):
             return False
 
@@ -105,15 +106,15 @@ class L2Topic:
         self.principles = L2Topic.__extract_principles__(lines)
         self.activities = L2Topic.__extract_activities__(lines)
         log.debug(
-            f'[{self.short_title}] n_principles={self.n_principles}, '
-            + f'n_activities={self.n_activities} activities'
+            f"[{self.short_title}] n_principles={self.n_principles}, "
+            + f"n_activities={self.n_activities} activities"
         )
 
         return self
 
     @staticmethod
     def from_line(line):
-        pattern = r'^\s*(\d+)\.(\d+)\.?\s+(.*?)\s+(\d+)\s*$'
+        pattern = r"^\s*(\d+)\.(\d+)\.?\s+(.*?)\s+(\d+)\s*$"
         match = re.match(pattern, line)
         if not match:
             return None
@@ -138,24 +139,24 @@ class L2Topic:
 
     @cached_property
     def short_title(self):
-        return f'{self.l1_num:01d}.{self.l2_num:02d}) {self.title}'
+        return f"{self.l1_num:01d}.{self.l2_num:02d}) {self.title}"
 
     def to_dense_dict(self):
         return {}
 
     def to_md_lines(self):
-        lines = [f'### {self.short_title}']
+        lines = [f"### {self.short_title}"]
         if self.introduction_lines:
-            lines.append('#### Introduction')
+            lines.append("#### Introduction")
             lines.extend(self.introduction_lines)
         if self.principles:
-            lines.append('#### Principles')
+            lines.append("#### Principles")
             for principle in self.principles:
-                lines.append(f'- {principle}')
+                lines.append(f"- {principle}")
         if self.activities:
-            lines.append('#### Activities')
+            lines.append("#### Activities")
             for activity, details in self.activities.items():
-                lines.append(f'- {activity}')
+                lines.append(f"- {activity}")
                 for detail in details:
-                    lines.append(f'  - {detail}')
+                    lines.append(f"  - {detail}")
         return lines
