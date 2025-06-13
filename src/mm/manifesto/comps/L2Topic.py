@@ -4,6 +4,8 @@ from functools import cached_property
 
 from utils import Log
 
+from mm.manifesto.comps.Introduction import Introduction
+
 log = Log("L2Topic")
 
 
@@ -12,7 +14,7 @@ class L2Topic:
     l1_num: int
     l2_num: int
     title: str
-    introduction_lines: list[str]
+    introduction: Introduction
     principles: list[str]
     activities: list[str]
 
@@ -23,20 +25,6 @@ class L2Topic:
     @property
     def n_activities(self) -> int:
         return len(self.activities)
-
-    @staticmethod
-    def __extract_introduction__(lines: list[str]) -> list[str]:
-        introduction_lines = []
-        for line in lines:
-            if line == "Introduction":
-                continue
-
-            if line.endswith("Principles"):
-                break
-
-            introduction_lines.append(line)
-
-        return introduction_lines
 
     @classmethod
     def __extract_principles__(cls, lines: list[str]) -> list[str]:
@@ -102,7 +90,7 @@ class L2Topic:
         return activities
 
     def expand_fields_from_lines(self, lines: list[str]) -> "L2Topic":
-        self.introduction_lines = L2Topic.__extract_introduction__(lines)
+        self.introduction = Introduction.from_lines(lines)
         self.principles = L2Topic.__extract_principles__(lines)
         self.activities = L2Topic.__extract_activities__(lines)
         log.debug(
@@ -122,7 +110,7 @@ class L2Topic:
             l1_num=int(match.group(1)),
             l2_num=int(match.group(2)),
             title=match.group(3),
-            introduction_lines=[],
+            introduction=[],
             principles=[],
             activities=[],
         )
@@ -132,7 +120,7 @@ class L2Topic:
             l1_num=self.l1_num,
             l2_num=self.l2_num,
             title=self.title,
-            introduction_lines=self.introduction_lines,
+            introduction=self.introduction.introduction_lines,
             principles=self.principles,
             activities=self.activities,
         )
@@ -146,9 +134,8 @@ class L2Topic:
 
     def to_md_lines(self):
         lines = [f"### {self.short_title}"]
-        if self.introduction_lines:
-            lines.append("#### Introduction")
-            lines.extend(self.introduction_lines)
+        if self.introduction:
+            lines.extend(self.introduction.to_md_lines())
         if self.principles:
             lines.append("#### Principles")
             for principle in self.principles:

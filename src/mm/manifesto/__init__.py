@@ -9,5 +9,6 @@ from mm.manifesto.NPPManifestoPDFContents import NPPManifestoPDFContents
 
 from mm.manifesto.comps import (
     L1Topic,
+    Introduction,
     L2Topic,
 )
