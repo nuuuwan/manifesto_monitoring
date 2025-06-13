@@ -1,5 +1,6 @@
 import unittest
 from mm import NPPManifestoPDF
+import json
 
 TEST_MANIFESTO = NPPManifestoPDF().get_manifesto()
 
@@ -20,4 +21,16 @@ class TestCase(unittest.TestCase):
         self.assertEqual(
             first_l2_topic.title,
             'A civilized citizen - An advanced human resource',
+        )
+
+    def test_to_dict(self):
+        print(
+            json.dumps(TEST_MANIFESTO.to_dict(), indent=2, ensure_ascii=False)
+        )
+
+    def test_to_short_dict(self):
+        print(
+            json.dumps(
+                TEST_MANIFESTO.to_short_dict(), indent=2, ensure_ascii=False
+            )
         )

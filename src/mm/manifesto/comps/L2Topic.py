@@ -1,4 +1,5 @@
 from dataclasses import dataclass
+from functools import cached_property
 import re
 
 
@@ -105,3 +106,20 @@ class L2Topic:
             principles=[],
             activities=[],
         )
+
+    def to_dict(self):
+        return dict(
+            l1_num=self.l1_num,
+            l2_num=self.l2_num,
+            title=self.title,
+            introduction_lines=self.introduction_lines,
+            principles=self.principles,
+            activities=self.activities,
+        )
+
+    @cached_property
+    def short_title(self):
+        return f'{self.l1_num:01d}.{self.l2_num:02d}) {self.title}'
+
+    def to_short_dict(self):
+        return {}
