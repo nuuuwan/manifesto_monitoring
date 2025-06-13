@@ -1,4 +1,5 @@
 import re
+from functools import cached_property
 
 
 class NPPManifestoDetails:
@@ -17,11 +18,11 @@ class NPPManifestoDetails:
             "text": match.group(3).strip(),
         }
 
-    def get_splits_by_l1(self):
-        i_match = 0
+    @cached_property
+    def l2_splits(self):
+        splits = []
         for i_line, line in enumerate(self.lines[self.I_LINE_CONTENTS_END:]):
             l2 = self.parse_l1_heading(line)
             if l2:
-                i_match += 1
-                print(i_line, i_match, l2)
-                continue
+                splits.append(l2)
+        return splits

@@ -54,9 +54,7 @@ class NPPManifestoContents:
 
     @cached_property
     def l1_list(self):
-
         l1_list = []
-
         for line in self.contents_lines:
             l1 = self.parse_l1(line)
             if l1:
@@ -66,9 +64,7 @@ class NPPManifestoContents:
 
     @cached_property
     def l2_list(self):
-
         l2_list = []
-
         for line in self.contents_lines:
 
             l1 = self.parse_l1(line)
