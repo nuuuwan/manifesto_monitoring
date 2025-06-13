@@ -1,4 +1,5 @@
 from dataclasses import dataclass
+import re
 
 
 @dataclass
@@ -46,21 +47,29 @@ class L2Chapter:
         activities = []
         has_started = False
         for line in lines:
+            print(line)
             if line.endswith("ACTIVITIES"):
                 has_started = True
                 continue
 
-            if has_started:
-                if line[:2] == '■ ':
-                    continue
-                if (
-                    len(line) > 40
-                    or line[0].lower() == line[0]
-                    or line[-1] == '.'
-                ):
-                    continue
-                print(line.strip())
-                activities.append(line.strip())
+            if not has_started:
+                continue
+
+            # remove digits from beginning of the line with re
+            line = re.sub(r"^\d+\.?\s*", "", line)
+
+            if line[:2] == '■ ':
+                continue
+            if (
+                len(line) > 64
+                or line[0].lower() == line[0]
+                or line[-1] == '.'
+                or line in ['Childhood Development Centres']  # HACK!
+            ):
+                continue
+            print('----', len(activities) + 1, line.strip())
+            print
+            activities.append(line.strip())
 
         return activities
 

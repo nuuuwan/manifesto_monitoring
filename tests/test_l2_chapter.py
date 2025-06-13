@@ -11,8 +11,6 @@ class TestCase(unittest.TestCase):
 
         i_start, i_end = l2_splits[0]['i_line'] + 1, l2_splits[1]['i_line']
         chapter_lines = TEST_M.lines[i_start:i_end]
-        for line in chapter_lines:
-            print(line)
         return L2Chapter.from_lines(chapter_lines)
 
     def test_introduction_lines(self):
@@ -44,7 +42,6 @@ class TestCase(unittest.TestCase):
             ],
         )
 
-    @unittest.skip("incomplete")
     def test_activities(self):
         l2_chapter = self.get_l2_chapter()
         self.assertEqual(len(l2_chapter.activities), 17)
@@ -54,5 +51,5 @@ class TestCase(unittest.TestCase):
         )
         self.assertEqual(
             l2_chapter.activities[-1],
-            "Distance Education.",
+            "Distance Education",
         )
