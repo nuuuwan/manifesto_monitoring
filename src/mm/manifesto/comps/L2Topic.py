@@ -4,6 +4,8 @@ import re
 
 @dataclass
 class L2Topic:
+    l1_num: int
+    l2_num: int
     introduction_lines: list[str]
     principles: list[str]
     activities: list[str]

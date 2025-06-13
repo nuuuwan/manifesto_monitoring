@@ -1,13 +1,7 @@
-from mm.manifesto.NPPManifestoBase import NPPManifestoBase
-from mm.manifesto.NPPManifestoParser import NPPManifestoParser
-from mm.manifesto.NPPManifestoParserContents import NPPManifestoParserContents
-from mm.manifesto.NPPManifestoParserDetails import NPPManifestoParserDetails
+from dataclasses import dataclass
+from mm.manifesto.comps import L1Topic
 
 
-class NPPManifesto(
-    NPPManifestoBase,
-    NPPManifestoParser,
-    NPPManifestoParserContents,
-    NPPManifestoParserDetails,
-):
-    pass
+@dataclass
+class NPPManifesto:
+    l1_topics: list[L1Topic]

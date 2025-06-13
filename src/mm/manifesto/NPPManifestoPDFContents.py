@@ -1,8 +1,10 @@
 import re
 from functools import cached_property
 
+from mm.manifesto.comps import L1Topic
 
-class NPPManifestoParserContents:
+
+class NPPManifestoPDFContents:
     I_LINE_CONTENTS_START = 15
     I_LINE_CONTENTS_END = 63
 
@@ -34,9 +36,10 @@ class NPPManifestoParserContents:
         if not match:
             return None
 
-        return dict(
+        return L1Topic(
             l1_num=int(match.group(2)),
             title=match.group(3),
+            l2_topics=[],
         )
 
     @staticmethod
@@ -53,14 +56,14 @@ class NPPManifestoParserContents:
         )
 
     @cached_property
-    def l1_list(self):
-        l1_list = []
+    def l1_topics(self):
+        l1_topics = []
         for line in self.contents_lines:
-            l1 = self.parse_l1(line)
-            if l1:
-                l1_list.append(l1)
+            l1_topic = self.parse_l1(line)
+            if l1_topic:
+                l1_topics.append(l1_topic)
 
-        return l1_list
+        return l1_topics
 
     @cached_property
     def l2_list(self):

@@ -1,10 +1,10 @@
 # mm.manifesto (auto generate by build_inits.py)
 
-from mm.manifesto.NPPManifestoParserDetails import NPPManifestoParserDetails
+from mm.manifesto.NPPManifestoPDFDetails import NPPManifestoPDFDetails
 from mm.manifesto.NPPManifesto import NPPManifesto
-from mm.manifesto.NPPManifestoParserContents import NPPManifestoParserContents
+from mm.manifesto.NPPManifestoPDFContents import NPPManifestoPDFContents
 from mm.manifesto.NPPManifestoBase import NPPManifestoBase
-from mm.manifesto.NPPManifestoParser import NPPManifestoParser
+from mm.manifesto.NPPManifestoPDF import NPPManifestoPDF
 
 
 from mm.manifesto.comps import (

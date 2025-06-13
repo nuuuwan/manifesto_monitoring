@@ -5,7 +5,7 @@ from functools import cached_property
 from PyPDF2 import PdfReader
 
 
-class NPPManifestoParser:
+class NPPManifestoPDFBase:
     REMOTE_URL = "https://www.npp.lk/up/policies/en/npppolicystatement.pdf"
     LOCAL_PATH = os.path.join("data", "manifestos", "npp_manifesto.pdf")
 
@@ -27,14 +27,4 @@ class NPPManifestoParser:
         lines = [re.sub(r"\s+", " ", line).strip() for line in lines]
         return lines
 
-    @staticmethod
-    def parse_l1(line):
-        pattern = r"^(?:(\d+)\s+)?(\d+)\.\s+(.*)$"
-        match = re.match(pattern, line)
-        if not match:
-            return None
-
-        return dict(
-            l1_num=int(match.group(2)),
-            title=match.group(3),
-        )
+    
