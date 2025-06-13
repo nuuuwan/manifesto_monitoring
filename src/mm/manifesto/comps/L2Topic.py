@@ -22,7 +22,9 @@ class L2Topic:
 
     def expand_fields_from_lines(self, lines: list[str]) -> "L2Topic":
         self.introduction = Introduction.from_lines(lines)
-        self.principles = Principles.from_lines(lines)
+        self.principles = Principles.from_lines(
+            lines, l1_num=self.l1_num, l2_num=self.l2_num
+        )
         self.activities = Activity.list_from_lines(
             lines, l1_num=self.l1_num, l2_num=self.l2_num
         )
@@ -65,7 +67,7 @@ class L2Topic:
         if self.introduction:
             lines.extend(self.introduction.to_md_lines())
         if self.principles:
-            lines.extend(self.principles.to_md_lines(l2_topic=self))
+            lines.extend(self.principles.to_md_lines())
         if self.activities:
             lines.append("#### Activities")
             for activity in self.activities:
