@@ -28,9 +28,9 @@ class TestCase(unittest.TestCase):
             json.dumps(TEST_MANIFESTO.to_dict(), indent=2, ensure_ascii=False)
         )
 
-    def test_to_short_dict(self):
+    def test_to_dense_dict(self):
         print(
             json.dumps(
-                TEST_MANIFESTO.to_short_dict(), indent=2, ensure_ascii=False
+                TEST_MANIFESTO.to_dense_dict(), indent=2, ensure_ascii=False
             )
         )

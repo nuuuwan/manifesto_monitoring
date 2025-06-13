@@ -121,5 +121,5 @@ class L2Topic:
     def short_title(self):
         return f'{self.l1_num:01d}.{self.l2_num:02d}) {self.title}'
 
-    def to_short_dict(self):
+    def to_dense_dict(self):
         return {}

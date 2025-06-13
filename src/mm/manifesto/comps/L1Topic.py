@@ -34,8 +34,8 @@ class L1Topic:
     def short_title(self):
         return f'{self.l1_num}) {self.title}'
 
-    def to_short_dict(self):
+    def to_dense_dict(self):
         return {
-            l2_topic.short_title: l2_topic.to_short_dict()
+            l2_topic.short_title: l2_topic.to_dense_dict()
             for l2_topic in self.l2_topics
         }
