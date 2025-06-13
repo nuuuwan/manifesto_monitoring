@@ -27,9 +27,14 @@ class Principles:
     def to_dict(self):
         return self.principles
 
-    def to_md_lines(self):
+    def to_md_lines(self, l2_topic=None):
         lines = []
         lines.append("#### Principles")
-        for principle in self.principles:
+        for i_principle, principle in enumerate(self.principles, start=1):
+            principle = f"P{i_principle}) {principle}"
+            if l2_topic:
+                principle = (
+                    f"{l2_topic.l1_num}.{l2_topic.l2_num:02d}.{principle}"
+                )
             lines.append(f"- {principle}")
         return lines

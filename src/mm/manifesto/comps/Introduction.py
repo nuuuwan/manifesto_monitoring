@@ -24,7 +24,7 @@ class Introduction:
         for line in introduction_lines:
             if not line:
                 continue
-            if line[0].islower():
+            if not line[0].isupper():
                 compressed_introdiction_lines[-1] += " " + line.strip()
             else:
                 compressed_introdiction_lines.append(line.strip())

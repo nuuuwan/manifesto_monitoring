@@ -63,7 +63,7 @@ class L2Topic:
         if self.introduction:
             lines.extend(self.introduction.to_md_lines())
         if self.principles:
-            lines.extend(self.principles.to_md_lines())
+            lines.extend(self.principles.to_md_lines(l2_topic=self))
         if self.activities:
             lines.append("#### Activities")
             for activity in self.activities:
