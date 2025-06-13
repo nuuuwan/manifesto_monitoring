@@ -1,5 +1,6 @@
 # mm.manifesto.comps (auto generate by build_inits.py)
 
+from mm.manifesto.comps.ActivityList import ActivityList
 from mm.manifesto.comps.Activity import Activity
 from mm.manifesto.comps.L1Topic import L1Topic
 from mm.manifesto.comps.Principles import Principles

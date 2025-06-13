@@ -770,6 +770,8 @@ Despite the immense potential that sports offer to a country like Sri Lanka—on
 
 - 1.04.P7) ganizations
 
+#### Activities
+
 ### 1.05) A rich cultural life - A compassionate society
 
 #### Introduction
@@ -1720,6 +1722,8 @@ Gender identities and sexual orientations are diverse. However, in Sri Lanka, th
 
 - 2.03.P17) e Rights of the Child (CRC).
 
+#### Activities
+
 ### 2.04) A safer world for children - A creative future generation
 
 #### Introduction
@@ -1747,6 +1751,8 @@ The absence of a well-organized and adequate human and physically resourceful so
 - 2.04.P5) The well-being and development of all children.
 
 - 2.04.P6) Protection of children from abuse and all forms of violence.
+
+#### Activities
 
 ### 2.05) A contented youth - Cultured, independent thinkers
 
@@ -1946,6 +1952,8 @@ Contributing factors to this discontent include limited educational opportunitie
 
 - 2.05.P94) nder identities and sexual orientations.
 
+#### Activities
+
 ### 2.06) A respectable senior citizen- A meaningful retirement
 
 #### Introduction
@@ -1955,6 +1963,8 @@ Taking care of the elderly is a responsibility of the children and relatives wit
 By 2045, this percentage is projected to rise to 21%. While some policymakers view the increasing elderly population as a challenge, the NPP believes that it is a national responsibility to understand and address this situation with special attention to the well- being of the elderly.
 
 Activities ■ Providing basic facilities needed for the care of the elderly within homes. ■ Healthcare teams conduct health check-ups for the elderly. ■ Establishing a system of elderly care centres that meet international standards. ■ Developing a program to involve the elderly in creative economic activities to maintain their mental health ■ Implement a social protection scheme for those employed in the private and informal sectors, including farmers and fishermen. ■ Establishing a fund to implement an insurance coverage system that ensures protection for all senior citizens ■ Encouraging the building of walkways and rest homes near religious sites, and government intervention to ensure that the senior citizens can enjoy their daily lives in a peaceful and happy environment 51■ Implementing priority programs for senior citizens at public service locations. ■ Providing financial assistance to elderly individuals facing financial difficulties.
+
+#### Activities
 
 ### 2.07) An unimpaired social life - An fair and equitable approach
 
@@ -3263,6 +3273,8 @@ Currently, Sri Lanka’s ICT sector employs 85,000 professionals and generates U
 - 3.05.P6) rket access
 
 - 3.05.P7) Developing infrastructure that aligns with international standards
+
+#### Activities
 
 ### 3.06) A research and development approach - scientific solutions for the society
 
@@ -5112,6 +5124,8 @@ It is our aim to convert the government service to a satisfactory state instrume
 
 - 4.02.P10) No discrimination
 
+#### Activities
+
 ### 4.03) Rule of law - A judicial system with equal access
 
 #### Introduction
@@ -5306,6 +5320,8 @@ Although it is the expectation of the National People’s Power to create a soci
 
 - 4.05.P2) Rehabilitation and re-socializing
 
+#### Activities
+
 ### 4.06) A drug-free country - A healthier citizen life
 
 #### Introduction
@@ -5315,6 +5331,8 @@ At present, drug use has become a social problem due to its rapid rise. Drug use
 The current regime has failed to control the importation and distribution of drugs into the country, and jailing drug users alone is not adequate to curbing this menace. Currently, drug use has created a social tragedy and in 2022, 152,979 people were arrested for drug offences. However, only 1930 people among these were referred to rehabilitation programmes. About 60% of the offenders who go to prison are in prison for drug- related offences. Sri Lanka has become a hub for drug trafficking in the region, under the protection of political and other forces, which has contributed to the growth of organized crime. Therefore, the National People’s Power prioritizes drug prevention.
 
 Activities • An integrated operation to prevent drugs and organized crime in the country • Establishment of a separate Bureau for Narcotics Prevention • Development of naval and air surveillance facilities and provide modern equipment and training to officials to prevent the entry of drugs into the country 116• Regularize rehabilitation programmes for drug addicts to free them from drug use • Strengthening penalties for drug offences and taking measures for the speedy resolution of cases • Implementation of continuous programmes to educate school children • Expanding the functions of the Dangerous Drugs Control Board, and establishing monitoring committees to involve people in the fight against drugs • Educating the community about the adverse effects of drug use
+
+#### Activities
 
 ### 4.07) A dignified diplomacy - A sovereign state
 
@@ -5959,6 +5977,8 @@ Department, Prisons Department and Customs, as well as intelligence services and
 - 4.08.P8) Contribution of state intelligence services to national security
 
 - 4.08.P9) Formal security research and development
+
+#### Activities
 
 ### 4.09) A Sri Lankan nation - The universal citizen
 

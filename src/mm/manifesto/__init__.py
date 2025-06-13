@@ -8,6 +8,7 @@ from mm.manifesto.NPPManifestoPDFContents import NPPManifestoPDFContents
 
 
 from mm.manifesto.comps import (
+    ActivityList,
     Activity,
     L1Topic,
     Principles,

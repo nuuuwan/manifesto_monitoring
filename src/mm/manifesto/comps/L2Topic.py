@@ -4,7 +4,7 @@ from functools import cached_property
 
 from utils import Log
 
-from mm.manifesto.comps.Activity import Activity
+from mm.manifesto.comps.ActivityList import ActivityList
 from mm.manifesto.comps.Introduction import Introduction
 from mm.manifesto.comps.Principles import Principles
 
@@ -18,14 +18,14 @@ class L2Topic:
     title: str
     introduction: Introduction
     principles: Principles
-    activities: list[Activity]
+    activity_list: ActivityList
 
     def expand_fields_from_lines(self, lines: list[str]) -> "L2Topic":
         self.introduction = Introduction.from_lines(lines)
         self.principles = Principles.from_lines(
             lines, l1_num=self.l1_num, l2_num=self.l2_num
         )
-        self.activities = Activity.list_from_lines(
+        self.activity_list = ActivityList.from_lines(
             lines, l1_num=self.l1_num, l2_num=self.l2_num
         )
         return self
@@ -42,7 +42,7 @@ class L2Topic:
             title=match.group(3),
             introduction=None,
             principles=None,
-            activities=[],
+            activity_list=None,
         )
 
     def to_dict(self):
@@ -52,7 +52,7 @@ class L2Topic:
             title=self.title,
             introduction=self.introduction.to_dict(),
             principles=self.principles.to_dict(),
-            activities=[activity.to_dict() for activity in self.activities],
+            activity_list=self.activity_list.to_dict(),
         )
 
     @cached_property
@@ -60,7 +60,7 @@ class L2Topic:
         return f"{self.l1_num:01d}.{self.l2_num:02d}) {self.title}"
 
     def to_dense_dict(self):
-        return {}
+        return self.activity_list.to_dense_dict()
 
     def to_md_lines(self):
         lines = [f"### {self.short_title}"]
@@ -68,8 +68,6 @@ class L2Topic:
             lines.extend(self.introduction.to_md_lines())
         if self.principles:
             lines.extend(self.principles.to_md_lines())
-        if self.activities:
-            lines.append("#### Activities")
-            for activity in self.activities:
-                lines.extend(activity.to_md_lines())
+        if self.activity_list:
+            lines.extend(self.activity_list.to_md_lines())
         return lines
