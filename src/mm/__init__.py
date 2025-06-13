@@ -10,6 +10,7 @@ from mm.manifesto import (
 
 from mm.manifesto import (
     L1Topic,
+    Principles,
     Introduction,
     L2Topic,
 )

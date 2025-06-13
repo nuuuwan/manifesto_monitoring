@@ -5,6 +5,7 @@ from functools import cached_property
 from utils import Log
 
 from mm.manifesto.comps.Introduction import Introduction
+from mm.manifesto.comps.Principles import Principles
 
 log = Log("L2Topic")
 
@@ -91,7 +92,7 @@ class L2Topic:
 
     def expand_fields_from_lines(self, lines: list[str]) -> "L2Topic":
         self.introduction = Introduction.from_lines(lines)
-        self.principles = L2Topic.__extract_principles__(lines)
+        self.principles = Principles.from_lines(lines)
         self.activities = L2Topic.__extract_activities__(lines)
         log.debug(
             f"[{self.short_title}] n_principles={self.n_principles}, "
@@ -110,8 +111,8 @@ class L2Topic:
             l1_num=int(match.group(1)),
             l2_num=int(match.group(2)),
             title=match.group(3),
-            introduction=[],
-            principles=[],
+            introduction=None,
+            principles=None,
             activities=[],
         )
 
@@ -120,8 +121,8 @@ class L2Topic:
             l1_num=self.l1_num,
             l2_num=self.l2_num,
             title=self.title,
-            introduction=self.introduction.introduction_lines,
-            principles=self.principles,
+            introduction=self.introduction.to_dict(),
+            principles=self.principles.to_dict(),
             activities=self.activities,
         )
 
@@ -137,9 +138,7 @@ class L2Topic:
         if self.introduction:
             lines.extend(self.introduction.to_md_lines())
         if self.principles:
-            lines.append("#### Principles")
-            for principle in self.principles:
-                lines.append(f"- {principle}")
+            lines.extend(self.principles.to_md_lines())
         if self.activities:
             lines.append("#### Activities")
             for activity, details in self.activities.items():
