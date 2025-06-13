@@ -13,3 +13,11 @@ class TestCase(unittest.TestCase):
         self.assertEqual(
             first_topic.title, 'A fulfilling life - A comfortable country'
         )
+
+        first_l2_topic = first_topic.l2_topics[0]
+        self.assertEqual(first_l2_topic.l1_num, 1)
+        self.assertEqual(first_l2_topic.l2_num, 1)
+        self.assertEqual(
+            first_l2_topic.title,
+            'A civilized citizen - An advanced human resource',
+        )

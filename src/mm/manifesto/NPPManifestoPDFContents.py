@@ -31,29 +31,26 @@ class NPPManifestoPDFContents:
 
     @cached_property
     def l1_topics(self):
-        l1_topics = []
-        for line in self.contents_lines:
-            l1_topic = L1Topic.from_line(line)
-            if l1_topic:
-                l1_topics.append(l1_topic)
-
-        return l1_topics
-
-    @cached_property
-    def l2_topics(self):
-        l2_list = []
+        l1_topic_idx = {}
         for line in self.contents_lines:
 
-            l1 = L1Topic.from_line(line)  # DESIGN-ERROR! Duplicating
+            l1 = L1Topic.from_line(line)
             if l1:
+                l1_num = l1.l1_num
+                if l1_num in l1_topic_idx:
+                    raise ValueError(
+                        f"Duplicate L1 topic number found: {l1_num}"
+                    )
+                l1_topic_idx[l1_num] = l1
                 continue
 
             l2 = L2Topic.from_line(line)
             if l2:
-                l2_list.append(l2)
-                continue
-
-            if line:
-                l2_list[-1]['title'] += " " + line.strip()
-
-        return l2_list
+                l1_num = l2.l1_num
+                if l1_num not in l1_topic_idx:
+                    raise ValueError(
+                        f"L2 topic found without corresponding L1 topic: {l2}"
+                    )
+                l1_topic_idx[l1_num].l2_topics.append(l2)
+        l1_topics = list(l1_topic_idx.values())
+        return l1_topics
