@@ -142,3 +142,20 @@ class L2Topic:
 
     def to_dense_dict(self):
         return {}
+
+    def to_md_lines(self):
+        lines = [f'### {self.short_title}']
+        if self.introduction_lines:
+            lines.append('#### Introduction')
+            lines.extend(self.introduction_lines)
+        if self.principles:
+            lines.append('#### Principles')
+            for principle in self.principles:
+                lines.append(f'- {principle}')
+        if self.activities:
+            lines.append('#### Activities')
+            for activity, details in self.activities.items():
+                lines.append(f'- {activity}')
+                for detail in details:
+                    lines.append(f'  - {detail}')
+        return lines

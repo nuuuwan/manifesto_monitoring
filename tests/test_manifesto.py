@@ -1,6 +1,8 @@
 import unittest
 from mm import NPPManifestoPDF
 import json
+import os
+from utils import File
 
 TEST_MANIFESTO = NPPManifestoPDF().get_manifesto()
 
@@ -34,3 +36,8 @@ class TestCase(unittest.TestCase):
                 TEST_MANIFESTO.to_dense_dict(), indent=2, ensure_ascii=False
             )
         )
+
+    def test_to_md_lines(self):
+        md_lines = TEST_MANIFESTO.to_md_lines()
+        md_path = os.path.join('data', 'manifestos', 'npp_manifesto.md')
+        File(md_path).write('\n\n'.join(md_lines))

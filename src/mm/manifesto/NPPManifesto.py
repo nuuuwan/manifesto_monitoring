@@ -16,3 +16,9 @@ class NPPManifesto:
             l1_topic.short_title: l1_topic.to_dense_dict()
             for l1_topic in self.l1_topics
         }
+
+    def to_md_lines(self):
+        lines = ['# NPP Manifesto']
+        for l1_topic in self.l1_topics:
+            lines.extend(l1_topic.to_md_lines())
+        return lines

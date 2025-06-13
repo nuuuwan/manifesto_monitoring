@@ -39,3 +39,9 @@ class L1Topic:
             l2_topic.short_title: l2_topic.to_dense_dict()
             for l2_topic in self.l2_topics
         }
+
+    def to_md_lines(self):
+        lines = [f'## {self.short_title}']
+        for l2_topic in self.l2_topics:
+            lines.extend(l2_topic.to_md_lines())
+        return lines
