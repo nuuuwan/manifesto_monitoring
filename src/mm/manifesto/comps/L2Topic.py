@@ -6,6 +6,7 @@ import re
 class L2Topic:
     l1_num: int
     l2_num: int
+    title: str
     introduction_lines: list[str]
     principles: list[str]
     activities: list[str]
@@ -88,4 +89,19 @@ class L2Topic:
             introduction_lines=L2Topic.__extract_introduction__(lines),
             principles=L2Topic.__extract_principles__(lines),
             activities=L2Topic.__extract_activities__(lines),
+        )
+
+    @staticmethod
+    def from_line(line):
+        pattern = r'^\s*(\d+)\.(\d+)\.?\s+(.*?)\s+(\d+)\s*$'
+        match = re.match(pattern, line)
+        if not match:
+            return None
+        return L2Topic(
+            l1_num=int(match.group(1)),
+            l2_num=int(match.group(2)),
+            title=match.group(3),
+            introduction_lines=[],
+            principles=[],
+            activities=[],
         )
