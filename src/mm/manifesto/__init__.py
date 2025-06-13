@@ -3,3 +3,4 @@
 from mm.manifesto.NPPManifesto import NPPManifesto
 from mm.manifesto.NPPManifestoBase import NPPManifestoBase
 from mm.manifesto.NPPManifestoContents import NPPManifestoContents
+from mm.manifesto.NPPManifestoDetails import NPPManifestoDetails
