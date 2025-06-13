@@ -70,3 +70,7 @@ class TestCase(unittest.TestCase):
                 'Senior Secondary (Higher) Education from Years 12 to 13',
             ],
         )
+
+    def test_from_lines(self):
+        l2_chapter = self.get_l2_chapter()
+        print(l2_chapter)

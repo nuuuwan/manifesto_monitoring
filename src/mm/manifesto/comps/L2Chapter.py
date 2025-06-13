@@ -55,14 +55,10 @@ class L2Chapter:
 
     @staticmethod
     def __extract_activities__(lines: list[str]) -> list[str]:
-        print('-' * 32)
-        print('ACTIVITIES')
-        print('-' * 32)
-
         activities = {}
         has_started = False
         for line in lines:
-            print(line)
+
             if line.endswith("ACTIVITIES"):
                 has_started = True
                 continue
