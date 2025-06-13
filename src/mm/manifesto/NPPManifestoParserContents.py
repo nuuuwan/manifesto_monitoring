@@ -2,7 +2,7 @@ import re
 from functools import cached_property
 
 
-class NPPManifestoContents:
+class NPPManifestoParserContents:
     I_LINE_CONTENTS_START = 15
     I_LINE_CONTENTS_END = 63
 

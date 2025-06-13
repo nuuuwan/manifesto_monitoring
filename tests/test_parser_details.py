@@ -1,6 +1,6 @@
 import unittest
 
-from tests.test_manifesto_base import TEST_M
+from tests.test_parser import TEST_M
 
 
 class TestCase(unittest.TestCase):

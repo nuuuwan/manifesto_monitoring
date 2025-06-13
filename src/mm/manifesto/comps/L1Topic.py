@@ -1,5 +1,6 @@
 from dataclasses import dataclass
-from manifesto.comps.L2Topic import L2Topic
+from mm.manifesto.comps.L2Topic import L2Topic
+
 
 @dataclass
 class L1Topic:

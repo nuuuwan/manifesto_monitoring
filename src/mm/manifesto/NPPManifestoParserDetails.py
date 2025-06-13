@@ -2,7 +2,7 @@ import re
 from functools import cached_property
 
 
-class NPPManifestoDetails:
+class NPPManifestoParserDetails:
     @staticmethod
     def parse_l1_heading(line):
         # HACK!

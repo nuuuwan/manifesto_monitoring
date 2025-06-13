@@ -1,9 +1,9 @@
-from mm.manifesto.NPPManifestoBase import NPPManifestoBase
-from mm.manifesto.NPPManifestoContents import NPPManifestoContents
-from mm.manifesto.NPPManifestoDetails import NPPManifestoDetails
+from mm.manifesto.NPPManifestoParser import NPPManifestoParser
+from mm.manifesto.NPPManifestoParserContents import NPPManifestoParserContents
+from mm.manifesto.NPPManifestoParserDetails import NPPManifestoParserDetails
 
 
 class NPPManifesto(
-    NPPManifestoBase, NPPManifestoContents, NPPManifestoDetails
+    NPPManifestoParser, NPPManifestoParserContents, NPPManifestoParserDetails
 ):
     pass
