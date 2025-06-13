@@ -7,5 +7,5 @@ from mm.manifesto.NPPManifestoDetails import NPPManifestoDetails
 
 
 from mm.manifesto.comps import (
-    L2Chapter,
+    L2Topic,
 )

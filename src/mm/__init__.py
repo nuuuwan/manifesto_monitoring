@@ -8,5 +8,5 @@ from mm.manifesto import (
 )
 
 from mm.manifesto import (
-    L2Chapter,
+    L2Topic,
 )

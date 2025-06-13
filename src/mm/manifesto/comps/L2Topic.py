@@ -3,7 +3,7 @@ import re
 
 
 @dataclass
-class L2Chapter:
+class L2Topic:
     introduction_lines: list[str]
     principles: list[str]
     activities: list[str]
@@ -69,7 +69,7 @@ class L2Chapter:
             # remove digits from beginning of the line with re
             line = re.sub(r"^\d+\.?\s*", "", line)
 
-            if L2Chapter.__is_activity_title__(line):
+            if L2Topic.__is_activity_title__(line):
                 activities[line] = []
             else:
                 clean_line = line.strip()
@@ -81,9 +81,9 @@ class L2Chapter:
         return activities
 
     @staticmethod
-    def from_lines(lines: list[str]) -> "L2Chapter":
-        return L2Chapter(
-            introduction_lines=L2Chapter.__extract_introduction__(lines),
-            principles=L2Chapter.__extract_principles__(lines),
-            activities=L2Chapter.__extract_activities__(lines),
+    def from_lines(lines: list[str]) -> "L2Topic":
+        return L2Topic(
+            introduction_lines=L2Topic.__extract_introduction__(lines),
+            principles=L2Topic.__extract_principles__(lines),
+            activities=L2Topic.__extract_activities__(lines),
         )

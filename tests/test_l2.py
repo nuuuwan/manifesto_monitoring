@@ -1,6 +1,6 @@
 import unittest
 
-from mm import L2Chapter
+from mm import L2Topic
 from tests.test_manifesto_base import TEST_M
 
 
@@ -11,7 +11,7 @@ class TestCase(unittest.TestCase):
 
         i_start, i_end = l2_splits[0]['i_line'] + 1, l2_splits[1]['i_line']
         chapter_lines = TEST_M.lines[i_start:i_end]
-        return L2Chapter.from_lines(chapter_lines)
+        return L2Topic.from_lines(chapter_lines)
 
     def test_introduction_lines(self):
         l2_chapter = self.get_l2_chapter()
