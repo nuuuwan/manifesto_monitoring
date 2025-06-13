@@ -43,3 +43,15 @@ class TestCase(unittest.TestCase):
                 'Lifelong learning',
             ],
         )
+
+    def test_activities(self):
+        l2_chapter = self.get_l2_chapter()
+        self.assertEqual(len(l2_chapter.activities), 17)
+        self.assertEqual(
+            l2_chapter.activities[0],
+            "Early Childhood Development Education",
+        )
+        self.assertEqual(
+            l2_chapter.activities[-1],
+            "Distance Education.",
+        )
