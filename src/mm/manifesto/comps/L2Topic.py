@@ -16,7 +16,7 @@ class L2Topic:
     l2_num: int
     title: str
     introduction: Introduction
-    principles: list[str]
+    principles: Principles
     activities: list[str]
 
     @property
@@ -26,22 +26,6 @@ class L2Topic:
     @property
     def n_activities(self) -> int:
         return len(self.activities)
-
-    @classmethod
-    def __extract_principles__(cls, lines: list[str]) -> list[str]:
-        principles = []
-        has_started = False
-        for line in lines:
-            if line.endswith("Principles"):
-                has_started = True
-                continue
-            if line.endswith("ACTIVITIES"):
-                break
-
-            if has_started:
-                principles.append(line[2:].strip())
-
-        return principles
 
     @staticmethod
     def __is_activity_title__(line):
