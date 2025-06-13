@@ -420,19 +420,15 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 #### Principles
 
-- 1.02.P1) The right of individuals to receive the benefits of the health care system with
+- 1.02.P1) The right of individuals to receive the benefits of the health care system with respect and dignity.
 
-- 1.02.P2) spect and dignity.
+- 1.02.P2) The state’s responsibility to provide disease prevention and treatment health services to citizens without discrimination.
 
-- 1.02.P3) The state’s responsibility to provide disease prevention and treatment health
+- 1.02.P3) Promotion of health, disease prevention, and preventive health care.
 
-- 1.02.P4) rvices to citizens without discrimination.
+- 1.02.P4) Health services that meet global standards.
 
-- 1.02.P5) Promotion of health, disease prevention, and preventive health care.
-
-- 1.02.P6) Health services that meet global standards.
-
-- 1.02.P7) Protection of patients’ rights and safety.
+- 1.02.P5) Protection of patients’ rights and safety.
 
 #### Activities
 
@@ -766,9 +762,7 @@ Despite the immense potential that sports offer to a country like Sri Lanka—on
 
 - 1.04.P5) International cooperation
 
-- 1.04.P6) Collaboration among the government, private sector, and non-governmental
-
-- 1.04.P7) ganizations
+- 1.04.P6) Collaboration among the government, private sector, and non-governmental organizations
 
 #### Activities
 
@@ -790,21 +784,17 @@ People’s Power movement aspires to create a new cultural individual or culture
 
 - 1.05.P1) The right to preserve and develop the cultural identity of every community
 
-- 1.05.P2) The right of every community and individual to intervene in the development
+- 1.05.P2) The right of every community and individual to intervene in the development of culture
 
-- 1.05.P3) culture
+- 1.05.P3) Intercultural enrichment and evolution.
 
-- 1.05.P4) Intercultural enrichment and evolution.
+- 1.05.P4) The development of a compassionate individual with intellectual, spiritual, and aesthetic capacities with both local and global cultural knowledge.
 
-- 1.05.P5) The development of a compassionate individual with intellectual, spiritual,
+- 1.05.P5) Acceptance of cultural diversity and cultural critique.
 
-- 1.05.P6) d aesthetic capacities with both local and global cultural knowledge.
+- 1.05.P6) Cultural products free from political interference.
 
-- 1.05.P7) Acceptance of cultural diversity and cultural critique.
-
-- 1.05.P8) Cultural products free from political interference.
-
-- 1.05.P9) Government support in fostering a culturally enriched society
+- 1.05.P7) Government support in fostering a culturally enriched society
 
 #### Activities
 
@@ -1458,9 +1448,7 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 - 2.01.P6) Ensuring social justice and leaving no one behind
 
-- 2.01.P7) Efficient and meaningful participation of beneficiaries and all relevant
-
-- 2.01.P8) akeholders in the selection of beneficiaries
+- 2.01.P7) Efficient and meaningful participation of beneficiaries and all relevant stakeholders in the selection of beneficiaries
 
 #### Activities
 
@@ -1690,37 +1678,21 @@ Gender identities and sexual orientations are diverse. However, in Sri Lanka, th
 
 - 2.03.P1) Economic justice as a cornerstone for achieving gender equality.
 
-- 2.03.P2) State policies acknowledging the value of unpaid care work within the national
+- 2.03.P2) State policies acknowledging the value of unpaid care work within the national economy. 44■ Legislation that ensures fair and equal treatment for all marginalized groups.
 
-- 2.03.P3) onomy.
+- 2.03.P3) Enhanced women’s political representation, participation, and roles in society.
 
-- 2.03.P4) ■ Legislation that ensures fair and equal treatment for all marginalized groups.
+- 2.03.P4) Condemning all forms of violence, including systemic violence, across all settings.
 
-- 2.03.P5) Enhanced women’s political representation, participation, and roles in society.
+- 2.03.P5) Prioritized public services in policy development to alleviate the pressures on women.
 
-- 2.03.P6) Condemning all forms of violence, including systemic violence, across all settings.
+- 2.03.P6) Women’s involvement in creating sustainable environmental conservation strategies.
 
-- 2.03.P7) Prioritized public services in policy development to alleviate the pressures on
+- 2.03.P7) A society free from regressive stereotypes perpetuated by social institutions and practices.
 
-- 2.03.P8) men.
+- 2.03.P8) Equal access to state services, rights, and justice for all identity groups, including women.
 
-- 2.03.P9) Women’s involvement in creating sustainable environmental conservation
-
-- 2.03.P10) rategies.
-
-- 2.03.P11) A society free from regressive stereotypes perpetuated by social institutions and
-
-- 2.03.P12) actices.
-
-- 2.03.P13) Equal access to state services, rights, and justice for all identity groups, including
-
-- 2.03.P14) men.
-
-- 2.03.P15) Domestic laws with the standards set by the Convention on the Elimination of
-
-- 2.03.P16) l Forms of Discrimination Against Women (CEDAW) and the Convention on
-
-- 2.03.P17) e Rights of the Child (CRC).
+- 2.03.P9) Domestic laws with the standards set by the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) and the Convention on the Rights of the Child (CRC).
 
 #### Activities
 
@@ -1740,17 +1712,13 @@ The absence of a well-organized and adequate human and physically resourceful so
 
 #### Principles
 
-- 2.04.P1) A legal system aligned with international conventions like the UNCRC
+- 2.04.P1) A legal system aligned with international conventions like the UNCRC (United Nations Convention on the Rights of the Child) that ensures freedom and safety for children.
 
-- 2.04.P2) nited Nations Convention on the Rights of the Child) that ensures freedom
+- 2.04.P2) Proper care and nutrition for children.
 
-- 2.04.P3) d safety for children.
+- 2.04.P3) The well-being and development of all children.
 
-- 2.04.P4) Proper care and nutrition for children.
-
-- 2.04.P5) The well-being and development of all children.
-
-- 2.04.P6) Protection of children from abuse and all forms of violence.
+- 2.04.P4) Protection of children from abuse and all forms of violence.
 
 #### Activities
 
@@ -1770,187 +1738,89 @@ Contributing factors to this discontent include limited educational opportunitie
 
 - 2.05.P3) Contribution to social development
 
-- 2.05.P4) Advancement of science and modern technology, with a desire to overcome
+- 2.05.P4) Advancement of science and modern technology, with a desire to overcome societal challenges
 
-- 2.05.P5) cietal challenges
+- 2.05.P5) Y outh capable of providing leadership in political, social, and economic processes
 
-- 2.05.P6) Y outh capable of providing leadership in political, social, and economic
+- 2.05.P6) A vibrant cultural life and independent thinking
 
-- 2.05.P7) ocesses
+- 2.05.P7) A skilled youth capable of assuming national and international leadership
 
-- 2.05.P8) A vibrant cultural life and independent thinking
+- 2.05.P8) Y outh who stands against social injustice 48ACTIONS A Flourishing Youth
 
-- 2.05.P9) A skilled youth capable of assuming national and international leadership
+- 2.05.P9) Protecting the right of young people to secure suitable employment by the State.
 
-- 2.05.P10) Y outh who stands against social injustice
+- 2.05.P10) Establishing a database to collect information on unemployed youth, setting up a job bank for placements, and managing the process through an online platform, to reduce unemployment systematically.
 
-- 2.05.P11) ACTIONS
+- 2.05.P11) Review the current competitive examination system for government employments and update the selection process.
 
-- 2.05.P12) Flourishing Youth
+- 2.05.P12) Providing vocational and technical education for youth who have passed A/L examinations but could not gain admission to state universities.
 
-- 2.05.P13) Protecting the right of young people to secure suitable employment by the State.
+- 2.05.P13) Facilitating financial support for entrepreneurial development through proposed Development Banks.
 
-- 2.05.P14) Establishing a database to collect information on unemployed youth, setting up a
+- 2.05.P14) Facilitating unemployed youth with special skills by providing initial capital to develop entrepreneurship and find suitable markets.
 
-- 2.05.P15) b bank for placements, and managing the process through an online platform,
+- 2.05.P15) Using We for the Renaissance (V4R) digital platform to facilitate the transformation of new ideas and concepts into marketable products, encouraging young innovators.
 
-- 2.05.P16) reduce unemployment systematically.
+- 2.05.P16) Enabling young people to acquire the necessary technical skills and resources to participate in the global online job market
 
-- 2.05.P17) Review the current competitive examination system for government employments
+- 2.05.P17) Removing barriers for young freelancers who are already earning foreign exchange through online platforms.
 
-- 2.05.P18) d update the selection process.
+- 2.05.P18) Providing guidance and support for young people coming from overseas to engage in various investment projects of their interest Prospects for Future (Education, Science, and Technology, and Innovation)
 
-- 2.05.P19) Providing vocational and technical education for youth who have passed A/L
+- 2.05.P19) Revising and upgrading outdated industrial, technical, and advanced technological courses, progressing them to degree and postgraduate levels.
 
-- 2.05.P20) aminations but could not gain admission to state universities.
+- 2.05.P20) Allowing young people to present proposals for new educational and developmental projects through the “We for the Renaissance - V4R Digital platform” directly to the government.
 
-- 2.05.P21) Facilitating financial support for entrepreneurial development through proposed
+- 2.05.P21) Conducting ITES program, the theme of IT English and Soft Skills for Y outh in the afternoons throughout the island, with the aim of developing technical and language literacy.
 
-- 2.05.P22) velopment Banks.
+- 2.05.P22) Establishing Multi-Model Centers (MMC) at the local level to provide specialized programs and advisory services for youth and adults.
 
-- 2.05.P23) Facilitating unemployed youth with special skills by providing initial capital to
+- 2.05.P23) Creating youth exchange programs to foster understanding among different ethnicities and religions. 49Empathetic Youth (Art, Culture and Leisure):
 
-- 2.05.P24) velop entrepreneurship and find suitable markets.
+- 2.05.P24) Developing a streamlined system to evaluate artistic and cultural skills of youth from school to national levels.
 
-- 2.05.P25) Using We for the Renaissance (V4R) digital platform to facilitate the
+- 2.05.P25) Providing financial support for the production and promotion of creative work by young creators.
 
-- 2.05.P26) ansformation of new ideas and concepts into marketable products, encouraging
+- 2.05.P26) Organizing an annual awards ceremony to recognize and encourage young creators. A Healthy Youth (Physical and Mental Wellbeing, Substance Abuse, Sex Education)
 
-- 2.05.P27) ung innovators.
+- 2.05.P27) Educating young people from school age on addiction, and how substance abuse negatively impacts the body
 
-- 2.05.P28) Enabling young people to acquire the necessary technical skills and resources to
+- 2.05.P28) Revising and improving existing rehabilitation programs to offer medical-based rehabilitation approach for substance abuse.
 
-- 2.05.P29) rticipate in the global online job market
+- 2.05.P29) Establishing a 24-hour confidential counseling service and a Y outh App and hotline number to prevent suicide and mental health issues. A Youth Connected to the World (Cyber Space, Information Technology)
 
-- 2.05.P30) Removing barriers for young freelancers who are already earning foreign
+- 2.05.P30) Ensuring data freedom and data privacy.
 
-- 2.05.P31) change through online platforms.
+- 2.05.P31) Providing free internet access to all State universities, technical colleges, schools, and libraries.
 
-- 2.05.P32) Providing guidance and support for young people coming from overseas to
+- 2.05.P32) Introducing e-library systems in all local libraries and connect them to global e-library networks.
 
-- 2.05.P33) gage in various investment projects of their interest
+- 2.05.P33) Encouraging and supporting young people to develop software and mobile applications that are important for education, economy, and daily life. Future of the Leadership
 
-- 2.05.P34) ospects for Future (Education, Science, and Technology,
+- 2.05.P34) Increasing youth representation in political institutions through suitable quotas.
 
-- 2.05.P35) d Innovation)
+- 2.05.P35) Restructuring National Y outh Services Council and related institutions such as National Y outh Corpse, Y outh Clubs to develop knowledgeable, skilled young leaders.
 
-- 2.05.P36) Revising and upgrading outdated industrial, technical, and advanced technological
+- 2.05.P36) Establishing Y outh Circles at local levels.
 
-- 2.05.P37) urses, progressing them to degree and postgraduate levels.
+- 2.05.P37) Ensuring youth representation in ministerial advisory councils.
 
-- 2.05.P38) Allowing young people to present proposals for new educational and
+- 2.05.P38) Establishing a National Political Education Academy to improve political leadership skills
 
-- 2.05.P39) velopmental projects through the “We for the Renaissance - V4R Digital
+- 2.05.P39) Addressing unresolved and unprosecuted cases related to the 2022 protests and expedite legal proceedings with proper protocols. 50Together with Nature
 
-- 2.05.P40) atform” directly to the government.
+- 2.05.P40) Creating a National Environmental Action Center by together with all environmental organizations and activists
 
-- 2.05.P41) Conducting ITES program, the theme of IT English and Soft Skills for Y outh in
+- 2.05.P41) A skilled group of volunteers to help with the restoration damaged ecosystems.
 
-- 2.05.P42) e afternoons throughout the island, with the aim of developing technical and
+- 2.05.P42) Establishing youth environmental committees at local government levels.
 
-- 2.05.P43) nguage literacy.
+- 2.05.P43) Collaborating with international environmental organizations for knowledge and experience exchange.
 
-- 2.05.P44) Establishing Multi-Model Centers (MMC) at the local level to provide specialized
+- 2.05.P44) Engaging young environmental activists in managing human-wildlife conflicts, especially elephant-human interactions. Different, but Equal (Gender Identity and Sexual Orientation)
 
-- 2.05.P45) ograms and advisory services for youth and adults.
-
-- 2.05.P46) Creating youth exchange programs to foster understanding among different
-
-- 2.05.P47) hnicities and religions.
-
-- 2.05.P48) Empathetic Youth (Art, Culture and Leisure):
-
-- 2.05.P49) Developing a streamlined system to evaluate artistic and cultural skills of youth
-
-- 2.05.P50) om school to national levels.
-
-- 2.05.P51) Providing financial support for the production and promotion of creative work
-
-- 2.05.P52) young creators.
-
-- 2.05.P53) Organizing an annual awards ceremony to recognize and encourage young
-
-- 2.05.P54) eators.
-
-- 2.05.P55) Healthy Youth (Physical and Mental Wellbeing, Substance Abuse,
-
-- 2.05.P56) x Education)
-
-- 2.05.P57) Educating young people from school age on addiction, and how substance abuse
-
-- 2.05.P58) gatively impacts the body
-
-- 2.05.P59) Revising and improving existing rehabilitation programs to offer medical-based
-
-- 2.05.P60) habilitation approach for substance abuse.
-
-- 2.05.P61) Establishing a 24-hour confidential counseling service and a Y outh App and
-
-- 2.05.P62) tline number to prevent suicide and mental health issues.
-
-- 2.05.P63) Youth Connected to the World (Cyber Space, Information
-
-- 2.05.P64) chnology)
-
-- 2.05.P65) Ensuring data freedom and data privacy.
-
-- 2.05.P66) Providing free internet access to all State universities, technical colleges, schools,
-
-- 2.05.P67) d libraries.
-
-- 2.05.P68) Introducing e-library systems in all local libraries and connect them to global
-
-- 2.05.P69) library networks.
-
-- 2.05.P70) Encouraging and supporting young people to develop software and mobile
-
-- 2.05.P71) plications that are important for education, economy, and daily life.
-
-- 2.05.P72) ture of the Leadership
-
-- 2.05.P73) Increasing youth representation in political institutions through suitable quotas.
-
-- 2.05.P74) Restructuring National Y outh Services Council and related institutions such as
-
-- 2.05.P75) tional Y outh Corpse, Y outh Clubs to develop knowledgeable, skilled young
-
-- 2.05.P76) aders.
-
-- 2.05.P77) Establishing Y outh Circles at local levels.
-
-- 2.05.P78) Ensuring youth representation in ministerial advisory councils.
-
-- 2.05.P79) Establishing a National Political Education Academy to improve political
-
-- 2.05.P80) adership skills
-
-- 2.05.P81) Addressing unresolved and unprosecuted cases related to the 2022 protests and
-
-- 2.05.P82) pedite legal proceedings with proper protocols.
-
-- 2.05.P83) Together with Nature
-
-- 2.05.P84) Creating a National Environmental Action Center by together with all
-
-- 2.05.P85) vironmental organizations and activists
-
-- 2.05.P86) A skilled group of volunteers to help with the restoration damaged ecosystems.
-
-- 2.05.P87) Establishing youth environmental committees at local government levels.
-
-- 2.05.P88) Collaborating with international environmental organizations for knowledge
-
-- 2.05.P89) d experience exchange.
-
-- 2.05.P90) Engaging young environmental activists in managing human-wildlife conflicts,
-
-- 2.05.P91) pecially elephant-human interactions.
-
-- 2.05.P92) fferent, but Equal (Gender Identity and Sexual Orientation)
-
-- 2.05.P93) Working towards eliminating harmful and stereotypical perceptions related to
-
-- 2.05.P94) nder identities and sexual orientations.
+- 2.05.P45) Working towards eliminating harmful and stereotypical perceptions related to gender identities and sexual orientations.
 
 #### Activities
 
@@ -2924,24 +2794,6 @@ The fisheries in Sri Lanka can be divided into main categories: seawater fisheri
 
 The fisheries and aquaculture sectors are currently facing many issues. Among them, the high expenditure on fuel and other resources, the government’s lack of interventions to introduce better technology and techniques, illegal fishing activities by foreign vessels, an outdated legal framework and processes, and insufficient incentives for sustainable and eco-friendly techniques are the primary concerns. The main aims of this policy framework include the development and management of the fisheries in a sustainable and eco-friendly manner through proper scientific techniques and practical methods, thereby increasing fish products and making them available to consumers at a reasonable price, as well as uplifting the living standards of those engaged in fisheries.
 
-#### Principles
-
-- 3.04.P1) Fish food Security
-
-- 3.04.P2) Participatory approach and sustainable management
-
-- 3.04.P3) Strong legal framework in line with standards and international agreements
-
-- 3.04.P4) Safe and sustainable practices through standardization and incentives
-
-- 3.04.P5) Prevention of environmental pollution, and protection of oceans
-
-- 3.04.P6) Fair market accessibility for fish and related products
-
-- 3.04.P7) Higher living standards and social protection for the fishing community
-
-- 3.04.P8) A Professional fishing community
-
 #### Activities
 
 ##### 3.04.A01) Sustainable development and management
@@ -3258,22 +3110,6 @@ Lanka’s ICT industry. Emerging technologies like AI, IoT, and cybersecurity pa
 
 Currently, Sri Lanka’s ICT sector employs 85,000 professionals and generates USD 1.2 billion in annual foreign exchange earnings. Our goal is to position Sri Lanka as a global leader in high-quality ICT products and solutions and to establish the country as a hub for international partnerships. We aim to increase the ICT industry’s annual export revenue to USD 5 billion, achieving sustainable economic growth through innovation and high- quality digital technology while improving citizens’ living standards through efficient digital public services.
 
-#### Principles
-
-- 3.05.P1) Sustained growth fueled by innovation
-
-- 3.05.P2) Digital transformation of government services
-
-- 3.05.P3) Rebranding Sri Lanka’s market identity
-
-- 3.05.P4) Harnessing the benefits of the digital economy
-
-- 3.05.P5) International collaborations for advanced technology, best practices, and
-
-- 3.05.P6) rket access
-
-- 3.05.P7) Developing infrastructure that aligns with international standards
-
 #### Activities
 
 ### 3.06) A research and development approach - scientific solutions for the society
@@ -3287,32 +3123,6 @@ Meanwhile South Korea allocates 4.6%, Japan 3.6%, USA 3.5%, and China 3%, becomi
 Sri Lanka possesses many resources, including endemic flora and fauna species with high biodiversity and herbal value, geological resources, the sea surrounding the island, freshwater resources within the country, balanced soil, tropical climate, year-round solar power, wind power, and rivers and lakes with much potential. All these elements can be used to produce value-added products and services with lower costs, giving higher profits, and they carry a huge potential in the international market.
 
 Sri Lanka is rich with intelligent human resources, and many innovators are emerging even at the village level, but a mechanism to extract their ideas and innovations or to provide the necessary infrastructure occurred at a minimum level. In the future, Sri Lanka can be turned into an innovation centre by providing resources and the correct environment to harness this human potential. The state and private sector should support with a correct vision, and efficient mechanisms to bring out their new ideas through experiments and research.
-
-#### Principles
-
-- 3.06.P1) Direct support from research and development towards the production
-
-- 3.06.P2) onomy.
-
-- 3.06.P3) Distribution of research and development benefits fairly amongst the public.
-
-- 3.06.P4) Ensure research independence, and implement proper monitoring, and
-
-- 3.06.P5) gulation of research sectors.
-
-- 3.06.P6) Transparency, efficiency, equity, diversity, and inclusion.
-
-- 3.06.P7) Unbiased selection and fair opportunities for grant funds.
-
-- 3.06.P8) Research according to locally and internationally recognized ethics, practices,
-
-- 3.06.P9) d agreements.
-
-- 3.06.P10) Protection of new products and services via patents, and due recognition for
-
-- 3.06.P11) novators.
-
-- 3.06.P12) State, private, and public engagement for research and development.
 
 #### Activities
 
@@ -3878,32 +3688,6 @@ USD 409 billion, and USD 1,700 billion, respectively, while Sri Lanka’s GDP wa
 
 Therefore, we consider Sri Lanka must enhance local production and transition to an export-driven economy to navigate the current economic crisis successfully. This requires a comprehensive short and long-term industrial development plan that leverages the country’s strategic location, inclusive human capital, and natural resources, supported by committed political leadership. The primary objectives of this policy framework include revitalizing collapsed local industries, boosting the competitiveness of export industry sectors, promoting service industries, tapping into new global market opportunities, attracting foreign direct investment aligned with a national strategy, fostering an investment-friendly environment, and ensuring the provision of low-cost infrastructure and inputs.
 
-#### Principles
-
-- 3.08.P1) Implementation of a national policy framework to deliver essential institutional,
-
-- 3.08.P2) pital, technical, and market support for industrial development.
-
-- 3.08.P3) Encouragement of new investments, both domestic and foreign, as well as
-
-- 3.08.P4) stering entrepreneurship.
-
-- 3.08.P5) Provision of affordable infrastructure, including energy, transportation,
-
-- 3.08.P6) lecommunications, finance, and other essential services.
-
-- 3.08.P7) Enhancement of market efficiency and transparency within supply chains.
-
-- 3.08.P8) • Promotion of export-oriented service industries alongside the reinforcement of
-
-- 3.08.P9) mestic industries.
-
-- 3.08.P10) Diversification of products and services driven by research and development
-
-- 3.08.P11) tcomes.
-
-- 3.08.P12) Adoption of sustainable and environmentally responsible practices.
-
 #### Activities
 
 ##### 3.08.A01) National planning and state intervention
@@ -4202,16 +3986,6 @@ Lanka. However, Sri Lanka has been able to earn only USD 250 million a year from
 
 There is an ability to start industries that can provide a considerable support to the national economy using lime, calcite and dolomite, mineral sand and quarts, and silica which possess graphite, apatite, calcium carbonate. There are possibilities to develop industries based on value added products from ores that contain iron and copper, as well as other small mineral ores discovered so far. Moreover, mineral resources on land and seabed can be discovered and their mineral ores and rare earth elements (REE) can be used to earn foreign exchange.
 
-#### Principles
-
-- 3.09.P1) Scientific exploration
-
-- 3.09.P2) Sustainable excavations and usage
-
-- 3.09.P3) Optimum utilization
-
-- 3.09.P4) Maximum benefits from local and foreign markets
-
 #### Activities
 
 ##### 3.09.A01) Gems and jewellery
@@ -4282,14 +4056,6 @@ While the trends remain such, Sri Lanka stands high up in the list of countries 
 
 Taking the energy mix towards a green economy through renewable sources, by strategically reducing its dependence on petroleum oils, will provide solutions to the basic problems. It is the aim of the National People’s Power to turn Sri Lanka’s energy system into a competitive and transparent one, empowering the customers and equipped with the latest technology. Whilst saving our environment for the future generations, the NPP hopes to consider energy as an important part of the mission to capture an appropriate portion of the world manufactured products market.
 
-#### Principles
-
-- 3.10.P1) Energy supply as an essential national service
-
-- 3.10.P2) Sustainable and safe energy supply and consumption
-
-- 3.10.P3) Foreign revenue through an energy economy
-
 #### Activities
 
 ##### 3.10.A01) Energy Trading Hub
@@ -4355,18 +4121,6 @@ Taking the energy mix towards a green economy through renewable sources, by stra
 Unsystematic and inefficient transport has wasted a considerable amount of time of most of the public. Heavy traffic, wasting a lot of time on the road, transport services not working at night, too many road accidents, and sexual and other harassment faced by women and children in public services characterises our passenger transport service. The reporting of around 30,000 road accidents a year is an indication of the lack of safety and its intensity in the transport sector. The contribution of the railway service has dropped to 5% in the transport sector. The portion of the SLTB in bus passenger service has dropped to 14%. Around 55% of the citizens opt to use private vehicles to fulfil their transport needs due to the decline in public transport, and they have to spend a large amount of their income on transport as a result. It has also resulted in high road traffic. 88,200 km of the entire 119,382 km road network of Sri Lanka belongs to local government institutes, and many roads at the rural and semi-urban areas are in a dilapidated state due to lack of maintenance. A large amount of money flows out annually to import fuel, and around 65% of the fuel burned in the country are spent in the transport sector. It thereby contributed to half of the air pollution. Further, around 35% of fruits and vegetables go into waste due to unsatisfactory transportation.
 
 National People’s Power wishes to establish an efficient, trustworthy, safe, and dignified people-oriented transport service with the long-term vision to gradually transform it into an eco-friendly system. Hence the goal is to provide 70% of the public’s transport needs through public transportation within 5 years.
-
-#### Principles
-
-- 3.11.P1) Transport is considered a public service
-
-- 3.11.P2) An eco-friendly and sustainable transport service
-
-- 3.11.P3) Safe and efficient transport service
-
-- 3.11.P4) Coping with the diversity in the passenger composition
-
-- 3.11.P5) Coordination among different transport modes
 
 #### Activities
 
@@ -4590,30 +4344,6 @@ Colombo and Hambantota ports as two of the biggest naval centres in the world by
 
 Sri Lanka’s sailors hold world fame for their excellence, skill, and performance, and they are a main resource in our nautical field. There is a considerable potential to earn foreign exchange and create job opportunities with high benefit for the country’s youth, through the development of the number of professional sailors in Sri Lanka. This proposed policy framework brings balanced access to the development of the industry and the contribution of different stakeholders, including the harbour, nautical companies, and specialists, to bring Sri Lanka to the forefront of the global nautical field. We hope to make Sri Lanka a main nautical centre in the world through the country’s location in the Indian Ocean, development of supply efficiency, and building a world-class maritime labour force.
 
-#### Principles
-
-- 3.12.P1) An integrated maritime control for sustainable usage of maritime resources
-
-- 3.12.P2) Being responsible and accountable for the protection of the maritime
-
-- 3.12.P3) vironment and resources
-
-- 3.12.P4) Access to common maritime resources and their personnel use are on
-
-- 3.12.P5) nsumption fee
-
-- 3.12.P6) Precautionary approach in decision-making on maritime control and
-
-- 3.12.P7) ministration
-
-- 3.12.P8) Community participation in the planning, usage, and conservation of
-
-- 3.12.P9) ritime and coastal areas and their resources
-
-- 3.12.P10) Benefits of maritime resources being
-
-- 3.12.P11) Fair distribution of the benefits of maritime resources among the public
-
 #### Activities
 
 ##### 3.12.A01) Training of sailors
@@ -4675,20 +4405,6 @@ The global telecommunications sector is rapidly evolving with the integration of
 Sri Lanka has lagged behind in adopting these advancements at the same pace as global trends. Additionally, the high costs of telecommunication services negatively impact both local consumers and the industries that rely on these services.
 
 The National People’s Power’s telecommunication policy framework addresses all areas of the communication sector, including wired and wireless communication industries, broadcasting, cinema, and entertainment. The framework advocates for a sustainable telecommunications sector that quickly adapts to new technologies while ensuring safety, consumer-friendliness, and affordability.
-
-#### Principles
-
-- 3.13.P1) Ensuring communication access for every citizen
-
-- 3.13.P2) Easy access to information and data
-
-- 3.13.P3) Fair pricing
-
-- 3.13.P4) Protection of national and personal data
-
-- 3.13.P5) Cyber security and data privacy
-
-- 3.13.P6) Green infrastructure
 
 #### Activities
 
@@ -4842,14 +4558,6 @@ According to the Land Commissioner Department, 82% of Sri Lanka’s total land a
 
 The ordinances and regulations imposed during the colonial period to control land resources have made a significant impact on land management in Sri Lanka. The governments after the independence did not make any special effort to scientifically amend these laws for the well-being of the country and its people. Instead, some land reforms and policies aimed at land distribution, driven by narrow intentions, have contributed to socio-economic inequality. Issues related to land ownership have remained unresolved for a long time, leading to various social disparities.
 
-#### Principles
-
-- 3.14.P1) Optimum land utilization
-
-- 3.14.P2) Protecting the sensitive areas
-
-- 3.14.P3) Efficient and prod uctive land administration and management
-
 #### Activities
 
 ##### 3.14.A01) Land utilization
@@ -4941,20 +4649,6 @@ Shortcomings in the procurement process, inefficiency, weak project management p
 Due to a lack of low-cost raw materials, new technological innovations, and limited investments in research and development, the industry has achieved only a tiny portion in the international arena. Further, brain drain has affected the industry’s lack of trained labour, daily operations, and development.
 
 Past governments invested loans from local banks and two-party and multi-party loans in construction projects, and the lack of benefits from these projects contributed greatly to the country’s loan crisis.
-
-#### Principles
-
-- 3.15.P1) A creative construction industry
-
-- 3.15.P2) Transparent and fair procurement
-
-- 3.15.P3) Monitoring, supporting, and regulating the construction sector
-
-- 3.15.P4) Fair competition and equal access among entrepreneurs
-
-- 3.15.P5) Quality employment with job security, fair wages, and opportunities for skill
-
-- 3.15.P6) velopment based on new architectural knowledge
 
 #### Activities
 
@@ -5102,28 +4796,6 @@ The inefficiency of public service and the associated bribery, corruption, fraud
 
 It is our aim to convert the government service to a satisfactory state instrument by freeing it from its current state and transforming it into a non-corrupted one which has the public faith and fulfils the public expectations.
 
-#### Principles
-
-- 4.02.P1) Ensuring transparency and accountability
-
-- 4.02.P2) Merit-based appointments and promotions
-
-- 4.02.P3) Efficiency and formal procedure
-
-- 4.02.P4) Ethical behaviour and continuity
-
-- 4.02.P5) Using advanced technology
-
-- 4.02.P6) Formulating productive policies
-
-- 4.02.P7) Partnership
-
-- 4.02.P8) Public participation, awareness, and skills
-
-- 4.02.P9) Ensuring inclusion
-
-- 4.02.P10) No discrimination
-
 #### Activities
 
 ### 4.03) Rule of law - A judicial system with equal access
@@ -5268,14 +4940,6 @@ Power hopes to rebuild the broken public trust in it by creating an independent,
 
 Police plays a very important role in maintaining law and order in the country as an institution close to the public. An important factor that reflects how the rule of law functions is the independent and efficient functioning of the police. However, at present, the public believes that the Sri Lanka Police is an institution from which it is impossible to get any service without political or other social connections or bribery. On the other hand, some police officers are also victims of political interference and are constantly suffering due to ill-treatment. The National People’s Power expects to make the police service an independent, efficient, and friendly service that is closer to the public.
 
-#### Principles
-
-- 4.04.P1) Independence
-
-- 4.04.P2) Efficient and friendly service
-
-- 4.04.P3) Professional skill
-
 #### Activities
 
 ##### 4.04.A01) Implementing justice
@@ -5313,12 +4977,6 @@ The vision of the Prisons Department in Sri Lanka is to social reintegration of 
 The increase in the remand prisoner population is a major cause of prison overcrowding due to the long time it takes to complete legal proceedings. In 2022, there were 108,250 remand prisoners, 30,331 convicted prisoners, and a total of 138,581 prisoners living in prisons. Men show a higher tendency to be imprisoned than women, and the percentage of women among the total number of prisoners in 2022 was 3.23%. 19,094 or 62.95% of convicted prisoners were convicted of drug related charges. Further, 92% of the convicted prisoners had been educated up to G.E.C. O/L exam or less, while 62% were under 40.
 
 Although it is the expectation of the National People’s Power to create a social environment where people are not inclined to do crimes, we consider the welfare of the people serving prison sentences for any reason to be the responsibility of the government.
-
-#### Principles
-
-- 4.05.P1) Guardianship and protection
-
-- 4.05.P2) Rehabilitation and re-socializing
 
 #### Activities
 
@@ -5958,26 +5616,6 @@ Law enforcement agencies such as the Armed Forces, Police, Coast Guard, Excise
 
 Department, Prisons Department and Customs, as well as intelligence services and civil defence services, play an important role in ensuring the internal security of the state. The strength and transparency of these security forces are reflected and maintained through transparent democratic governance capable of fulfilling the national power and the promotion of national interests, i.e. national inspirations. Political leadership, economic, geographical, and environmental presence, popular ideology, and defense forces can be identified as the components of national power. Non-aligned and balanced diplomatic policies, strategic foreign policies based on the understanding of global and regional geopolitical and balance security posture, as well as economic independence are the factors that affect the reduction of threats to national security globally and regionally.
 
-#### Principles
-
-- 4.08.P1) Protection of citizens
-
-- 4.08.P2) Sovereignty and territorial integrity
-
-- 4.08.P3) Internal Security and National Reconciliation
-
-- 4.08.P4) Maritime domain and airspace security
-
-- 4.08.P5) Accountability and responsibility of national security
-
-- 4.08.P6) Protection of national resources
-
-- 4.08.P7) Energy security
-
-- 4.08.P8) Contribution of state intelligence services to national security
-
-- 4.08.P9) Formal security research and development
-
 #### Activities
 
 ### 4.09) A Sri Lankan nation - The universal citizen
@@ -5989,24 +5627,6 @@ Sri Lanka is a country with people of various ethnicities such as Sinhalese, Tam
 Muslim, Burgher, Malay and various religions such as Buddhist, Hindu, Islam,
 
 Christian, Catholic, etc. Because of that diversity, it is essential for the well-being and national unity of the country to live in a multicultural society that exists by nature, accepting and respecting each other. But the country has failed to build the Sri Lankan nation by taking advantage of the various opportunities in history. The country had to face a tragic war of 30 years as a result of creating mutual suspicion and mistrust and disunity between ethnicities and military groups for the sake of obtaining and maintaining power and narrow opportunistic political interests. The sorrows and sad results of that war still remain in Sri Lankan society. The National People’s Power is dedicated to creating national 127unity for the building of the Sri Lankan nation, not divided based on ethnicity, language, religion, caste, or gender, and by respecting the diversity of identities and ensuring their survival and protection.
-
-#### Principles
-
-- 4.09.P1) Political partnership of all ethnicities
-
-- 4.09.P2) No citizen/community should be subjected to humiliation, oppression, degrading
-
-- 4.09.P3) eatment or injustice on the basis of ethnicity, language, religion, caste, sex or
-
-- 4.09.P4) y other grounds.
-
-- 4.09.P5) Safety, mutual understanding, trust and rights of all ethnicities and religious
-
-- 4.09.P6) oups.
-
-- 4.09.P7) A harmonious Sri Lankan nation undivided by racist, castes and religious
-
-- 4.09.P8) eologies
 
 #### Activities
 

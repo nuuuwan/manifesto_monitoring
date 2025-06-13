@@ -22,7 +22,11 @@ class Principles:
                 break
 
             if has_started:
-                principles.append(line[2:].strip())
+                if line[:2] == "■ ":
+                    principles.append(line[2:].strip())
+                else:
+                    if principles:
+                        principles[-1] += " " + line.strip()
 
         return Principles(l1_num, l2_num, principles)
 
