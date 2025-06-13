@@ -1034,7 +1034,7 @@ By 2023, Sri Lanka’s population was 22,037,000 and 6,642,331, which is 30.14% 
 
 Currently, the Department of Prisons transports children to and from court alongside adult offenders, endangering their safety and privacy. Decades-old laws like the Vagrants
 
-Ordinance, which has been in force since colonization, continue to infringe on individuals’ freedom of movement, violating the rights of children and their families. A comprehensive review of the Children and Y oung Persons Ordinance, which has undergone only minor amendments over the decades, is also necessary.
+Ordinance, which has been in force since colonization, continue to infringe on individuals’ freedom of movement, violating the rights of children and their families. A comprehensive review of the Children and Young Persons Ordinance, which has undergone only minor amendments over the decades, is also necessary.
 
 Education is crucial in developing the skills and mindset needed for children’s success in a rapidly changing world, but Sri Lanka’s current education system is failing to meet this need. The frustrations and lack of trust in the future caused by corruption and bribery in the country have driven many young people to seek opportunities abroad.
 
@@ -1062,7 +1062,7 @@ Contributing factors to this discontent include limited educational opportunitie
 
 #### Principles
 
-- 2.05.P1) Y outh who are actively involved in the economic process
+- 2.05.P1) Youth who are actively involved in the economic process
 
 - 2.05.P2) Freedom from oppression, exploitation, and discriminatory practices
 
@@ -1070,13 +1070,13 @@ Contributing factors to this discontent include limited educational opportunitie
 
 - 2.05.P4) Advancement of science and modern technology, with a desire to overcome societal challenges
 
-- 2.05.P5) Y outh capable of providing leadership in political, social, and economic processes
+- 2.05.P5) Youth capable of providing leadership in political, social, and economic processes
 
 - 2.05.P6) A vibrant cultural life and independent thinking
 
 - 2.05.P7) A skilled youth capable of assuming national and international leadership
 
-- 2.05.P8) Y outh who stands against social injustice 48ACTIONS A Flourishing Youth
+- 2.05.P8) Youth who stands against social injustice 48ACTIONS A Flourishing Youth
 
 - 2.05.P9) Protecting the right of young people to secure suitable employment by the State.
 
@@ -1102,7 +1102,7 @@ Contributing factors to this discontent include limited educational opportunitie
 
 - 2.05.P20) Allowing young people to present proposals for new educational and developmental projects through the “We for the Renaissance - V4R Digital platform” directly to the government.
 
-- 2.05.P21) Conducting ITES program, the theme of IT English and Soft Skills for Y outh in the afternoons throughout the island, with the aim of developing technical and language literacy.
+- 2.05.P21) Conducting ITES program, the theme of IT English and Soft Skills for Youth in the afternoons throughout the island, with the aim of developing technical and language literacy.
 
 - 2.05.P22) Establishing Multi-Model Centers (MMC) at the local level to provide specialized programs and advisory services for youth and adults.
 
@@ -1118,7 +1118,7 @@ Contributing factors to this discontent include limited educational opportunitie
 
 - 2.05.P28) Revising and improving existing rehabilitation programs to offer medical-based rehabilitation approach for substance abuse.
 
-- 2.05.P29) Establishing a 24-hour confidential counseling service and a Y outh App and hotline number to prevent suicide and mental health issues. A Youth Connected to the World (Cyber Space, Information Technology)
+- 2.05.P29) Establishing a 24-hour confidential counseling service and a Youth App and hotline number to prevent suicide and mental health issues. A Youth Connected to the World (Cyber Space, Information Technology)
 
 - 2.05.P30) Ensuring data freedom and data privacy.
 
@@ -1130,9 +1130,9 @@ Contributing factors to this discontent include limited educational opportunitie
 
 - 2.05.P34) Increasing youth representation in political institutions through suitable quotas.
 
-- 2.05.P35) Restructuring National Y outh Services Council and related institutions such as National Y outh Corpse, Y outh Clubs to develop knowledgeable, skilled young leaders.
+- 2.05.P35) Restructuring National Youth Services Council and related institutions such as National Youth Corpse, Youth Clubs to develop knowledgeable, skilled young leaders.
 
-- 2.05.P36) Establishing Y outh Circles at local levels.
+- 2.05.P36) Establishing Youth Circles at local levels.
 
 - 2.05.P37) Ensuring youth representation in ministerial advisory councils.
 
@@ -1694,7 +1694,7 @@ The NPP aspired to achieve sustainable development in the livestock sector throu
 
 - 3.03.P3) Investment incentives
 
-- 3.03.P4) Y outh and female participation in livestock entrepreneurship
+- 3.03.P4) Youth and female participation in livestock entrepreneurship
 
 - 3.03.P5) Public, private, and community partnerships for livestock development
 
@@ -1984,7 +1984,7 @@ National People’s Power wishes to establish an efficient, trustworthy, safe, a
 
 #### Introduction
 
-Sri Lanka plays a big role in the global nautical field based on its strategic location at a centre where Eastern and Western sea routes meet. Y early, thousands of tons of goods are transported by ships that sail past our country. The Colombo Harbour is located at an ideal spot to conduct this sea transportation, while the Hambantota Harbour, located in the South, operates much lower than its capacity. There is potential to develop the
+Sri Lanka plays a big role in the global nautical field based on its strategic location at a centre where Eastern and Western sea routes meet. Yearly, thousands of tons of goods are transported by ships that sail past our country. The Colombo Harbour is located at an ideal spot to conduct this sea transportation, while the Hambantota Harbour, located in the South, operates much lower than its capacity. There is potential to develop the
 
 Colombo and Hambantota ports as two of the biggest naval centres in the world by attracting a considerable portion of the global maritime industry, providing competitive services and investing in infrastructure. The main ports of Colombo, Galle, Hambantota, and Trincomalee greatly contribute to the country’s business and economic development and affect a large portion of the country’s market.
 

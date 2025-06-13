@@ -45,7 +45,6 @@ class ActivityList:
                 activities[line] = []
             else:
                 clean_line = line.strip()
-                clean_line = clean_line.replace("Y ear", "Year")  # HACK!
 
                 if line[:2] == "■ ":
                     clean_line = clean_line[2:].strip()

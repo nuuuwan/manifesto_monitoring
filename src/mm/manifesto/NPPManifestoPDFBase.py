@@ -16,9 +16,10 @@ class NPPManifestoPDFBase:
         for page in reader.pages:
             raw_text += page.extract_text() + "\n"
 
+        raw_text = raw_text.replace("Y ", "Y")
         raw_text = raw_text.strip()
-        while '\n\n\n' in raw_text:
-            raw_text = raw_text.replace('\n\n\n', '\n\n')
+        while "\n\n\n" in raw_text:
+            raw_text = raw_text.replace("\n\n\n", "\n\n")
         return raw_text
 
     @cached_property
