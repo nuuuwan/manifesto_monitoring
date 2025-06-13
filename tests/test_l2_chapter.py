@@ -5,12 +5,26 @@ from tests.test_manifesto_base import TEST_M
 
 
 class TestCase(unittest.TestCase):
-    def test_method(self):
+
+    def get_l2_chapter(self):
         l2_splits = TEST_M.l2_splits
-        c1_l2 = l2_splits[0]
-        c2_l2 = l2_splits[1]
-        i_start = c1_l2['i_line']
-        i_end = c2_l2['i_line']
+
+        i_start, i_end = l2_splits[0]['i_line'] + 1, l2_splits[1]['i_line']
         chapter_lines = TEST_M.lines[i_start:i_end]
-        l2_chapter = L2Chapter.from_lines(chapter_lines)
-        self.assertEqual(len(l2_chapter.introduction_lines), 3)
+        for line in chapter_lines:
+            print(line)
+        return L2Chapter.from_lines(chapter_lines)
+
+    def test_introduction_lines(self):
+        l2_chapter = self.get_l2_chapter()
+        introduction_lines = l2_chapter.introduction_lines
+
+        self.assertEqual(
+            introduction_lines[0],
+            "Education is a cultural process that generates new knowledge by acquiring and",
+        )
+        self.assertEqual(
+            introduction_lines[-1],
+            "percentage of the gross domestic product up to 6%.",
+        )
+        self.assertEqual(len(introduction_lines), 27)

@@ -24,6 +24,6 @@ class NPPManifestoDetails:
         for i_line, line in enumerate(self.lines[self.I_LINE_CONTENTS_END:]):
             l2 = self.parse_l1_heading(line)
             if l2:
-                l2 |= {"i_line": i_line}
+                l2 |= {"i_line": self.I_LINE_CONTENTS_END + i_line}
                 splits.append(l2)
         return splits
