@@ -4,6 +4,7 @@ from functools import cached_property
 
 from utils import Log
 
+from mm.manifesto.comps.Activity import Activity
 from mm.manifesto.comps.Introduction import Introduction
 from mm.manifesto.comps.Principles import Principles
 
@@ -17,72 +18,12 @@ class L2Topic:
     title: str
     introduction: Introduction
     principles: Principles
-    activities: list[str]
-
-    @property
-    def n_principles(self) -> int:
-        return len(self.principles)
-
-    @property
-    def n_activities(self) -> int:
-        return len(self.activities)
-
-    @staticmethod
-    def __is_activity_title__(line):
-        if not line.strip():
-            return False
-
-        if line[:2] == "■ ":
-            return False
-
-        if (
-            len(line) > 64
-            or line[0].lower() == line[0]
-            or line[-1] == "."
-            or line in ["Childhood Development Centres"]  # HACK!
-        ):
-            return False
-
-        return True
-
-    @staticmethod
-    def __extract_activities__(lines: list[str]) -> list[str]:
-
-        activities = {}
-        has_started = False
-        for line in lines:
-
-            if line.endswith("ACTIVITIES"):
-                has_started = True
-                continue
-
-            if not has_started:
-                continue
-
-            # remove digits from beginning of the line with re
-            line = re.sub(r"^\d+\.?\s*", "", line)
-
-            if L2Topic.__is_activity_title__(line):
-                activities[line] = []
-            else:
-                clean_line = line.strip()
-                clean_line = clean_line.replace("■ ", "")
-                clean_line = clean_line.replace("Y ear", "Year")  # HACK!
-                if activities.keys():
-                    last_activity = list(activities.keys())[-1]
-                    activities[last_activity].append(clean_line)
-
-        return activities
+    activities: list[Activity]
 
     def expand_fields_from_lines(self, lines: list[str]) -> "L2Topic":
         self.introduction = Introduction.from_lines(lines)
         self.principles = Principles.from_lines(lines)
-        self.activities = L2Topic.__extract_activities__(lines)
-        log.debug(
-            f"[{self.short_title}] n_principles={self.n_principles}, "
-            + f"n_activities={self.n_activities} activities"
-        )
-
+        self.activities = Activity.list_from_lines(lines)
         return self
 
     @staticmethod
@@ -107,7 +48,7 @@ class L2Topic:
             title=self.title,
             introduction=self.introduction.to_dict(),
             principles=self.principles.to_dict(),
-            activities=self.activities,
+            activities=[activity.to_dict() for activity in self.activities],
         )
 
     @cached_property
@@ -125,8 +66,6 @@ class L2Topic:
             lines.extend(self.principles.to_md_lines())
         if self.activities:
             lines.append("#### Activities")
-            for activity, details in self.activities.items():
-                lines.append(f"- {activity}")
-                for detail in details:
-                    lines.append(f"  - {detail}")
+            for activity in self.activities:
+                lines.extend(activity.to_md_lines())
         return lines

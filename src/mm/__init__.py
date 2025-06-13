@@ -9,6 +9,7 @@ from mm.manifesto import (
 )
 
 from mm.manifesto import (
+    Activity,
     L1Topic,
     Principles,
     Introduction,
