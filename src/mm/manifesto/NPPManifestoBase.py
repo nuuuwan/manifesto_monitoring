@@ -17,13 +17,14 @@ class NPPManifestoBase:
             raw_text += page.extract_text() + "\n"
 
         raw_text = raw_text.strip()
+        while '\n\n\n' in raw_text:
+            raw_text = raw_text.replace('\n\n\n', '\n\n')
         return raw_text
 
     @cached_property
     def lines(self):
         lines = self.raw_text.split("\n")
         lines = [re.sub(r"\s+", " ", line).strip() for line in lines]
-        lines = [line for line in lines if line]
         return lines
 
     @staticmethod

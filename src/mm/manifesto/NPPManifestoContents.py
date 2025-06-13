@@ -3,8 +3,8 @@ from functools import cached_property
 
 
 class NPPManifestoContents:
-    I_LINE_CONTENTS_START = 14
-    I_LINE_CONTENTS_END = 59
+    I_LINE_CONTENTS_START = 15
+    I_LINE_CONTENTS_END = 63
 
     @cached_property
     def contents_lines(self):

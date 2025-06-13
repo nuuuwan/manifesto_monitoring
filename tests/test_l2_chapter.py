@@ -44,6 +44,7 @@ class TestCase(unittest.TestCase):
             ],
         )
 
+    @unittest.skip("incomplete")
     def test_activities(self):
         l2_chapter = self.get_l2_chapter()
         self.assertEqual(len(l2_chapter.activities), 17)

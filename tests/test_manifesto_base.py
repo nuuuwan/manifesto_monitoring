@@ -12,7 +12,7 @@ class TestCase(unittest.TestCase):
 
     def test_lines(self):
         lines = TEST_M.lines
-        self.assertEqual(len(lines), 4_363)
+        self.assertEqual(len(lines), 43_77)
 
         for i, line in enumerate(lines[:300]):
             print(i, f'"{line}"')
