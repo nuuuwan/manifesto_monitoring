@@ -30,7 +30,7 @@ class NPPManifestoPDFContents:
         return new_contents_lines
 
     @cached_property
-    def l1_topics(self):
+    def l1_topics_unexpanded(self):
         l1_topic_idx = {}
         for line in self.contents_lines:
 

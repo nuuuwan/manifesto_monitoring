@@ -1,6 +1,9 @@
 from dataclasses import dataclass
 from functools import cached_property
 import re
+from utils import Log
+
+log = Log('L2Topic')
 
 
 @dataclass
@@ -11,6 +14,14 @@ class L2Topic:
     introduction_lines: list[str]
     principles: list[str]
     activities: list[str]
+
+    @property
+    def n_principles(self) -> int:
+        return len(self.principles)
+
+    @property
+    def n_activities(self) -> int:
+        return len(self.activities)
 
     @staticmethod
     def __extract_introduction__(lines: list[str]) -> list[str]:
@@ -44,6 +55,9 @@ class L2Topic:
 
     @staticmethod
     def __is_activity_title__(line):
+        if not line.strip():
+            return False
+
         if line[:2] == '■ ':
             return False
 
@@ -59,6 +73,7 @@ class L2Topic:
 
     @staticmethod
     def __extract_activities__(lines: list[str]) -> list[str]:
+
         activities = {}
         has_started = False
         for line in lines:
@@ -79,18 +94,22 @@ class L2Topic:
                 clean_line = line.strip()
                 clean_line = clean_line.replace("■ ", "")
                 clean_line = clean_line.replace("Y ear", "Year")  # HACK!
-                last_activity = list(activities.keys())[-1]
-                activities[last_activity].append(clean_line)
+                if activities.keys():
+                    last_activity = list(activities.keys())[-1]
+                    activities[last_activity].append(clean_line)
 
         return activities
 
-    @staticmethod
-    def from_lines(lines: list[str]) -> "L2Topic":
-        return L2Topic(
-            introduction_lines=L2Topic.__extract_introduction__(lines),
-            principles=L2Topic.__extract_principles__(lines),
-            activities=L2Topic.__extract_activities__(lines),
+    def expand_fields_from_lines(self, lines: list[str]) -> "L2Topic":
+        self.introduction_lines = L2Topic.__extract_introduction__(lines)
+        self.principles = L2Topic.__extract_principles__(lines)
+        self.activities = L2Topic.__extract_activities__(lines)
+        log.debug(
+            f'[{self.short_title}] n_principles={self.n_principles}, '
+            + f'n_activities={self.n_activities} activities'
         )
+
+        return self
 
     @staticmethod
     def from_line(line):
