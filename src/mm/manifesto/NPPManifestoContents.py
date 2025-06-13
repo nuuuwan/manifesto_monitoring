@@ -3,6 +3,29 @@ from functools import cached_property
 
 
 class NPPManifestoContents:
+    I_LINE_CONTENTS_START = 14
+    I_LINE_CONTENTS_END = 59
+
+    @cached_property
+    def contents_lines(self):
+        contents_lines = self.lines[
+            self.I_LINE_CONTENTS_START: self.I_LINE_CONTENTS_END
+        ]
+
+        new_contents_lines = []
+        for line in contents_lines:
+            # HACKS! - Need more robust way to do this.
+            line = line.replace("INDEX", "")
+            line = line.replace("403.7.", "03.7.")
+
+            if re.match(r"\d.", line):
+                new_contents_lines.append(line)
+            elif new_contents_lines:
+                new_contents_lines[-1] += " " + line.strip()
+            else:
+                new_contents_lines.append(line)
+
+        return new_contents_lines
 
     @staticmethod
     def parse_l1(line):
@@ -28,25 +51,6 @@ class NPPManifestoContents:
             title=match.group(3),
             page_num=int(match.group(4)),
         )
-
-    @cached_property
-    def contents_lines(self):
-        contents_lines = self.lines[14:59]
-
-        new_contents_lines = []
-        for line in contents_lines:
-            # HACKS! - Need more robust way to do this.
-            line = line.replace("INDEX", "")
-            line = line.replace("403.7.", "03.7.")
-
-            if re.match(r"\d.", line):
-                new_contents_lines.append(line)
-            elif new_contents_lines:
-                new_contents_lines[-1] += " " + line.strip()
-            else:
-                new_contents_lines.append(line)
-
-        return new_contents_lines
 
     @cached_property
     def l1_list(self):
