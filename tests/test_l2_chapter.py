@@ -45,11 +45,28 @@ class TestCase(unittest.TestCase):
     def test_activities(self):
         l2_chapter = self.get_l2_chapter()
         self.assertEqual(len(l2_chapter.activities), 17)
+        activity_titles = list(l2_chapter.activities.keys())
         self.assertEqual(
-            l2_chapter.activities[0],
+            activity_titles[0],
             "Early Childhood Development Education",
         )
         self.assertEqual(
-            l2_chapter.activities[-1],
+            activity_titles[-1],
             "Distance Education",
+        )
+
+        activity_title = activity_titles[2]
+        self.assertEqual(
+            activity_title,
+            "School education",
+        )
+        activity = l2_chapter.activities[activity_title]
+        self.assertEqual(
+            activity,
+            [
+                'Primary education from year 1 to year 5',
+                'Junior Secondary Education from 6th to 9th year',
+                'Senior Secondary (Lower) Education from Year 10 to Year 11',
+                'Senior Secondary (Higher) Education from Years 12 to 13',
+            ],
         )

@@ -39,12 +39,27 @@ class L2Chapter:
         return principles
 
     @staticmethod
+    def __is_activity_title__(line):
+        if line[:2] == '■ ':
+            return False
+
+        if (
+            len(line) > 64
+            or line[0].lower() == line[0]
+            or line[-1] == '.'
+            or line in ['Childhood Development Centres']  # HACK!
+        ):
+            return False
+
+        return True
+
+    @staticmethod
     def __extract_activities__(lines: list[str]) -> list[str]:
         print('-' * 32)
         print('ACTIVITIES')
         print('-' * 32)
 
-        activities = []
+        activities = {}
         has_started = False
         for line in lines:
             print(line)
@@ -58,18 +73,14 @@ class L2Chapter:
             # remove digits from beginning of the line with re
             line = re.sub(r"^\d+\.?\s*", "", line)
 
-            if line[:2] == '■ ':
-                continue
-            if (
-                len(line) > 64
-                or line[0].lower() == line[0]
-                or line[-1] == '.'
-                or line in ['Childhood Development Centres']  # HACK!
-            ):
-                continue
-            print('----', len(activities) + 1, line.strip())
-            print
-            activities.append(line.strip())
+            if L2Chapter.__is_activity_title__(line):
+                activities[line] = []
+            else:
+                clean_line = line.strip()
+                clean_line = clean_line.replace("■ ", "")
+                clean_line = clean_line.replace("Y ear", "Year")  # HACK!
+                last_activity = list(activities.keys())[-1]
+                activities[last_activity].append(clean_line)
 
         return activities
 
