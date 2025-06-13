@@ -4,6 +4,9 @@ from dataclasses import dataclass
 
 @dataclass
 class Activity:
+    l1_num: int
+    l2_num: int
+    activity_num: int
     title: str
     activity_items: list[str]
 
@@ -26,7 +29,7 @@ class Activity:
         return True
 
     @staticmethod
-    def list_from_lines(lines: list[str]) -> list["Activity"]:
+    def list_from_lines(lines: list[str], l1_num, l2_num) -> list["Activity"]:
         activities = {}
         has_started = False
         for line in lines:
@@ -51,8 +54,16 @@ class Activity:
                     activities[last_activity].append(clean_line)
 
         return [
-            Activity(title=title, activity_items=items)
-            for title, items in activities.items()
+            Activity(
+                l1_num=l1_num,
+                l2_num=l2_num,
+                activity_num=activity_num,
+                title=title,
+                activity_items=items,
+            )
+            for activity_num, (title, items) in enumerate(
+                activities.items(), start=1
+            )
         ]
 
     def to_dict(self):
@@ -62,7 +73,11 @@ class Activity:
         }
 
     def to_md_lines(self):
-        lines = [f"##### {self.title}"]
+        lines = [
+            "##### "
+            + f"{self.l1_num:01d}.{self.l2_num:02d}.A{self.activity_num:02d})"
+            + f" {self.title}"
+        ]
         if self.activity_items:
             for item in self.activity_items:
                 lines.append(f"- {item}")

@@ -32,7 +32,7 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 #### Activities
 
-##### Early Childhood Development Education
+##### 1.01.A01) Early Childhood Development Education
 
 - Formal early childhood development education for all children aged 03 to 05
 
@@ -70,13 +70,13 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 - Development professionals.
 
-##### Primary and secondary education
+##### 1.01.A02) Primary and secondary education
 
 - Primary education aims to develop literacy, numeracy, creativity and communication
 
 - skills.
 
-##### School education
+##### 1.01.A03) School education
 
 - Primary education from year 1 to year 5
 
@@ -86,7 +86,7 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 - Senior Secondary (Higher) Education from Years 12 to 13
 
-##### Primary education
+##### 1.01.A04) Primary education
 
 - A government school system for primary education within 3 km of one’s home or
 
@@ -102,7 +102,7 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 - A school transport system following requirements and accepted standards.
 
-##### Junior Secondary Education
+##### 1.01.A05) Junior Secondary Education
 
 - A junior secondary school system and a senior secondary school system covering
 
@@ -130,7 +130,7 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 - Programs that provide experience in innovation.
 
-##### Senior secondary education
+##### 1.01.A06) Senior secondary education
 
 - The opportunity for students to select between general streams such as science,
 
@@ -166,7 +166,7 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 - systems when necessary.
 
-##### National level assessments
+##### 1.01.A07) National level assessments
 
 - A National Examination Evaluation Center with all technological and physical
 
@@ -190,7 +190,7 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 - within the National Institute of Education.
 
-##### Development and maintenance of human resources
+##### 1.01.A08) Development and maintenance of human resources
 
 - Eliminate teacher and principal pay disparity promptly.
 
@@ -218,7 +218,7 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 - forms of violence faced by all communities.
 
-##### Vocational Education
+##### 1.01.A09) Vocational Education
 
 - A vocational education process that directs students toward specific fields of
 
@@ -238,7 +238,7 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 - education sector, considering job market demands and global trends.
 
-##### Government - assisted schools
+##### 1.01.A10) Government - assisted schools
 
 - • Necessary actions will be taken to strengthen the education of the government-
 
@@ -246,7 +246,7 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 - facilities.
 
-##### Higher Education
+##### 1.01.A11) Higher Education
 
 - The national university system will be transformed into centers providing advanced
 
@@ -254,7 +254,7 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 - university system that provides international-level advanced professional education.
 
-##### State University System
+##### 1.01.A12) State University System
 
 - While respecting the freedom of universities, University Grants Commission
 
@@ -344,7 +344,7 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 - Increasing Mahapola and other bursaries in line with cost of living.
 
-##### Research and Post-graduate Education
+##### 1.01.A13) Research and Post-graduate Education
 
 - A university for postgraduate research and development.
 
@@ -356,7 +356,7 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 - and service sectors.
 
-##### Vocational Education Universities
+##### 1.01.A14) Vocational Education Universities
 
 - A vocational education university system for those who pass the tertiary education
 
@@ -364,7 +364,7 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 - Merge nursing schools into a national nursing university.
 
-##### Private Education
+##### 1.01.A15) Private Education
 
 - Due to the limited capacity of the public education system to accommodate students
 
@@ -380,7 +380,7 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 - regulate the programs of existing private educational institutions.
 
-##### Adult Education
+##### 1.01.A16) Adult Education
 
 - Community educatio nal centres in each divisional secretariat area, integrated
 
@@ -390,7 +390,7 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 - English, as well as on information technology and the use of technological tools.
 
-##### Distance Education
+##### 1.01.A17) Distance Education
 
 - While recognizing that open and distance education is a crucial part of tertiary education,
 
@@ -436,7 +436,7 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 #### Activities
 
-##### Effective Health Service Management
+##### 1.02.A01) Effective Health Service Management
 
 - Gradually increase government expenditure on health to at least 3% of the GDP
 
@@ -446,7 +446,7 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 - the health sector.
 
-##### Digital Health
+##### 1.02.A02) Digital Health
 
 - Digitize patient records and information to enhance the effectiveness and
 
@@ -456,7 +456,7 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 - times at health services institutions.
 
-##### Health Promotion and Disease prevention
+##### 1.02.A03) Health Promotion and Disease prevention
 
 - • Implement community-based mechanisms to identify, manage, and treat chronic
 
@@ -474,7 +474,7 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 - and obesity.
 
-##### Food Safety
+##### 1.02.A04) Food Safety
 
 - • Establish an organization to regulate food-related advertisements and implement
 
@@ -488,7 +488,7 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 - • Mandate proper labelling of food products, including disclosure of all ingredients.
 
-##### Occupational Health, safety and wellbeing
+##### 1.02.A05) Occupational Health, safety and wellbeing
 
 - • Conduct assessments of occupational health and safety based on their nature of
 
@@ -498,7 +498,7 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 - meet with accidents during work, until they return to their duties.
 
-##### Elderly Care
+##### 1.02.A06) Elderly Care
 
 - Implement a comprehensive package of activities to promote physical and mental
 
@@ -512,7 +512,7 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 - elderly care.
 
-##### Primary Care:
+##### 1.02.A07) Primary Care:
 
 - • Appointing a family physician and health staff for 5,000 to 10,000 population.
 
@@ -530,7 +530,7 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 - physical therapy.
 
-##### Hospital care
+##### 1.02.A08) Hospital care
 
 - • Ensure every hospital-admitted patient has a bed and necessary facilities.
 
@@ -550,13 +550,13 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 - community groups.
 
-##### Specialized care
+##### 1.02.A09) Specialized care
 
 - An extended cardiology unit, oncology unit, ophthalmic unit and nephrology
 
 - unit with facilities in each district/province.
 
-##### Patients Safety
+##### 1.02.A10) Patients Safety
 
 - Introduce a patient charter to ensure accountability of health workers and protect
 
@@ -568,13 +568,13 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 - caregivers independently.
 
-##### Emergency care
+##### 1.02.A11) Emergency care
 
 - • Deploy trained emergency medical response teams for ambulance services,
 
 - including Suwasariya.
 
-##### Provision of essential Drugs
+##### 1.02.A12) Provision of essential Drugs
 
 - Establish an efficient pharmaceutical testing laboratory to ensure drug safety.
 
@@ -592,7 +592,7 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 - Establish government-owned pharmacies in every town.
 
-##### Mental Health Care
+##### 1.02.A13) Mental Health Care
 
 - Establish a mechanism for early detection of mental health disorders and referral
 
@@ -610,7 +610,7 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 - therapy for patients with mental disorders.
 
-##### Rehabilitation Care
+##### 1.02.A14) Rehabilitation Care
 
 - Rehabilitation centers in every district.
 
@@ -618,19 +618,19 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 - environment or in specialized centers.
 
-##### Palliative care (Sahana Sathkara seva)
+##### 1.02.A15) Palliative care (Sahana Sathkara seva)
 
 - Provide home-based and institution-based palliative care services for patients
 
 - with incurable diseases, including cancer and stroke.
 
-##### Oral Health Services
+##### 1.02.A16) Oral Health Services
 
 - Implement special oral health promotion programs aimed at reducing Early
 
 - Childhood Caries (ECC) among preschool children.
 
-##### Estate sector Health services
+##### 1.02.A17) Estate sector Health services
 
 - Develop special programs targeting nutrition, oral health, tuberculosis control,
 
@@ -638,7 +638,7 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 - health promotion for youth in plantation communities.
 
-##### Indigenous Health care services
+##### 1.02.A18) Indigenous Health care services
 
 - Strengthen the administration and management of Ayurvedic hospitals to expand
 
@@ -662,7 +662,7 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 - medicines.
 
-##### Medical tourism in Sri Lanka
+##### 1.02.A19) Medical tourism in Sri Lanka
 
 - • Offering exceptional healthcare services with state-of-the-art facilities and well-
 
@@ -672,7 +672,7 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 - therapy.
 
-##### Private medical service
+##### 1.02.A20) Private medical service
 
 - Regulate all health services, including private medical services, to ensure the
 
@@ -700,7 +700,7 @@ Our goal is to construct multi-story housing complexes wherever possible, effici
 
 #### Activities
 
-##### Urba n Housing
+##### 1.03.A01) Urba n Housing
 
 - • Encouraging the private sector to develop affordable housing projects in urban
 
@@ -724,7 +724,7 @@ Our goal is to construct multi-story housing complexes wherever possible, effici
 
 - and parks.
 
-##### Rural Housing
+##### 1.03.A02) Rural Housing
 
 - • Revising the relevant laws to address issues related to land ownership for housing
 
@@ -734,7 +734,7 @@ Our goal is to construct multi-story housing complexes wherever possible, effici
 
 - • Establishing housing loan schemes to support home constructions.
 
-##### Estate Housing
+##### 1.03.A03) Estate Housing
 
 - • Providing financial and infrastructural support to enhance housing, water and
 
@@ -806,7 +806,7 @@ People’s Power movement aspires to create a new cultural individual or culture
 
 #### Activities
 
-##### Literature
+##### 1.05.A01) Literature
 
 - Distributing critically acclaimed publications that are appreciated and recognized
 
@@ -844,7 +844,7 @@ People’s Power movement aspires to create a new cultural individual or culture
 
 - resources for research, and organizing annual international research sessions.
 
-##### Film and Tele Drama
+##### 1.05.A02) Film and Tele Drama
 
 - Reforming the National Film Corporation and establishing a National Film
 
@@ -890,7 +890,7 @@ People’s Power movement aspires to create a new cultural individual or culture
 
 - programs to gain knowledge and experience from international festivals.
 
-##### Theatre
+##### 1.05.A03) Theatre
 
 - Establishing a National Institute for Research and Training in contemporary
 
@@ -922,7 +922,7 @@ People’s Power movement aspires to create a new cultural individual or culture
 
 - Providing facilities for alternative theatre spaces.
 
-##### Dance
+##### 1.05.A04) Dance
 
 - Involving dance institutions, traditional dance schools and teachers, and veterans
 
@@ -956,7 +956,7 @@ People’s Power movement aspires to create a new cultural individual or culture
 
 - and traditional dance forms.
 
-##### Visual Arts, Sculpture, and Photography
+##### 1.05.A05) Visual Arts, Sculpture, and Photography
 
 - Establishing a National Institute to oversee the preservation, study, and national
 
@@ -974,7 +974,7 @@ People’s Power movement aspires to create a new cultural individual or culture
 
 - and organizing competitions.
 
-##### Music and Song
+##### 1.05.A06) Music and Song
 
 - Establishing a National Institute for the preservation and promotion of musical
 
@@ -1004,7 +1004,7 @@ People’s Power movement aspires to create a new cultural individual or culture
 
 - membership in collective management organizations in the music sector.
 
-##### Intangible Cultural Heritage and Traditional Arts
+##### 1.05.A07) Intangible Cultural Heritage and Traditional Arts
 
 - Establishing a National Research Institute for intangible heritage and traditional
 
@@ -1052,7 +1052,7 @@ Lanka’s rich heritage in a sustainable and comprehensive manner for developmen
 
 #### Activities
 
-##### Research and Analysis
+##### 1.06.A01) Research and Analysis
 
 - Research on the impact of history, culture, and heritage on social and economic
 
@@ -1066,7 +1066,7 @@ Lanka’s rich heritage in a sustainable and comprehensive manner for developmen
 
 - innovation, entrepreneurship, job creation, education, and international relations
 
-##### Stakeholder Engagement
+##### 1.06.A02) Stakeholder Engagement
 
 - Organizing workshops and conferences to promote collaboration among
 
@@ -1080,7 +1080,7 @@ Lanka’s rich heritage in a sustainable and comprehensive manner for developmen
 
 - resources
 
-##### Education and Awareness
+##### 1.06.A03) Education and Awareness
 
 - Organizing educational programs and distributing instructional materials to
 
@@ -1130,7 +1130,7 @@ The environmental policy of the NPP with the vision of “a sustainable environm
 
 #### Activities
 
-##### Proper Land Use
+##### 1.07.A01) Proper Land Use
 
 - Designation and protection of ecologically sensitive areas
 
@@ -1146,7 +1146,7 @@ The environmental policy of the NPP with the vision of “a sustainable environm
 
 - new recommendations as needed
 
-##### Safe Water Consumption
+##### 1.07.A02) Safe Water Consumption
 
 - Studying the all kinds of water sources in Sri Lanka, conduct sensitivity
 
@@ -1174,7 +1174,7 @@ The environmental policy of the NPP with the vision of “a sustainable environm
 
 - domestic and industrial activities.
 
-##### Sustainability of Marine and Coastal Zone
+##### 1.07.A03) Sustainability of Marine and Coastal Zone
 
 - Complete termination of direct or indirect disposal of pollutants into the coastal
 
@@ -1208,7 +1208,7 @@ The environmental policy of the NPP with the vision of “a sustainable environm
 
 - ensure maintaining the water quality parameters.
 
-##### Existence of Clean Air
+##### 1.07.A04) Existence of Clean Air
 
 - Introduction of suitable and fast-growing timber species for maintaining the
 
@@ -1230,7 +1230,7 @@ The environmental policy of the NPP with the vision of “a sustainable environm
 
 - air pollution
 
-##### Legal and Ethical framework for Environmental Conventions
+##### 1.07.A05) Legal and Ethical framework for Environmental Conventions
 
 - Reviewing and update addressing weaknesses, deficiencies, and gaps in existing
 
@@ -1252,9 +1252,9 @@ The environmental policy of the NPP with the vision of “a sustainable environm
 
 - electronic, and social media.
 
-##### Various Ecosystems
+##### 1.07.A06) Various Ecosystems
 
-##### Hilly areas
+##### 1.07.A07) Hilly areas
 
 - Management of forests on mountain ridges/ steep slopes with strict control on
 
@@ -1268,7 +1268,7 @@ The environmental policy of the NPP with the vision of “a sustainable environm
 
 - whether to maintain, replace, or restore plantations in hilly areas.
 
-##### Lowlands
+##### 1.07.A08) Lowlands
 
 - Management and conservation of all lands according to land-use policies and
 
@@ -1282,7 +1282,7 @@ The environmental policy of the NPP with the vision of “a sustainable environm
 
 - practices.
 
-##### Wetlands
+##### 1.07.A09) Wetlands
 
 - Identification and documentation of wetlands in Sri Lanka and taking necessary
 
@@ -1298,7 +1298,7 @@ The environmental policy of the NPP with the vision of “a sustainable environm
 
 - activities.
 
-##### Mangroves
+##### 1.07.A10) Mangroves
 
 - Reviewing and implementing national policies on mangrove ecosystems.
 
@@ -1306,7 +1306,7 @@ The environmental policy of the NPP with the vision of “a sustainable environm
 
 - ecological importance.
 
-##### Forests and Wildlife
+##### 1.07.A11) Forests and Wildlife
 
 - Identification of integrated forest and wildlife conservation zones and establishing
 
@@ -1342,7 +1342,7 @@ The environmental policy of the NPP with the vision of “a sustainable environm
 
 - Controlling and preventing the spread of invasive species
 
-##### Sustainable Solid Waste Management
+##### 1.07.A12) Sustainable Solid Waste Management
 
 - Updating legal frameworks and improving infrastructure for waste management
 
@@ -1372,7 +1372,7 @@ The environmental policy of the NPP with the vision of “a sustainable environm
 
 - within the industrial zones whenever possible.
 
-##### Management of home garden-related resources
+##### 1.07.A13) Management of home garden-related resources
 
 - Granting permits for non-commercial activities such as clearing extra land,
 
@@ -1384,7 +1384,7 @@ The environmental policy of the NPP with the vision of “a sustainable environm
 
 - Introducing eco-friendly criteria for domestic animal husbandry.
 
-##### Relationships and values between ecosystems
+##### 1.07.A14) Relationships and values between ecosystems
 
 - Conducting research and studies to reveal the inverse and reverse relationships
 
@@ -1424,7 +1424,7 @@ The NPP is committed to preventing the deliberate and strategic misuse of mass m
 
 #### Activities
 
-##### A safe country
+##### 1.08.A01) A safe country
 
 ## 2) An honourable life - A safer country
 
@@ -1462,9 +1462,9 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 #### Activities
 
-##### Social protection and Welfare Programmes
+##### 2.01.A01) Social protection and Welfare Programmes
 
-##### Prajashakthi: Poverty alleviation programme for low-income
+##### 2.01.A02) Prajashakthi: Poverty alleviation programme for low-income
 
 - earners
 
@@ -1482,7 +1482,7 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 - individuals.
 
-##### Empowerment
+##### 2.01.A03) Empowerment
 
 - Under the key poverty alleviation programme, the NPP government will undertake the
 
@@ -1510,7 +1510,7 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 - continuous sup port
 
-##### A healthy and happy retirement for senior c itizens
+##### 2.01.A04) A healthy and happy retirement for senior c itizens
 
 - Providin g a monthly allowance of Rs. 5,000 to senior citizens needing assistance.
 
@@ -1534,7 +1534,7 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 - fixed deposits.
 
-##### A Meaningful and Satisfactory Life for Persons with Disabilities
+##### 2.01.A05) A Meaningful and Satisfactory Life for Persons with Disabilities
 
 - Establishment of a comprehensive data-base, developed by experts, on persons
 
@@ -1548,7 +1548,7 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 - persons with disabilities.
 
-##### Social protection for women-headed families, single parent
+##### 2.01.A06) Social protection for women-headed families, single parent
 
 - families and women affected by Gender-based/intimate partner
 
@@ -1566,7 +1566,7 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 - affected by violence an d abuse.
 
-##### Health: Social Protection for Persons with Chronic Illnesses
+##### 2.01.A07) Health: Social Protection for Persons with Chronic Illnesses
 
 - Creating a digital data repository of individuals with chronic illnesses such as
 
@@ -1578,7 +1578,7 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 - Professiona l support and social empowerment.
 
-##### Nourishing Future Generations: Reducing Malnutrition
+##### 2.01.A08) Nourishing Future Generations: Reducing Malnutrition
 
 - Identifying low-income families with malnourished children.
 
@@ -1588,7 +1588,7 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 - food for families with urgent needs.
 
-##### Nutritional Program for Pregnant Women
+##### 2.01.A09) Nutritional Program for Pregnant Women
 
 - Identifying pregnant women needing additional nutrition through community
 
@@ -1600,7 +1600,7 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 - Continuous awareness and monitoring by family health officers.
 
-##### Safety: Adequate Care for Children
+##### 2.01.A10) Safety: Adequate Care for Children
 
 - Establishment of Childcare Centers at the Gramaniladari level with public and
 
@@ -1618,7 +1618,7 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 - provide such services.
 
-##### Pension Scheme for all citizens
+##### 2.01.A11) Pension Scheme for all citizens
 
 - Development and implementation of a broad pension policy applicable to all
 
@@ -1654,7 +1654,7 @@ However, in modern society, the status and importance that should be accorded to
 
 #### Activities
 
-##### Unemployed graduates:
+##### 2.02.A01) Unemployed graduates:
 
 - Graduates who have been unemployed for a long period will be employed as follows.
 
@@ -1984,7 +1984,7 @@ Therefore, this policy focuses on creating an economically and socially fulfilli
 
 #### Activities
 
-##### Optimal Service Management and Administration
+##### 2.07.A01) Optimal Service Management and Administration
 
 - Amend existing laws related to persons with disabilities, introduce new legislation,
 
@@ -2006,7 +2006,7 @@ Therefore, this policy focuses on creating an economically and socially fulfilli
 
 - modern technology effectively.
 
-##### Education
+##### 2.07.A02) Education
 
 - Provide high-quality, affordable, inclusive, and accessible early childhood
 
@@ -2038,7 +2038,7 @@ Therefore, this policy focuses on creating an economically and socially fulfilli
 
 - Provide vocational guidance and counseling services for persons with disabilities.
 
-##### Economic Independence
+##### 2.07.A03) Economic Independence
 
 - Enforce the allocation of 3% of jobs in public and private sectors for the disabled
 
@@ -2056,7 +2056,7 @@ Therefore, this policy focuses on creating an economically and socially fulfilli
 
 - to engage in self-employment
 
-##### Health and Well-being
+##### 2.07.A04) Health and Well-being
 
 - Providing professional skills and attitudes of healthcare providers to meet the
 
@@ -2076,7 +2076,7 @@ Therefore, this policy focuses on creating an economically and socially fulfilli
 
 - hospitals at the Medical Officer of Health (MOH) level and district level
 
-##### Security, Rights and Justice
+##### 2.07.A05) Security, Rights and Justice
 
 - Assist persons with disabilities when applying for government positions.
 
@@ -2086,7 +2086,7 @@ Therefore, this policy focuses on creating an economically and socially fulfilli
 
 - Providing legal support and ensuring access to courts.
 
-##### Public Services and Community Support
+##### 2.07.A06) Public Services and Community Support
 
 - Ensure the safety and accessibility of persons with disabilities when designing
 
@@ -2118,9 +2118,9 @@ Therefore, this policy focuses on creating an economically and socially fulfilli
 
 - 
 
-##### A modern life
+##### 2.07.A07) A modern life
 
-##### A wealthy nation
+##### 2.07.A08) A wealthy nation
 
 ## 3) A modern life - A wealthy nation
 
@@ -2170,9 +2170,9 @@ In formulating these policies, factors such as resource availability and accessi
 
 #### Activities
 
-##### Macroeconomic Stabilization
+##### 3.01.A01) Macroeconomic Stabilization
 
-##### Fiscal Policy:
+##### 3.01.A02) Fiscal Policy:
 
 - Establish a new dedicated unit for designing and implementing tax policies with
 
@@ -2272,7 +2272,7 @@ In formulating these policies, factors such as resource availability and accessi
 
 - including e-procurement and a strong public oversight mechanism.
 
-##### Monetary Policy:
+##### 3.01.A03) Monetary Policy:
 
 - Establish a new ‘relief bank’ to restore the economic activities of MSMEs and
 
@@ -2310,7 +2310,7 @@ In formulating these policies, factors such as resource availability and accessi
 
 - Recapitalize state banks to enhance the stability and efficiency.
 
-##### External Sector Stabilization:
+##### 3.01.A04) External Sector Stabilization:
 
 - Introduce new savings and investment plans, including expatriate Bonds for Sri
 
@@ -2336,7 +2336,7 @@ In formulating these policies, factors such as resource availability and accessi
 
 - tourism and IT industries.
 
-##### The Programme with the International Monetary Fund (IMF):
+##### 3.01.A05) The Programme with the International Monetary Fund (IMF):
 
 - Renegotiate with the IMF on the content of a more palatable and strengthened
 
@@ -2366,7 +2366,7 @@ In formulating these policies, factors such as resource availability and accessi
 
 - credit rating of the country and the banking system.
 
-##### Investment Promotion
+##### 3.01.A06) Investment Promotion
 
 - Establish a single empowered institution by integrating existing state institutions
 
@@ -2442,7 +2442,7 @@ In formulating these policies, factors such as resource availability and accessi
 
 - stakeholder engagement.
 
-##### State-Owned Enterprises (SOEs):
+##### 3.01.A07) State-Owned Enterprises (SOEs):
 
 - Take appropriate strategic decisions on each institution based on its strategic
 
@@ -2460,7 +2460,7 @@ In formulating these policies, factors such as resource availability and accessi
 
 - international levels.
 
-##### Domestic Trade
+##### 3.01.A08) Domestic Trade
 
 - Ensure continuous supply of high-quality goods and services to the public at
 
@@ -2512,7 +2512,7 @@ In formulating these policies, factors such as resource availability and accessi
 
 - public services delivered through a centralized information system.
 
-##### Foreign Trade
+##### 3.01.A09) Foreign Trade
 
 - Promote the diversification of export of goods and services and provide required
 
@@ -2612,7 +2612,7 @@ As a result, the current agriculture sector in Sri Lanka faces several major cha
 
 #### Activities
 
-##### National food security
+##### 3.02.A01) National food security
 
 - State support for the local production of all possible food items within the
 
@@ -2632,7 +2632,7 @@ As a result, the current agriculture sector in Sri Lanka faces several major cha
 
 - as public-private-people partnership projects.
 
-##### High Productivity and Efficiency in Agricultural Systems
+##### 3.02.A02) High Productivity and Efficiency in Agricultural Systems
 
 - An updated real time national agricultural database.
 
@@ -2666,7 +2666,7 @@ As a result, the current agriculture sector in Sri Lanka faces several major cha
 
 - rubber, and cinnamon in unconventional areas
 
-##### Strong Agricultural Entrepreneurship and Sustainable Markets:
+##### 3.02.A03) Strong Agricultural Entrepreneurship and Sustainable Markets:
 
 - Ensuring fair prices for agricultural products through regulating market forces.
 
@@ -2694,7 +2694,7 @@ As a result, the current agriculture sector in Sri Lanka faces several major cha
 
 - A comprehensive farmers’ pension scheme with more benefits.
 
-##### Optimal Land Management:
+##### 3.02.A04) Optimal Land Management:
 
 - Digital land mapping with an agricultural data system using modern technology
 
@@ -2710,7 +2710,7 @@ As a result, the current agriculture sector in Sri Lanka faces several major cha
 
 - Restricting the use of fertile lands for nonagricultural purposes.
 
-##### Proper Management of Agricultural Practices
+##### 3.02.A05) Proper Management of Agricultural Practices
 
 - Establishing agricultural machinery supply centers at the local level to provide
 
@@ -2736,7 +2736,7 @@ As a result, the current agriculture sector in Sri Lanka faces several major cha
 
 - agricultural produce.
 
-##### Environmentally Friendly Operations:
+##### 3.02.A06) Environmentally Friendly Operations:
 
 - Encouraging farmers to apply fertilizers and other inputs based on site-specific
 
@@ -2746,7 +2746,7 @@ As a result, the current agriculture sector in Sri Lanka faces several major cha
 
 - Transitioning farms to follow “Good Agricultural Practices” progressively.
 
-##### Empowering Farmers
+##### 3.02.A07) Empowering Farmers
 
 - Promoting farmer-administered cooperatives and farm companies.
 
@@ -2768,7 +2768,7 @@ As a result, the current agriculture sector in Sri Lanka faces several major cha
 
 - yielding varieties of semi perennial or perennial crops with micro-irrigation.
 
-##### Management of Climate Risks:
+##### 3.02.A08) Management of Climate Risks:
 
 - Developing climate-resilient crop varieties, and using farming, and irrigation
 
@@ -2778,7 +2778,7 @@ As a result, the current agriculture sector in Sri Lanka faces several major cha
 
 - and water management.
 
-##### Agricultural Research, and Knowledge Management:
+##### 3.02.A09) Agricultural Research, and Knowledge Management:
 
 - Equipping extension agents with knowledge and necessary resources to deliver
 
@@ -2800,7 +2800,7 @@ As a result, the current agriculture sector in Sri Lanka faces several major cha
 
 - professionals to make agriculture a more dignified and attractive profession.
 
-##### Effective Management and Control of Agricultural Operations
+##### 3.02.A10) Effective Management and Control of Agricultural Operations
 
 - Establishing a national agricultural development council with representatives
 
@@ -2838,7 +2838,7 @@ The NPP aspired to achieve sustainable development in the livestock sector throu
 
 #### Activities
 
-##### Common Activities
+##### 3.03.A01) Common Activities
 
 - Maximizing production capacity through modernization of farms
 
@@ -2860,7 +2860,7 @@ The NPP aspired to achieve sustainable development in the livestock sector throu
 
 - institutes
 
-##### Dairy Sector
+##### 3.03.A02) Dairy Sector
 
 - Transforming small-scale farms into economically viable medium-scale
 
@@ -2882,7 +2882,7 @@ The NPP aspired to achieve sustainable development in the livestock sector throu
 
 - Providing health insurance coverage for registered dairy cattle.
 
-##### Marketing of Milk and Dairy Products
+##### 3.03.A03) Marketing of Milk and Dairy Products
 
 - Expanding the network of regional distribution centers for pasteurized and fresh
 
@@ -2892,7 +2892,7 @@ The NPP aspired to achieve sustainable development in the livestock sector throu
 
 - Promoting liquid milk consumption through targeted dairy promotion programs.
 
-##### Poultry Meat and Egg Production
+##### 3.03.A04) Poultry Meat and Egg Production
 
 - Providing tax relief for livestock and other raw materials to ensure fair prices for
 
@@ -2934,7 +2934,7 @@ The fisheries and aquaculture sectors are currently facing many issues. Among th
 
 #### Activities
 
-##### Sustainable development and management
+##### 3.04.A01) Sustainable development and management
 
 - • A real-time information system to capture, store, analyse, and distribute all data
 
@@ -2972,7 +2972,7 @@ The fisheries and aquaculture sectors are currently facing many issues. Among th
 
 - • A fund to promote the development of research on fishing and market activities.
 
-##### Seawater fisheries
+##### 3.04.A02) Seawater fisheries
 
 - • Provide technical support for fisher folk to harvest fish resources in different
 
@@ -3010,7 +3010,7 @@ The fisheries and aquaculture sectors are currently facing many issues. Among th
 
 - where fishing boat crews and vessels encounter issues in foreign waters.
 
-##### Development of marine and brackish water fish products
+##### 3.04.A03) Development of marine and brackish water fish products
 
 - • Provide modern technology for harvesting and breeding species with high
 
@@ -3040,7 +3040,7 @@ The fisheries and aquaculture sectors are currently facing many issues. Among th
 
 - sea plants and aquatic resources.
 
-##### Freshwater fisheries and aquaculture
+##### 3.04.A04) Freshwater fisheries and aquaculture
 
 - • Increase freshwater fisheries by connecting aquaculture around freshwater
 
@@ -3066,7 +3066,7 @@ The fisheries and aquaculture sectors are currently facing many issues. Among th
 
 - with modern technology for harvesting commercial freshwater fish.
 
-##### Ornamental fish and ornamental aquatic plants industry
+##### 3.04.A05) Ornamental fish and ornamental aquatic plants industry
 
 - • Build a Sri Lankan brand name by aiming to increase income from ornamental
 
@@ -3108,7 +3108,7 @@ The fisheries and aquaculture sectors are currently facing many issues. Among th
 
 - livelihoods such as setting up fish breeding centres and becoming diving guides.
 
-##### Social Welfare for the Fishing Community
+##### 3.04.A06) Social Welfare for the Fishing Community
 
 - • Introduce an insurance scheme for the fishing community, covering their families,
 
@@ -3148,7 +3148,7 @@ The fisheries and aquaculture sectors are currently facing many issues. Among th
 
 - development for fisherwomen and other vulnerable family members.
 
-##### Promoting the production of tools and equipment
+##### 3.04.A07) Promoting the production of tools and equipment
 
 - • Facilitate producing material used in the fishing industry, including living and
 
@@ -3160,7 +3160,7 @@ The fisheries and aquaculture sectors are currently facing many issues. Among th
 
 - developed.
 
-##### Post harvesting management a nd value-added products
+##### 3.04.A08) Post harvesting management a nd value-added products
 
 - • Provide the necessary technical support to develop the infrastructure, and raise
 
@@ -3182,7 +3182,7 @@ The fisheries and aquaculture sectors are currently facing many issues. Among th
 
 - mechanism.
 
-##### Uplifting export potential and earning foreign exchange
+##### 3.04.A09) Uplifting export potential and earning foreign exchange
 
 - • Take steps to export products by identifying the new foreign market that may
 
@@ -3204,7 +3204,7 @@ The fisheries and aquaculture sectors are currently facing many issues. Among th
 
 - fish products.
 
-##### Uplifting financial income surrounding fisheries harbours and
+##### 3.04.A10) Uplifting financial income surrounding fisheries harbours and
 
 - developing fisheries harbours
 
@@ -3224,7 +3224,7 @@ The fisheries and aquaculture sectors are currently facing many issues. Among th
 
 - concept.
 
-##### Blue economy
+##### 3.04.A11) Blue economy
 
 - • Promote the sustainable use of living and non-living ocean resources and the
 
@@ -3304,7 +3304,7 @@ Sri Lanka is rich with intelligent human resources, and many innovators are emer
 
 #### Activities
 
-##### Agriculture, fisheries, livesto ck, and food security
+##### 3.06.A01) Agriculture, fisheries, livesto ck, and food security
 
 - • Conducting socio-economic research to identify resources and optimum
 
@@ -3374,7 +3374,7 @@ Sri Lanka is rich with intelligent human resources, and many innovators are emer
 
 - of freshwater and brackish water systems.
 
-##### Research on health, education and scien ce
+##### 3.06.A02) Research on health, education and scien ce
 
 - • Applying modern scientific methods such as genetics, metabolomics, proteomics,
 
@@ -3430,7 +3430,7 @@ Sri Lanka is rich with intelligent human resources, and many innovators are emer
 
 - remediation components, futuristic vehicles, and spare parts etc.
 
-##### ICT, communication, engineering, energy, maritime,
+##### 3.06.A03) ICT, communication, engineering, energy, maritime,
 
 - transportation, tourism, and other industries
 
@@ -3538,7 +3538,7 @@ Sri Lanka is rich with intelligent human resources, and many innovators are emer
 
 - for sustainable growth in the tourism industry.
 
-##### Environment, land, water, air, and mineral resources
+##### 3.06.A04) Environment, land, water, air, and mineral resources
 
 - • Implementing the most suitable methods to minimise human-animal conflicts,
 
@@ -3572,7 +3572,7 @@ Sri Lanka is rich with intelligent human resources, and many innovators are emer
 
 - mangroves and coastal environmental systems, reducing coastal erosion.
 
-##### Human development, arts, history, culture and ancient heritage
+##### 3.06.A05) Human development, arts, history, culture and ancient heritage
 
 - studies
 
@@ -3668,7 +3668,7 @@ Lanka’s destination marketing programs.
 
 #### Activities
 
-##### Visionary leadership, strategic management, and holistic
+##### 3.07.A01) Visionary leadership, strategic management, and holistic
 
 - economic development
 
@@ -3732,7 +3732,7 @@ Lanka’s destination marketing programs.
 
 - recognize entrepreneurs and stakeholders in the tourism industry.
 
-##### Sustainable usage of natural and cultural resources
+##### 3.07.A02) Sustainable usage of natural and cultural resources
 
 - • A resource utilization plan to develop the tourism industry and protect natural
 
@@ -3750,7 +3750,7 @@ Lanka’s destination marketing programs.
 
 - methods.
 
-##### Developing human resources for the tourist industry
+##### 3.07.A03) Developing human resources for the tourist industry
 
 - • A national human resource development plan for the tourism and hospitality
 
@@ -3790,7 +3790,7 @@ Lanka’s destination marketing programs.
 
 - and universities to engage in practical research on the tourism industry.
 
-##### Development and standardizing of new tourist products
+##### 3.07.A04) Development and standardizing of new tourist products
 
 - • Identify and improve the critical infrastructure of all tourism destinations across
 
@@ -3816,7 +3816,7 @@ Lanka’s destination marketing programs.
 
 - tourists and tourists with disabilities.
 
-##### Strategic destination marketing
+##### 3.07.A05) Strategic destination marketing
 
 - • Existing destination marketing activities will be revisited to align with the tourism
 
@@ -3894,7 +3894,7 @@ Therefore, we consider Sri Lanka must enhance local production and transition to
 
 #### Activities
 
-##### National planning and state intervention
+##### 3.08.A01) National planning and state intervention
 
 - • Create national industrial think tanks for all industrial sectors dedicated to
 
@@ -3906,7 +3906,7 @@ Therefore, we consider Sri Lanka must enhance local production and transition to
 
 - and overall stability.
 
-##### Taxes, law, and productive development
+##### 3.08.A02) Taxes, law, and productive development
 
 - • Introduce tailored taxation frameworks for various industrial sectors, based on
 
@@ -3932,7 +3932,7 @@ Therefore, we consider Sri Lanka must enhance local production and transition to
 
 - enforcement of existing laws.
 
-##### Expansion of international and local market and efficiency
+##### 3.08.A03) Expansion of international and local market and efficiency
 
 - • Implement necessary legislative reforms to enhance the efficiency and
 
@@ -3960,7 +3960,7 @@ Therefore, we consider Sri Lanka must enhance local production and transition to
 
 - and e-commerce platforms.
 
-##### Industrial zones and infrastructure facilities
+##### 3.08.A04) Industrial zones and infrastructure facilities
 
 - • Enhance and optimize existing industrial zones by leveraging previously
 
@@ -3974,7 +3974,7 @@ Therefore, we consider Sri Lanka must enhance local production and transition to
 
 - sectors in targeted regions.
 
-##### Micro, small, and medium-scale industries
+##### 3.08.A05) Micro, small, and medium-scale industries
 
 - • Create a specialized division to support micro, small, and medium-sized
 
@@ -4048,7 +4048,7 @@ Therefore, we consider Sri Lanka must enhance local production and transition to
 
 - requirements of the Asian region.
 
-##### Traditional arts and crafts industry
+##### 3.08.A06) Traditional arts and crafts industry
 
 - • Lead and align the network of institutions dedicated to advancing this industry
 
@@ -4078,7 +4078,7 @@ Therefore, we consider Sri Lanka must enhance local production and transition to
 
 - preserve traditional crafts.
 
-##### Interventions needed for sustainable development
+##### 3.08.A07) Interventions needed for sustainable development
 
 - • Establish a comprehensive program that empowers industries to meet the
 
@@ -4092,7 +4092,7 @@ Therefore, we consider Sri Lanka must enhance local production and transition to
 
 - long-term resilience and skill development in the industrial sector.
 
-##### Digitalisation and technical usage
+##### 3.08.A08) Digitalisation and technical usage
 
 - • Facilitate industries for Industry 4.0/5.0 Maturity Index to expedite the realization
 
@@ -4152,7 +4152,7 @@ Therefore, we consider Sri Lanka must enhance local production and transition to
 
 - e-government initiative.
 
-##### Promoting the ease of doing business and entrepreneurship
+##### 3.08.A09) Promoting the ease of doing business and entrepreneurship
 
 - • Facilitate access to funding by encouraging investments through venture capital,
 
@@ -4202,7 +4202,7 @@ There is an ability to start industries that can provide a considerable support 
 
 #### Activities
 
-##### Gems and jewellery
+##### 3.09.A01) Gems and jewellery
 
 - • Modern technologies to identify gem ores.
 
@@ -4280,7 +4280,7 @@ Taking the energy mix towards a green economy through renewable sources, by stra
 
 #### Activities
 
-##### Energy Trading Hub
+##### 3.10.A01) Energy Trading Hub
 
 - • An effective procurement process using modern digital technology carryout
 
@@ -4316,7 +4316,7 @@ Taking the energy mix towards a green economy through renewable sources, by stra
 
 - the Electricity Board and Petroleum Corporation, Universities, and Industrial
 
-##### Colleges
+##### 3.10.A02) Colleges
 
 - • Building productive partnerships between higher educational institutes,
 
@@ -4358,7 +4358,7 @@ National People’s Power wishes to establish an efficient, trustworthy, safe, a
 
 #### Activities
 
-##### Railway service
+##### 3.11.A01) Railway service
 
 - • Repairing railway tracks which are in a delipidated state, introducing a formal
 
@@ -4396,7 +4396,7 @@ National People’s Power wishes to establish an efficient, trustworthy, safe, a
 
 - and bus services
 
-##### Bus passenger service
+##### 3.11.A02) Bus passenger service
 
 - • Introducing buses manufactured specifically for passenger transport, and
 
@@ -4434,7 +4434,7 @@ National People’s Power wishes to establish an efficient, trustworthy, safe, a
 
 - passengers
 
-##### A formal and essential timetable system
+##### 3.11.A03) A formal and essential timetable system
 
 - • An essential timetable method for both the railway service and passenger bus
 
@@ -4450,7 +4450,7 @@ National People’s Power wishes to establish an efficient, trustworthy, safe, a
 
 - • Opportunities for passengers to reserve seats for long distance journeys
 
-##### Transit cities
+##### 3.11.A04) Transit cities
 
 - • Identify and develop facilities to establish Transit Cities where the bus and train
 
@@ -4462,7 +4462,7 @@ National People’s Power wishes to establish an efficient, trustworthy, safe, a
 
 - • Safe parking spaces and other required public facilities in transit cities
 
-##### Rural transport
+##### 3.11.A05) Rural transport
 
 - • Introducing public bus services for rural areas without public transport at present
 
@@ -4472,7 +4472,7 @@ National People’s Power wishes to establish an efficient, trustworthy, safe, a
 
 - rural public in a safe manner
 
-##### Roads
+##### 3.11.A06) Roads
 
 - • Identification of rural and estate roads in need of immediate repair, preparation
 
@@ -4488,7 +4488,7 @@ National People’s Power wishes to establish an efficient, trustworthy, safe, a
 
 - central expressway from Kadawatha to Meerigama.
 
-##### Encouraging cycling
+##### 3.11.A07) Encouraging cycling
 
 - • Construction of safe cycling lanes within main cities and from nearby areas to the
 
@@ -4502,13 +4502,13 @@ National People’s Power wishes to establish an efficient, trustworthy, safe, a
 
 - and other public places
 
-##### Pedestrian lanes
+##### 3.11.A08) Pedestrian lanes
 
 - • Constructing pedestrian lanes on the sides of roads in main cities
 
 - • Planting trees on the roadsides to provide shade for the pedestrians
 
-##### Using water ways for goods and passenger transport
+##### 3.11.A09) Using water ways for goods and passenger transport
 
 - • A technical unit to research and advise on promotion of waterway transportation
 
@@ -4516,7 +4516,7 @@ National People’s Power wishes to establish an efficient, trustworthy, safe, a
 
 - identified through feasibility studies
 
-##### Protection for women, elderly, and disabled passengers and
+##### 3.11.A10) Protection for women, elderly, and disabled passengers and
 
 - improvements to required infrastructure
 
@@ -4538,7 +4538,7 @@ National People’s Power wishes to establish an efficient, trustworthy, safe, a
 
 - vehicles
 
-##### Minimising road accidents
+##### 3.11.A11) Minimising road accidents
 
 - • Introducing improvements to identified problem creating points in road
 
@@ -4548,7 +4548,7 @@ National People’s Power wishes to establish an efficient, trustworthy, safe, a
 
 - • Systematising the process of issuing and renewing of driving licenses
 
-##### Para-transit operations
+##### 3.11.A12) Para-transit operations
 
 - • Formalising taxi services including three-wheel service, staff transport, and
 
@@ -4556,7 +4556,7 @@ National People’s Power wishes to establish an efficient, trustworthy, safe, a
 
 - • A digital mobile phone app for para-transit transport services
 
-##### Organising passengers and beneficiaries
+##### 3.11.A13) Organising passengers and beneficiaries
 
 - • The government will recognise passenger organisations as stakeholders in the
 
@@ -4604,7 +4604,7 @@ Sri Lanka’s sailors hold world fame for their excellence, skill, and performan
 
 #### Activities
 
-##### Training of sailors
+##### 3.12.A01) Training of sailors
 
 - • Expansion of the state intervention to develop primary and professional nautical
 
@@ -4626,7 +4626,7 @@ Sri Lanka’s sailors hold world fame for their excellence, skill, and performan
 
 - • Protecting and developing nautical welfare and ethics
 
-##### Harbour infrastructure and other services
+##### 3.12.A02) Harbour infrastructure and other services
 
 - • Expansion of the harbour, maintenance, data storage, production processes,
 
@@ -4640,7 +4640,7 @@ Sri Lanka’s sailors hold world fame for their excellence, skill, and performan
 
 - • Integrating the nautical field with the tourist industry
 
-##### Nautical laws, environmental protection, and administration
+##### 3.12.A03) Nautical laws, environmental protection, and administration
 
 - • Analysing and amending laws related to vessel registration
 
@@ -4680,7 +4680,7 @@ The National People’s Power’s telecommunication policy framework addresses a
 
 #### Activities
 
-##### Wired communication
+##### 3.13.A01) Wired communication
 
 - • Developing and unifying the national communication network under a national
 
@@ -4706,7 +4706,7 @@ The National People’s Power’s telecommunication policy framework addresses a
 
 - services into a unified platform.
 
-##### Wireless communication
+##### 3.13.A02) Wireless communication
 
 - • Priority for technology with high efficiency in the frequency range such as 5G
 
@@ -4714,15 +4714,15 @@ The National People’s Power’s telecommunication policy framework addresses a
 
 - • Gradually removing the use of old technology such as 3G and CDMA, and using
 
-##### G for emergency services
+##### 3.13.A03) G for emergency services
 
-##### Guard bands
+##### 3.13.A04) Guard bands
 
 - • Amending the frequency ranges given to service providers, providing a continuous
 
 - frequency range, and limiting guard bands
 
-##### Promoting public Wi-Fi and wired connections
+##### 3.13.A05) Promoting public Wi-Fi and wired connections
 
 - • Establishing wi-fi in public places, including schools, universities, libraries,
 
@@ -4730,7 +4730,7 @@ The National People’s Power’s telecommunication policy framework addresses a
 
 - at a reasonable rate with free access for IOT with all essential services
 
-##### Public procedures for the electronic communication industry
+##### 3.13.A06) Public procedures for the electronic communication industry
 
 - • Providing goals for electronic communication service providers to make their
 
@@ -4756,7 +4756,7 @@ The National People’s Power’s telecommunication policy framework addresses a
 
 - companies, communication qualities and prices
 
-##### Broadcasting industry
+##### 3.13.A07) Broadcasting industry
 
 - • Turning broadcasting networks into digital, absorbing the latest technology and
 
@@ -4798,7 +4798,7 @@ The National People’s Power’s telecommunication policy framework addresses a
 
 - to sports, entertainment, and tourist industry in this region.
 
-##### Cinema and entertainment industry
+##### 3.13.A08) Cinema and entertainment industry
 
 - • Mandating 2K as the minimum quality standard for digital cinema projection.
 
@@ -4840,7 +4840,7 @@ The ordinances and regulations imposed during the colonial period to control lan
 
 #### Activities
 
-##### Land utilization
+##### 3.14.A01) Land utilization
 
 - • A new legal framework and land act that makes effective land administration and
 
@@ -4864,11 +4864,11 @@ The ordinances and regulations imposed during the colonial period to control lan
 
 - scientific and technological methods
 
-##### Protecting land in sensitive areas
+##### 3.14.A02) Protecting land in sensitive areas
 
 - • Action to preserve and protect environmentally and historically sensitive areas
 
-##### Land registration
+##### 3.14.A03) Land registration
 
 - • Deeds to the people who have been living in state lands for a long period
 
@@ -4878,7 +4878,7 @@ The ordinances and regulations imposed during the colonial period to control lan
 
 - • An efficient, transparent, and accountable land-related public service.
 
-##### Land use management
+##### 3.14.A04) Land use management
 
 - • An integrated land use map
 
@@ -4890,7 +4890,7 @@ The ordinances and regulations imposed during the colonial period to control lan
 
 - • A land suitability map based on spatial data analysis
 
-##### Surveying and Mapping
+##### 3.14.A05) Surveying and Mapping
 
 - • Expand the control network for surveying and mapping and increase the
 
@@ -4946,7 +4946,7 @@ Past governments invested loans from local banks and two-party and multi-party l
 
 #### Activities
 
-##### Act
+##### 3.15.A01) Act
 
 - • A broad ethics system for all stakeholders in the construction industry
 
@@ -5020,9 +5020,9 @@ Past governments invested loans from local banks and two-party and multi-party l
 
 - 
 
-##### A dignified life
+##### 3.15.A02) A dignified life
 
-##### A strong country
+##### 3.15.A03) A strong country
 
 ## 4) A dignified life - A strong country
 
@@ -5032,7 +5032,7 @@ Past governments invested loans from local banks and two-party and multi-party l
 
 #### Activities
 
-##### Civil and Political Rights as basic rights
+##### 4.01.A01) Civil and Political Rights as basic rights
 
 - • Broadening the constitutional law about the rights of children, women, and
 
@@ -5130,7 +5130,7 @@ Power hopes to rebuild the broken public trust in it by creating an independent,
 
 #### Activities
 
-##### Judicial Process
+##### 4.03.A01) Judicial Process
 
 - Appointing a committee of legal experts to review the existing laws and update
 
@@ -5178,7 +5178,7 @@ Power hopes to rebuild the broken public trust in it by creating an independent,
 
 - order to accelerate the judicial process.
 
-##### Bribery and corruption
+##### 4.03.A02) Bribery and corruption
 
 - Establishment of a stolen public asset recovery agency with the technical and
 
@@ -5224,7 +5224,7 @@ Power hopes to rebuild the broken public trust in it by creating an independent,
 
 - General and resubmit appropriate cases.
 
-##### Attorney General’s Department
+##### 4.03.A03) Attorney General’s Department
 
 - Introducing a Directorate of Public Prosecution (DPP) as a mechanism to
 
@@ -5264,7 +5264,7 @@ Police plays a very important role in maintaining law and order in the country a
 
 #### Activities
 
-##### Implementing justice
+##### 4.04.A01) Implementing justice
 
 - • According to the pledge announced by the National People’s Power on 17-04-
 
@@ -5278,7 +5278,7 @@ Police plays a very important role in maintaining law and order in the country a
 
 - to the recommendations of the Presidential Commission regarding the Easter
 
-##### Sunday attacks on 2019-04-21
+##### 4.04.A02) Sunday attacks on 2019-04-21
 
 - • Promptly completing investigations into political killings and abductions of
 
@@ -5422,7 +5422,7 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 #### Activities
 
-##### The role and functions of the Ministry of Foreign Affairs
+##### 4.07.A01) The role and functions of the Ministry of Foreign Affairs
 
 - • Development of Clear Guidelines: Formulating a comprehensive foreign policy
 
@@ -5446,7 +5446,7 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 - 
 
-##### Diplomatic Missions
+##### 4.07.A02) Diplomatic Missions
 
 - • Rationalization of Sri Lanka Overseas Missions and Right Sizing of Missions.
 
@@ -5470,7 +5470,7 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 - 
 
-##### Institutional Reforms:
+##### 4.07.A03) Institutional Reforms:
 
 - • Decentralization of Diplomatic Initiatives: Empower Embassies to take the
 
@@ -5490,7 +5490,7 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 - (LKI).
 
-##### Enhancing Diplom atic Training and Capacity Building:
+##### 4.07.A04) Enhancing Diplom atic Training and Capacity Building:
 
 - • Improved Training Programs: Develop comprehensive training programs
 
@@ -5506,13 +5506,13 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 - professional development for diplomats.
 
-##### Revising Diplomatic Protocols and Ethics:
+##### 4.07.A05) Revising Diplomatic Protocols and Ethics:
 
 - • Ethical Guidelines: Establish a clear code of conduct for diplomats that emphasizes
 
 - integrity, professionalism, and accountability.
 
-##### Strengthening Centralized Oversight and Coordination:
+##### 4.07.A06) Strengthening Centralized Oversight and Coordination:
 
 - • Centralized Monitoring and Evaluation: Establish a robust mechanism for
 
@@ -5528,7 +5528,7 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 - challenges, and achievements.
 
-##### Service Efficiency Sri Lankan Missions
+##### 4.07.A07) Service Efficiency Sri Lankan Missions
 
 - • Increase the e-services provided by the Sri Lankan missions to reduce the time
 
@@ -5546,7 +5546,7 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 - Missions to provide services efficiently.
 
-##### Political Diplomacy
+##### 4.07.A08) Political Diplomacy
 
 - • Priority shall be given to promote and strengthen the Diplomatic, economic
 
@@ -5580,7 +5580,7 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 - social justice, human rights, and the rule of law and climate justice.
 
-##### Economic Diplomacy
+##### 4.07.A09) Economic Diplomacy
 
 - • Engaging with the international economy and positioning its domestic economy
 
@@ -5642,7 +5642,7 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 - best practices.
 
-##### National Security
+##### 4.07.A10) National Security
 
 - • Safeguard Sri Lanka’s Sovereignty and territorial integrity including the rights of
 
@@ -5672,7 +5672,7 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 - infrastructure and strategies.
 
-##### Maritime Diplomacy
+##### 4.07.A11) Maritime Diplomacy
 
 - • Acting to preserve a world in which all countries enjoy sea and air access as
 
@@ -5698,7 +5698,7 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 - terrorism and rescue operations, joint exercises, etc.
 
-##### Cultural Diplomacy
+##### 4.07.A12) Cultural Diplomacy
 
 - • Establishing Sri Lanka Directorate of Cultural Relations under the Ministry of
 
@@ -5736,7 +5736,7 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 - to promote the image of the country as well as to build friendship among people.
 
-##### Science and Technology Diplomacy
+##### 4.07.A13) Science and Technology Diplomacy
 
 - • Making science, technology and innovation as a fundamental tool of Sri Lankan
 
@@ -5766,7 +5766,7 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 - agencies like UNESCAP .
 
-##### Parliamentary Diplomacy
+##### 4.07.A14) Parliamentary Diplomacy
 
 - • Parliamentary diplomacy shall be strengthened as a top priority area due its global
 
@@ -5786,7 +5786,7 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 - the country.
 
-##### Public Diplomacy
+##### 4.07.A15) Public Diplomacy
 
 - • Promoting Sri Lankan NGOs and other reputed civil organizations in abroad for
 
@@ -5820,7 +5820,7 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 - they reside.
 
-##### Humanitarian Diplomacy
+##### 4.07.A16) Humanitarian Diplomacy
 
 - • Enhancing Sri Lanka’s role in global humanitarian efforts by participating in
 
@@ -5834,7 +5834,7 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 - and police to support the genuine grievances of people of other nations.
 
-##### Legal Reforms
+##### 4.07.A17) Legal Reforms
 
 - • Reforming dual citizenship laws and immigration laws to facilitate the economic
 
@@ -5856,7 +5856,7 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 - prosperity and enable cooperation to tackle global challenges.
 
-##### Diaspora engagement
+##### 4.07.A18) Diaspora engagement
 
 - • Foreign Employment Bureau will be attached to the Ministry of Foreign Affairs
 
@@ -5906,9 +5906,9 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 - • Facilitate the possibility of foreign employed Sri Lankan citizens to invest in Sri
 
-##### Lanka including on the bonds for development projects
+##### 4.07.A19) Lanka including on the bonds for development projects
 
-##### Current Foreign Policy Stances
+##### 4.07.A20) Current Foreign Policy Stances
 
 - • We shall not allow any country or institution to use Sri Lanka’s land, Sea and
 
@@ -5990,7 +5990,7 @@ Christian, Catholic, etc. Because of that diversity, it is essential for the wel
 
 #### Activities
 
-##### Power
+##### 4.09.A01) Power
 
 - • Increase the salaries of the upcountry plantation workers compared to the cost of
 

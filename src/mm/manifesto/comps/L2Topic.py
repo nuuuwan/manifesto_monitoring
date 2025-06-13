@@ -23,7 +23,9 @@ class L2Topic:
     def expand_fields_from_lines(self, lines: list[str]) -> "L2Topic":
         self.introduction = Introduction.from_lines(lines)
         self.principles = Principles.from_lines(lines)
-        self.activities = Activity.list_from_lines(lines)
+        self.activities = Activity.list_from_lines(
+            lines, l1_num=self.l1_num, l2_num=self.l2_num
+        )
         return self
 
     @staticmethod
