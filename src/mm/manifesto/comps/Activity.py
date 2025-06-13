@@ -21,15 +21,15 @@ class Activity:
     def to_dense_dict(self):
         return {self.title: self.activity_items}
 
+    @property
+    def key(self):
+        return f"{self.l1_num:01d}.{self.l2_num:02d}.A{self.activity_num:02d}"
+
     def to_md_lines(self):
-        lines = [
-            "##### "
-            + f"{self.l1_num:01d}.{self.l2_num:02d}.A{self.activity_num:02d})"
-            + f" {self.title}"
-        ]
+        lines = ["##### " + f"{self.key})" + f" {self.title}"]
         if self.activity_items:
-            for item in self.activity_items:
-                lines.append(f"- {item}")
+            for i_item, item in enumerate(self.activity_items, start=1):
+                lines.append(f"- {self.key}.{i_item:02d}) {item}")
         return lines
 
     def __len__(self):

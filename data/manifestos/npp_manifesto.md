@@ -34,119 +34,119 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 ##### 1.01.A01) Early Childhood Development Education
 
-- Formal early childhood development education for all children aged 03 to 05 years
+- 1.01.A01.01) Formal early childhood development education for all children aged 03 to 05 years
 
-- An Early Childhood Development Education Centre for every child within 2 km from their home or parent’s workplace
+- 1.01.A01.02) An Early Childhood Development Education Centre for every child within 2 km from their home or parent’s workplace
 
-- Programs that foster the development of good habits, attitudes, and ethics, tailored to suit the physical and mental conditions of children, are essential for their successful integration into social life
+- 1.01.A01.03) Programs that foster the development of good habits, attitudes, and ethics, tailored to suit the physical and mental conditions of children, are essential for their successful integration into social life
 
-- National language programs that include English and other national languages as languages of spoken communication in addition to the mother tongue.
+- 1.01.A01.04) National language programs that include English and other national languages as languages of spoken communication in addition to the mother tongue.
 
-- Adaptation programs to deal with multicultural diversity
+- 1.01.A01.05) Adaptation programs to deal with multicultural diversity
 
-- Activities that improve children’s health and nutritional status
+- 1.01.A01.06) Activities that improve children’s health and nutritional status
 
-- An Early Childhood Development Regulatory Agency to regulate Early Childhood Development Centres
+- 1.01.A01.07) An Early Childhood Development Regulatory Agency to regulate Early Childhood Development Centres
 
-- Mandatory professional training with minimum educational qualifications and a minimum salary for Early Childhood Development Centre Wardens and teachers.
+- 1.01.A01.08) Mandatory professional training with minimum educational qualifications and a minimum salary for Early Childhood Development Centre Wardens and teachers.
 
-- A formal national institute and branch system for training Early Childhood Development professionals.
+- 1.01.A01.09) A formal national institute and branch system for training Early Childhood Development professionals.
 
 ##### 1.01.A02) Primary and secondary education
 
 ##### 1.01.A03) School education
 
-- Primary education from year 1 to year 5
+- 1.01.A03.01) Primary education from year 1 to year 5
 
-- Junior Secondary Education from 6th to 9th year
+- 1.01.A03.02) Junior Secondary Education from 6th to 9th year
 
-- Senior Secondary (Lower) Education from Year 10 to Year 11
+- 1.01.A03.03) Senior Secondary (Lower) Education from Year 10 to Year 11
 
-- Senior Secondary (Higher) Education from Years 12 to 13
+- 1.01.A03.04) Senior Secondary (Higher) Education from Years 12 to 13
 
 ##### 1.01.A04) Primary education
 
-- A government school system for primary education within 3 km of one’s home or parents’ place of work.
+- 1.01.A04.01) A government school system for primary education within 3 km of one’s home or parents’ place of work.
 
-- A student-centred education that stimulates intellectual curiosity and knowledge development without disrupting childhood.
+- 1.01.A04.02) A student-centred education that stimulates intellectual curiosity and knowledge development without disrupting childhood.
 
-- It is the responsibility of the government to provide physical and human resources to schools to maintain minimum facilities.
+- 1.01.A04.03) It is the responsibility of the government to provide physical and human resources to schools to maintain minimum facilities.
 
-- A school transport system following requirements and accepted standards.
+- 1.01.A04.04) A school transport system following requirements and accepted standards.
 
 ##### 1.01.A05) Junior Secondary Education
 
-- A junior secondary school system and a senior secondary school system covering or 3 primary schools, considering population and geographical location.
+- 1.01.A05.01) A junior secondary school system and a senior secondary school system covering or 3 primary schools, considering population and geographical location.
 
-- Major subjects to enable children to choose higher education or vocational education according to their abilities and special skills.
+- 1.01.A05.02) Major subjects to enable children to choose higher education or vocational education according to their abilities and special skills.
 
-- A student-centred education that develops students’ intellectual skills related to their age groups.
+- 1.01.A05.03) A student-centred education that develops students’ intellectual skills related to their age groups.
 
-- Additional subjects and activities to foster social values and civic responsibility.
+- 1.01.A05.04) Additional subjects and activities to foster social values and civic responsibility.
 
-- Educational programs about major religions in Sri Lanka, as well as education about the student’s own religion.
+- 1.01.A05.05) Educational programs about major religions in Sri Lanka, as well as education about the student’s own religion.
 
-- Age-appropriate sexual and reproductive health education.
+- 1.01.A05.06) Age-appropriate sexual and reproductive health education.
 
-- Development of attitudes towards culture, environmentalism, and nature conservation.
+- 1.01.A05.07) Development of attitudes towards culture, environmentalism, and nature conservation.
 
-- Programs that provide experience in innovation.
+- 1.01.A05.08) Programs that provide experience in innovation.
 
 ##### 1.01.A06) Senior secondary education
 
-- The opportunity for students to select between general streams such as science, arts, commerce, and technology or vocational education (directly applicable to a career) based on the results of the national level examination conducted in the ninth year and school-based continuous assessment reports.
+- 1.01.A06.01) The opportunity for students to select between general streams such as science, arts, commerce, and technology or vocational education (directly applicable to a career) based on the results of the national level examination conducted in the ninth year and school-based continuous assessment reports.
 
-- Flexible curriculum allowing students to switch from one stream to another during their senior secondary (lower) education.
+- 1.01.A06.02) Flexible curriculum allowing students to switch from one stream to another during their senior secondary (lower) education.
 
-- Subjects specific to education streams and common subjects that will foster general skills such as technological literacy, languages, life skills, literature, and basic law.
+- 1.01.A06.03) Subjects specific to education streams and common subjects that will foster general skills such as technological literacy, languages, life skills, literature, and basic law.
 
-- A learning environment that trains children to work while accommodating and respecting cultural diversity
+- 1.01.A06.04) A learning environment that trains children to work while accommodating and respecting cultural diversity
 
-- Development of knowledge and practical skills required for innovation, life skills, and social contribution.
+- 1.01.A06.05) Development of knowledge and practical skills required for innovation, life skills, and social contribution.
 
-- Programs to maintain the physical and emotional balance of children.
+- 1.01.A06.06) Programs to maintain the physical and emotional balance of children.
 
-- Sexual and reproductive health education tailored for youth
+- 1.01.A06.07) Sexual and reproductive health education tailored for youth
 
-- Understanding of access to legal counselling services and other social support systems when necessary.
+- 1.01.A06.08) Understanding of access to legal counselling services and other social support systems when necessary.
 
 ##### 1.01.A07) National level assessments
 
-- A National Examination Evaluation Center with all technological and physical facilities.
+- 1.01.A07.01) A National Examination Evaluation Center with all technological and physical facilities.
 
-- An annual school calendar to ensure national examination evaluation activities are completed within one month and results are provided within two months.
+- 1.01.A07.02) An annual school calendar to ensure national examination evaluation activities are completed within one month and results are provided within two months.
 
-- A payment system that reflects the intellectual contribution of examiners involved in the examination evaluation process.
+- 1.01.A07.03) A payment system that reflects the intellectual contribution of examiners involved in the examination evaluation process.
 
-- Regularize and broaden the scope of the National Institute of Education for curriculum development, professional development of teachers and educational research & policy formulations.
+- 1.01.A07.04) Regularize and broaden the scope of the National Institute of Education for curriculum development, professional development of teachers and educational research & policy formulations.
 
-- A fully equipped Curriculum Development Unit for curriculum development within the National Institute of Education.
+- 1.01.A07.05) A fully equipped Curriculum Development Unit for curriculum development within the National Institute of Education.
 
 ##### 1.01.A08) Development and maintenance of human resources
 
-- Eliminate teacher and principal pay disparity promptly.
+- 1.01.A08.01) Eliminate teacher and principal pay disparity promptly.
 
-- Establish a teacher service constitution and a teacher council.
+- 1.01.A08.02) Establish a teacher service constitution and a teacher council.
 
-- Position the teaching profession among the 10 highest-paying professions.
+- 1.01.A08.03) Position the teaching profession among the 10 highest-paying professions.
 
-- One year of professional training in the teaching-learning process before entering the teaching profession.
+- 1.01.A08.04) One year of professional training in the teaching-learning process before entering the teaching profession.
 
-- Establish a National University of Education by merging all Colleges of Education and Teacher Training Colleges.
+- 1.01.A08.05) Establish a National University of Education by merging all Colleges of Education and Teacher Training Colleges.
 
-- Conduct training programs every three years.
+- 1.01.A08.06) Conduct training programs every three years.
 
-- Create a coordination structure between institutions to ensure that curriculum development, textbook development, and assessment processes are linked and maintained.
+- 1.01.A08.07) Create a coordination structure between institutions to ensure that curriculum development, textbook development, and assessment processes are linked and maintained.
 
-- Establish a strong structure within the school system to address sexual or other forms of violence faced by all communities.
+- 1.01.A08.08) Establish a strong structure within the school system to address sexual or other forms of violence faced by all communities.
 
 ##### 1.01.A09) Vocational Education
 
-- A vocational education process that directs students toward specific fields of employment by acquiring practical knowledge in general professional areas.
+- 1.01.A09.01) A vocational education process that directs students toward specific fields of employment by acquiring practical knowledge in general professional areas.
 
-- Parallel to the general education stream, a vocational education stream from year 10 to year 13, preparing students to work in fields such as construction and infrastructure, creative industries, primary industries, service industries, social and community services, and manufacturing and technology.
+- 1.01.A09.02) Parallel to the general education stream, a vocational education stream from year 10 to year 13, preparing students to work in fields such as construction and infrastructure, creative industries, primary industries, service industries, social and community services, and manufacturing and technology.
 
-- A Vocational Education Regulatory Department consisting of professionals to advise on the qualitative and quantitative changes needed in the vocational education sector, considering job market demands and global trends.
+- 1.01.A09.03) A Vocational Education Regulatory Department consisting of professionals to advise on the qualitative and quantitative changes needed in the vocational education sector, considering job market demands and global trends.
 
 ##### 1.01.A10) Government - assisted schools
 
@@ -154,69 +154,69 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 ##### 1.01.A12) State University System
 
-- While respecting the freedom of universities, University Grants Commission (UGC) guides the preparations of academic courses in line with national policies.
+- 1.01.A12.01) While respecting the freedom of universities, University Grants Commission (UGC) guides the preparations of academic courses in line with national policies.
 
-- Appointing the Chairman and other members of the UGC ensuring representation of social diversity.
+- 1.01.A12.02) Appointing the Chairman and other members of the UGC ensuring representation of social diversity.
 
-- Instead of appointing vice-chancellors based on political connections, a new method will be implemented to uphold the honour of universities
+- 1.01.A12.03) Instead of appointing vice-chancellors based on political connections, a new method will be implemented to uphold the honour of universities
 
-- Appoint independent individuals as external governing council members of universities by the University Grants Commission.
+- 1.01.A12.04) Appoint independent individuals as external governing council members of universities by the University Grants Commission.
 
-- Members of governing councils of universities to ensure diverse professional fields and gender representation.
+- 1.01.A12.05) Members of governing councils of universities to ensure diverse professional fields and gender representation.
 
-- A pool of commonly recommended names from recognized professional bodies for appointing Council members.
+- 1.01.A12.06) A pool of commonly recommended names from recognized professional bodies for appointing Council members.
 
-- Appointing a retired person from a university to the governing body of that university, with only those retired at least five years ago being considered.
+- 1.01.A12.07) Appointing a retired person from a university to the governing body of that university, with only those retired at least five years ago being considered.
 
-- A student representative elected by students of the respective university to the Governing Body limiting space only for welfare and other student affairs.
+- 1.01.A12.08) A student representative elected by students of the respective university to the Governing Body limiting space only for welfare and other student affairs.
 
-- Limiting the tenure of a Council member to a maximum of two consecutive terms.
+- 1.01.A12.09) Limiting the tenure of a Council member to a maximum of two consecutive terms.
 
-- Faculty members who are qualified as Head of Department or Senior Lecturer with at least three years’ experience have the opportunity to be appointed as Dean.
+- 1.01.A12.10) Faculty members who are qualified as Head of Department or Senior Lecturer with at least three years’ experience have the opportunity to be appointed as Dean.
 
-- Limiting the term of a dean to a maximum of two consecutive terms.
+- 1.01.A12.11) Limiting the term of a dean to a maximum of two consecutive terms.
 
-- Abolition of non-academic staff recruitment on the recommendations of the minister in charge.
+- 1.01.A12.12) Abolition of non-academic staff recruitment on the recommendations of the minister in charge.
 
-- Mechanisms at faculty and university levels to address academic, non-academic, and student community grievances and make appropriate recommendations.
+- 1.01.A12.13) Mechanisms at faculty and university levels to address academic, non-academic, and student community grievances and make appropriate recommendations.
 
-- Eliminating delays in enrolling students to universities.
+- 1.01.A12.14) Eliminating delays in enrolling students to universities.
 
-- Gradually expanding the tertiary education system so that minimum qualifications for each course are identified and those who meet these qualifications are given opportunities
+- 1.01.A12.15) Gradually expanding the tertiary education system so that minimum qualifications for each course are identified and those who meet these qualifications are given opportunities
 
-- Provide necessary provisions to prepare internet facilities in tertiary education institutes, lecture halls, laboratories, libraries, and cafeterias according to proper standards.
+- 1.01.A12.16) Provide necessary provisions to prepare internet facilities in tertiary education institutes, lecture halls, laboratories, libraries, and cafeterias according to proper standards.
 
-- Establish special units in every tertiary education institution to provide basic qualifications, including English language skills, required for obtaining post- graduate education in international universities and fostering relationships that will allow students to secure post-graduate opportunities through these units
+- 1.01.A12.17) Establish special units in every tertiary education institution to provide basic qualifications, including English language skills, required for obtaining post- graduate education in international universities and fostering relationships that will allow students to secure post-graduate opportunities through these units
 
-- Offer 200 scholarships per year for high school graduates to pursue degrees at internationally ranked universities.
+- 1.01.A12.18) Offer 200 scholarships per year for high school graduates to pursue degrees at internationally ranked universities.
 
-- Implement an integrated mechanism to prevent sexual or other forms of harassment of youth in tertiary education institutions.
+- 1.01.A12.19) Implement an integrated mechanism to prevent sexual or other forms of harassment of youth in tertiary education institutions.
 
-- Provide facilities for students with disabilities to receive education by recognized international standards.
+- 1.01.A12.20) Provide facilities for students with disabilities to receive education by recognized international standards.
 
-- Increasing Mahapola and other bursaries in line with cost of living.
+- 1.01.A12.21) Increasing Mahapola and other bursaries in line with cost of living.
 
 ##### 1.01.A13) Research and Post-graduate Education
 
-- A university for postgraduate research and development.
+- 1.01.A13.01) A university for postgraduate research and development.
 
-- Provision of necessary financial and physical resources to strengthen postgraduate education and research.
+- 1.01.A13.02) Provision of necessary financial and physical resources to strengthen postgraduate education and research.
 
-- Encourage private sector contributions to strengthen research related to industries and service sectors.
+- 1.01.A13.03) Encourage private sector contributions to strengthen research related to industries and service sectors.
 
 ##### 1.01.A14) Vocational Education Universities
 
-- A vocational education university system for those who pass the tertiary education entrance examination after completing senior secondary education.
+- 1.01.A14.01) A vocational education university system for those who pass the tertiary education entrance examination after completing senior secondary education.
 
-- Merge nursing schools into a national nursing university.
+- 1.01.A14.02) Merge nursing schools into a national nursing university.
 
 ##### 1.01.A15) Private Education
 
 ##### 1.01.A16) Adult Education
 
-- Community educatio nal centres in each divisional secretariat area, integrated with local educational institutions, libraries, and cultural centres.
+- 1.01.A16.01) Community educatio nal centres in each divisional secretariat area, integrated with local educational institutions, libraries, and cultural centres.
 
-- Educational programs for citizens on fundamental laws in Sinhala, Tamil, and English, as well as on information technology and the use of technological tools.
+- 1.01.A16.02) Educational programs for citizens on fundamental laws in Sinhala, Tamil, and English, as well as on information technology and the use of technological tools.
 
 ##### 1.01.A17) Distance Education
 
@@ -250,15 +250,15 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 ##### 1.02.A01) Effective Health Service Management
 
-- Gradually increase government expenditure on health to at least 3% of the GDP within a short period.
+- 1.02.A01.01) Gradually increase government expenditure on health to at least 3% of the GDP within a short period.
 
-- Utilize funds efficiently and transparently while actively combating corruption in the health sector.
+- 1.02.A01.02) Utilize funds efficiently and transparently while actively combating corruption in the health sector.
 
 ##### 1.02.A02) Digital Health
 
-- Digitize patient records and information to enhance the effectiveness and efficiency of the health services information system.
+- 1.02.A02.01) Digitize patient records and information to enhance the effectiveness and efficiency of the health services information system.
 
-- Implement online registration for medical appointments to minimize waiting times at health services institutions.
+- 1.02.A02.02) Implement online registration for medical appointments to minimize waiting times at health services institutions.
 
 ##### 1.02.A03) Health Promotion and Disease prevention
 
@@ -268,11 +268,11 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 ##### 1.02.A06) Elderly Care
 
-- Implement a comprehensive package of activities to promote physical and mental well-being, ensuring a healthy life for the elderly population.
+- 1.02.A06.01) Implement a comprehensive package of activities to promote physical and mental well-being, ensuring a healthy life for the elderly population.
 
-- Provide guidance and conduct counselling programs before retirement to maintain physical and mental health.
+- 1.02.A06.02) Provide guidance and conduct counselling programs before retirement to maintain physical and mental health.
 
-- Introduce specialized geriatric clinics in disease prevention institutions for elderly care.
+- 1.02.A06.03) Introduce specialized geriatric clinics in disease prevention institutions for elderly care.
 
 ##### 1.02.A07) Primary Care:
 
@@ -280,81 +280,81 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 ##### 1.02.A09) Specialized care
 
-- An extended cardiology unit, oncology unit, ophthalmic unit and nephrology unit with facilities in each district/province.
+- 1.02.A09.01) An extended cardiology unit, oncology unit, ophthalmic unit and nephrology unit with facilities in each district/province.
 
 ##### 1.02.A10) Patients Safety
 
-- Introduce a patient charter to ensure accountability of health workers and protect patients’ rights.
+- 1.02.A10.01) Introduce a patient charter to ensure accountability of health workers and protect patients’ rights.
 
-- Ensure quality health services to achieve “zero preventable deaths. ”
+- 1.02.A10.02) Ensure quality health services to achieve “zero preventable deaths. ”
 
-- Establish a service feedback unit to investigate complaints from patients and caregivers independently.
+- 1.02.A10.03) Establish a service feedback unit to investigate complaints from patients and caregivers independently.
 
 ##### 1.02.A11) Emergency care
 
 ##### 1.02.A12) Provision of essential Drugs
 
-- Establish an efficient pharmaceutical testing laboratory to ensure drug safety.
+- 1.02.A12.01) Establish an efficient pharmaceutical testing laboratory to ensure drug safety.
 
-- Expand local pharmaceutical production.
+- 1.02.A12.02) Expand local pharmaceutical production.
 
-- Eliminate corruption and fraud during the import and distribution of medicines.
+- 1.02.A12.03) Eliminate corruption and fraud during the import and distribution of medicines.
 
-- Ensure the continuous supply of all essential medicines to public health institutions.
+- 1.02.A12.04) Ensure the continuous supply of all essential medicines to public health institutions.
 
-- Ensure the quality and fair pricing of medicines.
+- 1.02.A12.05) Ensure the quality and fair pricing of medicines.
 
-- Prevent drug shortages by maintaining adequate stock levels.
+- 1.02.A12.06) Prevent drug shortages by maintaining adequate stock levels.
 
-- Establish government-owned pharmacies in every town.
+- 1.02.A12.07) Establish government-owned pharmacies in every town.
 
 ##### 1.02.A13) Mental Health Care
 
-- Establish a mechanism for early detection of mental health disorders and referral for specialized care.
+- 1.02.A13.01) Establish a mechanism for early detection of mental health disorders and referral for specialized care.
 
-- Set up Primary Mental Health Care Centres in every Medical Officer of Health (MOH) area.
+- 1.02.A13.02) Set up Primary Mental Health Care Centres in every Medical Officer of Health (MOH) area.
 
-- Implement programs to promote mental health among children and adolescents, focusing on preventing substance abuse and violence.
+- 1.02.A13.03) Implement programs to promote mental health among children and adolescents, focusing on preventing substance abuse and violence.
 
-- Promote community-based programs for treatment, follow-up, and family therapy for patients with mental disorders.
+- 1.02.A13.04) Promote community-based programs for treatment, follow-up, and family therapy for patients with mental disorders.
 
 ##### 1.02.A14) Rehabilitation Care
 
-- Rehabilitation centers in every district.
+- 1.02.A14.01) Rehabilitation centers in every district.
 
-- Provide community-based rehabilitation services, either within the patients’ own environment or in specialized centers.
+- 1.02.A14.02) Provide community-based rehabilitation services, either within the patients’ own environment or in specialized centers.
 
 ##### 1.02.A15) Palliative care (Sahana Sathkara seva)
 
-- Provide home-based and institution-based palliative care services for patients with incurable diseases, including cancer and stroke.
+- 1.02.A15.01) Provide home-based and institution-based palliative care services for patients with incurable diseases, including cancer and stroke.
 
 ##### 1.02.A16) Oral Health Services
 
-- Implement special oral health promotion programs aimed at reducing Early Childhood Caries (ECC) among preschool children.
+- 1.02.A16.01) Implement special oral health promotion programs aimed at reducing Early Childhood Caries (ECC) among preschool children.
 
 ##### 1.02.A17) Estate sector Health services
 
-- Develop special programs targeting nutrition, oral health, tuberculosis control, and the prevention of alcohol, tobacco, and other substance abuse, along with health promotion for youth in plantation communities.
+- 1.02.A17.01) Develop special programs targeting nutrition, oral health, tuberculosis control, and the prevention of alcohol, tobacco, and other substance abuse, along with health promotion for youth in plantation communities.
 
 ##### 1.02.A18) Indigenous Health care services
 
-- Strengthen the administration and management of Ayurvedic hospitals to expand medical treatments in Ayurveda, Siddha Ayurveda, and Unani.
+- 1.02.A18.01) Strengthen the administration and management of Ayurvedic hospitals to expand medical treatments in Ayurveda, Siddha Ayurveda, and Unani.
 
-- Enhance Ayurvedic/Unani/Siddha laboratories to ensure uninterrupted production of medicines.
+- 1.02.A18.02) Enhance Ayurvedic/Unani/Siddha laboratories to ensure uninterrupted production of medicines.
 
-- Increase the treatment capacity of Ayurvedic hospitals, including the number of available beds.
+- 1.02.A18.03) Increase the treatment capacity of Ayurvedic hospitals, including the number of available beds.
 
-- Expand the training system affiliated with Ayurvedic hospitals.
+- 1.02.A18.04) Expand the training system affiliated with Ayurvedic hospitals.
 
-- Promote cultivation and research to support the production of indigenous medicines.
+- 1.02.A18.05) Promote cultivation and research to support the production of indigenous medicines.
 
-- Provide state support for new research on traditional treatment methods and medicines.
+- 1.02.A18.06) Provide state support for new research on traditional treatment methods and medicines.
 
 ##### 1.02.A19) Medical tourism in Sri Lanka
 
 ##### 1.02.A20) Private medical service
 
-- Regulate all health services, including private medical services, to ensure the delivery of high-quality healthcare to patients.
+- 1.02.A20.01) Regulate all health services, including private medical services, to ensure the delivery of high-quality healthcare to patients.
 
 ### 1.03) A comfortable home - A healthy living
 
@@ -444,129 +444,129 @@ People’s Power movement aspires to create a new cultural individual or culture
 
 ##### 1.05.A01) Literature
 
-- Distributing critically acclaimed publications that are appreciated and recognized at a national level to school and public libraries.
+- 1.05.A01.01) Distributing critically acclaimed publications that are appreciated and recognized at a national level to school and public libraries.
 
-- Establishing well-developed libraries in every city and suburb to cultivate an active reading community.
+- 1.05.A01.02) Establishing well-developed libraries in every city and suburb to cultivate an active reading community.
 
-- Reviving a literary magazine culture dedicated to literary criticism and appreciation.
+- 1.05.A01.03) Reviving a literary magazine culture dedicated to literary criticism and appreciation.
 
-- Encouraging authors and publishers to organize national and regional book fairs and participate in prominent international book fairs.
+- 1.05.A01.04) Encouraging authors and publishers to organize national and regional book fairs and participate in prominent international book fairs.
 
-- Fostering a new generation of readers by organizing literary appreciation workshops for schoolteachers and students.
+- 1.05.A01.05) Fostering a new generation of readers by organizing literary appreciation workshops for schoolteachers and students.
 
-- Promoting the translation of outstanding world literature into Sinhala and Tamil and supporting those involved in such translations.
+- 1.05.A01.06) Promoting the translation of outstanding world literature into Sinhala and Tamil and supporting those involved in such translations.
 
-- Modernizing and reorganizing the National Archives by providing latest technological advancements.
+- 1.05.A01.07) Modernizing and reorganizing the National Archives by providing latest technological advancements.
 
-- Supporting the management of digital knowledge repositories for e-publications and digital libraries affiliated with educational and research centers.
+- 1.05.A01.08) Supporting the management of digital knowledge repositories for e-publications and digital libraries affiliated with educational and research centers.
 
-- Establishing a research fund for the literary arts sector, systematically providing resources for research, and organizing annual international research sessions.
+- 1.05.A01.09) Establishing a research fund for the literary arts sector, systematically providing resources for research, and organizing annual international research sessions.
 
 ##### 1.05.A02) Film and Tele Drama
 
-- Reforming the National Film Corporation and establishing a National Film Institute.
+- 1.05.A02.01) Reforming the National Film Corporation and establishing a National Film Institute.
 
-- Modernizing cinema halls with an organized plan and ensuring that each district has three cinemas.
+- 1.05.A02.02) Modernizing cinema halls with an organized plan and ensuring that each district has three cinemas.
 
-- Standardizing loans and other assistance for film and tele drama production.
+- 1.05.A02.03) Standardizing loans and other assistance for film and tele drama production.
 
-- Ensuring fair and organized distribution of every cinematic work by following a systematic categorization .
+- 1.05.A02.04) Ensuring fair and organized distribution of every cinematic work by following a systematic categorization .
 
-- Establishing a classification board for film and television works to standardize content.
+- 1.05.A02.05) Establishing a classification board for film and television works to standardize content.
 
-- Hosting an annual international film festival and supporting submissions to international festivals.
+- 1.05.A02.06) Hosting an annual international film festival and supporting submissions to international festivals.
 
-- Utilizing multi-purpose cultural centers to screen outstanding films and organizing discussions based on these screenings.
+- 1.05.A02.07) Utilizing multi-purpose cultural centers to screen outstanding films and organizing discussions based on these screenings.
 
-- Establishing a National Film and Television Study Institute for emerging filmmakers and creating a National Film Archive.
+- 1.05.A02.08) Establishing a National Film and Television Study Institute for emerging filmmakers and creating a National Film Archive.
 
-- Facilitating the reformation and integration of existing private film archives into a national archive network.
+- 1.05.A02.09) Facilitating the reformation and integration of existing private film archives into a national archive network.
 
-- Initiating film and television societies at the school level.
+- 1.05.A02.10) Initiating film and television societies at the school level.
 
-- Updating intellectual property laws related to film and television in line with international standards.
+- 1.05.A02.11) Updating intellectual property laws related to film and television in line with international standards.
 
-- Organizing an annual short film and mobile cinema festival and creating programs to gain knowledge and experience from international festivals.
+- 1.05.A02.12) Organizing an annual short film and mobile cinema festival and creating programs to gain knowledge and experience from international festivals.
 
 ##### 1.05.A03) Theatre
 
-- Establishing a National Institute for Research and Training in contemporary theatre arts.
+- 1.05.A03.01) Establishing a National Institute for Research and Training in contemporary theatre arts.
 
-- Maintaining a National Theatre Archive to systematically collect and preserve scripts, props, memorabilia, and recordings related to old and new theatre productions.
+- 1.05.A03.02) Maintaining a National Theatre Archive to systematically collect and preserve scripts, props, memorabilia, and recordings related to old and new theatre productions.
 
-- Organizing grants and tax relief for theatre production and exhibition.
+- 1.05.A03.03) Organizing grants and tax relief for theatre production and exhibition.
 
-- Creating a structured plan to promote theatre from the grassroots level to the national level through a network of multi-purpose cultural centers.
+- 1.05.A03.04) Creating a structured plan to promote theatre from the grassroots level to the national level through a network of multi-purpose cultural centers.
 
-- Constructing modern theatres with full facilities in every major city and upgrading existing ones to be part of this network.
+- 1.05.A03.05) Constructing modern theatres with full facilities in every major city and upgrading existing ones to be part of this network.
 
-- Promoting international scholarships related to theatre arts and organizing their distribution at regional and national levels.
+- 1.05.A03.06) Promoting international scholarships related to theatre arts and organizing their distribution at regional and national levels.
 
-- Develop programs to enhance appreciation of theatre and promote the concept of open-air theatre spaces.
+- 1.05.A03.07) Develop programs to enhance appreciation of theatre and promote the concept of open-air theatre spaces.
 
-- Providing facilities for alternative theatre spaces.
+- 1.05.A03.08) Providing facilities for alternative theatre spaces.
 
 ##### 1.05.A04) Dance
 
-- Involving dance institutions, traditional dance schools and teachers, and veterans in the reform process of dance education.
+- 1.05.A04.01) Involving dance institutions, traditional dance schools and teachers, and veterans in the reform process of dance education.
 
-- Establishing a National Institute dedicated to the preservation and promotion of dance and integrating it with multi-purpose cultural centres.
+- 1.05.A04.02) Establishing a National Institute dedicated to the preservation and promotion of dance and integrating it with multi-purpose cultural centres.
 
-- Promote research on Sri Lankan folk dances and direct research towards international studies.
+- 1.05.A04.03) Promote research on Sri Lankan folk dances and direct research towards international studies.
 
-- Encouraging traditional dance forms
+- 1.05.A04.04) Encouraging traditional dance forms
 
-- Building a network of registered dance institutions.
+- 1.05.A04.05) Building a network of registered dance institutions.
 
-- Facilitating international study opportunities related to dance and organizing scholarships.
+- 1.05.A04.06) Facilitating international study opportunities related to dance and organizing scholarships.
 
-- Identifying and promoting talented dancers from the rural level to the international stage.
+- 1.05.A04.07) Identifying and promoting talented dancers from the rural level to the international stage.
 
-- Printing trilingual academic texts on dance and encouraging international knowledge translation into Sinhala and Tamil.
+- 1.05.A04.08) Printing trilingual academic texts on dance and encouraging international knowledge translation into Sinhala and Tamil.
 
-- Providing facilities for the study, research, and preservation of both contemporary and traditional dance forms.
+- 1.05.A04.09) Providing facilities for the study, research, and preservation of both contemporary and traditional dance forms.
 
 ##### 1.05.A05) Visual Arts, Sculpture, and Photography
 
-- Establishing a National Institute to oversee the preservation, study, and national and international research of past and present visual arts and photography.
+- 1.05.A05.01) Establishing a National Institute to oversee the preservation, study, and national and international research of past and present visual arts and photography.
 
-- Facilitating participation in international conferences and exhibitions for artists.
+- 1.05.A05.02) Facilitating participation in international conferences and exhibitions for artists.
 
-- Setting up regional training centers and guiding these spaces towards professional opportunities.
+- 1.05.A05.03) Setting up regional training centers and guiding these spaces towards professional opportunities.
 
-- Promoting national and international markets for the visual arts and integrating them with the tourism industry. Establishing art societies from the school level and organizing competitions.
+- 1.05.A05.04) Promoting national and international markets for the visual arts and integrating them with the tourism industry. Establishing art societies from the school level and organizing competitions.
 
 ##### 1.05.A06) Music and Song
 
-- Establishing a National Institute for the preservation and promotion of musical traditions.
+- 1.05.A06.01) Establishing a National Institute for the preservation and promotion of musical traditions.
 
-- Promoting and preserving research on Sri Lankan folk music.
+- 1.05.A06.02) Promoting and preserving research on Sri Lankan folk music.
 
-- Providing opportunities for the systematic study and research of preserved knowledge.
+- 1.05.A06.03) Providing opportunities for the systematic study and research of preserved knowledge.
 
-- Building a network of registered music institutions.
+- 1.05.A06.04) Building a network of registered music institutions.
 
-- Revising and updating intellectual property laws related to music and song creation.
+- 1.05.A06.05) Revising and updating intellectual property laws related to music and song creation.
 
-- Facilitating international study and research opportunities in music and organizing scholarships.
+- 1.05.A06.06) Facilitating international study and research opportunities in music and organizing scholarships.
 
-- Maintaining a digital unit for preserving the original copies of every recorded song and musical creation.
+- 1.05.A06.07) Maintaining a digital unit for preserving the original copies of every recorded song and musical creation.
 
-- Securing the intellectual property rights of authors and composers by obtaining membership in collective management organizations in the music sector.
+- 1.05.A06.08) Securing the intellectual property rights of authors and composers by obtaining membership in collective management organizations in the music sector.
 
 ##### 1.05.A07) Intangible Cultural Heritage and Traditional Arts
 
-- Establishing a National Research Institute for intangible heritage and traditional arts, identifying and preserving existing heritage.
+- 1.05.A07.01) Establishing a National Research Institute for intangible heritage and traditional arts, identifying and preserving existing heritage.
 
-- Reforming and promoting regional knowledge, tools, gurukula, traditions, and human resources continuously from the regional level to the national and international levels.
+- 1.05.A07.02) Reforming and promoting regional knowledge, tools, gurukula, traditions, and human resources continuously from the regional level to the national and international levels.
 
-- Developing programs to integrate tourism with this sector, to ensure that cultural heritage becomes a significant part of the tourism industry.
+- 1.05.A07.03) Developing programs to integrate tourism with this sector, to ensure that cultural heritage becomes a significant part of the tourism industry.
 
-- Promoting sub-sectors related to intangible heritage, such as traditional medicine, production of eco-friendly products, entertainment industries, and mental wellness promotion.
+- 1.05.A07.04) Promoting sub-sectors related to intangible heritage, such as traditional medicine, production of eco-friendly products, entertainment industries, and mental wellness promotion.
 
-- Fostering relationships with international universities and research institutions related to this field and facilitating postgraduate studies.
+- 1.05.A07.05) Fostering relationships with international universities and research institutions related to this field and facilitating postgraduate studies.
 
-- Identifying, networking, and updating traditional artists, gurukuls, and craft institutions to ensure their continued relevance and vitality.
+- 1.05.A07.06) Identifying, networking, and updating traditional artists, gurukuls, and craft institutions to ensure their continued relevance and vitality.
 
 ### 1.06) A conserved history - Innovating across heritage
 
@@ -588,23 +588,23 @@ Lanka’s rich heritage in a sustainable and comprehensive manner for developmen
 
 ##### 1.06.A01) Research and Analysis
 
-- Research on the impact of history, culture, and heritage on social and economic sectors
+- 1.06.A01.01) Research on the impact of history, culture, and heritage on social and economic sectors
 
-- Analysis of successful international practices that have integrated history, culture, and heritage into national development plans
+- 1.06.A01.02) Analysis of successful international practices that have integrated history, culture, and heritage into national development plans
 
-- Assessment of the value of investing in national heritage values for social innovation, entrepreneurship, job creation, education, and international relations
+- 1.06.A01.03) Assessment of the value of investing in national heritage values for social innovation, entrepreneurship, job creation, education, and international relations
 
 ##### 1.06.A02) Stakeholder Engagement
 
-- Organizing workshops and conferences to promote collaboration among government institutions, private sector, academic community, and local populations in the field of history, culture, and heritage
+- 1.06.A02.01) Organizing workshops and conferences to promote collaboration among government institutions, private sector, academic community, and local populations in the field of history, culture, and heritage
 
-- Enhancing the understanding of cultural heritage and historical values among stakeholders beyond their current roles in protecting and managing cultural resources
+- 1.06.A02.02) Enhancing the understanding of cultural heritage and historical values among stakeholders beyond their current roles in protecting and managing cultural resources
 
 ##### 1.06.A03) Education and Awareness
 
-- Organizing educational programs and distributing instructional materials to raise awareness of the value of history, culture, and heritage
+- 1.06.A03.01) Organizing educational programs and distributing instructional materials to raise awareness of the value of history, culture, and heritage
 
-- Incorporating topics related to history, culture, and heritage into school curricula and community-based education programs
+- 1.06.A03.02) Incorporating topics related to history, culture, and heritage into school curricula and community-based education programs
 
 ### 1.07) A sustainable biotic world - An Avergreen life
 
@@ -648,161 +648,161 @@ The environmental policy of the NPP with the vision of “a sustainable environm
 
 ##### 1.07.A01) Proper Land Use
 
-- Designation and protection of ecologically sensitive areas
+- 1.07.A01.01) Designation and protection of ecologically sensitive areas
 
-- Identification, management, and risk reduction of natural disaster-prone areas
+- 1.07.A01.02) Identification, management, and risk reduction of natural disaster-prone areas
 
-- Development and implementation of scientifically developed sustainable land- use plans in agricultural, industrial and residential uses
+- 1.07.A01.03) Development and implementation of scientifically developed sustainable land- use plans in agricultural, industrial and residential uses
 
-- Conservation of areas with mineral resources for sustainable economic operations
+- 1.07.A01.04) Conservation of areas with mineral resources for sustainable economic operations
 
-- Implementation of existing guidelines for soil conservation and development of new recommendations as needed
+- 1.07.A01.05) Implementation of existing guidelines for soil conservation and development of new recommendations as needed
 
 ##### 1.07.A02) Safe Water Consumption
 
-- Studying the all kinds of water sources in Sri Lanka, conduct sensitivity assessments and conservation of sensitive water sources via Gazettes.
+- 1.07.A02.01) Studying the all kinds of water sources in Sri Lanka, conduct sensitivity assessments and conservation of sensitive water sources via Gazettes.
 
-- Identification of causes of water pollution and adopting actions to minimize it
+- 1.07.A02.02) Identification of causes of water pollution and adopting actions to minimize it
 
-- Preparation of a basic water map based on data gathered by a chemical and physical parameters analysis of all water sources
+- 1.07.A02.03) Preparation of a basic water map based on data gathered by a chemical and physical parameters analysis of all water sources
 
-- Activation of river systems for restoration and conservation of traditional water management practices.
+- 1.07.A02.04) Activation of river systems for restoration and conservation of traditional water management practices.
 
-- Calculation of minimum requirements for water storage and introducing methods for replenishing surface and underground water resources.
+- 1.07.A02.05) Calculation of minimum requirements for water storage and introducing methods for replenishing surface and underground water resources.
 
-- Maintaining minimum environmental flow in rivers during domestic, agricultural, and industrial water usage.
+- 1.07.A02.06) Maintaining minimum environmental flow in rivers during domestic, agricultural, and industrial water usage.
 
-- Introduction and regulation of scientific methods for treating wastewater from domestic and industrial activities.
+- 1.07.A02.07) Introduction and regulation of scientific methods for treating wastewater from domestic and industrial activities.
 
 ##### 1.07.A03) Sustainability of Marine and Coastal Zone
 
-- Complete termination of direct or indirect disposal of pollutants into the coastal and marine environment.
+- 1.07.A03.01) Complete termination of direct or indirect disposal of pollutants into the coastal and marine environment.
 
-- Identification and protection of sensitive environmental systems in coastal zones.
+- 1.07.A03.02) Identification and protection of sensitive environmental systems in coastal zones.
 
-- Scientifically determining and preserving the conservation zones of beaches and lagoons.
+- 1.07.A03.03) Scientifically determining and preserving the conservation zones of beaches and lagoons.
 
-- Emergency preparedness plans with institutional leadership and community involvement to minimize the accidental marine environmental damages.
+- 1.07.A03.04) Emergency preparedness plans with institutional leadership and community involvement to minimize the accidental marine environmental damages.
 
-- Development of legal frameworks and procedures for assessing and compensating environmental damage caused by marine pollution.
+- 1.07.A03.05) Development of legal frameworks and procedures for assessing and compensating environmental damage caused by marine pollution.
 
-- Implementation of laws as per the international Conventions and Treaties to ensure sustainable use of marine resources including fish and prevention of marine waters.
+- 1.07.A03.06) Implementation of laws as per the international Conventions and Treaties to ensure sustainable use of marine resources including fish and prevention of marine waters.
 
-- Development of coastal areas and tourist attractions that are culturally significant, into well-developed beautiful ecological belts.
+- 1.07.A03.07) Development of coastal areas and tourist attractions that are culturally significant, into well-developed beautiful ecological belts.
 
-- Identification and protection of areas where marine life is naturally abundant and ensure maintaining the water quality parameters.
+- 1.07.A03.08) Identification and protection of areas where marine life is naturally abundant and ensure maintaining the water quality parameters.
 
 ##### 1.07.A04) Existence of Clean Air
 
-- Introduction of suitable and fast-growing timber species for maintaining the atmospheric balance.
+- 1.07.A04.01) Introduction of suitable and fast-growing timber species for maintaining the atmospheric balance.
 
-- Planting, consumption, and replanting of trees to contribute to carbon sequestration.
+- 1.07.A04.02) Planting, consumption, and replanting of trees to contribute to carbon sequestration.
 
-- Promotion and regulation of alternative energy sources in industry and transportation sectors to minimize air pollution from stationery and mobile sources.
+- 1.07.A04.03) Promotion and regulation of alternative energy sources in industry and transportation sectors to minimize air pollution from stationery and mobile sources.
 
-- Diplomatic intervention to avoid or mitigate trans boundary air pollution.
+- 1.07.A04.04) Diplomatic intervention to avoid or mitigate trans boundary air pollution.
 
-- Introduce programs to increase public awareness and perceptions to minimize air pollution
+- 1.07.A04.05) Introduce programs to increase public awareness and perceptions to minimize air pollution
 
 ##### 1.07.A05) Legal and Ethical framework for Environmental Conventions
 
-- Reviewing and update addressing weaknesses, deficiencies, and gaps in existing environmental regulations also aligning with international agreements and local environmental laws.
+- 1.07.A05.01) Reviewing and update addressing weaknesses, deficiencies, and gaps in existing environmental regulations also aligning with international agreements and local environmental laws.
 
-- Public Consultation will be made mandatory in conducting feasibility studies for development projects.
+- 1.07.A05.02) Public Consultation will be made mandatory in conducting feasibility studies for development projects.
 
-- Updating the criteria for environmental assessments ensuring the transparency of process.
+- 1.07.A05.03) Updating the criteria for environmental assessments ensuring the transparency of process.
 
-- Implementing Strategic Environmental Assessments (SEAs).
+- 1.07.A05.04) Implementing Strategic Environmental Assessments (SEAs).
 
-- Raising public awareness about environmental policies and laws through printed, electronic, and social media.
+- 1.07.A05.05) Raising public awareness about environmental policies and laws through printed, electronic, and social media.
 
 ##### 1.07.A06) Various Ecosystems
 
 ##### 1.07.A07) Hilly areas
 
-- Management of forests on mountain ridges/ steep slopes with strict control on use of such for economic and social purposes.
+- 1.07.A07.01) Management of forests on mountain ridges/ steep slopes with strict control on use of such for economic and social purposes.
 
-- Reviewing ecosystems and developing a unified data system to highlight their environmental and economic importance.
+- 1.07.A07.02) Reviewing ecosystems and developing a unified data system to highlight their environmental and economic importance.
 
-- Conducting cost-benefit analysis and environmental assessment to determine whether to maintain, replace, or restore plantations in hilly areas.
+- 1.07.A07.03) Conducting cost-benefit analysis and environmental assessment to determine whether to maintain, replace, or restore plantations in hilly areas.
 
 ##### 1.07.A08) Lowlands
 
-- Management and conservation of all lands according to land-use policies and principles.
+- 1.07.A08.01) Management and conservation of all lands according to land-use policies and principles.
 
-- Introduction of early warning systems for natural disasters, management of human activities, and implementation of compensation and insurance mechanisms,
+- 1.07.A08.02) Introduction of early warning systems for natural disasters, management of human activities, and implementation of compensation and insurance mechanisms,
 
-- Promotion of community-based agroforestry, and agricultural plantation practices.
+- 1.07.A08.03) Promotion of community-based agroforestry, and agricultural plantation practices.
 
 ##### 1.07.A09) Wetlands
 
-- Identification and documentation of wetlands in Sri Lanka and taking necessary steps for their conservation.
+- 1.07.A09.01) Identification and documentation of wetlands in Sri Lanka and taking necessary steps for their conservation.
 
-- Ensure conservation of existing and future Ramsar wetlands and enhance tourist attractions of them. Restoration of degraded wetlands through multi-stakeholder engagement and community participation.
+- 1.07.A09.02) Ensure conservation of existing and future Ramsar wetlands and enhance tourist attractions of them. Restoration of degraded wetlands through multi-stakeholder engagement and community participation.
 
-- Strengthen inter-agency coordination for integrated wetland management activities.
+- 1.07.A09.03) Strengthen inter-agency coordination for integrated wetland management activities.
 
 ##### 1.07.A10) Mangroves
 
-- Reviewing and implementing national policies on mangrove ecosystems.
+- 1.07.A10.01) Reviewing and implementing national policies on mangrove ecosystems.
 
-- Taking legal measures for the protection of mangrove ecosystems due to their ecological importance.
+- 1.07.A10.02) Taking legal measures for the protection of mangrove ecosystems due to their ecological importance.
 
 ##### 1.07.A11) Forests and Wildlife
 
-- Identification of integrated forest and wildlife conservation zones and establishing new protected areas.
+- 1.07.A11.01) Identification of integrated forest and wildlife conservation zones and establishing new protected areas.
 
-- Providing public awareness to eliminate myths and unnecessary financial values given to elephant tusks, pearls, fibers and other animal parts.
+- 1.07.A11.02) Providing public awareness to eliminate myths and unnecessary financial values given to elephant tusks, pearls, fibers and other animal parts.
 
-- Improve natural habitats of wild animals to provide food and water for all wildlife to minimize their intrusion into villages.
+- 1.07.A11.03) Improve natural habitats of wild animals to provide food and water for all wildlife to minimize their intrusion into villages.
 
-- Introduce electric fences to prevent elephant movement to villages and maintain them with the help of community participation.
+- 1.07.A11.04) Introduce electric fences to prevent elephant movement to villages and maintain them with the help of community participation.
 
-- Studying and managing human-wildlife conflicts, such as elephant-human interactions, with appropriate techniques and public involvement.
+- 1.07.A11.05) Studying and managing human-wildlife conflicts, such as elephant-human interactions, with appropriate techniques and public involvement.
 
-- Conducting studies on harmful wildlife such as monkeys and wild boar, and implementing necessary biological control methods.
+- 1.07.A11.06) Conducting studies on harmful wildlife such as monkeys and wild boar, and implementing necessary biological control methods.
 
-- Improving facilities for ex-situ conservation and promoting public engagement and educational research
+- 1.07.A11.07) Improving facilities for ex-situ conservation and promoting public engagement and educational research
 
-- Enhancing in-situ conservation facilities for plant and animal species
+- 1.07.A11.08) Enhancing in-situ conservation facilities for plant and animal species
 
-- Managing and conserving natural forest cover to maintain environmental services
+- 1.07.A11.09) Managing and conserving natural forest cover to maintain environmental services
 
-- Controlling and preventing the spread of invasive species
+- 1.07.A11.10) Controlling and preventing the spread of invasive species
 
 ##### 1.07.A12) Sustainable Solid Waste Management
 
-- Updating legal frameworks and improving infrastructure for waste management in residential, agricultural, industrial and service sectors, based on zero waste 3R (Reduce, Reuse, Recycle) principles and circular economic concept
+- 1.07.A12.01) Updating legal frameworks and improving infrastructure for waste management in residential, agricultural, industrial and service sectors, based on zero waste 3R (Reduce, Reuse, Recycle) principles and circular economic concept
 
-- Preparation and Implementation of a National Solid Waste Management Action plan, reviewing the current solid waste management plans and related policies
+- 1.07.A12.02) Preparation and Implementation of a National Solid Waste Management Action plan, reviewing the current solid waste management plans and related policies
 
-- Make it mandatory to adopt a waste management programs for residential, high- rise, service, and industrial buildings/ sector developments
+- 1.07.A12.03) Make it mandatory to adopt a waste management programs for residential, high- rise, service, and industrial buildings/ sector developments
 
-- Reducing plastic and polythene use through extended producer responsibility schemes
+- 1.07.A12.04) Reducing plastic and polythene use through extended producer responsibility schemes
 
-- Proper management and safe disposal of hazardous and electronic waste
+- 1.07.A12.05) Proper management and safe disposal of hazardous and electronic waste
 
-- Developing infrastructure for adopting modern final waste disposal methods like sanitary landfills, waste-to-energy and resource recovery facilities
+- 1.07.A12.06) Developing infrastructure for adopting modern final waste disposal methods like sanitary landfills, waste-to-energy and resource recovery facilities
 
-- Promote industries to adopt the zero-waste method and locate every industry within the industrial zones whenever possible.
+- 1.07.A12.07) Promote industries to adopt the zero-waste method and locate every industry within the industrial zones whenever possible.
 
 ##### 1.07.A13) Management of home garden-related resources
 
-- Granting permits for non-commercial activities such as clearing extra land, obtaining soil to build foundations for home construction
+- 1.07.A13.01) Granting permits for non-commercial activities such as clearing extra land, obtaining soil to build foundations for home construction
 
-- Allowing the removal and transportation of a tree planted in a home garden to obtain timber subject to conservation measures
+- 1.07.A13.02) Allowing the removal and transportation of a tree planted in a home garden to obtain timber subject to conservation measures
 
-- Introducing eco-friendly criteria for domestic animal husbandry.
+- 1.07.A13.03) Introducing eco-friendly criteria for domestic animal husbandry.
 
 ##### 1.07.A14) Relationships and values between ecosystems
 
-- Conducting research and studies to reveal the inverse and reverse relationships between ecosystems, and its relations with humans
+- 1.07.A14.01) Conducting research and studies to reveal the inverse and reverse relationships between ecosystems, and its relations with humans
 
-- Implementing formal and informal methods of environmental education
+- 1.07.A14.02) Implementing formal and informal methods of environmental education
 
-- Conducting research on ecosystems, publishing research results and obtaining patent rights and maintaining a genetic database of ecosystems and working to stop gene theft.
+- 1.07.A14.03) Conducting research on ecosystems, publishing research results and obtaining patent rights and maintaining a genetic database of ecosystems and working to stop gene theft.
 
-- Securing the attractive ecosystems for the tourism industry.
+- 1.07.A14.04) Securing the attractive ecosystems for the tourism industry.
 
 ### 1.08) Free media industry - An objectively informed society
 
@@ -868,103 +868,103 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 ##### 2.01.A02) Prajashakthi: Poverty alleviation programme for low-income
 
-- Providing a minimum monthly financial grant from Rs. 10,000 upwards to low- income families
+- 2.01.A02.01) Providing a minimum monthly financial grant from Rs. 10,000 upwards to low- income families
 
-- Introduction of a participatory, transparent and efficient beneficiary selection process
+- 2.01.A02.02) Introduction of a participatory, transparent and efficient beneficiary selection process
 
-- Introducing a digital platform for identifying eligible beneficiaries using new criteria within a year and providing financial assistance to all qualifying individuals.
+- 2.01.A02.03) Introducing a digital platform for identifying eligible beneficiaries using new criteria within a year and providing financial assistance to all qualifying individuals.
 
 ##### 2.01.A03) Empowerment
 
-- A comprehensive participatory study on the causes of poverty and family dynamics in low-income households.
+- 2.01.A03.01) A comprehensive participatory study on the causes of poverty and family dynamics in low-income households.
 
-- Identification, analysis and developing remedies for poverty and vulnerabilities at the household level through community-based projects.
+- 2.01.A03.02) Identification, analysis and developing remedies for poverty and vulnerabilities at the household level through community-based projects.
 
-- Facilitating the implementation of these projects through public-private partnerships and the involvement of the cooperative sector.
+- 2.01.A03.03) Facilitating the implementation of these projects through public-private partnerships and the involvement of the cooperative sector.
 
-- Establishment of training, technical assistance and financial assistance for low- income families to initiate income generation and livelihood projects
+- 2.01.A03.04) Establishment of training, technical assistance and financial assistance for low- income families to initiate income generation and livelihood projects
 
-- Efficient use of the Samurdhi Banking system and staff to empower poor families.
+- 2.01.A03.05) Efficient use of the Samurdhi Banking system and staff to empower poor families.
 
-- Assigning a field officer for every 100 families for monitoring and to provide continuous sup port
+- 2.01.A03.06) Assigning a field officer for every 100 families for monitoring and to provide continuous sup port
 
 ##### 2.01.A04) A healthy and happy retirement for senior c itizens
 
-- Providin g a monthly allowance of Rs. 5,000 to senior citizens needing assistance.
+- 2.01.A04.01) Providin g a monthly allowance of Rs. 5,000 to senior citizens needing assistance.
 
-- Establishment of new elderly care centers at the divisional secretariat level.
+- 2.01.A04.02) Establishment of new elderly care centers at the divisional secretariat level.
 
-- Government support and regulation of private care centers.
+- 2.01.A04.03) Government support and regulation of private care centers.
 
-- Professional training for care workers and incentives for small and medium institutions involved in elderly care.
+- 2.01.A04.04) Professional training for care workers and incentives for small and medium institutions involved in elderly care.
 
-- Investment of retirement Funds, such as the Employee Provident Fund, in safe and high-return investments.
+- 2.01.A04.05) Investment of retirement Funds, such as the Employee Provident Fund, in safe and high-return investments.
 
-- Provision of incentives for financial and insurance services to ensure the safety of pension funds and continuous benefits.
+- 2.01.A04.06) Provision of incentives for financial and insurance services to ensure the safety of pension funds and continuous benefits.
 
-- An interest rate that is 5% higher than the normal bank rate(s) for senior citizens’ fixed deposits.
+- 2.01.A04.07) An interest rate that is 5% higher than the normal bank rate(s) for senior citizens’ fixed deposits.
 
 ##### 2.01.A05) A Meaningful and Satisfactory Life for Persons with Disabilities
 
-- Establishment of a comprehensive data-base, developed by experts, on persons with disabilities
+- 2.01.A05.01) Establishment of a comprehensive data-base, developed by experts, on persons with disabilities
 
-- Provision of a monthly financial aid of Rs. 10,000 to persons with disabilities in low-income families.
+- 2.01.A05.02) Provision of a monthly financial aid of Rs. 10,000 to persons with disabilities in low-income families.
 
-- Facilitating education, training, employment, and livelihoods opportunities for persons with disabilities.
+- 2.01.A05.03) Facilitating education, training, employment, and livelihoods opportunities for persons with disabilities.
 
 ##### 2.01.A06) Social protection for women-headed families, single parent
 
-- Financial assistance for affected individuals (of the above categories) based on needs and income levels.
+- 2.01.A06.01) Financial assistance for affected individuals (of the above categories) based on needs and income levels.
 
-- Legal aid and counseling services are offered based on needs and requests.
+- 2.01.A06.02) Legal aid and counseling services are offered based on needs and requests.
 
-- Provision of alternative housing and job support when needed.
+- 2.01.A06.03) Provision of alternative housing and job support when needed.
 
-- Establishment of mechanisms for social and psychological support for women affected by violence an d abuse.
+- 2.01.A06.04) Establishment of mechanisms for social and psychological support for women affected by violence an d abuse.
 
 ##### 2.01.A07) Health: Social Protection for Persons with Chronic Illnesses
 
-- Creating a digital data repository of individuals with chronic illnesses such as cancer and kidney disease.
+- 2.01.A07.01) Creating a digital data repository of individuals with chronic illnesses such as cancer and kidney disease.
 
-- A minimum monthly financial grant of Rs. 10,000 to persons with chronic illnesses on a needs basis.
+- 2.01.A07.02) A minimum monthly financial grant of Rs. 10,000 to persons with chronic illnesses on a needs basis.
 
-- Professiona l support and social empowerment.
+- 2.01.A07.03) Professiona l support and social empowerment.
 
 ##### 2.01.A08) Nourishing Future Generations: Reducing Malnutrition
 
-- Identifying low-income families with malnourished children.
+- 2.01.A08.01) Identifying low-income families with malnourished children.
 
-- Educating parents about measures to combat malnutrition.
+- 2.01.A08.02) Educating parents about measures to combat malnutrition.
 
-- Provision of financial assistance through field officers for obtaining nutritious food for families with urgent needs.
+- 2.01.A08.03) Provision of financial assistance through field officers for obtaining nutritious food for families with urgent needs.
 
 ##### 2.01.A09) Nutritional Program for Pregnant Women
 
-- Identifying pregnant women needing additional nutrition through community health services.
+- 2.01.A09.01) Identifying pregnant women needing additional nutrition through community health services.
 
-- Provision of financial support for nutritious food packages during pregnancy and the first year of childbirth for low-income families.
+- 2.01.A09.02) Provision of financial support for nutritious food packages during pregnancy and the first year of childbirth for low-income families.
 
-- Continuous awareness and monitoring by family health officers.
+- 2.01.A09.03) Continuous awareness and monitoring by family health officers.
 
 ##### 2.01.A10) Safety: Adequate Care for Children
 
-- Establishment of Childcare Centers at the Gramaniladari level with public and private partnerships based on needs and requests.
+- 2.01.A10.01) Establishment of Childcare Centers at the Gramaniladari level with public and private partnerships based on needs and requests.
 
-- Registration of existing institutions with adequate qualifications for childcare.
+- 2.01.A10.02) Registration of existing institutions with adequate qualifications for childcare.
 
-- Training of staff for the effective management of Childcare Centers and monitoring their performance.
+- 2.01.A10.03) Training of staff for the effective management of Childcare Centers and monitoring their performance.
 
-- Appointment of social service/development officers to provide professional services and provision of incentives for small and medium scale entrepreneurs to provide such services.
+- 2.01.A10.04) Appointment of social service/development officers to provide professional services and provision of incentives for small and medium scale entrepreneurs to provide such services.
 
 ##### 2.01.A11) Pension Scheme for all citizens
 
-- Development and implementation of a broad pension policy applicable to all workers in the country.
+- 2.01.A11.01) Development and implementation of a broad pension policy applicable to all workers in the country.
 
-- Establishing a government-certified pension fund under the supervision of the Department of Pensions and the Central Bank.
+- 2.01.A11.02) Establishing a government-certified pension fund under the supervision of the Department of Pensions and the Central Bank.
 
-- Motivating all citizens, who are currently not employed in the Government or Corporate sector such as farmers and fishermen and others to join the pension scheme.
+- 2.01.A11.03) Motivating all citizens, who are currently not employed in the Government or Corporate sector such as farmers and fishermen and others to join the pension scheme.
 
-- Using the pension fund as an insurance scheme during emergencies/disability.
+- 2.01.A11.04) Using the pension fund as an insurance scheme during emergencies/disability.
 
 ### 2.02) An efficient workforce - A respectable professional life
 
@@ -986,11 +986,11 @@ However, in modern society, the status and importance that should be accorded to
 
 ##### 2.02.A01) Unemployed graduates:
 
-- 20,000 to the teaching profession.
+- 2.02.A01.01) 20,000 to the teaching profession.
 
-- 3,000 STEM graduates and 9,000 non-STEM graduates to the information technology sector.
+- 2.02.A01.02) 3,000 STEM graduates and 9,000 non-STEM graduates to the information technology sector.
 
-- Another 3,000 to the Inland Revenue Department, Customs Department, Foreign Service, and tourism industry.
+- 2.02.A01.03) Another 3,000 to the Inland Revenue Department, Customs Department, Foreign Service, and tourism industry.
 
 ### 2.03) Impartial human identity - Gender equality in social-life
 
@@ -1196,85 +1196,85 @@ Therefore, this policy focuses on creating an economically and socially fulfilli
 
 ##### 2.07.A01) Optimal Service Management and Administration
 
-- Amend existing laws related to persons with disabilities, introduce new legislation, and enforce international conventions such as the UNCRDP (UN Convention on the Rights of Persons with Disabilities).
+- 2.07.A01.01) Amend existing laws related to persons with disabilities, introduce new legislation, and enforce international conventions such as the UNCRDP (UN Convention on the Rights of Persons with Disabilities).
 
-- Develop a national plan for persons with disabilities.
+- 2.07.A01.02) Develop a national plan for persons with disabilities.
 
-- Establish an evaluation framework to measure the effectiveness of services provided to persons with disabilities.
+- 2.07.A01.03) Establish an evaluation framework to measure the effectiveness of services provided to persons with disabilities.
 
-- Create an online information center to provide families of people with disabilities access to resources and information about government policies.
+- 2.07.A01.04) Create an online information center to provide families of people with disabilities access to resources and information about government policies.
 
-- Increase awareness, training, and support for persons with disabilities to use modern technology effectively.
+- 2.07.A01.05) Increase awareness, training, and support for persons with disabilities to use modern technology effectively.
 
 ##### 2.07.A02) Education
 
-- Provide high-quality, affordable, inclusive, and accessible early childhood education.
+- 2.07.A02.01) Provide high-quality, affordable, inclusive, and accessible early childhood education.
 
-- Ensure inclusive education for school students with disabilities.
+- 2.07.A02.02) Ensure inclusive education for school students with disabilities.
 
-- Expand the knowledge and awareness of inclusive education among schoolteachers, NGO representatives, and university lecturers.
+- 2.07.A02.03) Expand the knowledge and awareness of inclusive education among schoolteachers, NGO representatives, and university lecturers.
 
-- Facilitate the inclusion of sign language-trained teachers in schools.
+- 2.07.A02.04) Facilitate the inclusion of sign language-trained teachers in schools.
 
-- Provide facilities for sign language interpreters in public and private institutions.
+- 2.07.A02.05) Provide facilities for sign language interpreters in public and private institutions.
 
-- Establish special education and child development resource centers in every educational zone.
+- 2.07.A02.06) Establish special education and child development resource centers in every educational zone.
 
-- Ensure communication and IT facilities in primary and secondary schools for students with disabilities.
+- 2.07.A02.07) Ensure communication and IT facilities in primary and secondary schools for students with disabilities.
 
-- Promote sports and extracurricular activities at provincial and national levels for students with disabilities.
+- 2.07.A02.08) Promote sports and extracurricular activities at provincial and national levels for students with disabilities.
 
-- Offer tax incentives to non-profit care institutions for persons with disabilities.
+- 2.07.A02.09) Offer tax incentives to non-profit care institutions for persons with disabilities.
 
-- Provide vocational guidance and counseling services for persons with disabilities.
+- 2.07.A02.10) Provide vocational guidance and counseling services for persons with disabilities.
 
 ##### 2.07.A03) Economic Independence
 
-- Enforce the allocation of 3% of jobs in public and private sectors for the disabled community, and gradually increase this quota to 5%.
+- 2.07.A03.01) Enforce the allocation of 3% of jobs in public and private sectors for the disabled community, and gradually increase this quota to 5%.
 
-- Encourage employment opportunities, business ownership and development, self-employment, and entrepreneurship for persons with disabilities.
+- 2.07.A03.02) Encourage employment opportunities, business ownership and development, self-employment, and entrepreneurship for persons with disabilities.
 
-- Strengthen networks of persons with disabilities in workplaces to promote integration so that they can communicate their challenges with each other.
+- 2.07.A03.03) Strengthen networks of persons with disabilities in workplaces to promote integration so that they can communicate their challenges with each other.
 
-- Expand financial assistance for low-income families with persons with disabilities to engage in self-employment
+- 2.07.A03.04) Expand financial assistance for low-income families with persons with disabilities to engage in self-employment
 
 ##### 2.07.A04) Health and Well-being
 
-- Providing professional skills and attitudes of healthcare providers to meet the healthcare needs of persons with disabilities.
+- 2.07.A04.01) Providing professional skills and attitudes of healthcare providers to meet the healthcare needs of persons with disabilities.
 
-- Improve accessibility to public spaces and services.
+- 2.07.A04.02) Improve accessibility to public spaces and services.
 
-- Introduce health facilities for the early identification of autism and other developmental disabilities and intervene to minimize their development.
+- 2.07.A04.03) Introduce health facilities for the early identification of autism and other developmental disabilities and intervene to minimize their development.
 
-- Provide priority pass cards to facilitate the identification and access to services for persons with disabilities.
+- 2.07.A04.04) Provide priority pass cards to facilitate the identification and access to services for persons with disabilities.
 
-- Promotion of community-based rehabilitation services through rehabilitation hospitals at the Medical Officer of Health (MOH) level and district level
+- 2.07.A04.05) Promotion of community-based rehabilitation services through rehabilitation hospitals at the Medical Officer of Health (MOH) level and district level
 
 ##### 2.07.A05) Security, Rights and Justice
 
-- Assist persons with disabilities when applying for government positions.
+- 2.07.A05.01) Assist persons with disabilities when applying for government positions.
 
-- Promote positive attitudes among transport staff and the public towards persons with disabilities in public transportation.
+- 2.07.A05.02) Promote positive attitudes among transport staff and the public towards persons with disabilities in public transportation.
 
-- Providing legal support and ensuring access to courts.
+- 2.07.A05.03) Providing legal support and ensuring access to courts.
 
 ##### 2.07.A06) Public Services and Community Support
 
-- Ensure the safety and accessibility of persons with disabilities when designing buildings.
+- 2.07.A06.01) Ensure the safety and accessibility of persons with disabilities when designing buildings.
 
-- Expand opportunities for persons with disabilities to participate in social, religious, cultural activities, and recreational sports.
+- 2.07.A06.02) Expand opportunities for persons with disabilities to participate in social, religious, cultural activities, and recreational sports.
 
-- Enforce standards and provide specialized transport services to facilitate the use of public and private transportation for persons with disabilities.
+- 2.07.A06.03) Enforce standards and provide specialized transport services to facilitate the use of public and private transportation for persons with disabilities.
 
-- Improve accessibility to online services for persons with disabilities.
+- 2.07.A06.04) Improve accessibility to online services for persons with disabilities.
 
-- Encourage innovations that will benefit persons with disabilities.
+- 2.07.A06.05) Encourage innovations that will benefit persons with disabilities.
 
-- Offer tax exemptions to import assistive devices used by persons with disabilities.
+- 2.07.A06.06) Offer tax exemptions to import assistive devices used by persons with disabilities.
 
-- Recognize sign language as the language of communication for persons with hearing impairments.
+- 2.07.A06.07) Recognize sign language as the language of communication for persons with hearing impairments.
 
-- Create inclusive theaters and sports facilities to enhance the artistic and cultural participation of persons with disabilities.  
+- 2.07.A06.08) Create inclusive theaters and sports facilities to enhance the artistic and cultural participation of persons with disabilities.  
 
 ##### 2.07.A07) A modern life
 
@@ -1332,185 +1332,185 @@ In formulating these policies, factors such as resource availability and accessi
 
 ##### 3.01.A02) Fiscal Policy:
 
-- Establish a new dedicated unit for designing and implementing tax policies with a special section on international transactions.
+- 3.01.A02.01) Establish a new dedicated unit for designing and implementing tax policies with a special section on international transactions.
 
-- Make required legal reforms to enhance efficiency in tax administration.
+- 3.01.A02.02) Make required legal reforms to enhance efficiency in tax administration.
 
-- Provide training and capacity development for the officials of the Inland Revenue Department.
+- 3.01.A02.03) Provide training and capacity development for the officials of the Inland Revenue Department.
 
-- Implement measures to expedite the collection of taxes in arrears.
+- 3.01.A02.04) Implement measures to expedite the collection of taxes in arrears.
 
-- Integrate the operations of the Excise Department, Sri Lanka Customs, Department of Motor Traffic, and Land Registry Office with the Inland Revenue Department to ensure tax efficiency and fairness.
+- 3.01.A02.05) Integrate the operations of the Excise Department, Sri Lanka Customs, Department of Motor Traffic, and Land Registry Office with the Inland Revenue Department to ensure tax efficiency and fairness.
 
-- Introduce a unique digital identification code (UDI) to every citizen to liaise with the government to access public services.
+- 3.01.A02.06) Introduce a unique digital identification code (UDI) to every citizen to liaise with the government to access public services.
 
-- Increase the annual tax threshold for individual income tax from Rs. 1.2 million to Rs. 2.4 million and revise the tax rates and tax brackets on a fair basis.
+- 3.01.A02.07) Increase the annual tax threshold for individual income tax from Rs. 1.2 million to Rs. 2.4 million and revise the tax rates and tax brackets on a fair basis.
 
-- Broaden the tax base in line with tax principles.
+- 3.01.A02.08) Broaden the tax base in line with tax principles.
 
-- Increase the tax depreciation allowance for deductible expenses on the purchase of machinery and equipment up to 120% of capital expenditure for companies to stimulate production.
+- 3.01.A02.09) Increase the tax depreciation allowance for deductible expenses on the purchase of machinery and equipment up to 120% of capital expenditure for companies to stimulate production.
 
-- Introduce Point of Sales (POS) systems and digital invoicing to streamline V AT collection.
+- 3.01.A02.10) Introduce Point of Sales (POS) systems and digital invoicing to streamline V AT collection.
 
-- Introduce a 0% V AT rate for essential food items including locally produced milk & eggs, infant milk, drugs, schoolbooks, stationeries & equipment, magazines & journals, library services, agricultural equipment, fertilizer, solar panels & accessories, machinery for renewable energy generation, motor vehicle and equipment used by a disabled person, locally manufactured software and IT related services, and computers, research and development services, computers
+- 3.01.A02.11) Introduce a 0% V AT rate for essential food items including locally produced milk & eggs, infant milk, drugs, schoolbooks, stationeries & equipment, magazines & journals, library services, agricultural equipment, fertilizer, solar panels & accessories, machinery for renewable energy generation, motor vehicle and equipment used by a disabled person, locally manufactured software and IT related services, and computers, research and development services, computers
 
-- Categorize goods applicable for V AT and introduce a different tax rate for each category.
+- 3.01.A02.12) Categorize goods applicable for V AT and introduce a different tax rate for each category.
 
-- Expedite providing Export Development Tax rebate on Input V AT for exporters.
+- 3.01.A02.13) Expedite providing Export Development Tax rebate on Input V AT for exporters.
 
-- Switch to risk-based audits from the present discretionary tax audits.
+- 3.01.A02.14) Switch to risk-based audits from the present discretionary tax audits.
 
-- Introduce an online system for tax assessment, filing, paying, and refunding of excess tax incorporated with a mobile application.
+- 3.01.A02.15) Introduce an online system for tax assessment, filing, paying, and refunding of excess tax incorporated with a mobile application.
 
-- Establish a single window service by integrating other state institutions with Sri Lanka Customs to streamline import/export operations.
+- 3.01.A02.16) Establish a single window service by integrating other state institutions with Sri Lanka Customs to streamline import/export operations.
 
-- Simplify the complex tariff structure to increase customs revenue on a fair basis.
+- 3.01.A02.17) Simplify the complex tariff structure to increase customs revenue on a fair basis.
 
-- Amend the Foreign Exchange Act to reconcile remittance inflows and improve operational efficiency.
+- 3.01.A02.18) Amend the Foreign Exchange Act to reconcile remittance inflows and improve operational efficiency.
 
-- Decentralize Sri Lanka Customs operations to provide more efficient and cost- effective services.
+- 3.01.A02.19) Decentralize Sri Lanka Customs operations to provide more efficient and cost- effective services.
 
-- Facilitate temporary import facilities for raw materials and machinery under the TIEP scheme to assist Micro Small and Medium Enterprises (MSMEs) in export preparation.
+- 3.01.A02.20) Facilitate temporary import facilities for raw materials and machinery under the TIEP scheme to assist Micro Small and Medium Enterprises (MSMEs) in export preparation.
 
-- Implement measures to prevent leakages and tax evasion on international transactions and transfer pricing and Automatic Exchange of Information (AEoI) among countries.
+- 3.01.A02.21) Implement measures to prevent leakages and tax evasion on international transactions and transfer pricing and Automatic Exchange of Information (AEoI) among countries.
 
-- Develop a mechanism to impose a global minimum tax on multinational companies based on international treaties and guidelines.
+- 3.01.A02.22) Develop a mechanism to impose a global minimum tax on multinational companies based on international treaties and guidelines.
 
-- Improve public finance efficiency, transparency, governance and accountability, and eliminate unnecessary public expenditure through digital-based governance including e-procurement and a strong public oversight mechanism.
+- 3.01.A02.23) Improve public finance efficiency, transparency, governance and accountability, and eliminate unnecessary public expenditure through digital-based governance including e-procurement and a strong public oversight mechanism.
 
 ##### 3.01.A03) Monetary Policy:
 
-- Establish a new ‘relief bank’ to restore the economic activities of MSMEs and provide relief for outstanding loans.
+- 3.01.A03.01) Establish a new ‘relief bank’ to restore the economic activities of MSMEs and provide relief for outstanding loans.
 
-- Establish a new national development bank to provide long-term financing, start new businesses, and expand existing businesses for entrepreneurs.
+- 3.01.A03.02) Establish a new national development bank to provide long-term financing, start new businesses, and expand existing businesses for entrepreneurs.
 
-- Direct cooperative banks, Samurddhi banks and regional development banks efficiently to provide financial facilities for small-scale farmers, entrepreneurs, and investors.
+- 3.01.A03.03) Direct cooperative banks, Samurddhi banks and regional development banks efficiently to provide financial facilities for small-scale farmers, entrepreneurs, and investors.
 
-- Provide relief to deprived parties after reviewing microfinance loans provided in violation of legal provisions and guidelines given.
+- 3.01.A03.04) Provide relief to deprived parties after reviewing microfinance loans provided in violation of legal provisions and guidelines given.
 
-- Encourage microfinance providers to register with the Central Bank of Sri Lanka and standardize the monitoring of such institutions.
+- 3.01.A03.05) Encourage microfinance providers to register with the Central Bank of Sri Lanka and standardize the monitoring of such institutions.
 
-- Stabilize the policy interest rates to ensure stability of the financial markets, including the foreign exchange market.
+- 3.01.A03.06) Stabilize the policy interest rates to ensure stability of the financial markets, including the foreign exchange market.
 
-- Introduce new financing schemes to formally invest bank money and savings in production economic activities.
+- 3.01.A03.07) Introduce new financing schemes to formally invest bank money and savings in production economic activities.
 
-- Strengthen the Financial Intelligence Unit (FIU) of the Central Bank of Sri Lanka through formalization of the coordination among state institutions.
+- 3.01.A03.08) Strengthen the Financial Intelligence Unit (FIU) of the Central Bank of Sri Lanka through formalization of the coordination among state institutions.
 
-- Recapitalize state banks to enhance the stability and efficiency.
+- 3.01.A03.09) Recapitalize state banks to enhance the stability and efficiency.
 
 ##### 3.01.A04) External Sector Stabilization:
 
-- Introduce new savings and investment plans, including expatriate Bonds for Sri Lankans living abroad.
+- 3.01.A04.01) Introduce new savings and investment plans, including expatriate Bonds for Sri Lankans living abroad.
 
-- Issue new development bonds to finance regional development projects which with sustainable development goals.
+- 3.01.A04.02) Issue new development bonds to finance regional development projects which with sustainable development goals.
 
-- Issue bonds to access funds for sustainable development projects by the global green and blue agendas.
+- 3.01.A04.03) Issue bonds to access funds for sustainable development projects by the global green and blue agendas.
 
-- Expedite proposed and currently stalled Foreign Direct Investments (FDIs) that are aligned with national priorities and development strategies.
+- 3.01.A04.04) Expedite proposed and currently stalled Foreign Direct Investments (FDIs) that are aligned with national priorities and development strategies.
 
-- Review existing trade agreements and enter into new ones to increase the share of foreign trade through export diversification.
+- 3.01.A04.05) Review existing trade agreements and enter into new ones to increase the share of foreign trade through export diversification.
 
-- Execute an expedited program to increase foreign exchange earnings from tourism and IT industries.
+- 3.01.A04.06) Execute an expedited program to increase foreign exchange earnings from tourism and IT industries.
 
 ##### 3.01.A05) The Programme with the International Monetary Fund (IMF):
 
-- Renegotiate with the IMF on the content of a more palatable and strengthened programme and how it is implemented for salvaging the poor and deprived people from that painful condition.
+- 3.01.A05.01) Renegotiate with the IMF on the content of a more palatable and strengthened programme and how it is implemented for salvaging the poor and deprived people from that painful condition.
 
-- Prepare and present new proposals on efficient tax administration and government expenditure management to renegotiate the revenue-based fiscal consolidation proposals of the IMF.
+- 3.01.A05.02) Prepare and present new proposals on efficient tax administration and government expenditure management to renegotiate the revenue-based fiscal consolidation proposals of the IMF.
 
-- Prepare an alternative Debt Sustainability Analysis (DSA) aiming to maintain debt sustainability and to keep the interest at a bearable level for the purpose of using it as and when necessary, in pursuit of debt restructuring engagements.
+- 3.01.A05.03) Prepare an alternative Debt Sustainability Analysis (DSA) aiming to maintain debt sustainability and to keep the interest at a bearable level for the purpose of using it as and when necessary, in pursuit of debt restructuring engagements.
 
-- Conduct a detailed debt audit on foreign loans obtained by the governments to ensure transparency and accountability in public financial management and to take legal actions against those who have misappropriated such loans.
+- 3.01.A05.04) Conduct a detailed debt audit on foreign loans obtained by the governments to ensure transparency and accountability in public financial management and to take legal actions against those who have misappropriated such loans.
 
-- Enhance public financial management and financial discipline to upgrade the credit rating of the country and the banking system.
+- 3.01.A05.05) Enhance public financial management and financial discipline to upgrade the credit rating of the country and the banking system.
 
 ##### 3.01.A06) Investment Promotion
 
-- Establish a single empowered institution by integrating existing state institutions including the Board of Investment of Sri Lanka that coordinate and promote investments.
+- 3.01.A06.01) Establish a single empowered institution by integrating existing state institutions including the Board of Investment of Sri Lanka that coordinate and promote investments.
 
-- Introduce a legal framework to ensure transparency and fairness in line with internationally accepted principles and practices for accepting and retaining investment.
+- 3.01.A06.02) Introduce a legal framework to ensure transparency and fairness in line with internationally accepted principles and practices for accepting and retaining investment.
 
-- Create a conducive environment with economic democracy that ensures ease of entering into new businesses and finding locations on a level playing field, the ability to access utilities conveniently, the availability of required competent labour, efficient financial services, ability to enter into international trade, fair and transparent taxation, efficient conflict resolution & arbitration mechanism, and market competition.
+- 3.01.A06.03) Create a conducive environment with economic democracy that ensures ease of entering into new businesses and finding locations on a level playing field, the ability to access utilities conveniently, the availability of required competent labour, efficient financial services, ability to enter into international trade, fair and transparent taxation, efficient conflict resolution & arbitration mechanism, and market competition.
 
-- Establish a single window to facilitate business registration, issuance of licenses, certifications, granting of permission for land use, and provision of electricity, water, communication services and other facilities through an integrated system.
+- 3.01.A06.04) Establish a single window to facilitate business registration, issuance of licenses, certifications, granting of permission for land use, and provision of electricity, water, communication services and other facilities through an integrated system.
 
-- Take measures to raise Sri Lanka’s ranking in the Global Competitive Index (GCI) to attract investors.
+- 3.01.A06.05) Take measures to raise Sri Lanka’s ranking in the Global Competitive Index (GCI) to attract investors.
 
-- Promote venture capital funds for new investment opportunities.
+- 3.01.A06.06) Promote venture capital funds for new investment opportunities.
 
-- Restructure the state institutional system to maintain the capital market efficient & productive, build investor confidence and prevent inside trading and corruption.
+- 3.01.A06.07) Restructure the state institutional system to maintain the capital market efficient & productive, build investor confidence and prevent inside trading and corruption.
 
-- Promote long-term foreign investments in public-private-people partnerships (PPPP) by prioritizing strategically important sectors.
+- 3.01.A06.08) Promote long-term foreign investments in public-private-people partnerships (PPPP) by prioritizing strategically important sectors.
 
-- Introduce investment schemes with special benefits for Sri Lankan expatriates to invest their earnings.
+- 3.01.A06.09) Introduce investment schemes with special benefits for Sri Lankan expatriates to invest their earnings.
 
-- Provide appropriate tax concessions for initial public offerings (IPOs) for capital formation.
+- 3.01.A06.10) Provide appropriate tax concessions for initial public offerings (IPOs) for capital formation.
 
-- Enhance and expand the capital market as an efficient and developed security exchange that facilitates SME listing conveniently, and ensures responsible reporting &compliance, transparency and governance.
+- 3.01.A06.11) Enhance and expand the capital market as an efficient and developed security exchange that facilitates SME listing conveniently, and ensures responsible reporting &compliance, transparency and governance.
 
-- Protect employee rights including fair treatment, fair wages, and secured working conditions in compliance with the principles International Labour Organization (ILO).
+- 3.01.A06.12) Protect employee rights including fair treatment, fair wages, and secured working conditions in compliance with the principles International Labour Organization (ILO).
 
-- Enhance labour and production relations through collective efforts that empower employees via collaboration and cooperation, increase productivity, and assign responsibilities democratically to each party.
+- 3.01.A06.13) Enhance labour and production relations through collective efforts that empower employees via collaboration and cooperation, increase productivity, and assign responsibilities democratically to each party.
 
-- Set up a mechanism to resolve conflicts and issues in production relations through stakeholder engagement.
+- 3.01.A06.14) Set up a mechanism to resolve conflicts and issues in production relations through stakeholder engagement.
 
 ##### 3.01.A07) State-Owned Enterprises (SOEs):
 
-- Take appropriate strategic decisions on each institution based on its strategic importance, potential for economic growth, capability to stimulate the production economy, impact on financial stability, and relevance to national security.
+- 3.01.A07.01) Take appropriate strategic decisions on each institution based on its strategic importance, potential for economic growth, capability to stimulate the production economy, impact on financial stability, and relevance to national security.
 
-- Provide the public with access to comprehensive information on the operations of SOEs to ensure transparency.
+- 3.01.A07.02) Provide the public with access to comprehensive information on the operations of SOEs to ensure transparency.
 
-- Promote research and development activities to explore new opportunities in economic trends, potentials, and developments prevailing at the national and international levels.
+- 3.01.A07.03) Promote research and development activities to explore new opportunities in economic trends, potentials, and developments prevailing at the national and international levels.
 
 ##### 3.01.A08) Domestic Trade
 
-- Ensure continuous supply of high-quality goods and services to the public at fair prices through promoting market competitiveness, directing monitoring institutions efficiently, organizing market activities and representing government stake in operations.
+- 3.01.A08.01) Ensure continuous supply of high-quality goods and services to the public at fair prices through promoting market competitiveness, directing monitoring institutions efficiently, organizing market activities and representing government stake in operations.
 
-- Establish large-scale economic and exchange centres at the district level.
+- 3.01.A08.02) Establish large-scale economic and exchange centres at the district level.
 
-- Establish a monitoring mechanism and an online information management system to ensure the continuation of trade of goods and services in a fair and high-quality manner, protection of consumer rights and transparency in trade- related information.
+- 3.01.A08.03) Establish a monitoring mechanism and an online information management system to ensure the continuation of trade of goods and services in a fair and high-quality manner, protection of consumer rights and transparency in trade- related information.
 
-- Implement a coordinated service management mechanism to provide auxiliary services such as finance, banking, transportation, insurance, communications, packaging, and warehousing for the smooth functioning of trade and distribution.
+- 3.01.A08.04) Implement a coordinated service management mechanism to provide auxiliary services such as finance, banking, transportation, insurance, communications, packaging, and warehousing for the smooth functioning of trade and distribution.
 
-- Eliminate unnecessary intermediations who do not add value in trade between production and consumption and facilitate them to transform as active value creators.
+- 3.01.A08.05) Eliminate unnecessary intermediations who do not add value in trade between production and consumption and facilitate them to transform as active value creators.
 
-- Introduce necessary legal reforms and new laws to remove information asymmetry prevailing in the market.
+- 3.01.A08.06) Introduce necessary legal reforms and new laws to remove information asymmetry prevailing in the market.
 
-- Establish, enhance and modernize marketplaces for potential products including gems, jewelry, precious stones, textiles, and handicrafts targeting foreign buyers.
+- 3.01.A08.07) Establish, enhance and modernize marketplaces for potential products including gems, jewelry, precious stones, textiles, and handicrafts targeting foreign buyers.
 
-- Implement a mechanism to resolve, by investigating, trade-related issues faced by micro, small and medium-scale business communities
+- 3.01.A08.08) Implement a mechanism to resolve, by investigating, trade-related issues faced by micro, small and medium-scale business communities
 
-- Eliminate price gouging, prevent the creation of shortages of goods, and the formation of monopolies, oligopolies and cartels in the market.
+- 3.01.A08.09) Eliminate price gouging, prevent the creation of shortages of goods, and the formation of monopolies, oligopolies and cartels in the market.
 
-- Establish an integrated control system to monitor and administer the quality of public services delivered through a centralized information system.
+- 3.01.A08.10) Establish an integrated control system to monitor and administer the quality of public services delivered through a centralized information system.
 
 ##### 3.01.A09) Foreign Trade
 
-- Promote the diversification of export of goods and services and provide required infrastructure facilities.
+- 3.01.A09.01) Promote the diversification of export of goods and services and provide required infrastructure facilities.
 
-- Provide necessary facilities to producers and exporters, by providing export credit facilities, certification services, insurance, new market and demand trends, new market innovations, and information on global value chains.
+- 3.01.A09.02) Provide necessary facilities to producers and exporters, by providing export credit facilities, certification services, insurance, new market and demand trends, new market innovations, and information on global value chains.
 
-- Promote trade of goods and services by focusing on India, China, sub-Saharan Africa, the Middle East, and Europe and especially focusing on global supply and value chains.
+- 3.01.A09.03) Promote trade of goods and services by focusing on India, China, sub-Saharan Africa, the Middle East, and Europe and especially focusing on global supply and value chains.
 
-- Transform Sri Lanka into a maritime service hub that provides naval services including maritime security, fuel, and food.
+- 3.01.A09.04) Transform Sri Lanka into a maritime service hub that provides naval services including maritime security, fuel, and food.
 
-- Develop port facilities to serve as an efficient regional logistic management hub with all facilities to provide services of transshipment, transloading, ship-to-ship cargo transfer, and cross-docking.
+- 3.01.A09.05) Develop port facilities to serve as an efficient regional logistic management hub with all facilities to provide services of transshipment, transloading, ship-to-ship cargo transfer, and cross-docking.
 
-- Establish an international trading hub that facilitates to reduce transaction costs and to increase operational efficiency for merchants to trade goods including crude oil, fuel, gas, mineral products, and spices.
+- 3.01.A09.06) Establish an international trading hub that facilitates to reduce transaction costs and to increase operational efficiency for merchants to trade goods including crude oil, fuel, gas, mineral products, and spices.
 
-- Establish a crew member-changing centre for ships navigating across Sri Lanka.
+- 3.01.A09.07) Establish a crew member-changing centre for ships navigating across Sri Lanka.
 
-- Improve technology and infrastructure for ship & vessel building and repairs.
+- 3.01.A09.08) Improve technology and infrastructure for ship & vessel building and repairs.
 
-- Promote production and exports of non-traditional and value-added products.
+- 3.01.A09.09) Promote production and exports of non-traditional and value-added products.
 
-- Amend the import policy by considering the importance of the protection of local production, assurance of food security, ease of accessing raw materials for production, priority for essential goods and investment goods and competitive access to imports.
+- 3.01.A09.10) Amend the import policy by considering the importance of the protection of local production, assurance of food security, ease of accessing raw materials for production, priority for essential goods and investment goods and competitive access to imports.
 
-- Strengthen anti-dumping laws, introduce new fair-trading laws, and update existing regulations.
+- 3.01.A09.11) Strengthen anti-dumping laws, introduce new fair-trading laws, and update existing regulations.
 
-- Promote and provide necessary facilities for value-added re-exports and entrepot trading activities without damaging the brand identity and the good image of Sri Lanka.
+- 3.01.A09.12) Promote and provide necessary facilities for value-added re-exports and entrepot trading activities without damaging the brand identity and the good image of Sri Lanka.
 
-- Provide the necessary infrastructure facilities to ensure the quality of imported goods through certification and quality inspection.
+- 3.01.A09.13) Provide the necessary infrastructure facilities to ensure the quality of imported goods through certification and quality inspection.
 
 ### 3.02) Higher productivity - Nation with food security
 
@@ -1552,127 +1552,127 @@ As a result, the current agriculture sector in Sri Lanka faces several major cha
 
 ##### 3.02.A01) National food security
 
-- State support for the local production of all possible food items within the country.
+- 3.02.A01.01) State support for the local production of all possible food items within the country.
 
-- Maintaining a sufficient stock of essential food items for at least three months.
+- 3.02.A01.02) Maintaining a sufficient stock of essential food items for at least three months.
 
-- Maintaining a real time database for existing food stocks in the country.
+- 3.02.A01.03) Maintaining a real time database for existing food stocks in the country.
 
-- A transport system that can use cold chain management technology as per the requirement for distribution of agricultural products and food.
+- 3.02.A01.04) A transport system that can use cold chain management technology as per the requirement for distribution of agricultural products and food.
 
-- Encouraging cultivation of suitable substitute crops for imported crops.
+- 3.02.A01.05) Encouraging cultivation of suitable substitute crops for imported crops.
 
-- Establishing storage, cold storage, and processing units for agricultural products as public-private-people partnership projects.
+- 3.02.A01.06) Establishing storage, cold storage, and processing units for agricultural products as public-private-people partnership projects.
 
 ##### 3.02.A02) High Productivity and Efficiency in Agricultural Systems
 
-- An updated real time national agricultural database.
+- 3.02.A02.01) An updated real time national agricultural database.
 
-- Encouraging the transformation of small-scale farming organizations into medium and large-scale farming units while maintaining land ownership
+- 3.02.A02.02) Encouraging the transformation of small-scale farming organizations into medium and large-scale farming units while maintaining land ownership
 
-- A systematic agricultural insurance system for farmers.
+- 3.02.A02.03) A systematic agricultural insurance system for farmers.
 
-- Solutions to minimize crop damage from wildlife (e.g., modern technological methods, electric fence rehabilitation and maintenance, provision of food and water for animals within reserves, elephant traps, and maintaining tree density).
+- 3.02.A02.04) Solutions to minimize crop damage from wildlife (e.g., modern technological methods, electric fence rehabilitation and maintenance, provision of food and water for animals within reserves, elephant traps, and maintaining tree density).
 
-- Timely renovation of major irrigation systems like tanks, canals, and river diversions.
+- 3.02.A02.05) Timely renovation of major irrigation systems like tanks, canals, and river diversions.
 
-- Promotion of technologies like rainwater conservation and micro-irrigation through technical and financial facilities.
+- 3.02.A02.06) Promotion of technologies like rainwater conservation and micro-irrigation through technical and financial facilities.
 
-- Technical, financial, and other facilities to double the production of tea within three years.
+- 3.02.A02.07) Technical, financial, and other facilities to double the production of tea within three years.
 
-- Restarting the Kantale sugar factory and improving sugarcane cultivation.
+- 3.02.A02.08) Restarting the Kantale sugar factory and improving sugarcane cultivation.
 
-- Directing farmers to systematically cultivate commercial crops like coconut, rubber, and cinnamon in unconventional areas
+- 3.02.A02.09) Directing farmers to systematically cultivate commercial crops like coconut, rubber, and cinnamon in unconventional areas
 
 ##### 3.02.A03) Strong Agricultural Entrepreneurship and Sustainable Markets:
 
-- Ensuring fair prices for agricultural products through regulating market forces.
+- 3.02.A03.01) Ensuring fair prices for agricultural products through regulating market forces.
 
-- Financial support to establish 50,000 agricultural entrepreneurs within five years.
+- 3.02.A03.02) Financial support to establish 50,000 agricultural entrepreneurs within five years.
 
-- Development of agro-industrial zones through organized farmer organizations and private sector contributions.
+- 3.02.A03.03) Development of agro-industrial zones through organized farmer organizations and private sector contributions.
 
-- Expanding opportunities for small and medium-sized enterprises based on agriculture.
+- 3.02.A03.04) Expanding opportunities for small and medium-sized enterprises based on agriculture.
 
-- Providing technical and financial facilities and market opportunities for small and medium-sized agricultural exporters.
+- 3.02.A03.05) Providing technical and financial facilities and market opportunities for small and medium-sized agricultural exporters.
 
-- Facilitating the development of agriculture-based tourism.
+- 3.02.A03.06) Facilitating the development of agriculture-based tourism.
 
-- Government intervention to enhance the Sri Lankan tea brand (Ceylon Tea) and find high-value markets for it.
+- 3.02.A03.07) Government intervention to enhance the Sri Lankan tea brand (Ceylon Tea) and find high-value markets for it.
 
-- Establishing 1,000 export villages.
+- 3.02.A03.08) Establishing 1,000 export villages.
 
-- A comprehensive farmers’ pension scheme with more benefits.
+- 3.02.A03.09) A comprehensive farmers’ pension scheme with more benefits.
 
 ##### 3.02.A04) Optimal Land Management:
 
-- Digital land mapping with an agricultural data system using modern technology for proper land use.
+- 3.02.A04.01) Digital land mapping with an agricultural data system using modern technology for proper land use.
 
-- Promoting integrated farming systems as crop-animal farming systems to increase land productivity.
+- 3.02.A04.02) Promoting integrated farming systems as crop-animal farming systems to increase land productivity.
 
-- Utilization of underutilized and marginal lands for agricultural production using new technology.
+- 3.02.A04.03) Utilization of underutilized and marginal lands for agricultural production using new technology.
 
-- Restricting the use of fertile lands for nonagricultural purposes.
+- 3.02.A04.04) Restricting the use of fertile lands for nonagricultural purposes.
 
 ##### 3.02.A05) Proper Management of Agricultural Practices
 
-- Establishing agricultural machinery supply centers at the local level to provide agricultural machinery at concessional rates.
+- 3.02.A05.01) Establishing agricultural machinery supply centers at the local level to provide agricultural machinery at concessional rates.
 
-- Providing agricultural inputs, including fertilizers, at fair prices.
+- 3.02.A05.02) Providing agricultural inputs, including fertilizers, at fair prices.
 
-- Promotion of the use of chemical and organic fertilizers and other agricultural inputs based on good agricultural practices.
+- 3.02.A05.03) Promotion of the use of chemical and organic fertilizers and other agricultural inputs based on good agricultural practices.
 
-- Produce chemical fertilizers, organic fertilizers, and other agrochemicals in an environmentally friendly manner using local natural raw materials and manufactured wastes.
+- 3.02.A05.04) Produce chemical fertilizers, organic fertilizers, and other agrochemicals in an environmentally friendly manner using local natural raw materials and manufactured wastes.
 
-- Promoting the production, processing, and marketing of seeds and planting materials through state and private sector support.
+- 3.02.A05.05) Promoting the production, processing, and marketing of seeds and planting materials through state and private sector support.
 
-- Providing technical and financial facilities for processing and transportation of agricultural produce.
+- 3.02.A05.06) Providing technical and financial facilities for processing and transportation of agricultural produce.
 
 ##### 3.02.A06) Environmentally Friendly Operations:
 
-- Encouraging farmers to apply fertilizers and other inputs based on site-specific recommendations.
+- 3.02.A06.01) Encouraging farmers to apply fertilizers and other inputs based on site-specific recommendations.
 
-- Increasing the area of certified organic farming.
+- 3.02.A06.02) Increasing the area of certified organic farming.
 
-- Transitioning farms to follow “Good Agricultural Practices” progressively.
+- 3.02.A06.03) Transitioning farms to follow “Good Agricultural Practices” progressively.
 
 ##### 3.02.A07) Empowering Farmers
 
-- Promoting farmer-administered cooperatives and farm companies.
+- 3.02.A07.01) Promoting farmer-administered cooperatives and farm companies.
 
-- Providing technical, financial, and other facilities for intercropping and diversification in perennial crops like tea, rubber, and coconut.
+- 3.02.A07.02) Providing technical, financial, and other facilities for intercropping and diversification in perennial crops like tea, rubber, and coconut.
 
-- Initiation of value-added manufacturing industries related to the export of agricultural crops to branded export products.
+- 3.02.A07.03) Initiation of value-added manufacturing industries related to the export of agricultural crops to branded export products.
 
-- Financial facilities to encourage the use of rain guards for rubber plantations and to identify rubber lands not currently used for tapping and redirect them for rubber tapping.
+- 3.02.A07.04) Financial facilities to encourage the use of rain guards for rubber plantations and to identify rubber lands not currently used for tapping and redirect them for rubber tapping.
 
-- Providing loan schemes up to Rs. 1 million per hectare for cultivating high- yielding varieties of semi perennial or perennial crops with micro-irrigation.
+- 3.02.A07.05) Providing loan schemes up to Rs. 1 million per hectare for cultivating high- yielding varieties of semi perennial or perennial crops with micro-irrigation.
 
 ##### 3.02.A08) Management of Climate Risks:
 
-- Developing climate-resilient crop varieties, and using farming, and irrigation techniques for climate variability.
+- 3.02.A08.01) Developing climate-resilient crop varieties, and using farming, and irrigation techniques for climate variability.
 
-- Establishment of an improved weather forecasting system to guide cultivation and water management.
+- 3.02.A08.02) Establishment of an improved weather forecasting system to guide cultivation and water management.
 
 ##### 3.02.A09) Agricultural Research, and Knowledge Management:
 
-- Equipping extension agents with knowledge and necessary resources to deliver effective extension services.
+- 3.02.A09.01) Equipping extension agents with knowledge and necessary resources to deliver effective extension services.
 
-- Providing efficient agricultural extension services with one extension officer for approximately 350 farm families.
+- 3.02.A09.02) Providing efficient agricultural extension services with one extension officer for approximately 350 farm families.
 
-- Provision of professional training and direct them for employment to alleviate poverty of the rural communities and economically vulnerable groups.
+- 3.02.A09.03) Provision of professional training and direct them for employment to alleviate poverty of the rural communities and economically vulnerable groups.
 
-- Providing performance-based incentives for agricultural extension officers.
+- 3.02.A09.04) Providing performance-based incentives for agricultural extension officers.
 
-- Enhancing funding for agricultural research and development.
+- 3.02.A09.05) Enhancing funding for agricultural research and development.
 
-- Offering structured vocational education opportunities for agricultural professionals to make agriculture a more dignified and attractive profession.
+- 3.02.A09.06) Offering structured vocational education opportunities for agricultural professionals to make agriculture a more dignified and attractive profession.
 
 ##### 3.02.A10) Effective Management and Control of Agricultural Operations
 
-- Establishing a national agricultural development council with representatives from all relevant state institutions, private sectors, and universities
+- 3.02.A10.01) Establishing a national agricultural development council with representatives from all relevant state institutions, private sectors, and universities
 
-- Regulation and monitoring of all agricultural projects by the Ministry of Agriculture.
+- 3.02.A10.02) Regulation and monitoring of all agricultural projects by the Ministry of Agriculture.
 
 ### 3.03) High-quality livestock production - An entrepreneurial approach
 
@@ -1704,53 +1704,53 @@ The NPP aspired to achieve sustainable development in the livestock sector throu
 
 ##### 3.03.A01) Common Activities
 
-- Maximizing production capacity through modernization of farms
+- 3.03.A01.01) Maximizing production capacity through modernization of farms
 
-- Livestock Development Societies where the farm owners are directly involved in the planning and development of the sector
+- 3.03.A01.02) Livestock Development Societies where the farm owners are directly involved in the planning and development of the sector
 
-- Special operational units for animal nutrition, breeding, and health sectors.
+- 3.03.A01.03) Special operational units for animal nutrition, breeding, and health sectors.
 
-- National program for the control and prevention of widespread animal diseases.
+- 3.03.A01.04) National program for the control and prevention of widespread animal diseases.
 
-- A Public Animal Health Division to control diseases transmitted from animals to humans as well as to ensure food security of animal products.
+- 3.03.A01.05) A Public Animal Health Division to control diseases transmitted from animals to humans as well as to ensure food security of animal products.
 
-- Expanding research and development activities in the livestock sector.
+- 3.03.A01.06) Expanding research and development activities in the livestock sector.
 
-- Innovating livestock research institutions and district veterinary research institutes
+- 3.03.A01.07) Innovating livestock research institutions and district veterinary research institutes
 
 ##### 3.03.A02) Dairy Sector
 
-- Transforming small-scale farms into economically viable medium-scale commercial units through mechanization.
+- 3.03.A02.01) Transforming small-scale farms into economically viable medium-scale commercial units through mechanization.
 
-- Developing a large-scale dairy farm system to promote milk production.
+- 3.03.A02.02) Developing a large-scale dairy farm system to promote milk production.
 
-- Establishing 7,500 dairy farms to empower low-income women.
+- 3.03.A02.03) Establishing 7,500 dairy farms to empower low-income women.
 
-- Establishing 7,500 dairy farms to strengthen youth entrepreneurship.
+- 3.03.A02.04) Establishing 7,500 dairy farms to strengthen youth entrepreneurship.
 
-- Doubling the current artificial insemination rates and increasing the number of dairy cattle through advanced technologies
+- 3.03.A02.05) Doubling the current artificial insemination rates and increasing the number of dairy cattle through advanced technologies
 
-- Improving efficiency of farm systems through regional veterinary divisions.
+- 3.03.A02.06) Improving efficiency of farm systems through regional veterinary divisions.
 
-- Implementing successful vaccination programs to eradicate major epidemics.
+- 3.03.A02.07) Implementing successful vaccination programs to eradicate major epidemics.
 
-- Providing health insurance coverage for registered dairy cattle.
+- 3.03.A02.08) Providing health insurance coverage for registered dairy cattle.
 
 ##### 3.03.A03) Marketing of Milk and Dairy Products
 
-- Expanding the network of regional distribution centers for pasteurized and fresh milk.
+- 3.03.A03.01) Expanding the network of regional distribution centers for pasteurized and fresh milk.
 
-- Implementing a payment system for dairy farmers based on proper standards
+- 3.03.A03.02) Implementing a payment system for dairy farmers based on proper standards
 
-- Promoting liquid milk consumption through targeted dairy promotion programs.
+- 3.03.A03.03) Promoting liquid milk consumption through targeted dairy promotion programs.
 
 ##### 3.03.A04) Poultry Meat and Egg Production
 
-- Providing tax relief for livestock and other raw materials to ensure fair prices for eggs and poultry meat.
+- 3.03.A04.01) Providing tax relief for livestock and other raw materials to ensure fair prices for eggs and poultry meat.
 
-- Strengthening the export processes for eggs and poultry meat production.
+- 3.03.A04.02) Strengthening the export processes for eggs and poultry meat production.
 
-- Establishing 5,000 small-scale poultry farms to empower low-income women
+- 3.03.A04.03) Establishing 5,000 small-scale poultry farms to empower low-income women
 
 ### 3.04) A sustainable management - A quality fish resource
 
@@ -2112,55 +2112,55 @@ Power hopes to rebuild the broken public trust in it by creating an independent,
 
 ##### 4.03.A01) Judicial Process
 
-- Appointing a committee of legal experts to review the existing laws and update the laws as necessary.
+- 4.03.A01.01) Appointing a committee of legal experts to review the existing laws and update the laws as necessary.
 
-- Making the judicial process smoother and more efficient by taking steps to introduce modern technology to the judicial process and providing proper training to the judges and staff.
+- 4.03.A01.02) Making the judicial process smoother and more efficient by taking steps to introduce modern technology to the judicial process and providing proper training to the judges and staff.
 
-- Taking steps to establish Smart courthouses and maintaining soft copies of the judicial reports.
+- 4.03.A01.03) Taking steps to establish Smart courthouses and maintaining soft copies of the judicial reports.
 
-- Appointment of research officers to assist Judges of Appellate and Original Courts to get accurate, eloquent and prompt results.
+- 4.03.A01.04) Appointment of research officers to assist Judges of Appellate and Original Courts to get accurate, eloquent and prompt results.
 
-- Establishing an International Arbitration and Conciliation Center for arbitration and conciliation of disputes arising in international commercial transactions within the South Asian region.
+- 4.03.A01.05) Establishing an International Arbitration and Conciliation Center for arbitration and conciliation of disputes arising in international commercial transactions within the South Asian region.
 
-- Development of infrastructure for safe storage of evidence related to criminal law cases.
+- 4.03.A01.06) Development of infrastructure for safe storage of evidence related to criminal law cases.
 
-- Introducing new laws to expedite the disposal of productions to relevant aggrieved parties before diminishing the market values of the productions.
+- 4.03.A01.07) Introducing new laws to expedite the disposal of productions to relevant aggrieved parties before diminishing the market values of the productions.
 
-- Update the laws related to bail by looking at the present issues in the bail law and bail process.
+- 4.03.A01.08) Update the laws related to bail by looking at the present issues in the bail law and bail process.
 
-- To introduce mechanisms to prioritize and expedite the disposal of cases related to sexual offences committed against minors and women and bring justice to the victims.
+- 4.03.A01.09) To introduce mechanisms to prioritize and expedite the disposal of cases related to sexual offences committed against minors and women and bring justice to the victims.
 
-- Establishing provincial branches of the Department of Government Analyst in order to accelerate the judicial process.
+- 4.03.A01.10) Establishing provincial branches of the Department of Government Analyst in order to accelerate the judicial process.
 
 ##### 4.03.A02) Bribery and corruption
 
-- Establishment of a stolen public asset recovery agency with the technical and advisory support of international organizations such as Stolen Asset Recovery (STAR) and United Nations Office on Drugs and Crime (UNODC) to recover the stolen state assets.
+- 4.03.A02.01) Establishment of a stolen public asset recovery agency with the technical and advisory support of international organizations such as Stolen Asset Recovery (STAR) and United Nations Office on Drugs and Crime (UNODC) to recover the stolen state assets.
 
-- Facilitate the Director General of the Bribery Commission with necessary authority to give effect to the International Convention on the Prevention of Corruption and Coordinating the Recovery of Stolen Assets.
+- 4.03.A02.02) Facilitate the Director General of the Bribery Commission with necessary authority to give effect to the International Convention on the Prevention of Corruption and Coordinating the Recovery of Stolen Assets.
 
-- Appointment of a permanent bench of three Judges of the High Court to streamline cases of financial crimes, bribery, and corruption.
+- 4.03.A02.03) Appointment of a permanent bench of three Judges of the High Court to streamline cases of financial crimes, bribery, and corruption.
 
-- Establishment of Anti-Corruption Commission office in every district.
+- 4.03.A02.04) Establishment of Anti-Corruption Commission office in every district.
 
-- Investigate complaints received by the Anti-Corruption Commission within six (06) months or submit a report to Parliament every six (06) months on complaints that are not dealt with.
+- 4.03.A02.05) Investigate complaints received by the Anti-Corruption Commission within six (06) months or submit a report to Parliament every six (06) months on complaints that are not dealt with.
 
-- Prepare the necessary laws to bring to justice those who facilitate the protection to those are accused of state financial corruption and consider them too be involved in the wrongdoing.
+- 4.03.A02.06) Prepare the necessary laws to bring to justice those who facilitate the protection to those are accused of state financial corruption and consider them too be involved in the wrongdoing.
 
-- Prioritize legislation to prevent corrupt practices such as financial abuse, bribery, corruption etc.
+- 4.03.A02.07) Prioritize legislation to prevent corrupt practices such as financial abuse, bribery, corruption etc.
 
-- Establishment of a government-sponsored awareness campaign among the public about corruption, fraud and bribery and to empower the public against them.
+- 4.03.A02.08) Establishment of a government-sponsored awareness campaign among the public about corruption, fraud and bribery and to empower the public against them.
 
-- Re-visiting the cases withdrawn by the Bribery Commission and the Attorney General and resubmit appropriate cases.
+- 4.03.A02.09) Re-visiting the cases withdrawn by the Bribery Commission and the Attorney General and resubmit appropriate cases.
 
 ##### 4.03.A03) Attorney General’s Department
 
-- Introducing a Directorate of Public Prosecution (DPP) as a mechanism to eliminate delays within the judicial system and establishing a main DPP office and sub offices in the provinces which will remain independent of the Attorney General’s Department to conduct cases on behalf of the government.
+- 4.03.A03.01) Introducing a Directorate of Public Prosecution (DPP) as a mechanism to eliminate delays within the judicial system and establishing a main DPP office and sub offices in the provinces which will remain independent of the Attorney General’s Department to conduct cases on behalf of the government.
 
-- Documenting the prosecution guidelines that must be followed by the Attorney General’s Department when prosecuting.
+- 4.03.A03.02) Documenting the prosecution guidelines that must be followed by the Attorney General’s Department when prosecuting.
 
-- Inform the complainants/aggrieved parties about the reasons, in the event the Attorney General’s Department decides not to prosecute after the investigation process.
+- 4.03.A03.03) Inform the complainants/aggrieved parties about the reasons, in the event the Attorney General’s Department decides not to prosecute after the investigation process.
 
-- Appointing a special Parliamentary Ombudsman to address the grievances of the aggrieved party regarding the activities of the Attorney General’s Department.
+- 4.03.A03.04) Appointing a special Parliamentary Ombudsman to address the grievances of the aggrieved party regarding the activities of the Attorney General’s Department.
 
 ### 4.04) Public security assuring - People friendly service
 
