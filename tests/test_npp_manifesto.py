@@ -15,6 +15,9 @@ class TestCase(unittest.TestCase):
         lines = TEST_M.lines
         self.assertEqual(len(lines), 4_363)
 
+        for i, line in enumerate(lines[:300]):
+            print(i, f'"{line}"')
+
     def test_l1_list(self):
         l1_list = TEST_M.l1_list
         self.assertEqual(len(l1_list), 4)
