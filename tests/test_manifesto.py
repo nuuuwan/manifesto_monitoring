@@ -28,13 +28,15 @@ class TestCase(unittest.TestCase):
         )
 
     def test_to_dense_dict(self):
-        print(
-            json.dumps(
-                TEST_MANIFESTO.to_dense_dict(), indent=2, ensure_ascii=False
-            )
+        s = json.dumps(
+            TEST_MANIFESTO.to_dense_dict(), indent=2, ensure_ascii=False
         )
+        self.assertEqual(len(s), 75982)
 
     def test_to_md_lines(self):
-        md_lines = TEST_MANIFESTO.to_md_lines()
         md_path = os.path.join("data", "manifestos", "npp_manifesto.md")
+        if os.path.exists(md_path):
+            os.remove(md_path)
+        md_lines = TEST_MANIFESTO.to_md_lines()
         File(md_path).write("\n\n".join(md_lines))
+        self.assertTrue(os.path.exists(md_path))
