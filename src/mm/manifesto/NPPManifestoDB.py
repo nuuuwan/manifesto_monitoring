@@ -7,19 +7,43 @@ class NPPManifestoDB:
         return [l1_topic.to_dict() for l1_topic in self.l1_topics]
 
     @cached_property
+    def l2_topics(self):
+        l2_topics = []
+        for l1_topic in self.l1_topics:
+            l2_topics.extend(l1_topic.l2_topics)
+        return l2_topics
+
+    @cached_property
     def l2_topics_table(self):
         table = []
-        for l1_topic in self.l1_topics:
-            for l2_topic in l1_topic.l2_topics:
-                table.append(l2_topic.to_dict())
+        for l2_topic in self.l2_topics:
+            table.append(l2_topic.to_dict())
         return table
+
+    @cached_property
+    def activity_list(self):
+        activities = []
+        for l2_topic in self.l2_topics:
+            activities.extend(l2_topic.activity_list.activities)
+        return activities
 
     @cached_property
     def activities_table(self):
         table = []
-        for l1_topic in self.l1_topics:
-            for l2_topic in l1_topic.l2_topics:
-                activity_list = l2_topic.activity_list
-                for activity in activity_list.activities:
-                    table.append(activity.to_dict())
+        for activity in self.activity_list:
+            table.append(activity.to_dict())
+        return table
+
+    @cached_property
+    def principle_list(self):
+        principles = []
+        for l2_topic in self.l2_topics:
+            principles.extend(l2_topic.principle_list)
+        return principles
+
+    @cached_property
+    def principles_table(self):
+        table = []
+        for principle in self.principle_list:
+            table.append(principle.to_dict())
         return table

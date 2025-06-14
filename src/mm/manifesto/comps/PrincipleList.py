@@ -13,6 +13,9 @@ class PrincipleList:
     def __len__(self):
         return len(self.principles)
 
+    def __iter__(self):
+        return iter(self.principles)
+
     @staticmethod
     def __get_principles_lines__(lines: list[str]) -> list[str]:
         principles_lines = []

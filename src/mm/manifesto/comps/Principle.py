@@ -13,6 +13,15 @@ class Principle:
     def key(self):
         return f"{self.l1_num}.{self.l2_num:02d}.P{self.principle_num}"
 
+    def to_dict(self):
+        return {
+            "key": self.key,
+            "l1_num": self.l1_num,
+            "l2_num": self.l2_num,
+            "principle_num": self.principle_num,
+            "title": self.title,
+        }
+
     @cached_property
     def short_title(self):
         return f"{self.key}) {self.title}"
