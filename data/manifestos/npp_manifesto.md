@@ -828,7 +828,9 @@ The NPP is committed to preventing the deliberate and strategic misuse of mass m
 
 #### Activities
 
-##### 1.08.A01) A safe country
+##### 1.08.A01) 02. An honourable life
+
+##### 1.08.A02) A safe country
 
 ## 2) An honourable life - A safer country
 
@@ -902,69 +904,67 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 - 2.01.A04.06) Provision of incentives for financial and insurance services to ensure the safety of pension funds and continuous benefits.
 
-- 2.01.A04.07) An interest rate that is 5% higher than the normal bank rate(s) for senior citizens’ fixed deposits.
+- 2.01.A04.07) An interest rate that is 5% higher than the normal bank rate(s) for senior citizens’ fixed deposits. A Meaningful and Satisfactory Life for Persons with Disabilities
 
-##### 2.01.A05) A Meaningful and Satisfactory Life for Persons with Disabilities
+- 2.01.A04.08) Establishment of a comprehensive data-base, developed by experts, on persons with disabilities
 
-- 2.01.A05.01) Establishment of a comprehensive data-base, developed by experts, on persons with disabilities
+- 2.01.A04.09) Provision of a monthly financial aid of Rs. 10,000 to persons with disabilities in low-income families.
 
-- 2.01.A05.02) Provision of a monthly financial aid of Rs. 10,000 to persons with disabilities in low-income families.
+- 2.01.A04.10) Facilitating education, training, employment, and livelihoods opportunities for persons with disabilities.
 
-- 2.01.A05.03) Facilitating education, training, employment, and livelihoods opportunities for persons with disabilities.
+##### 2.01.A05) Social protection for women-headed families, single parent
 
-##### 2.01.A06) Social protection for women-headed families, single parent
+- 2.01.A05.01) Financial assistance for affected individuals (of the above categories) based on needs and income levels.
 
-- 2.01.A06.01) Financial assistance for affected individuals (of the above categories) based on needs and income levels.
+- 2.01.A05.02) Legal aid and counseling services are offered based on needs and requests.
 
-- 2.01.A06.02) Legal aid and counseling services are offered based on needs and requests.
+- 2.01.A05.03) Provision of alternative housing and job support when needed.
 
-- 2.01.A06.03) Provision of alternative housing and job support when needed.
+- 2.01.A05.04) Establishment of mechanisms for social and psychological support for women affected by violence an d abuse.
 
-- 2.01.A06.04) Establishment of mechanisms for social and psychological support for women affected by violence an d abuse.
+##### 2.01.A06) Health: Social Protection for Persons with Chronic Illnesses
 
-##### 2.01.A07) Health: Social Protection for Persons with Chronic Illnesses
+- 2.01.A06.01) Creating a digital data repository of individuals with chronic illnesses such as cancer and kidney disease.
 
-- 2.01.A07.01) Creating a digital data repository of individuals with chronic illnesses such as cancer and kidney disease.
+- 2.01.A06.02) A minimum monthly financial grant of Rs. 10,000 to persons with chronic illnesses on a needs basis.
 
-- 2.01.A07.02) A minimum monthly financial grant of Rs. 10,000 to persons with chronic illnesses on a needs basis.
+- 2.01.A06.03) Professiona l support and social empowerment.
 
-- 2.01.A07.03) Professiona l support and social empowerment.
+##### 2.01.A07) Nourishing Future Generations: Reducing Malnutrition
 
-##### 2.01.A08) Nourishing Future Generations: Reducing Malnutrition
+- 2.01.A07.01) Identifying low-income families with malnourished children.
 
-- 2.01.A08.01) Identifying low-income families with malnourished children.
+- 2.01.A07.02) Educating parents about measures to combat malnutrition.
 
-- 2.01.A08.02) Educating parents about measures to combat malnutrition.
+- 2.01.A07.03) Provision of financial assistance through field officers for obtaining nutritious food for families with urgent needs.
 
-- 2.01.A08.03) Provision of financial assistance through field officers for obtaining nutritious food for families with urgent needs.
+##### 2.01.A08) Nutritional Program for Pregnant Women
 
-##### 2.01.A09) Nutritional Program for Pregnant Women
+- 2.01.A08.01) Identifying pregnant women needing additional nutrition through community health services.
 
-- 2.01.A09.01) Identifying pregnant women needing additional nutrition through community health services.
+- 2.01.A08.02) Provision of financial support for nutritious food packages during pregnancy and the first year of childbirth for low-income families.
 
-- 2.01.A09.02) Provision of financial support for nutritious food packages during pregnancy and the first year of childbirth for low-income families.
+- 2.01.A08.03) Continuous awareness and monitoring by family health officers.
 
-- 2.01.A09.03) Continuous awareness and monitoring by family health officers.
+##### 2.01.A09) Safety: Adequate Care for Children
 
-##### 2.01.A10) Safety: Adequate Care for Children
+- 2.01.A09.01) Establishment of Childcare Centers at the Gramaniladari level with public and private partnerships based on needs and requests.
 
-- 2.01.A10.01) Establishment of Childcare Centers at the Gramaniladari level with public and private partnerships based on needs and requests.
+- 2.01.A09.02) Registration of existing institutions with adequate qualifications for childcare.
 
-- 2.01.A10.02) Registration of existing institutions with adequate qualifications for childcare.
+- 2.01.A09.03) Training of staff for the effective management of Childcare Centers and monitoring their performance.
 
-- 2.01.A10.03) Training of staff for the effective management of Childcare Centers and monitoring their performance.
+- 2.01.A09.04) Appointment of social service/development officers to provide professional services and provision of incentives for small and medium scale entrepreneurs to provide such services.
 
-- 2.01.A10.04) Appointment of social service/development officers to provide professional services and provision of incentives for small and medium scale entrepreneurs to provide such services.
+##### 2.01.A10) Pension Scheme for all citizens
 
-##### 2.01.A11) Pension Scheme for all citizens
+- 2.01.A10.01) Development and implementation of a broad pension policy applicable to all workers in the country.
 
-- 2.01.A11.01) Development and implementation of a broad pension policy applicable to all workers in the country.
+- 2.01.A10.02) Establishing a government-certified pension fund under the supervision of the Department of Pensions and the Central Bank.
 
-- 2.01.A11.02) Establishing a government-certified pension fund under the supervision of the Department of Pensions and the Central Bank.
+- 2.01.A10.03) Motivating all citizens, who are currently not employed in the Government or Corporate sector such as farmers and fishermen and others to join the pension scheme.
 
-- 2.01.A11.03) Motivating all citizens, who are currently not employed in the Government or Corporate sector such as farmers and fishermen and others to join the pension scheme.
-
-- 2.01.A11.04) Using the pension fund as an insurance scheme during emergencies/disability.
+- 2.01.A10.04) Using the pension fund as an insurance scheme during emergencies/disability.
 
 ### 2.02) An efficient workforce - A respectable professional life
 
@@ -1994,9 +1994,25 @@ Sri Lanka’s sailors hold world fame for their excellence, skill, and performan
 
 ##### 3.12.A01) Training of sailors
 
-##### 3.12.A02) Harbour infrastructure and other services
+##### 3.12.A02) • Developing industrial training facilities
 
-##### 3.12.A03) Nautical laws, environmental protection, and administration
+##### 3.12.A03) • Protecting and developing nautical welfare and ethics
+
+##### 3.12.A04) Harbour infrastructure and other services
+
+##### 3.12.A05) • Integrating the nautical field with the tourist industry
+
+##### 3.12.A06) Nautical laws, environmental protection, and administration
+
+##### 3.12.A07) • Analysing and amending laws related to vessel registration
+
+##### 3.12.A08) • A productive and cautious Port State Control (PSC) system
+
+##### 3.12.A09) • A transparent PSC service based on goals
+
+##### 3.12.A10) (MARPOL) and other environmental protection laws
+
+##### 3.12.A11) • Enacting laws on nautical protection in Sri Lanka
 
 ### 3.13) A secured data system - An ICT revolution
 
@@ -2022,9 +2038,11 @@ The National People’s Power’s telecommunication policy framework addresses a
 
 ##### 3.13.A06) Public procedures for the electronic communication industry
 
-##### 3.13.A07) Broadcasting industry
+##### 3.13.A07) • Infrastructure to promote IOT applications in all fields
 
-##### 3.13.A08) Cinema and entertainment industry
+##### 3.13.A08) Broadcasting industry
+
+##### 3.13.A09) Cinema and entertainment industry
 
 ### 3.14) A productive land management system - Integrated control plan
 
@@ -2038,13 +2056,23 @@ The ordinances and regulations imposed during the colonial period to control lan
 
 ##### 3.14.A01) Land utilization
 
-##### 3.14.A02) Protecting land in sensitive areas
+##### 3.14.A02) • National landuse plan
 
-##### 3.14.A03) Land registration
+##### 3.14.A03) • Up-to-date state land inventory
 
-##### 3.14.A04) Land use management
+##### 3.14.A04) • Making the land valuation process formal and efficient
 
-##### 3.14.A05) Surveying and Mapping
+##### 3.14.A05) Protecting land in sensitive areas
+
+##### 3.14.A06) Land registration
+
+##### 3.14.A07) Land use management
+
+##### 3.14.A08) • An integrated land use map
+
+##### 3.14.A09) • A land suitability map based on spatial data analysis
+
+##### 3.14.A10) Surveying and Mapping
 
 ### 3.15) Scientifically managed construction Industry - Excellent quality workforce
 
@@ -2078,6 +2106,14 @@ Past governments invested loans from local banks and two-party and multi-party l
 
 ##### 4.01.A01) Civil and Political Rights as basic rights
 
+##### 4.01.A02) • Introducing a new parliamentary electoral system
+
+##### 4.01.A03) • Limiting official presidential residences to one
+
+##### 4.01.A04) • Abolishing the pension offered to MPs after 05 years
+
+##### 4.01.A05) • Removing the tax-free vehicle permits for MPs
+
 ### 4.02) An efficient public service - A skill based professionalism
 
 #### Introduction
@@ -2091,6 +2127,8 @@ The inefficiency of public service and the associated bribery, corruption, fraud
 It is our aim to convert the government service to a satisfactory state instrument by freeing it from its current state and transforming it into a non-corrupted one which has the public faith and fulfils the public expectations.
 
 #### Activities
+
+##### 4.02.A01) • Resolving issues in the service minutes and amending them
 
 ### 4.03) Rule of law - A judicial system with equal access
 
@@ -2185,6 +2223,14 @@ The increase in the remand prisoner population is a major cause of prison overcr
 Although it is the expectation of the National People’s Power to create a social environment where people are not inclined to do crimes, we consider the welfare of the people serving prison sentences for any reason to be the responsibility of the government.
 
 #### Activities
+
+##### 4.05.A01) • Preventing all forms of torture inside prisons
+
+##### 4.05.A02) • Ensuring the quality of the food given to prisoners
+
+##### 4.05.A03) • Launching vocational counselling service to reform prisoners
+
+##### 4.05.A04) • Educational and vocational training courses in every prison
 
 ### 4.06) A drug-free country - A healthier citizen life
 
