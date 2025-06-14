@@ -1,6 +1,6 @@
 # NPP Manifesto
 
-(Source [https://www.npp.lk/up/policies/en/npppolicystatement.pdf](https://www.npp.lk/up/policies/en/npppolicystatement.pdf))
+Source: [https://www.npp.lk/up/policies/en/npppolicystatement.pdf](https://www.npp.lk/up/policies/en/npppolicystatement.pdf)
 
 ## 1) A fulfilling life - A comfortable country
 
