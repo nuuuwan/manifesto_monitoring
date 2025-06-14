@@ -4192,12 +4192,10 @@ Christian, Catholic, etc. Because of that diversity, it is essential for the wel
 
 - 4.09.A01.16) Implementation of the National Language Policy recognized under the 16th Amendment of the Constitution by providing necessary resources and technical facilities.
 
-- 4.09.A01.17) Taking steps to develop facilities such as land, housing, education, and health of the upcountry Tamil community by recognizing their identity and rights, as mentioned in the Haton Declaration made on 2023.10.15 by the National People’s
+- 4.09.A01.17) Taking steps to develop facilities such as land, housing, education, and health of the upcountry Tamil community by recognizing their identity and rights, as mentioned in the Haton Declaration made on 2023.10.15 by the National People’s Power
 
-##### 4.09.A02) Power
+- 4.09.A01.18) Increase the salaries of the upcountry plantation workers compared to the cost of living.
 
-- 4.09.A02.01) Increase the salaries of the upcountry plantation workers compared to the cost of living.
+- 4.09.A01.19) Providing officials, employees and translators who can work in Tamil to civil services such as police stations and government offices in the Northern and Eastern provinces and Upcountry areas.
 
-- 4.09.A02.02) Providing officials, employees and translators who can work in Tamil to civil services such as police stations and government offices in the Northern and Eastern provinces and Upcountry areas.
-
-- 4.09.A02.03) To diplomatically solve the challenges posed by foreign fishermen to fishing activities in the North and East and other areas and make room for the necessary infrastructure and marketing facilities.  
+- 4.09.A01.20) To diplomatically solve the challenges posed by foreign fishermen to fishing activities in the North and East and other areas and make room for the necessary infrastructure and marketing facilities.  

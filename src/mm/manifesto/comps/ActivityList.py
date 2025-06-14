@@ -20,7 +20,8 @@ class ActivityList:
             and len(line) < 64
             and not line[0].islower()
             and line[-1] != "."
-            and line not in ["Childhood Development Centres"]  # HACK!
+            and line
+            not in ["Childhood Development Centres", "Power"]  # HACK!
         )
 
     @staticmethod

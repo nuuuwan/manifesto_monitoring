@@ -25,17 +25,14 @@ class TestCase(unittest.TestCase):
 
         return test_data_list
 
-    @unittest.skip("Skip test for now")
-    def test_test_data_list(self):
-        test_data_list = self.__get_test_data_list__()
-        self.assertEqual(
-            len(test_data_list),
-            9,
-        )
-
     def test_all_idx(self):
         all_idx = TEST_MANIFESTO.all_idx
         test_data_list = self.__get_test_data_list__()
+        self.assertGreaterEqual(
+            len(test_data_list),
+            10,
+            "Should have at least 10 items in test data",
+        )
         for key, item in test_data_list:
             row = all_idx.get(key)
             self.assertIsNotNone(row, f"Key not found: {key}")
@@ -43,5 +40,6 @@ class TestCase(unittest.TestCase):
             self.assertEqual(
                 row["item"],
                 item,
-                f"Item mismatch for key {key}: {item} != {row['item']}",
+                f"Item mismatch for key {key}: \"{item}\" != \"{
+                    row['item']}\"",
             )
