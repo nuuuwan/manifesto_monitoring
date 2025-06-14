@@ -1,8 +1,8 @@
 # mm.manifesto (auto generate by build_inits.py)
 # flake8: noqa: F408
 
-from mm.manifesto.comps import (Activity, ActivityList, Introduction, L1Topic,
-                                L2Topic, Principle, PrincipleList)
+from mm.manifesto.comps import (Activity, ActivityList, Common, Introduction,
+                                L1Topic, L2Topic, Principle, PrincipleList)
 from mm.manifesto.NPPManifesto import NPPManifesto
 from mm.manifesto.NPPManifestoDB import NPPManifestoDB
 from mm.manifesto.NPPManifestoPDF import NPPManifestoPDF

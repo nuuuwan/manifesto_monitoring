@@ -3,6 +3,7 @@
 
 from mm.manifesto.comps.Activity import Activity
 from mm.manifesto.comps.ActivityList import ActivityList
+from mm.manifesto.comps.Common import Common
 from mm.manifesto.comps.Introduction import Introduction
 from mm.manifesto.comps.L1Topic import L1Topic
 from mm.manifesto.comps.L2Topic import L2Topic

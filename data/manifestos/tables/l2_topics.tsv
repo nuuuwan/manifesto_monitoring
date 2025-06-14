@@ -1,40 +1,40 @@
 key	l1_num	l2_num	title	n_principles	n_activities
-1.01	1	1	A civilized citizen - An advanced human resource	6	17
-1.02	1	2	A vigorous life - Healthy people	5	20
-1.03	1	3	A comfortable home - A healthy living	3	3
+1.01	1	1	A civilized citizen - An advanced human resource	6	4
+1.02	1	2	A vigorous life - Healthy people	5	1
+1.03	1	3	A comfortable home - A healthy living	3	1
 1.04	1	4	An energetic citizen - Triumphant people	6	1
-1.05	1	5	A rich cultural life - A compassionate society	7	8
-1.06	1	6	A conserved history - Innovating across heritage	3	3
-1.07	1	7	A sustainable biotic world - An Avergreen life	10	13
-1.08	1	8	Free media industry - An objectively informed society	4	2
-2.01	2	1	A safer society - An enriched nation	7	9
+1.05	1	5	A rich cultural life - A compassionate society	7	2
+1.06	1	6	A conserved history - Innovating across heritage	3	1
+1.07	1	7	A sustainable biotic world - An Avergreen life	10	2
+1.08	1	8	Free media industry - An objectively informed society	4	1
+2.01	2	1	A safer society - An enriched nation	7	1
 2.02	2	2	An efficient workforce - A respectable professional life	3	2
-2.03	2	3	Impartial human identity - Gender equality in social-life	9	1
+2.03	2	3	Impartial human identity - Gender equality in social-life	9	2
 2.04	2	4	A safer world for children - A creative future generation	4	1
 2.05	2	5	A contented youth - Cultured, independent thinkers	45	0
 2.06	2	6	A respectable senior citizen- A meaningful retirement	0	0
-2.07	2	7	An unimpaired social life - An fair and equitable approach	6	7
-3.01	3	1	A democratic economy - An affluent country	10	8
-3.02	3	2	Higher productivity - Nation with food security	10	10
-3.03	3	3	High-quality livestock production - An entrepreneurial approach	6	4
-3.04	3	4	A sustainable management - A quality fish resource	0	11
-3.05	3	5	A digital state - An international partnership	0	0
-3.06	3	6	A research and development approach - scientific solutions for the society	0	5
-3.07	3	7	A modernised tourist industry - An attractive destination	0	5
-3.08	3	8	An entrepreneurship explosion - An organic approach	0	9
-3.09	3	9	A sustainable resource utilization - Generation of highest benefits	0	1
-3.10	3	10	A secured energy centre - A sustainable revenue source	0	2
-3.11	3	11	A good public transportation service - Speedy destination	0	13
-3.12	3	12	A sustainable marine resource - Acquiring a portion of global maritime business	0	5
-3.13	3	13	A secured data system - An ICT revolution	0	8
-3.14	3	14	A productive land management system - Integrated control plan	0	8
-3.15	3	15	Scientifically managed construction Industry - Excellent quality workforce	0	2
+2.07	2	7	An unimpaired social life - An fair and equitable approach	6	1
+3.01	3	1	A democratic economy - An affluent country	10	1
+3.02	3	2	Higher productivity - Nation with food security	10	1
+3.03	3	3	High-quality livestock production - An entrepreneurial approach	6	1
+3.04	3	4	A sustainable management - A quality fish resource	8	1
+3.05	3	5	A digital state - An international partnership	6	1
+3.06	3	6	A research and development approach - scientific solutions for the society	8	1
+3.07	3	7	A modernised tourist industry - An attractive destination	0	1
+3.08	3	8	An entrepreneurship explosion - An organic approach	6	1
+3.09	3	9	A sustainable resource utilization - Generation of highest benefits	4	1
+3.10	3	10	A secured energy centre - A sustainable revenue source	3	1
+3.11	3	11	A good public transportation service - Speedy destination	5	1
+3.12	3	12	A sustainable marine resource - Acquiring a portion of global maritime business	7	6
+3.13	3	13	A secured data system - An ICT revolution	6	2
+3.14	3	14	A productive land management system - Integrated control plan	3	6
+3.15	3	15	Scientifically managed construction Industry - Excellent quality workforce	5	1
 4.01	4	1	A new constitution - A united Sri Lankan nation	0	4
-4.02	4	2	An efficient public service - A skill based professionalism	0	1
-4.03	4	3	Rule of law - A judicial system with equal access	3	3
-4.04	4	4	Public security assuring - People friendly service	0	2
-4.05	4	5	A humanitarian prison - A lawful confinement	0	4
+4.02	4	2	An efficient public service - A skill based professionalism	10	1
+4.03	4	3	Rule of law - A judicial system with equal access	3	1
+4.04	4	4	Public security assuring - People friendly service	3	1
+4.05	4	5	A humanitarian prison - A lawful confinement	2	4
 4.06	4	6	A drug-free country - A healthier citizen life	0	0
-4.07	4	7	A dignified diplomacy - A sovereign state	0	19
-4.08	4	8	High level of national security - Secured state	0	0
-4.09	4	9	A Sri Lankan nation - The universal citizen	0	1
+4.07	4	7	A dignified diplomacy - A sovereign state	0	1
+4.08	4	8	High level of national security - Secured state	9	1
+4.09	4	9	A Sri Lankan nation - The universal citizen	4	1

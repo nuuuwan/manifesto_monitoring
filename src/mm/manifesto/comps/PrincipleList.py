@@ -1,6 +1,7 @@
 from dataclasses import dataclass
 from functools import cached_property
 
+from mm.manifesto.comps.Common import Common
 from mm.manifesto.comps.Principle import Principle
 
 
@@ -29,6 +30,7 @@ class PrincipleList:
 
             if has_started:
                 principles_lines.append(line.strip())
+
         return principles_lines
 
     @staticmethod
@@ -37,9 +39,10 @@ class PrincipleList:
         principles_num = 0
 
         principle_lines = PrincipleList.__get_principles_lines__(lines)
+
         for line in principle_lines:
 
-            if line[:2] == "■ ":
+            if Common.is_bullet(line):
                 principles_num += 1
                 principles.append(
                     Principle(

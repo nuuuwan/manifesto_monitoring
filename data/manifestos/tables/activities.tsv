@@ -1,213 +1,61 @@
 key	l1_num	l2_num	activity_num	title	n_items
-1.01.A01	1	1	1	Early Childhood Development Education	9
-1.01.A02	1	1	2	Primary and secondary education	1
-1.01.A03	1	1	3	School education	4
-1.01.A04	1	1	4	Primary education	4
-1.01.A05	1	1	5	Junior Secondary Education	8
-1.01.A06	1	1	6	Senior secondary education	8
-1.01.A07	1	1	7	National level assessments	5
-1.01.A08	1	1	8	Development and maintenance of human resources	8
-1.01.A09	1	1	9	Vocational Education	3
-1.01.A10	1	1	10	Government - assisted schools	1
-1.01.A11	1	1	11	Higher Education	1
-1.01.A12	1	1	12	State University System	21
-1.01.A13	1	1	13	Research and Post-graduate Education	3
-1.01.A14	1	1	14	Vocational Education Universities	2
-1.01.A15	1	1	15	Private Education	1
-1.01.A16	1	1	16	Adult Education	2
-1.01.A17	1	1	17	Distance Education	1
-1.02.A01	1	2	1	Effective Health Service Management	2
-1.02.A02	1	2	2	Digital Health	2
-1.02.A03	1	2	3	Health Promotion and Disease prevention	1
-1.02.A04	1	2	4	Food Safety	1
-1.02.A05	1	2	5	Occupational Health, safety and wellbeing	1
-1.02.A06	1	2	6	Elderly Care	3
-1.02.A07	1	2	7	Primary Care:	1
-1.02.A08	1	2	8	Hospital care	1
-1.02.A09	1	2	9	Specialized care	1
-1.02.A10	1	2	10	Patients Safety	3
-1.02.A11	1	2	11	Emergency care	1
-1.02.A12	1	2	12	Provision of essential Drugs	7
-1.02.A13	1	2	13	Mental Health Care	4
-1.02.A14	1	2	14	Rehabilitation Care	2
-1.02.A15	1	2	15	Palliative care (Sahana Sathkara seva)	1
-1.02.A16	1	2	16	Oral Health Services	1
-1.02.A17	1	2	17	Estate sector Health services	1
-1.02.A18	1	2	18	Indigenous Health care services	6
-1.02.A19	1	2	19	Medical tourism in Sri Lanka	1
-1.02.A20	1	2	20	Private medical service	1
-1.03.A01	1	3	1	Urba n Housing	1
-1.03.A02	1	3	2	Rural Housing	1
-1.03.A03	1	3	3	Estate Housing	1
+1.01.A01	1	1	1	NO-TITLE	4
+1.01.A02	1	1	2	■ Adaptation programs to deal with multicultural diversity	4
+1.01.A03	1	1	3	■ Primary education from year 1 to year 5 ■ Junior Secondary Education from 6th to 9th year ■ Senior Secondary (Lower) Education from Year 10 to Year 11 ■ Senior Secondary (Higher) Education from Years 12 to 13	19
+1.01.A04	1	1	4	■ Sexual and reproductive health education tailored for youth	46
+1.02.A01	1	2	1	NO-TITLE	55
+1.03.A01	1	3	1	NO-TITLE	12
 1.04.A01	1	4	1	NO-TITLE	30
-1.05.A01	1	5	1	NO-TITLE	15
-1.05.A02	1	5	2	Literature	9
-1.05.A03	1	5	3	Film and Tele Drama	12
-1.05.A04	1	5	4	Theatre	8
-1.05.A05	1	5	5	Dance	9
-1.05.A06	1	5	6	Visual Arts, Sculpture, and Photography	4
-1.05.A07	1	5	7	Music and Song	8
-1.05.A08	1	5	8	Intangible Cultural Heritage and Traditional Arts	6
-1.06.A01	1	6	1	Research and Analysis	3
-1.06.A02	1	6	2	Stakeholder Engagement	2
-1.06.A03	1	6	3	Education and Awareness	2
-1.07.A01	1	7	1	Proper Land Use	5
-1.07.A02	1	7	2	Safe Water Consumption	7
-1.07.A03	1	7	3	Sustainability of Marine and Coastal Zone	8
-1.07.A04	1	7	4	Existence of Clean Air	5
-1.07.A05	1	7	5	Legal and Ethical framework for Environmental Conventions	5
-1.07.A06	1	7	6	Various Ecosystems Hilly areas	3
-1.07.A07	1	7	7	Lowlands	3
-1.07.A08	1	7	8	Wetlands	3
-1.07.A09	1	7	9	Mangroves	2
-1.07.A10	1	7	10	Forests and Wildlife	10
-1.07.A11	1	7	11	Sustainable Solid Waste Management	7
-1.07.A12	1	7	12	Management of home garden-related resources	3
-1.07.A13	1	7	13	Relationships and values between ecosystems	4
+1.05.A01	1	5	1	NO-TITLE	47
+1.05.A02	1	5	2	■ Encouraging traditional dance forms	23
+1.06.A01	1	6	1	NO-TITLE	7
+1.07.A01	1	7	1	■ Designation and protection of ecologically sensitive areas	49
+1.07.A02	1	7	2	■ Controlling and preventing the spread of invasive species	15
 1.08.A01	1	8	1	NO-TITLE	15
-1.08.A02	1	8	2	02. An honourable life A safe country	0
-2.01.A01	2	1	1	Social protection and Welfare Programmes Prajashakthi: Poverty alleviation programme for low-income	4
-2.01.A02	2	1	2	Empowerment	7
-2.01.A03	2	1	3	A healthy and happy retirement for senior c itizens	10
-2.01.A04	2	1	4	Social protection for women-headed families, single parent	5
-2.01.A05	2	1	5	Health: Social Protection for Persons with Chronic Illnesses	3
-2.01.A06	2	1	6	Nourishing Future Generations: Reducing Malnutrition	3
-2.01.A07	2	1	7	Nutritional Program for Pregnant Women	3
-2.01.A08	2	1	8	Safety: Adequate Care for Children	4
-2.01.A09	2	1	9	Pension Scheme for all citizens	4
-2.02.A01	2	2	1	NO-TITLE	20
-2.02.A02	2	2	2	Unemployed graduates:	4
-2.03.A01	2	3	1	NO-TITLE	20
+2.01.A01	2	1	1	NO-TITLE	40
+2.02.A01	2	2	1	NO-TITLE	18
+2.02.A02	2	2	2	■ Amendment of the PAYE tax ■ Ensure fair salaries and job security of Manpower workers	4
+2.03.A01	2	3	1	NO-TITLE	6
+2.03.A02	2	3	2	■ Reducing the burden of unpaid care work on women	13
 2.04.A01	2	4	1	NO-TITLE	15
-2.07.A01	2	7	1	Optimal Service Management and Administration	5
-2.07.A02	2	7	2	Education	10
-2.07.A03	2	7	3	Economic Independence	4
-2.07.A04	2	7	4	Health and Well-being	5
-2.07.A05	2	7	5	Security, Rights and Justice	3
-2.07.A06	2	7	6	Public Services and Community Support	8
-2.07.A07	2	7	7	A modern life A wealthy nation	0
-3.01.A01	3	1	1	Macroeconomic Stabilization Fiscal Policy:	23
-3.01.A02	3	1	2	Monetary Policy:	9
-3.01.A03	3	1	3	External Sector Stabilization:	6
-3.01.A04	3	1	4	The Programme with the International Monetary Fund (IMF):	5
-3.01.A05	3	1	5	Investment Promotion	14
-3.01.A06	3	1	6	State-Owned Enterprises (SOEs):	3
-3.01.A07	3	1	7	Domestic Trade	10
-3.01.A08	3	1	8	Foreign Trade	13
-3.02.A01	3	2	1	National food security	6
-3.02.A02	3	2	2	High Productivity and Efficiency in Agricultural Systems	9
-3.02.A03	3	2	3	Strong Agricultural Entrepreneurship and Sustainable Markets:	9
-3.02.A04	3	2	4	Optimal Land Management:	4
-3.02.A05	3	2	5	Proper Management of Agricultural Practices	6
-3.02.A06	3	2	6	Environmentally Friendly Operations:	3
-3.02.A07	3	2	7	Empowering Farmers	5
-3.02.A08	3	2	8	Management of Climate Risks:	2
-3.02.A09	3	2	9	Agricultural Research, and Knowledge Management:	6
-3.02.A10	3	2	10	Effective Management and Control of Agricultural Operations	2
-3.03.A01	3	3	1	Common Activities	7
-3.03.A02	3	3	2	Dairy Sector	8
-3.03.A03	3	3	3	Marketing of Milk and Dairy Products	3
-3.03.A04	3	3	4	Poultry Meat and Egg Production	3
-3.04.A01	3	4	1	Sustainable development and management	1
-3.04.A02	3	4	2	Seawater fisheries	1
-3.04.A03	3	4	3	Development of marine and brackish water fish products	1
-3.04.A04	3	4	4	Freshwater fisheries and aquaculture	1
-3.04.A05	3	4	5	Ornamental fish and ornamental aquatic plants industry	1
-3.04.A06	3	4	6	Social Welfare for the Fishing Community	1
-3.04.A07	3	4	7	Promoting the production of tools and equipment	1
-3.04.A08	3	4	8	Post harvesting management a nd value-added products	1
-3.04.A09	3	4	9	Uplifting export potential and earning foreign exchange	1
-3.04.A10	3	4	10	Uplifting financial income surrounding fisheries harbours and	1
-3.04.A11	3	4	11	Blue economy	1
-3.06.A01	3	6	1	Agriculture, fisheries, livesto ck, and food security	1
-3.06.A02	3	6	2	Research on health, education and scien ce	1
-3.06.A03	3	6	3	ICT, communication, engineering, energy, maritime,	1
-3.06.A04	3	6	4	Environment, land, water, air, and mineral resources	1
-3.06.A05	3	6	5	Human development, arts, history, culture and ancient heritage	1
-3.07.A01	3	7	1	Visionary leadership, strategic management, and holistic	1
-3.07.A02	3	7	2	Sustainable usage of natural and cultural resources	1
-3.07.A03	3	7	3	Developing human resources for the tourist industry	1
-3.07.A04	3	7	4	Development and standardizing of new tourist products	1
-3.07.A05	3	7	5	Strategic destination marketing	1
-3.08.A01	3	8	1	National planning and state intervention	1
-3.08.A02	3	8	2	Taxes, law, and productive development	1
-3.08.A03	3	8	3	Expansion of international and local market and efficiency	1
-3.08.A04	3	8	4	Industrial zones and infrastructure facilities	1
-3.08.A05	3	8	5	Micro, small, and medium-scale industries	1
-3.08.A06	3	8	6	Traditional arts and crafts industry	1
-3.08.A07	3	8	7	Interventions needed for sustainable development	1
-3.08.A08	3	8	8	Digitalisation and technical usage	1
-3.08.A09	3	8	9	Promoting the ease of doing business and entrepreneurship	1
-3.09.A01	3	9	1	Gems and jewellery	1
-3.10.A01	3	10	1	Energy Trading Hub	1
-3.10.A02	3	10	2	Colleges	1
-3.11.A01	3	11	1	Railway service	1
-3.11.A02	3	11	2	Bus passenger service	1
-3.11.A03	3	11	3	A formal and essential timetable system	1
-3.11.A04	3	11	4	Transit cities	1
-3.11.A05	3	11	5	Rural transport	1
-3.11.A06	3	11	6	Roads	1
-3.11.A07	3	11	7	Encouraging cycling	1
-3.11.A08	3	11	8	Pedestrian lanes	1
-3.11.A09	3	11	9	Using water ways for goods and passenger transport	1
-3.11.A10	3	11	10	Protection for women, elderly, and disabled passengers and	1
-3.11.A11	3	11	11	Minimising road accidents	1
-3.11.A12	3	11	12	Para-transit operations	1
-3.11.A13	3	11	13	Organising passengers and beneficiaries	1
-3.12.A01	3	12	1	Training of sailors	1
+2.07.A01	2	7	1	NO-TITLE	35
+3.01.A01	3	1	1	NO-TITLE	83
+3.02.A01	3	2	1	NO-TITLE	52
+3.03.A01	3	3	1	■ Maximizing production capacity through modernization of farms	20
+3.04.A01	3	4	1	NO-TITLE	68
+3.05.A01	3	5	1	NO-TITLE	16
+3.06.A01	3	6	1	NO-TITLE	55
+3.07.A01	3	7	1	NO-TITLE	40
+3.08.A01	3	8	1	NO-TITLE	56
+3.09.A01	3	9	1	NO-TITLE	38
+3.10.A01	3	10	1	NO-TITLE	42
+3.11.A01	3	11	1	NO-TITLE	47
+3.12.A01	3	12	1	NO-TITLE	4
 3.12.A02	3	12	2	• Developing industrial training facilities	1
-3.12.A03	3	12	3	• Protecting and developing nautical welfare and ethics Harbour infrastructure and other services	1
-3.12.A04	3	12	4	• Integrating the nautical field with the tourist industry Nautical laws, environmental protection, and administration • Analysing and amending laws related to vessel registration • A productive and cautious Port State Control (PSC) system • A transparent PSC service based on goals	1
-3.12.A05	3	12	5	(MARPOL) and other environmental protection laws • Enacting laws on nautical protection in Sri Lanka	0
-3.13.A01	3	13	1	Wired communication	1
-3.13.A02	3	13	2	Wireless communication	1
-3.13.A03	3	13	3	G for emergency services Guard bands	1
-3.13.A04	3	13	4	Promoting public Wi-Fi and wired connections	1
-3.13.A05	3	13	5	Public procedures for the electronic communication industry	1
-3.13.A06	3	13	6	• Infrastructure to promote IOT applications in all fields	1
-3.13.A07	3	13	7	Broadcasting industry	1
-3.13.A08	3	13	8	Cinema and entertainment industry	1
-3.14.A01	3	14	1	Land utilization	1
+3.12.A03	3	12	3	• Protecting and developing nautical welfare and ethics	3
+3.12.A04	3	12	4	• Integrating the nautical field with the tourist industry	1
+3.12.A05	3	12	5	• Analysing and amending laws related to vessel registration • A productive and cautious Port State Control (PSC) system • A transparent PSC service based on goals	1
+3.12.A06	3	12	6	• Enacting laws on nautical protection in Sri Lanka	0
+3.13.A01	3	13	1	NO-TITLE	14
+3.13.A02	3	13	2	• Infrastructure to promote IOT applications in all fields	15
+3.14.A01	3	14	1	NO-TITLE	1
 3.14.A02	3	14	2	• National landuse plan	1
 3.14.A03	3	14	3	• Up-to-date state land inventory	1
-3.14.A04	3	14	4	• Making the land valuation process formal and efficient	1
-3.14.A05	3	14	5	Protecting land in sensitive areas	1
-3.14.A06	3	14	6	Land registration	1
-3.14.A07	3	14	7	Land use management • An integrated land use map	1
-3.14.A08	3	14	8	• A land suitability map based on spatial data analysis Surveying and Mapping	1
-3.15.A01	3	15	1	Act	1
-3.15.A02	3	15	2	A dignified life A strong country	0
-4.01.A01	4	1	1	Civil and Political Rights as basic rights	1
-4.01.A02	4	1	2	• Introducing a new parliamentary electoral system • Limiting official presidential residences to one	1
+3.14.A04	3	14	4	• Making the land valuation process formal and efficient	6
+3.14.A05	3	14	5	• An integrated land use map	2
+3.14.A06	3	14	6	• A land suitability map based on spatial data analysis	8
+3.15.A01	3	15	1	NO-TITLE	19
+4.01.A01	4	1	1	NO-TITLE	4
+4.01.A02	4	1	2	• Introducing a new parliamentary electoral system • Limiting official presidential residences to one	5
 4.01.A03	4	1	3	• Abolishing the pension offered to MPs after 05 years	1
 4.01.A04	4	1	4	• Removing the tax-free vehicle permits for MPs	1
-4.02.A01	4	2	1	• Resolving issues in the service minutes and amending them	1
-4.03.A01	4	3	1	Judicial Process	10
-4.03.A02	4	3	2	Bribery and corruption	9
-4.03.A03	4	3	3	Attorney General’s Department	4
-4.04.A01	4	4	1	Implementing justice	1
-4.04.A02	4	4	2	Sunday attacks on 2019-04-21	1
-4.05.A01	4	5	1	• Preventing all forms of torture inside prisons	1
+4.02.A01	4	2	1	• Resolving issues in the service minutes and amending them	13
+4.03.A01	4	3	1	NO-TITLE	23
+4.04.A01	4	4	1	NO-TITLE	18
+4.05.A01	4	5	1	• Preventing all forms of torture inside prisons	2
 4.05.A02	4	5	2	• Ensuring the quality of the food given to prisoners	1
-4.05.A03	4	5	3	• Launching vocational counselling service to reform prisoners	1
-4.05.A04	4	5	4	• Educational and vocational training courses in every prison	1
-4.07.A01	4	7	1	The role and functions of the Ministry of Foreign Affairs	1
-4.07.A02	4	7	2	Diplomatic Missions	1
-4.07.A03	4	7	3	Institutional Reforms:	1
-4.07.A04	4	7	4	Enhancing Diplom atic Training and Capacity Building:	1
-4.07.A05	4	7	5	Revising Diplomatic Protocols and Ethics:	1
-4.07.A06	4	7	6	Strengthening Centralized Oversight and Coordination:	1
-4.07.A07	4	7	7	Service Efficiency Sri Lankan Missions	1
-4.07.A08	4	7	8	Political Diplomacy	1
-4.07.A09	4	7	9	Economic Diplomacy	1
-4.07.A10	4	7	10	National Security	1
-4.07.A11	4	7	11	Maritime Diplomacy	1
-4.07.A12	4	7	12	Cultural Diplomacy	1
-4.07.A13	4	7	13	Science and Technology Diplomacy	1
-4.07.A14	4	7	14	Parliamentary Diplomacy	1
-4.07.A15	4	7	15	Public Diplomacy	1
-4.07.A16	4	7	16	Humanitarian Diplomacy	1
-4.07.A17	4	7	17	Legal Reforms	1
-4.07.A18	4	7	18	Diaspora engagement	1
-4.07.A19	4	7	19	Lanka including on the bonds for development projects Current Foreign Policy Stances	1
-4.09.A01	4	9	1	Power	1
+4.05.A03	4	5	3	• Launching vocational counselling service to reform prisoners	3
+4.05.A04	4	5	4	• Educational and vocational training courses in every prison	3
+4.07.A01	4	7	1	NO-TITLE	84
+4.08.A01	4	8	1	NO-TITLE	27
+4.09.A01	4	9	1	NO-TITLE	20

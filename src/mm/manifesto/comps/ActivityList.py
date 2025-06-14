@@ -3,6 +3,7 @@ from dataclasses import dataclass
 from functools import cached_property
 
 from mm.manifesto.comps.Activity import Activity
+from mm.manifesto.comps.Common import Common
 
 
 @dataclass
@@ -15,7 +16,7 @@ class ActivityList:
     def __is_activity_title__(line):
         return (
             line.strip()
-            and line[:2] != "■ "
+            and Common.is_bullet(line)
             and len(line) < 64
             and not line[0].islower()
             and line[-1] != "."
@@ -39,7 +40,7 @@ class ActivityList:
 
     @staticmethod
     def __parse_activity_line__(line: str, activities) -> str:
-        is_bullet = line[:2] == "■ "
+        is_bullet = Common.is_bullet(line)
         line = line[2:].strip() if is_bullet else line
 
         if not activities:
