@@ -1066,15 +1066,13 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 #### Activities [2.01]
 
-##### 2.01.A01) Social protection and Welfare Programmes Prajashakthi: Poverty alleviation programme for low-income
+##### 2.01.A01) Social protection and Welfare Programmes Prajashakthi: Poverty alleviation programme for low-income earners
 
-- 2.01.A01.01) earners
+- 2.01.A01.01) Providing a minimum monthly financial grant from Rs. 10,000 upwards to low- income families
 
-- 2.01.A01.02) Providing a minimum monthly financial grant from Rs. 10,000 upwards to low- income families
+- 2.01.A01.02) Introduction of a participatory, transparent and efficient beneficiary selection process
 
-- 2.01.A01.03) Introduction of a participatory, transparent and efficient beneficiary selection process
-
-- 2.01.A01.04) Introducing a digital platform for identifying eligible beneficiaries using new criteria within a year and providing financial assistance to all qualifying individuals.
+- 2.01.A01.03) Introducing a digital platform for identifying eligible beneficiaries using new criteria within a year and providing financial assistance to all qualifying individuals.
 
 ##### 2.01.A02) Empowerment
 
@@ -1114,17 +1112,15 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 - 2.01.A03.10) Facilitating education, training, employment, and livelihoods opportunities for persons with disabilities.
 
-##### 2.01.A04) Social protection for women-headed families, single parent
+##### 2.01.A04) Social protection for women-headed families, single parent families and women affected by Gender-based/intimate partner violence.
 
-- 2.01.A04.01) families and women affected by Gender-based/intimate partner violence.
+- 2.01.A04.01) Financial assistance for affected individuals (of the above categories) based on needs and income levels.
 
-- 2.01.A04.02) Financial assistance for affected individuals (of the above categories) based on needs and income levels.
+- 2.01.A04.02) Legal aid and counseling services are offered based on needs and requests.
 
-- 2.01.A04.03) Legal aid and counseling services are offered based on needs and requests.
+- 2.01.A04.03) Provision of alternative housing and job support when needed.
 
-- 2.01.A04.04) Provision of alternative housing and job support when needed.
-
-- 2.01.A04.05) Establishment of mechanisms for social and psychological support for women affected by violence an d abuse.
+- 2.01.A04.04) Establishment of mechanisms for social and psychological support for women affected by violence an d abuse.
 
 ##### 2.01.A05) Health: Social Protection for Persons with Chronic Illnesses
 
@@ -1424,19 +1420,17 @@ Contributing factors to this discontent include limited educational opportunitie
 
 - 2.05.A01.10) Providing guidance and support for young people coming from overseas to engage in various investment projects of their interest
 
-##### 2.05.A02) Prospects for Future (Education, Science, and Technology,
+##### 2.05.A02) Prospects for Future (Education, Science, and Technology, and Innovation)
 
-- 2.05.A02.01) and Innovation)
+- 2.05.A02.01) Revising and upgrading outdated industrial, technical, and advanced technological courses, progressing them to degree and postgraduate levels.
 
-- 2.05.A02.02) Revising and upgrading outdated industrial, technical, and advanced technological courses, progressing them to degree and postgraduate levels.
+- 2.05.A02.02) Allowing young people to present proposals for new educational and developmental projects through the “We for the Renaissance - V4R Digital platform” directly to the government.
 
-- 2.05.A02.03) Allowing young people to present proposals for new educational and developmental projects through the “We for the Renaissance - V4R Digital platform” directly to the government.
+- 2.05.A02.03) Conducting ITES program, the theme of IT English and Soft Skills for Youth in the afternoons throughout the island, with the aim of developing technical and language literacy.
 
-- 2.05.A02.04) Conducting ITES program, the theme of IT English and Soft Skills for Youth in the afternoons throughout the island, with the aim of developing technical and language literacy.
+- 2.05.A02.04) Establishing Multi-Model Centers (MMC) at the local level to provide specialized programs and advisory services for youth and adults.
 
-- 2.05.A02.05) Establishing Multi-Model Centers (MMC) at the local level to provide specialized programs and advisory services for youth and adults.
-
-- 2.05.A02.06) Creating youth exchange programs to foster understanding among different ethnicities and religions.
+- 2.05.A02.05) Creating youth exchange programs to foster understanding among different ethnicities and religions.
 
 ##### 2.05.A03) Empathetic Youth (Art, Culture and Leisure):
 
@@ -2282,19 +2276,17 @@ The fisheries and aquaculture sectors are currently facing many issues. Among th
 
 - 3.04.A09.05) Establish an efficient and streamlined process to remove barriers in exporting fish products.
 
-##### 3.04.A10) Uplifting financial income surrounding fisheries harbours and
+##### 3.04.A10) Uplifting financial income surrounding fisheries harbours and developing fisheries harbours
 
-- 3.04.A10.01) developing fisheries harbours
+- 3.04.A10.01) Allocate service-based regions around fisheries harbours for docking vessels.
 
-- 3.04.A10.02) Allocate service-based regions around fisheries harbours for docking vessels.
+- 3.04.A10.02) Solve issues related to fuel storage and distribution around fisheries harbours.
 
-- 3.04.A10.03) Solve issues related to fuel storage and distribution around fisheries harbours.
+- 3.04.A10.03) Upgrade all major fisheries harbours to meet international standards based on a prioritization plan.
 
-- 3.04.A10.04) Upgrade all major fisheries harbours to meet international standards based on a prioritization plan.
+- 3.04.A10.04) Expand ports and enhancing facilities in the Northern and Eastern provinces to promote trawler fisheries targeting residents.
 
-- 3.04.A10.05) Expand ports and enhancing facilities in the Northern and Eastern provinces to promote trawler fisheries targeting residents.
-
-- 3.04.A10.06) Develop fisheries harbours and management methods, based on the green port concept.
+- 3.04.A10.05) Develop fisheries harbours and management methods, based on the green port concept.
 
 ##### 3.04.A11) Blue economy
 
@@ -2444,47 +2436,45 @@ Sri Lanka is rich with intelligent human resources, and many innovators are emer
 
 - 3.06.A02.11) Applying nanotechnology-based research and development to produce solar cells, electronics, medicine, energy efficient new inventions, environmental remediation components, futuristic vehicles, and spare parts etc.
 
-##### 3.06.A03) ICT, communication, engineering, energy, maritime,
+##### 3.06.A03) ICT, communication, engineering, energy, maritime, transportation, tourism, and other industries
 
-- 3.06.A03.01) transportation, tourism, and other industries
+- 3.06.A03.01) Researching on establishing multilingual communication systems powered by Artificial Intelligence (AI) in government institutions, and public places to minimize language barriers among different ethnic groups in Sri Lanka.
 
-- 3.06.A03.02) Researching on establishing multilingual communication systems powered by Artificial Intelligence (AI) in government institutions, and public places to minimize language barriers among different ethnic groups in Sri Lanka.
+- 3.06.A03.02) Developing proactive and real-time alert systems to warn against natural disasters (For example Floods, wildfires, and landslides).
 
-- 3.06.A03.03) Developing proactive and real-time alert systems to warn against natural disasters (For example Floods, wildfires, and landslides).
+- 3.06.A03.03) Researching on establishing efficient public transportation management system (Buses & Trains) using IoT & GPS technology to minimize delays and improve passenger safety and comfort.
 
-- 3.06.A03.04) Researching on establishing efficient public transportation management system (Buses & Trains) using IoT & GPS technology to minimize delays and improve passenger safety and comfort.
+- 3.06.A03.04) Conducting research on establishing air pollution monitoring systems in main cities to reduce air pollution and control vehicle emissions and industrial emissions.
 
-- 3.06.A03.05) Conducting research on establishing air pollution monitoring systems in main cities to reduce air pollution and control vehicle emissions and industrial emissions.
+- 3.06.A03.05) Performing research on implementing Smart Meter Systems in residential houses, buildings, and public places to maximize resource utilization and minimize wastage. Example: research and development to establish electricity meters, vehicle parking meters, and water meters
 
-- 3.06.A03.06) Performing research on implementing Smart Meter Systems in residential houses, buildings, and public places to maximize resource utilization and minimize wastage. Example: research and development to establish electricity meters, vehicle parking meters, and water meters
+- 3.06.A03.06) Leveraging the latest satellite technology and equipment to accurately forecast the weather and calculate energy demand for the country and maximize the utilization of hydroelectricity, wind, and solar-generated electricity.
 
-- 3.06.A03.07) Leveraging the latest satellite technology and equipment to accurately forecast the weather and calculate energy demand for the country and maximize the utilization of hydroelectricity, wind, and solar-generated electricity.
+- 3.06.A03.07) Deploying proper waste disposal bins & facilities to reduce environmental pollution by e-waste and promote recycling them.
 
-- 3.06.A03.08) Deploying proper waste disposal bins & facilities to reduce environmental pollution by e-waste and promote recycling them.
+- 3.06.A03.08) Conducting research and development to promote locally produced roof-top solar systems, equipment, and connectivity devices to the national grid.
 
-- 3.06.A03.09) Conducting research and development to promote locally produced roof-top solar systems, equipment, and connectivity devices to the national grid.
+- 3.06.A03.09) Providing research and development facilities and required skills for local manufacturers to build modern low-cost machinery and tools as are necessary for our country.
 
-- 3.06.A03.10) Providing research and development facilities and required skills for local manufacturers to build modern low-cost machinery and tools as are necessary for our country.
+- 3.06.A03.10) Conducting research and development to improve/update local standards for building materials such as soil, sand, stone, bricks, tar, and others aiming to reduce construction cost, and resource wastage and promote sustainable engineering practices.
 
-- 3.06.A03.11) Conducting research and development to improve/update local standards for building materials such as soil, sand, stone, bricks, tar, and others aiming to reduce construction cost, and resource wastage and promote sustainable engineering practices.
+- 3.06.A03.11) Expediting research activities on efficient cleansing and usage of sea sand for the construction industry.
 
-- 3.06.A03.12) Expediting research activities on efficient cleansing and usage of sea sand for the construction industry.
+- 3.06.A03.12) Expanding research on renewable energy (hydropower, solar, and wind) and prioritization of the Akwerala wind power project to reduce the dependency on fossil fuels consumption and reach renewable energy goals.
 
-- 3.06.A03.13) Expanding research on renewable energy (hydropower, solar, and wind) and prioritization of the Akwerala wind power project to reduce the dependency on fossil fuels consumption and reach renewable energy goals.
+- 3.06.A03.13) Establishing “Technology Development Centers” in selected districts to promote local innovators to build technical solutions for local and national needs.
 
-- 3.06.A03.14) Establishing “Technology Development Centers” in selected districts to promote local innovators to build technical solutions for local and national needs.
+- 3.06.A03.14) Leveraging local talent, manufacturers, and innovators to build consumer materials, office supplies, hospital supplies, and equipment (beds, chairs, syringes, etc).
 
-- 3.06.A03.15) Leveraging local talent, manufacturers, and innovators to build consumer materials, office supplies, hospital supplies, and equipment (beds, chairs, syringes, etc).
+- 3.06.A03.15) Researching on promoting locally adopted technological solutions to increase the productivity of agricultural products such as tea, rubber, coconut, and paddy, and to ensure the workers’ safety.
 
-- 3.06.A03.16) Researching on promoting locally adopted technological solutions to increase the productivity of agricultural products such as tea, rubber, coconut, and paddy, and to ensure the workers’ safety.
+- 3.06.A03.16) Establishing necessary systems, mechanisms, and tools to integrate the elderly community and people with disabilities into the national workforce.
 
-- 3.06.A03.17) Establishing necessary systems, mechanisms, and tools to integrate the elderly community and people with disabilities into the national workforce.
+- 3.06.A03.17) Establishing a technical task force with specialist knowledge of Information Technology (IT), Big Data, Machine Learning, AI, Communication & Networking, and social media to analyze and approach local entrepreneurs and innovators and encourage them to start business ventures locally.
 
-- 3.06.A03.18) Establishing a technical task force with specialist knowledge of Information Technology (IT), Big Data, Machine Learning, AI, Communication & Networking, and social media to analyze and approach local entrepreneurs and innovators and encourage them to start business ventures locally.
+- 3.06.A03.18) Conducting research to identify capacity gaps in the maritime area including emergency disaster responses and prioritizing the future vision.
 
-- 3.06.A03.19) Conducting research to identify capacity gaps in the maritime area including emergency disaster responses and prioritizing the future vision.
-
-- 3.06.A03.20) Researching to identify value-added opportunities and leveraging local resources for sustainable growth in the tourism industry.
+- 3.06.A03.19) Researching to identify value-added opportunities and leveraging local resources for sustainable growth in the tourism industry.
 
 ##### 3.06.A04) Environment, land, water, air, and mineral resources
 
@@ -2500,27 +2490,25 @@ Sri Lanka is rich with intelligent human resources, and many innovators are emer
 
 - 3.06.A04.06) Taking necessary steps to use modern engineering technology to save the mangroves and coastal environmental systems, reducing coastal erosion.
 
-##### 3.06.A05) Human development, arts, history, culture and ancient heritage
+##### 3.06.A05) Human development, arts, history, culture and ancient heritage studies
 
-- 3.06.A05.01) studies
+- 3.06.A05.01) Updating higher education degree programmes including leadership, collaborative, and communication skill development plans, that are designed based on research and development data.
 
-- 3.06.A05.02) Updating higher education degree programmes including leadership, collaborative, and communication skill development plans, that are designed based on research and development data.
+- 3.06.A05.02) Initiating community educational programmes to share research and development-based innovations and new knowledge, as well as artistic and philosophical ideology promotions that benefit society.
 
-- 3.06.A05.03) Initiating community educational programmes to share research and development-based innovations and new knowledge, as well as artistic and philosophical ideology promotions that benefit society.
+- 3.06.A05.03) Conducting R&D on home-grown robotic programs or customizing already available humanoid robotic platforms to assist people with special needs and elderly community.
 
-- 3.06.A05.04) Conducting R&D on home-grown robotic programs or customizing already available humanoid robotic platforms to assist people with special needs and elderly community.
+- 3.06.A05.04) Assisting the retired or elderly generation by developing modern electronic assistive devices, medication reminder systems, efficient pill dispensers, and telehealth systems and enhancing their independence and comfort by developing visual and communication aids, as well as memory aids, etc.
 
-- 3.06.A05.05) Assisting the retired or elderly generation by developing modern electronic assistive devices, medication reminder systems, efficient pill dispensers, and telehealth systems and enhancing their independence and comfort by developing visual and communication aids, as well as memory aids, etc.
+- 3.06.A05.05) Research and development to produce musical instruments and dancing costumes that withstand different climatic conditions, aiming the international market.
 
-- 3.06.A05.06) Research and development to produce musical instruments and dancing costumes that withstand different climatic conditions, aiming the international market.
+- 3.06.A05.06) Integrating modern technological advances into performing arts such as music, singing, dancing, theatre, opera, and cinema to produce research and development-based novel artistic creations.
 
-- 3.06.A05.07) Integrating modern technological advances into performing arts such as music, singing, dancing, theatre, opera, and cinema to produce research and development-based novel artistic creations.
+- 3.06.A05.07) Increasing the capacity and accessibility of the National Archive by use of modern technologies such as Block Chain, Cloud and AI to establish an efficient archival system and public record management.
 
-- 3.06.A05.08) Increasing the capacity and accessibility of the National Archive by use of modern technologies such as Block Chain, Cloud and AI to establish an efficient archival system and public record management.
+- 3.06.A05.08) Conducting scientific studies on palm leaf books that describe ancient heritages, beliefs, rituals, cultures and lifestyles, and initiate national-level research to identify ancient technological advances and practices that may benefit modern- day needs as well.
 
-- 3.06.A05.09) Conducting scientific studies on palm leaf books that describe ancient heritages, beliefs, rituals, cultures and lifestyles, and initiate national-level research to identify ancient technological advances and practices that may benefit modern- day needs as well.
-
-- 3.06.A05.10) Conducting appropriate content analysis, surveys, focus group experiments, and participant observation for mass media communication sources, including standard electronic and print media, and improve their communication standards and overall effectiveness.
+- 3.06.A05.09) Conducting appropriate content analysis, surveys, focus group experiments, and participant observation for mass media communication sources, including standard electronic and print media, and improve their communication standards and overall effectiveness.
 
 ### 3.07) A modernised tourist industry - An attractive destination
 
@@ -2548,37 +2536,35 @@ Our vision is to position Sri Lanka as a prominent and unique destination, attra
 
 #### Activities [3.07]
 
-##### 3.07.A01) Visionary leadership, strategic management, and holistic
+##### 3.07.A01) Visionary leadership, strategic management, and holistic economic development
 
-- 3.07.A01.01) economic development
+- 3.07.A01.01) Establishing the National Tourism Council (NTC) as the main institution responsible for coordinating and managing tourism-related activities.
 
-- 3.07.A01.02) Establishing the National Tourism Council (NTC) as the main institution responsible for coordinating and managing tourism-related activities.
+- 3.07.A01.02) Establishing the Tourism Policy Formulation Council (TPFC) for developing policies for the industry.
 
-- 3.07.A01.03) Establishing the Tourism Policy Formulation Council (TPFC) for developing policies for the industry.
+- 3.07.A01.03) Establishing the Sri Lanka Tourism Authority as the central institution for tourism development and promotion.
 
-- 3.07.A01.04) Establishing the Sri Lanka Tourism Authority as the central institution for tourism development and promotion.
+- 3.07.A01.04) Implementing a new tourism act to enhance the productivity and efficiency of the tourism sector as a leading industry in the Sri Lankan economy.
 
-- 3.07.A01.05) Implementing a new tourism act to enhance the productivity and efficiency of the tourism sector as a leading industry in the Sri Lankan economy.
+- 3.07.A01.05) Identifying new tourism destinations and products based on research and studies and providing facilities for stakeholders to develop them.
 
-- 3.07.A01.06) Identifying new tourism destinations and products based on research and studies and providing facilities for stakeholders to develop them.
+- 3.07.A01.06) Adopting an ICT-based approach to prevent crimes and illegal activities in the tourism industry.
 
-- 3.07.A01.07) Adopting an ICT-based approach to prevent crimes and illegal activities in the tourism industry.
+- 3.07.A01.07) Attracting airlines and establishing connectivity from major tourism-origin countries to Sri Lanka.
 
-- 3.07.A01.08) Attracting airlines and establishing connectivity from major tourism-origin countries to Sri Lanka.
+- 3.07.A01.08) Introducing domestic airline services to key tourist destinations within Sri Lanka.
 
-- 3.07.A01.09) Introducing domestic airline services to key tourist destinations within Sri Lanka.
+- 3.07.A01.09) Providing necessary encouragement and facilities to micro, small, and medium- scale entrepreneurs who make a significant contribution to the tourism industry, to improve the quality of their services.
 
-- 3.07.A01.10) Providing necessary encouragement and facilities to micro, small, and medium- scale entrepreneurs who make a significant contribution to the tourism industry, to improve the quality of their services.
+- 3.07.A01.10) Implementing an international-level standardization program to enhance the quality of all sectors in the tourism services.
 
-- 3.07.A01.11) Implementing an international-level standardization program to enhance the quality of all sectors in the tourism services.
+- 3.07.A01.11) Providing necessary facilities to convert informal sector tourism operators into the formal sector.
 
-- 3.07.A01.12) Providing necessary facilities to convert informal sector tourism operators into the formal sector.
+- 3.07.A01.12) Developing infrastructure facilities needed to advance the local tourism industry as a leading and alternative tourism mechanism and encouraging private sector participation in this task.
 
-- 3.07.A01.13) Developing infrastructure facilities needed to advance the local tourism industry as a leading and alternative tourism mechanism and encouraging private sector participation in this task.
+- 3.07.A01.13) Establishing international partnerships with non-governmental organizations, donor organizations, and institutions, and obtaining technical, financial support, and know-how as a key approach in developing the tourism sector.
 
-- 3.07.A01.14) Establishing international partnerships with non-governmental organizations, donor organizations, and institutions, and obtaining technical, financial support, and know-how as a key approach in developing the tourism sector.
-
-- 3.07.A01.15) Organizing an annual national tourism award ceremony to encourage and recognize entrepreneurs and stakeholders in the tourism industry.
+- 3.07.A01.14) Organizing an annual national tourism award ceremony to encourage and recognize entrepreneurs and stakeholders in the tourism industry.
 
 ##### 3.07.A02) Sustainable usage of natural and cultural resources
 
@@ -3132,19 +3118,17 @@ National People’s Power wishes to establish an efficient, trustworthy, safe, a
 
 - 3.11.A09.02) Passenger and goods transportation services implementation in waterways identified through feasibility studies
 
-##### 3.11.A10) Protection for women, elderly, and disabled passengers and
+##### 3.11.A10) Protection for women, elderly, and disabled passengers and improvements to required infrastructure
 
-- 3.11.A10.01) improvements to required infrastructure
+- 3.11.A10.01) Development of the mentality within the community about the special transport needs of women, elderly, and disabled people
 
-- 3.11.A10.02) Development of the mentality within the community about the special transport needs of women, elderly, and disabled people
+- 3.11.A10.02) An app to immediately inform of harassment and issues faced by women in transport services, and a unit dedicated to act on it
 
-- 3.11.A10.03) An app to immediately inform of harassment and issues faced by women in transport services, and a unit dedicated to act on it
+- 3.11.A10.03) Special accessibility facilities for disabled and elderly in trains and buses
 
-- 3.11.A10.04) Special accessibility facilities for disabled and elderly in trains and buses
+- 3.11.A10.04) Modifying train stations and bus stops for easy accessibility and use by disabled and elderly
 
-- 3.11.A10.05) Modifying train stations and bus stops for easy accessibility and use by disabled and elderly
-
-- 3.11.A10.06) Making it compulsory to reserve seats for elderly and disabled in public transport vehicles
+- 3.11.A10.05) Making it compulsory to reserve seats for elderly and disabled in public transport vehicles
 
 ##### 3.11.A11) Minimising road accidents
 

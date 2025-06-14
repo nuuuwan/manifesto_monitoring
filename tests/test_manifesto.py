@@ -68,3 +68,12 @@ class TestCase(unittest.TestCase):
                 1 <= n_items <= 32,
                 f"[{activity.key}] {n_items=} (Expected 1-10)",
             )
+
+    def test_items(self):
+        for activity in TEST_MANIFESTO.activity_list:
+            for item in activity.activity_items:
+                self.assertTrue(
+                    not item[0].islower(),
+                    f"[{activity.key}] Item '{item}'"
+                    + " should not start with lowercase.",
+                )

@@ -15,6 +15,21 @@ class ActivityList:
     @staticmethod
     def __is_activity_title__(line):
 
+        # HACK
+        for k in [
+            "earners",
+            "families and women affected by Gender-based/intimate partner",
+            "violence.",
+            "and Innovation)",
+            "developing fisheries harbours",
+            "transportation, tourism, and other industries",
+            "studies",
+            "economic development",
+            "improvements to required infrastructure",
+        ]:
+            if line == k:
+                return True
+
         return (
             line.strip()
             and not Common.is_bullet(line)
