@@ -47,3 +47,22 @@ class NPPManifestoDB:
         for principle in self.principle_list:
             table.append(principle.to_dict())
         return table
+
+    @cached_property
+    def activity_items_table(self):
+        table = []
+        for activity in self.activity_list:
+            for activity_item_num, item in enumerate(
+                activity.activity_items, start=1
+            ):
+                table.append(
+                    {
+                        "key": f"{activity.key}.{activity_item_num:02d}",
+                        "l1_num": activity.l1_num,
+                        "l2_num": activity.l2_num,
+                        "activity_num": activity.activity_num,
+                        "activity_item_num": activity_item_num,
+                        "item": item,
+                    }
+                )
+        return table
