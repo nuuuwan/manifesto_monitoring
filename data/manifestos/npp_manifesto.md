@@ -410,8 +410,6 @@ Despite the immense potential that sports offer to a country like Sri Lanka—on
 
 - 1.04.P6) Collaboration among the government, private sector, and non-governmental organizations
 
-#### Activities [1.04]
-
 ### 1.05) A rich cultural life - A compassionate society
 
 #### Introduction [1.05]
@@ -1026,8 +1024,6 @@ Gender identities and sexual orientations are diverse. However, in Sri Lanka, th
 
 - 2.03.P9) Domestic laws with the standards set by the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) and the Convention on the Rights of the Child (CRC).
 
-#### Activities [2.03]
-
 ### 2.04) A safer world for children - A creative future generation
 
 #### Introduction [2.04]
@@ -1051,8 +1047,6 @@ The absence of a well-organized and adequate human and physically resourceful so
 - 2.04.P3) The well-being and development of all children.
 
 - 2.04.P4) Protection of children from abuse and all forms of violence.
-
-#### Activities [2.04]
 
 ### 2.05) A contented youth - Cultured, independent thinkers
 
@@ -1154,8 +1148,6 @@ Contributing factors to this discontent include limited educational opportunitie
 
 - 2.05.P45) Working towards eliminating harmful and stereotypical perceptions related to gender identities and sexual orientations.
 
-#### Activities [2.05]
-
 ### 2.06) A respectable senior citizen- A meaningful retirement
 
 #### Introduction [2.06]
@@ -1165,8 +1157,6 @@ Taking care of the elderly is a responsibility of the children and relatives wit
 By 2045, this percentage is projected to rise to 21%. While some policymakers view the increasing elderly population as a challenge, the NPP believes that it is a national responsibility to understand and address this situation with special attention to the well- being of the elderly.
 
 Activities ■ Providing basic facilities needed for the care of the elderly within homes. ■ Healthcare teams conduct health check-ups for the elderly. ■ Establishing a system of elderly care centres that meet international standards. ■ Developing a program to involve the elderly in creative economic activities to maintain their mental health ■ Implement a social protection scheme for those employed in the private and informal sectors, including farmers and fishermen. ■ Establishing a fund to implement an insurance coverage system that ensures protection for all senior citizens ■ Encouraging the building of walkways and rest homes near religious sites, and government intervention to ensure that the senior citizens can enjoy their daily lives in a peaceful and happy environment 51■ Implementing priority programs for senior citizens at public service locations. ■ Providing financial assistance to elderly individuals facing financial difficulties.
-
-#### Activities [2.06]
 
 ### 2.07) An unimpaired social life - An fair and equitable approach
 
@@ -1804,8 +1794,6 @@ Lanka’s ICT industry. Emerging technologies like AI, IoT, and cybersecurity pa
 
 Currently, Sri Lanka’s ICT sector employs 85,000 professionals and generates USD 1.2 billion in annual foreign exchange earnings. Our goal is to position Sri Lanka as a global leader in high-quality ICT products and solutions and to establish the country as a hub for international partnerships. We aim to increase the ICT industry’s annual export revenue to USD 5 billion, achieving sustainable economic growth through innovation and high- quality digital technology while improving citizens’ living standards through efficient digital public services.
 
-#### Activities [3.05]
-
 ### 3.06) A research and development approach - scientific solutions for the society
 
 #### Introduction [3.06]
@@ -2244,8 +2232,6 @@ The current regime has failed to control the importation and distribution of dru
 
 Activities • An integrated operation to prevent drugs and organized crime in the country • Establishment of a separate Bureau for Narcotics Prevention • Development of naval and air surveillance facilities and provide modern equipment and training to officials to prevent the entry of drugs into the country 116• Regularize rehabilitation programmes for drug addicts to free them from drug use • Strengthening penalties for drug offences and taking measures for the speedy resolution of cases • Implementation of continuous programmes to educate school children • Expanding the functions of the Dangerous Drugs Control Board, and establishing monitoring committees to involve people in the fight against drugs • Educating the community about the adverse effects of drug use
 
-#### Activities [4.06]
-
 ### 4.07) A dignified diplomacy - A sovereign state
 
 #### Introduction [4.07]
@@ -2403,8 +2389,6 @@ Independent and balanced diplomacy, democratic governance that respects human ri
 Law enforcement agencies such as the Armed Forces, Police, Coast Guard, Excise
 
 Department, Prisons Department and Customs, as well as intelligence services and civil defence services, play an important role in ensuring the internal security of the state. The strength and transparency of these security forces are reflected and maintained through transparent democratic governance capable of fulfilling the national power and the promotion of national interests, i.e. national inspirations. Political leadership, economic, geographical, and environmental presence, popular ideology, and defense forces can be identified as the components of national power. Non-aligned and balanced diplomatic policies, strategic foreign policies based on the understanding of global and regional geopolitical and balance security posture, as well as economic independence are the factors that affect the reduction of threats to national security globally and regionally.
-
-#### Activities [4.08]
 
 ### 4.09) A Sri Lankan nation - The universal citizen
 

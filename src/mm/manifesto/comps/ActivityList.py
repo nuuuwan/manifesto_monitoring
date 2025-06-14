@@ -105,3 +105,6 @@ class ActivityList:
         for activity in self.activities:
             lines.extend(activity.to_md_lines())
         return lines
+
+    def __len__(self):
+        return len(self.activities)

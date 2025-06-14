@@ -55,6 +55,16 @@ class L2Topic:
     def short_title(self):
         return f"{self.key}) {self.title}"
 
+    def to_dict(self):
+        return {
+            "key": self.key,
+            "l1_num": self.l1_num,
+            "l2_num": self.l2_num,
+            "title": self.title,
+            "n_principles": len(self.principles),
+            "n_activities": len(self.activity_list),
+        }
+
     def to_dense_dict(self):
         return self.activity_list.to_dense_dict()
 
