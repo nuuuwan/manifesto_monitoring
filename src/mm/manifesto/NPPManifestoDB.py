@@ -92,3 +92,7 @@ class NPPManifestoDB:
                             }
                         )
         return table
+
+    @cached_property
+    def all_idx(self):
+        return {all["key"]: all for all in self.all_table}
