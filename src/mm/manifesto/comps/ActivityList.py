@@ -10,21 +10,14 @@ class ActivityList:
 
     @staticmethod
     def __is_activity_title__(line):
-        if not line.strip():
-            return False
-
-        if line[:2] == "■ ":
-            return False
-
-        if (
-            len(line) > 64
-            or line[0].lower() == line[0]
-            or line[-1] == "."
-            or line in ["Childhood Development Centres"]  # HACK!
-        ):
-            return False
-
-        return True
+        return (
+            line.strip()
+            and line[:2] != "■ "
+            and len(line) < 64
+            and not line[0].islower()
+            and line[-1] != "."
+            and line not in ["Childhood Development Centres"]  # HACK!
+        )
 
     @staticmethod
     def from_lines(lines: list[str], l1_num, l2_num) -> list["Activity"]:
