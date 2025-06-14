@@ -56,6 +56,8 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 ##### 1.01.A02) Primary and secondary education
 
+- 1.01.A02.01) Primary education aims to develop literacy, numeracy, creativity and communication skills.
+
 ##### 1.01.A03) School education
 
 - 1.01.A03.01) Primary education from year 1 to year 5
@@ -152,7 +154,11 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 ##### 1.01.A10) Government - assisted schools
 
+- 1.01.A10.01) • Necessary actions will be taken to strengthen the education of the government- assisted schools, including Pirivens, by providing adequate funds and other facilities.
+
 ##### 1.01.A11) Higher Education
+
+- 1.01.A11.01) The national university system will be transformed into centers providing advanced theoretical and experimental education. Efforts will also be made to establish a parallel university system that provides international-level advanced professional education.
 
 ##### 1.01.A12) State University System
 
@@ -214,6 +220,8 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 ##### 1.01.A15) Private Education
 
+- 1.01.A15.01) Due to the limited capacity of the public education system to accommodate students meeting the basic qualifications for higher education, there is significant demand for private educational institutions, including universities and other private tertiary education institutions. However, there is no regulation of the quality or fees of programs these private institutions offer. An independent regulatory unit will be established under the Ministry of Education to regulate the programs of existing private educational institutions.
+
 ##### 1.01.A16) Adult Education
 
 - 1.01.A16.01) Community educatio nal centres in each divisional secretariat area, integrated with local educational institutions, libraries, and cultural centres.
@@ -221,6 +229,8 @@ The NPP’s education policy aims to provide quality education that fosters a de
 - 1.01.A16.02) Educational programs for citizens on fundamental laws in Sinhala, Tamil, and English, as well as on information technology and the use of technological tools.
 
 ##### 1.01.A17) Distance Education
+
+- 1.01.A17.01) While recognizing that open and distance education is a crucial part of tertiary education, providing opportunities for those unable to complete tertiary education due to different circumstances and those engaged in various professions to complete their tertiary education is essential. Open and distance education will be expanded to ensure access to higher education without barriers based on employment status or geographical factors. To achieve this, the facilities of the Open University of Sri Lanka will be expanded.
 
 ### 1.02) A vigorous life - Healthy people
 
@@ -264,9 +274,15 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 ##### 1.02.A03) Health Promotion and Disease prevention
 
+- 1.02.A03.01) • Implement community-based mechanisms to identify, manage, and treat chronic non-communicable diseases. • Conduct annual health screenings for all individuals over the age of 40. • Promote healthy lifestyles, including exercise, walking, and cycling. • Develop programs to identify and address behaviors of school children who may lead to anti-social activities and are vulnerable to risks. • Establish health promotion programs to control severe and chronic malnutrition and obesity.
+
 ##### 1.02.A04) Food Safety
 
+- 1.02.A04.01) • Establish an organization to regulate food-related advertisements and implement a code of ethics to ensure advertisements provide accurate information to consumers. • Control substandard food and beverage production, import, distribution, and sale. • Mandate proper labelling of food products, including disclosure of all ingredients.
+
 ##### 1.02.A05) Occupational Health, safety and wellbeing
+
+- 1.02.A05.01) • Conduct assessments of occupational health and safety based on their nature of work for identified workplaces and issue certifications accordingly. • Provide medical expenses coverage and appropriate allowance to employees who meet with accidents during work, until they return to their duties.
 
 ##### 1.02.A06) Elderly Care
 
@@ -278,7 +294,11 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 ##### 1.02.A07) Primary Care:
 
+- 1.02.A07.01) • Appointing a family physician and health staff for 5,000 to 10,000 population. • Cluster health institutions into primary care institutions (base hospitals), secondary care institutions (general hospitals), and tertiary care institutions (teaching hospitals) to ensure effective and continuous care. • Implement satellite clinics to provide specialized health services (including visits by specialist consultants) in family physician unit areas. • Establish facilities for mental, speech, auditory, occupational, and community physical therapy.
+
 ##### 1.02.A08) Hospital care
+
+- 1.02.A08.01) • Ensure every hospital-admitted patient has a bed and necessary facilities. • Enhance ward management and nursing care plans regularly and improve nursing care for all patients in each ward. • Establish daily treatment centers in every hospital. • Certify all laboratory tests and procedures in government health institutions according to ISO standards and provide 24/7 phone access to medical professionals and nurses. • Reorganize hospital development committees involving professionals and all community groups.
 
 ##### 1.02.A09) Specialized care
 
@@ -293,6 +313,8 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 - 1.02.A10.03) Establish a service feedback unit to investigate complaints from patients and caregivers independently.
 
 ##### 1.02.A11) Emergency care
+
+- 1.02.A11.01) • Deploy trained emergency medical response teams for ambulance services, including Suwasariya.
 
 ##### 1.02.A12) Provision of essential Drugs
 
@@ -354,6 +376,8 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 ##### 1.02.A19) Medical tourism in Sri Lanka
 
+- 1.02.A19.01) • Offering exceptional healthcare services with state-of-the-art facilities and well- trained medical specialists in selected hospitals (both Western and Ayurveda). Providing a whole range of medical care and treatments including Ayurvedic therapy.
+
 ##### 1.02.A20) Private medical service
 
 - 1.02.A20.01) Regulate all health services, including private medical services, to ensure the delivery of high-quality healthcare to patients.
@@ -382,9 +406,15 @@ Our goal is to construct multi-story housing complexes wherever possible, effici
 
 ##### 1.03.A01) Urba n Housing
 
+- 1.03.A01.01) • Encouraging the private sector to develop affordable housing projects in urban areas and providing appropriate land for these initiatives. • Promoting investments from Sri Lankans living abroad in affordable housing projects in urban areas. • Implementing programs to provide official residences for government employees close to their workplaces. • Facilitating the provision of affordable housing for residents of low-income settlements in Colombo through government intervention. • Developing comprehensive housing projects in urban and semi-urban areas, including essential facilities such as healthcare, education, sports, transportation, and parks.
+
 ##### 1.03.A02) Rural Housing
 
+- 1.03.A02.01) • Revising the relevant laws to address issues related to land ownership for housing development. • Enhancing access roads to residential areas. • Establishing housing loan schemes to support home constructions.
+
 ##### 1.03.A03) Estate Housing
+
+- 1.03.A03.01) • Providing financial and infrastructural support to enhance housing, water and sanitation facilities for Malayagam communities. • Allocating lands for Malayagam communities to construct permanent homes. • Developing affordable housing schemes in areas surrounding estates.
 
 ### 1.04) An energetic citizen - Triumphant people
 
@@ -716,93 +746,91 @@ The environmental policy of the NPP with the vision of “a sustainable environm
 
 - 1.07.A05.05) Raising public awareness about environmental policies and laws through printed, electronic, and social media.
 
-##### 1.07.A06) Various Ecosystems
+##### 1.07.A06) Various Ecosystems Hilly areas
 
-##### 1.07.A07) Hilly areas
+- 1.07.A06.01) Management of forests on mountain ridges/ steep slopes with strict control on use of such for economic and social purposes.
 
-- 1.07.A07.01) Management of forests on mountain ridges/ steep slopes with strict control on use of such for economic and social purposes.
+- 1.07.A06.02) Reviewing ecosystems and developing a unified data system to highlight their environmental and economic importance.
 
-- 1.07.A07.02) Reviewing ecosystems and developing a unified data system to highlight their environmental and economic importance.
+- 1.07.A06.03) Conducting cost-benefit analysis and environmental assessment to determine whether to maintain, replace, or restore plantations in hilly areas.
 
-- 1.07.A07.03) Conducting cost-benefit analysis and environmental assessment to determine whether to maintain, replace, or restore plantations in hilly areas.
+##### 1.07.A07) Lowlands
 
-##### 1.07.A08) Lowlands
+- 1.07.A07.01) Management and conservation of all lands according to land-use policies and principles.
 
-- 1.07.A08.01) Management and conservation of all lands according to land-use policies and principles.
+- 1.07.A07.02) Introduction of early warning systems for natural disasters, management of human activities, and implementation of compensation and insurance mechanisms,
 
-- 1.07.A08.02) Introduction of early warning systems for natural disasters, management of human activities, and implementation of compensation and insurance mechanisms,
+- 1.07.A07.03) Promotion of community-based agroforestry, and agricultural plantation practices.
 
-- 1.07.A08.03) Promotion of community-based agroforestry, and agricultural plantation practices.
+##### 1.07.A08) Wetlands
 
-##### 1.07.A09) Wetlands
+- 1.07.A08.01) Identification and documentation of wetlands in Sri Lanka and taking necessary steps for their conservation.
 
-- 1.07.A09.01) Identification and documentation of wetlands in Sri Lanka and taking necessary steps for their conservation.
+- 1.07.A08.02) Ensure conservation of existing and future Ramsar wetlands and enhance tourist attractions of them. Restoration of degraded wetlands through multi-stakeholder engagement and community participation.
 
-- 1.07.A09.02) Ensure conservation of existing and future Ramsar wetlands and enhance tourist attractions of them. Restoration of degraded wetlands through multi-stakeholder engagement and community participation.
+- 1.07.A08.03) Strengthen inter-agency coordination for integrated wetland management activities.
 
-- 1.07.A09.03) Strengthen inter-agency coordination for integrated wetland management activities.
+##### 1.07.A09) Mangroves
 
-##### 1.07.A10) Mangroves
+- 1.07.A09.01) Reviewing and implementing national policies on mangrove ecosystems.
 
-- 1.07.A10.01) Reviewing and implementing national policies on mangrove ecosystems.
+- 1.07.A09.02) Taking legal measures for the protection of mangrove ecosystems due to their ecological importance.
 
-- 1.07.A10.02) Taking legal measures for the protection of mangrove ecosystems due to their ecological importance.
+##### 1.07.A10) Forests and Wildlife
 
-##### 1.07.A11) Forests and Wildlife
+- 1.07.A10.01) Identification of integrated forest and wildlife conservation zones and establishing new protected areas.
 
-- 1.07.A11.01) Identification of integrated forest and wildlife conservation zones and establishing new protected areas.
+- 1.07.A10.02) Providing public awareness to eliminate myths and unnecessary financial values given to elephant tusks, pearls, fibers and other animal parts.
 
-- 1.07.A11.02) Providing public awareness to eliminate myths and unnecessary financial values given to elephant tusks, pearls, fibers and other animal parts.
+- 1.07.A10.03) Improve natural habitats of wild animals to provide food and water for all wildlife to minimize their intrusion into villages.
 
-- 1.07.A11.03) Improve natural habitats of wild animals to provide food and water for all wildlife to minimize their intrusion into villages.
+- 1.07.A10.04) Introduce electric fences to prevent elephant movement to villages and maintain them with the help of community participation.
 
-- 1.07.A11.04) Introduce electric fences to prevent elephant movement to villages and maintain them with the help of community participation.
+- 1.07.A10.05) Studying and managing human-wildlife conflicts, such as elephant-human interactions, with appropriate techniques and public involvement.
 
-- 1.07.A11.05) Studying and managing human-wildlife conflicts, such as elephant-human interactions, with appropriate techniques and public involvement.
+- 1.07.A10.06) Conducting studies on harmful wildlife such as monkeys and wild boar, and implementing necessary biological control methods.
 
-- 1.07.A11.06) Conducting studies on harmful wildlife such as monkeys and wild boar, and implementing necessary biological control methods.
+- 1.07.A10.07) Improving facilities for ex-situ conservation and promoting public engagement and educational research
 
-- 1.07.A11.07) Improving facilities for ex-situ conservation and promoting public engagement and educational research
+- 1.07.A10.08) Enhancing in-situ conservation facilities for plant and animal species
 
-- 1.07.A11.08) Enhancing in-situ conservation facilities for plant and animal species
+- 1.07.A10.09) Managing and conserving natural forest cover to maintain environmental services
 
-- 1.07.A11.09) Managing and conserving natural forest cover to maintain environmental services
+- 1.07.A10.10) Controlling and preventing the spread of invasive species
 
-- 1.07.A11.10) Controlling and preventing the spread of invasive species
+##### 1.07.A11) Sustainable Solid Waste Management
 
-##### 1.07.A12) Sustainable Solid Waste Management
+- 1.07.A11.01) Updating legal frameworks and improving infrastructure for waste management in residential, agricultural, industrial and service sectors, based on zero waste 3R (Reduce, Reuse, Recycle) principles and circular economic concept
 
-- 1.07.A12.01) Updating legal frameworks and improving infrastructure for waste management in residential, agricultural, industrial and service sectors, based on zero waste 3R (Reduce, Reuse, Recycle) principles and circular economic concept
+- 1.07.A11.02) Preparation and Implementation of a National Solid Waste Management Action plan, reviewing the current solid waste management plans and related policies
 
-- 1.07.A12.02) Preparation and Implementation of a National Solid Waste Management Action plan, reviewing the current solid waste management plans and related policies
+- 1.07.A11.03) Make it mandatory to adopt a waste management programs for residential, high- rise, service, and industrial buildings/ sector developments
 
-- 1.07.A12.03) Make it mandatory to adopt a waste management programs for residential, high- rise, service, and industrial buildings/ sector developments
+- 1.07.A11.04) Reducing plastic and polythene use through extended producer responsibility schemes
 
-- 1.07.A12.04) Reducing plastic and polythene use through extended producer responsibility schemes
+- 1.07.A11.05) Proper management and safe disposal of hazardous and electronic waste
 
-- 1.07.A12.05) Proper management and safe disposal of hazardous and electronic waste
+- 1.07.A11.06) Developing infrastructure for adopting modern final waste disposal methods like sanitary landfills, waste-to-energy and resource recovery facilities
 
-- 1.07.A12.06) Developing infrastructure for adopting modern final waste disposal methods like sanitary landfills, waste-to-energy and resource recovery facilities
+- 1.07.A11.07) Promote industries to adopt the zero-waste method and locate every industry within the industrial zones whenever possible.
 
-- 1.07.A12.07) Promote industries to adopt the zero-waste method and locate every industry within the industrial zones whenever possible.
+##### 1.07.A12) Management of home garden-related resources
 
-##### 1.07.A13) Management of home garden-related resources
+- 1.07.A12.01) Granting permits for non-commercial activities such as clearing extra land, obtaining soil to build foundations for home construction
 
-- 1.07.A13.01) Granting permits for non-commercial activities such as clearing extra land, obtaining soil to build foundations for home construction
+- 1.07.A12.02) Allowing the removal and transportation of a tree planted in a home garden to obtain timber subject to conservation measures
 
-- 1.07.A13.02) Allowing the removal and transportation of a tree planted in a home garden to obtain timber subject to conservation measures
+- 1.07.A12.03) Introducing eco-friendly criteria for domestic animal husbandry.
 
-- 1.07.A13.03) Introducing eco-friendly criteria for domestic animal husbandry.
+##### 1.07.A13) Relationships and values between ecosystems
 
-##### 1.07.A14) Relationships and values between ecosystems
+- 1.07.A13.01) Conducting research and studies to reveal the inverse and reverse relationships between ecosystems, and its relations with humans
 
-- 1.07.A14.01) Conducting research and studies to reveal the inverse and reverse relationships between ecosystems, and its relations with humans
+- 1.07.A13.02) Implementing formal and informal methods of environmental education
 
-- 1.07.A14.02) Implementing formal and informal methods of environmental education
+- 1.07.A13.03) Conducting research on ecosystems, publishing research results and obtaining patent rights and maintaining a genetic database of ecosystems and working to stop gene theft.
 
-- 1.07.A14.03) Conducting research on ecosystems, publishing research results and obtaining patent rights and maintaining a genetic database of ecosystems and working to stop gene theft.
-
-- 1.07.A14.04) Securing the attractive ecosystems for the tourism industry.
+- 1.07.A13.04) Securing the attractive ecosystems for the tourism industry.
 
 ### 1.08) Free media industry - An objectively informed society
 
@@ -828,9 +856,7 @@ The NPP is committed to preventing the deliberate and strategic misuse of mass m
 
 #### Activities [1.08]
 
-##### 1.08.A01) 02. An honourable life
-
-##### 1.08.A02) A safe country
+##### 1.08.A01) 02. An honourable life A safe country
 
 ## 2) An honourable life - A safer country
 
@@ -866,105 +892,109 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 #### Activities [2.01]
 
-##### 2.01.A01) Social protection and Welfare Programmes
+##### 2.01.A01) Social protection and Welfare Programmes Prajashakthi: Poverty alleviation programme for low-income
 
-##### 2.01.A02) Prajashakthi: Poverty alleviation programme for low-income
+- 2.01.A01.01) earners
 
-- 2.01.A02.01) Providing a minimum monthly financial grant from Rs. 10,000 upwards to low- income families
+- 2.01.A01.02) Providing a minimum monthly financial grant from Rs. 10,000 upwards to low- income families
 
-- 2.01.A02.02) Introduction of a participatory, transparent and efficient beneficiary selection process
+- 2.01.A01.03) Introduction of a participatory, transparent and efficient beneficiary selection process
 
-- 2.01.A02.03) Introducing a digital platform for identifying eligible beneficiaries using new criteria within a year and providing financial assistance to all qualifying individuals.
+- 2.01.A01.04) Introducing a digital platform for identifying eligible beneficiaries using new criteria within a year and providing financial assistance to all qualifying individuals.
 
-##### 2.01.A03) Empowerment
+##### 2.01.A02) Empowerment
 
-- 2.01.A03.01) A comprehensive participatory study on the causes of poverty and family dynamics in low-income households.
+- 2.01.A02.01) Under the key poverty alleviation programme, the NPP government will undertake the following ess ential tasks.
 
-- 2.01.A03.02) Identification, analysis and developing remedies for poverty and vulnerabilities at the household level through community-based projects.
+- 2.01.A02.02) A comprehensive participatory study on the causes of poverty and family dynamics in low-income households.
 
-- 2.01.A03.03) Facilitating the implementation of these projects through public-private partnerships and the involvement of the cooperative sector.
+- 2.01.A02.03) Identification, analysis and developing remedies for poverty and vulnerabilities at the household level through community-based projects.
 
-- 2.01.A03.04) Establishment of training, technical assistance and financial assistance for low- income families to initiate income generation and livelihood projects
+- 2.01.A02.04) Facilitating the implementation of these projects through public-private partnerships and the involvement of the cooperative sector.
 
-- 2.01.A03.05) Efficient use of the Samurdhi Banking system and staff to empower poor families.
+- 2.01.A02.05) Establishment of training, technical assistance and financial assistance for low- income families to initiate income generation and livelihood projects
 
-- 2.01.A03.06) Assigning a field officer for every 100 families for monitoring and to provide continuous sup port
+- 2.01.A02.06) Efficient use of the Samurdhi Banking system and staff to empower poor families.
 
-##### 2.01.A04) A healthy and happy retirement for senior c itizens
+- 2.01.A02.07) Assigning a field officer for every 100 families for monitoring and to provide continuous sup port
 
-- 2.01.A04.01) Providin g a monthly allowance of Rs. 5,000 to senior citizens needing assistance.
+##### 2.01.A03) A healthy and happy retirement for senior c itizens
 
-- 2.01.A04.02) Establishment of new elderly care centers at the divisional secretariat level.
+- 2.01.A03.01) Providin g a monthly allowance of Rs. 5,000 to senior citizens needing assistance.
 
-- 2.01.A04.03) Government support and regulation of private care centers.
+- 2.01.A03.02) Establishment of new elderly care centers at the divisional secretariat level.
 
-- 2.01.A04.04) Professional training for care workers and incentives for small and medium institutions involved in elderly care.
+- 2.01.A03.03) Government support and regulation of private care centers.
 
-- 2.01.A04.05) Investment of retirement Funds, such as the Employee Provident Fund, in safe and high-return investments.
+- 2.01.A03.04) Professional training for care workers and incentives for small and medium institutions involved in elderly care.
 
-- 2.01.A04.06) Provision of incentives for financial and insurance services to ensure the safety of pension funds and continuous benefits.
+- 2.01.A03.05) Investment of retirement Funds, such as the Employee Provident Fund, in safe and high-return investments.
 
-- 2.01.A04.07) An interest rate that is 5% higher than the normal bank rate(s) for senior citizens’ fixed deposits. A Meaningful and Satisfactory Life for Persons with Disabilities
+- 2.01.A03.06) Provision of incentives for financial and insurance services to ensure the safety of pension funds and continuous benefits.
 
-- 2.01.A04.08) Establishment of a comprehensive data-base, developed by experts, on persons with disabilities
+- 2.01.A03.07) An interest rate that is 5% higher than the normal bank rate(s) for senior citizens’ fixed deposits. A Meaningful and Satisfactory Life for Persons with Disabilities
 
-- 2.01.A04.09) Provision of a monthly financial aid of Rs. 10,000 to persons with disabilities in low-income families.
+- 2.01.A03.08) Establishment of a comprehensive data-base, developed by experts, on persons with disabilities
 
-- 2.01.A04.10) Facilitating education, training, employment, and livelihoods opportunities for persons with disabilities.
+- 2.01.A03.09) Provision of a monthly financial aid of Rs. 10,000 to persons with disabilities in low-income families.
 
-##### 2.01.A05) Social protection for women-headed families, single parent
+- 2.01.A03.10) Facilitating education, training, employment, and livelihoods opportunities for persons with disabilities.
 
-- 2.01.A05.01) Financial assistance for affected individuals (of the above categories) based on needs and income levels.
+##### 2.01.A04) Social protection for women-headed families, single parent
 
-- 2.01.A05.02) Legal aid and counseling services are offered based on needs and requests.
+- 2.01.A04.01) families and women affected by Gender-based/intimate partner violence.
 
-- 2.01.A05.03) Provision of alternative housing and job support when needed.
+- 2.01.A04.02) Financial assistance for affected individuals (of the above categories) based on needs and income levels.
 
-- 2.01.A05.04) Establishment of mechanisms for social and psychological support for women affected by violence an d abuse.
+- 2.01.A04.03) Legal aid and counseling services are offered based on needs and requests.
 
-##### 2.01.A06) Health: Social Protection for Persons with Chronic Illnesses
+- 2.01.A04.04) Provision of alternative housing and job support when needed.
 
-- 2.01.A06.01) Creating a digital data repository of individuals with chronic illnesses such as cancer and kidney disease.
+- 2.01.A04.05) Establishment of mechanisms for social and psychological support for women affected by violence an d abuse.
 
-- 2.01.A06.02) A minimum monthly financial grant of Rs. 10,000 to persons with chronic illnesses on a needs basis.
+##### 2.01.A05) Health: Social Protection for Persons with Chronic Illnesses
 
-- 2.01.A06.03) Professiona l support and social empowerment.
+- 2.01.A05.01) Creating a digital data repository of individuals with chronic illnesses such as cancer and kidney disease.
 
-##### 2.01.A07) Nourishing Future Generations: Reducing Malnutrition
+- 2.01.A05.02) A minimum monthly financial grant of Rs. 10,000 to persons with chronic illnesses on a needs basis.
 
-- 2.01.A07.01) Identifying low-income families with malnourished children.
+- 2.01.A05.03) Professiona l support and social empowerment.
 
-- 2.01.A07.02) Educating parents about measures to combat malnutrition.
+##### 2.01.A06) Nourishing Future Generations: Reducing Malnutrition
 
-- 2.01.A07.03) Provision of financial assistance through field officers for obtaining nutritious food for families with urgent needs.
+- 2.01.A06.01) Identifying low-income families with malnourished children.
 
-##### 2.01.A08) Nutritional Program for Pregnant Women
+- 2.01.A06.02) Educating parents about measures to combat malnutrition.
 
-- 2.01.A08.01) Identifying pregnant women needing additional nutrition through community health services.
+- 2.01.A06.03) Provision of financial assistance through field officers for obtaining nutritious food for families with urgent needs.
 
-- 2.01.A08.02) Provision of financial support for nutritious food packages during pregnancy and the first year of childbirth for low-income families.
+##### 2.01.A07) Nutritional Program for Pregnant Women
 
-- 2.01.A08.03) Continuous awareness and monitoring by family health officers.
+- 2.01.A07.01) Identifying pregnant women needing additional nutrition through community health services.
 
-##### 2.01.A09) Safety: Adequate Care for Children
+- 2.01.A07.02) Provision of financial support for nutritious food packages during pregnancy and the first year of childbirth for low-income families.
 
-- 2.01.A09.01) Establishment of Childcare Centers at the Gramaniladari level with public and private partnerships based on needs and requests.
+- 2.01.A07.03) Continuous awareness and monitoring by family health officers.
 
-- 2.01.A09.02) Registration of existing institutions with adequate qualifications for childcare.
+##### 2.01.A08) Safety: Adequate Care for Children
 
-- 2.01.A09.03) Training of staff for the effective management of Childcare Centers and monitoring their performance.
+- 2.01.A08.01) Establishment of Childcare Centers at the Gramaniladari level with public and private partnerships based on needs and requests.
 
-- 2.01.A09.04) Appointment of social service/development officers to provide professional services and provision of incentives for small and medium scale entrepreneurs to provide such services.
+- 2.01.A08.02) Registration of existing institutions with adequate qualifications for childcare.
 
-##### 2.01.A10) Pension Scheme for all citizens
+- 2.01.A08.03) Training of staff for the effective management of Childcare Centers and monitoring their performance.
 
-- 2.01.A10.01) Development and implementation of a broad pension policy applicable to all workers in the country.
+- 2.01.A08.04) Appointment of social service/development officers to provide professional services and provision of incentives for small and medium scale entrepreneurs to provide such services.
 
-- 2.01.A10.02) Establishing a government-certified pension fund under the supervision of the Department of Pensions and the Central Bank.
+##### 2.01.A09) Pension Scheme for all citizens
 
-- 2.01.A10.03) Motivating all citizens, who are currently not employed in the Government or Corporate sector such as farmers and fishermen and others to join the pension scheme.
+- 2.01.A09.01) Development and implementation of a broad pension policy applicable to all workers in the country.
 
-- 2.01.A10.04) Using the pension fund as an insurance scheme during emergencies/disability.
+- 2.01.A09.02) Establishing a government-certified pension fund under the supervision of the Department of Pensions and the Central Bank.
+
+- 2.01.A09.03) Motivating all citizens, who are currently not employed in the Government or Corporate sector such as farmers and fishermen and others to join the pension scheme.
+
+- 2.01.A09.04) Using the pension fund as an insurance scheme during emergencies/disability.
 
 ### 2.02) An efficient workforce - A respectable professional life
 
@@ -986,11 +1016,13 @@ However, in modern society, the status and importance that should be accorded to
 
 ##### 2.02.A01) Unemployed graduates:
 
-- 2.02.A01.01) 20,000 to the teaching profession.
+- 2.02.A01.01) Graduates who have been unemployed for a long period will be employed as follows. Thereafter, a mechanism will be developed to create new job opportunities for graduates as the economy expands.
 
-- 2.02.A01.02) 3,000 STEM graduates and 9,000 non-STEM graduates to the information technology sector.
+- 2.02.A01.02) 20,000 to the teaching profession.
 
-- 2.02.A01.03) Another 3,000 to the Inland Revenue Department, Customs Department, Foreign Service, and tourism industry.
+- 2.02.A01.03) 3,000 STEM graduates and 9,000 non-STEM graduates to the information technology sector.
+
+- 2.02.A01.04) Another 3,000 to the Inland Revenue Department, Customs Department, Foreign Service, and tourism industry.
 
 ### 2.03) Impartial human identity - Gender equality in social-life
 
@@ -1268,9 +1300,7 @@ Therefore, this policy focuses on creating an economically and socially fulfilli
 
 - 2.07.A06.08) Create inclusive theaters and sports facilities to enhance the artistic and cultural participation of persons with disabilities.  
 
-##### 2.07.A07) A modern life
-
-##### 2.07.A08) A wealthy nation
+##### 2.07.A07) A modern life A wealthy nation
 
 ## 3) A modern life - A wealthy nation
 
@@ -1320,189 +1350,187 @@ In formulating these policies, factors such as resource availability and accessi
 
 #### Activities [3.01]
 
-##### 3.01.A01) Macroeconomic Stabilization
+##### 3.01.A01) Macroeconomic Stabilization Fiscal Policy:
 
-##### 3.01.A02) Fiscal Policy:
+- 3.01.A01.01) Establish a new dedicated unit for designing and implementing tax policies with a special section on international transactions.
 
-- 3.01.A02.01) Establish a new dedicated unit for designing and implementing tax policies with a special section on international transactions.
+- 3.01.A01.02) Make required legal reforms to enhance efficiency in tax administration.
 
-- 3.01.A02.02) Make required legal reforms to enhance efficiency in tax administration.
+- 3.01.A01.03) Provide training and capacity development for the officials of the Inland Revenue Department.
 
-- 3.01.A02.03) Provide training and capacity development for the officials of the Inland Revenue Department.
+- 3.01.A01.04) Implement measures to expedite the collection of taxes in arrears.
 
-- 3.01.A02.04) Implement measures to expedite the collection of taxes in arrears.
+- 3.01.A01.05) Integrate the operations of the Excise Department, Sri Lanka Customs, Department of Motor Traffic, and Land Registry Office with the Inland Revenue Department to ensure tax efficiency and fairness.
 
-- 3.01.A02.05) Integrate the operations of the Excise Department, Sri Lanka Customs, Department of Motor Traffic, and Land Registry Office with the Inland Revenue Department to ensure tax efficiency and fairness.
+- 3.01.A01.06) Introduce a unique digital identification code (UDI) to every citizen to liaise with the government to access public services.
 
-- 3.01.A02.06) Introduce a unique digital identification code (UDI) to every citizen to liaise with the government to access public services.
+- 3.01.A01.07) Increase the annual tax threshold for individual income tax from Rs. 1.2 million to Rs. 2.4 million and revise the tax rates and tax brackets on a fair basis.
 
-- 3.01.A02.07) Increase the annual tax threshold for individual income tax from Rs. 1.2 million to Rs. 2.4 million and revise the tax rates and tax brackets on a fair basis.
+- 3.01.A01.08) Broaden the tax base in line with tax principles.
 
-- 3.01.A02.08) Broaden the tax base in line with tax principles.
+- 3.01.A01.09) Increase the tax depreciation allowance for deductible expenses on the purchase of machinery and equipment up to 120% of capital expenditure for companies to stimulate production.
 
-- 3.01.A02.09) Increase the tax depreciation allowance for deductible expenses on the purchase of machinery and equipment up to 120% of capital expenditure for companies to stimulate production.
+- 3.01.A01.10) Introduce Point of Sales (POS) systems and digital invoicing to streamline V AT collection.
 
-- 3.01.A02.10) Introduce Point of Sales (POS) systems and digital invoicing to streamline V AT collection.
+- 3.01.A01.11) Introduce a 0% V AT rate for essential food items including locally produced milk & eggs, infant milk, drugs, schoolbooks, stationeries & equipment, magazines & journals, library services, agricultural equipment, fertilizer, solar panels & accessories, machinery for renewable energy generation, motor vehicle and equipment used by a disabled person, locally manufactured software and IT related services, and computers, research and development services, computers
 
-- 3.01.A02.11) Introduce a 0% V AT rate for essential food items including locally produced milk & eggs, infant milk, drugs, schoolbooks, stationeries & equipment, magazines & journals, library services, agricultural equipment, fertilizer, solar panels & accessories, machinery for renewable energy generation, motor vehicle and equipment used by a disabled person, locally manufactured software and IT related services, and computers, research and development services, computers
+- 3.01.A01.12) Categorize goods applicable for V AT and introduce a different tax rate for each category.
 
-- 3.01.A02.12) Categorize goods applicable for V AT and introduce a different tax rate for each category.
+- 3.01.A01.13) Expedite providing Export Development Tax rebate on Input V AT for exporters.
 
-- 3.01.A02.13) Expedite providing Export Development Tax rebate on Input V AT for exporters.
+- 3.01.A01.14) Switch to risk-based audits from the present discretionary tax audits.
 
-- 3.01.A02.14) Switch to risk-based audits from the present discretionary tax audits.
+- 3.01.A01.15) Introduce an online system for tax assessment, filing, paying, and refunding of excess tax incorporated with a mobile application.
 
-- 3.01.A02.15) Introduce an online system for tax assessment, filing, paying, and refunding of excess tax incorporated with a mobile application.
+- 3.01.A01.16) Establish a single window service by integrating other state institutions with Sri Lanka Customs to streamline import/export operations.
 
-- 3.01.A02.16) Establish a single window service by integrating other state institutions with Sri Lanka Customs to streamline import/export operations.
+- 3.01.A01.17) Simplify the complex tariff structure to increase customs revenue on a fair basis.
 
-- 3.01.A02.17) Simplify the complex tariff structure to increase customs revenue on a fair basis.
+- 3.01.A01.18) Amend the Foreign Exchange Act to reconcile remittance inflows and improve operational efficiency.
 
-- 3.01.A02.18) Amend the Foreign Exchange Act to reconcile remittance inflows and improve operational efficiency.
+- 3.01.A01.19) Decentralize Sri Lanka Customs operations to provide more efficient and cost- effective services.
 
-- 3.01.A02.19) Decentralize Sri Lanka Customs operations to provide more efficient and cost- effective services.
+- 3.01.A01.20) Facilitate temporary import facilities for raw materials and machinery under the TIEP scheme to assist Micro Small and Medium Enterprises (MSMEs) in export preparation.
 
-- 3.01.A02.20) Facilitate temporary import facilities for raw materials and machinery under the TIEP scheme to assist Micro Small and Medium Enterprises (MSMEs) in export preparation.
+- 3.01.A01.21) Implement measures to prevent leakages and tax evasion on international transactions and transfer pricing and Automatic Exchange of Information (AEoI) among countries.
 
-- 3.01.A02.21) Implement measures to prevent leakages and tax evasion on international transactions and transfer pricing and Automatic Exchange of Information (AEoI) among countries.
+- 3.01.A01.22) Develop a mechanism to impose a global minimum tax on multinational companies based on international treaties and guidelines.
 
-- 3.01.A02.22) Develop a mechanism to impose a global minimum tax on multinational companies based on international treaties and guidelines.
+- 3.01.A01.23) Improve public finance efficiency, transparency, governance and accountability, and eliminate unnecessary public expenditure through digital-based governance including e-procurement and a strong public oversight mechanism.
 
-- 3.01.A02.23) Improve public finance efficiency, transparency, governance and accountability, and eliminate unnecessary public expenditure through digital-based governance including e-procurement and a strong public oversight mechanism.
+##### 3.01.A02) Monetary Policy:
 
-##### 3.01.A03) Monetary Policy:
+- 3.01.A02.01) Establish a new ‘relief bank’ to restore the economic activities of MSMEs and provide relief for outstanding loans.
 
-- 3.01.A03.01) Establish a new ‘relief bank’ to restore the economic activities of MSMEs and provide relief for outstanding loans.
+- 3.01.A02.02) Establish a new national development bank to provide long-term financing, start new businesses, and expand existing businesses for entrepreneurs.
 
-- 3.01.A03.02) Establish a new national development bank to provide long-term financing, start new businesses, and expand existing businesses for entrepreneurs.
+- 3.01.A02.03) Direct cooperative banks, Samurddhi banks and regional development banks efficiently to provide financial facilities for small-scale farmers, entrepreneurs, and investors.
 
-- 3.01.A03.03) Direct cooperative banks, Samurddhi banks and regional development banks efficiently to provide financial facilities for small-scale farmers, entrepreneurs, and investors.
+- 3.01.A02.04) Provide relief to deprived parties after reviewing microfinance loans provided in violation of legal provisions and guidelines given.
 
-- 3.01.A03.04) Provide relief to deprived parties after reviewing microfinance loans provided in violation of legal provisions and guidelines given.
+- 3.01.A02.05) Encourage microfinance providers to register with the Central Bank of Sri Lanka and standardize the monitoring of such institutions.
 
-- 3.01.A03.05) Encourage microfinance providers to register with the Central Bank of Sri Lanka and standardize the monitoring of such institutions.
+- 3.01.A02.06) Stabilize the policy interest rates to ensure stability of the financial markets, including the foreign exchange market.
 
-- 3.01.A03.06) Stabilize the policy interest rates to ensure stability of the financial markets, including the foreign exchange market.
+- 3.01.A02.07) Introduce new financing schemes to formally invest bank money and savings in production economic activities.
 
-- 3.01.A03.07) Introduce new financing schemes to formally invest bank money and savings in production economic activities.
+- 3.01.A02.08) Strengthen the Financial Intelligence Unit (FIU) of the Central Bank of Sri Lanka through formalization of the coordination among state institutions.
 
-- 3.01.A03.08) Strengthen the Financial Intelligence Unit (FIU) of the Central Bank of Sri Lanka through formalization of the coordination among state institutions.
+- 3.01.A02.09) Recapitalize state banks to enhance the stability and efficiency.
 
-- 3.01.A03.09) Recapitalize state banks to enhance the stability and efficiency.
+##### 3.01.A03) External Sector Stabilization:
 
-##### 3.01.A04) External Sector Stabilization:
+- 3.01.A03.01) Introduce new savings and investment plans, including expatriate Bonds for Sri Lankans living abroad.
 
-- 3.01.A04.01) Introduce new savings and investment plans, including expatriate Bonds for Sri Lankans living abroad.
+- 3.01.A03.02) Issue new development bonds to finance regional development projects which with sustainable development goals.
 
-- 3.01.A04.02) Issue new development bonds to finance regional development projects which with sustainable development goals.
+- 3.01.A03.03) Issue bonds to access funds for sustainable development projects by the global green and blue agendas.
 
-- 3.01.A04.03) Issue bonds to access funds for sustainable development projects by the global green and blue agendas.
+- 3.01.A03.04) Expedite proposed and currently stalled Foreign Direct Investments (FDIs) that are aligned with national priorities and development strategies.
 
-- 3.01.A04.04) Expedite proposed and currently stalled Foreign Direct Investments (FDIs) that are aligned with national priorities and development strategies.
+- 3.01.A03.05) Review existing trade agreements and enter into new ones to increase the share of foreign trade through export diversification.
 
-- 3.01.A04.05) Review existing trade agreements and enter into new ones to increase the share of foreign trade through export diversification.
+- 3.01.A03.06) Execute an expedited program to increase foreign exchange earnings from tourism and IT industries.
 
-- 3.01.A04.06) Execute an expedited program to increase foreign exchange earnings from tourism and IT industries.
+##### 3.01.A04) The Programme with the International Monetary Fund (IMF):
 
-##### 3.01.A05) The Programme with the International Monetary Fund (IMF):
+- 3.01.A04.01) Renegotiate with the IMF on the content of a more palatable and strengthened programme and how it is implemented for salvaging the poor and deprived people from that painful condition.
 
-- 3.01.A05.01) Renegotiate with the IMF on the content of a more palatable and strengthened programme and how it is implemented for salvaging the poor and deprived people from that painful condition.
+- 3.01.A04.02) Prepare and present new proposals on efficient tax administration and government expenditure management to renegotiate the revenue-based fiscal consolidation proposals of the IMF.
 
-- 3.01.A05.02) Prepare and present new proposals on efficient tax administration and government expenditure management to renegotiate the revenue-based fiscal consolidation proposals of the IMF.
+- 3.01.A04.03) Prepare an alternative Debt Sustainability Analysis (DSA) aiming to maintain debt sustainability and to keep the interest at a bearable level for the purpose of using it as and when necessary, in pursuit of debt restructuring engagements.
 
-- 3.01.A05.03) Prepare an alternative Debt Sustainability Analysis (DSA) aiming to maintain debt sustainability and to keep the interest at a bearable level for the purpose of using it as and when necessary, in pursuit of debt restructuring engagements.
+- 3.01.A04.04) Conduct a detailed debt audit on foreign loans obtained by the governments to ensure transparency and accountability in public financial management and to take legal actions against those who have misappropriated such loans.
 
-- 3.01.A05.04) Conduct a detailed debt audit on foreign loans obtained by the governments to ensure transparency and accountability in public financial management and to take legal actions against those who have misappropriated such loans.
+- 3.01.A04.05) Enhance public financial management and financial discipline to upgrade the credit rating of the country and the banking system.
 
-- 3.01.A05.05) Enhance public financial management and financial discipline to upgrade the credit rating of the country and the banking system.
+##### 3.01.A05) Investment Promotion
 
-##### 3.01.A06) Investment Promotion
+- 3.01.A05.01) Establish a single empowered institution by integrating existing state institutions including the Board of Investment of Sri Lanka that coordinate and promote investments.
 
-- 3.01.A06.01) Establish a single empowered institution by integrating existing state institutions including the Board of Investment of Sri Lanka that coordinate and promote investments.
+- 3.01.A05.02) Introduce a legal framework to ensure transparency and fairness in line with internationally accepted principles and practices for accepting and retaining investment.
 
-- 3.01.A06.02) Introduce a legal framework to ensure transparency and fairness in line with internationally accepted principles and practices for accepting and retaining investment.
+- 3.01.A05.03) Create a conducive environment with economic democracy that ensures ease of entering into new businesses and finding locations on a level playing field, the ability to access utilities conveniently, the availability of required competent labour, efficient financial services, ability to enter into international trade, fair and transparent taxation, efficient conflict resolution & arbitration mechanism, and market competition.
 
-- 3.01.A06.03) Create a conducive environment with economic democracy that ensures ease of entering into new businesses and finding locations on a level playing field, the ability to access utilities conveniently, the availability of required competent labour, efficient financial services, ability to enter into international trade, fair and transparent taxation, efficient conflict resolution & arbitration mechanism, and market competition.
+- 3.01.A05.04) Establish a single window to facilitate business registration, issuance of licenses, certifications, granting of permission for land use, and provision of electricity, water, communication services and other facilities through an integrated system.
 
-- 3.01.A06.04) Establish a single window to facilitate business registration, issuance of licenses, certifications, granting of permission for land use, and provision of electricity, water, communication services and other facilities through an integrated system.
+- 3.01.A05.05) Take measures to raise Sri Lanka’s ranking in the Global Competitive Index (GCI) to attract investors.
 
-- 3.01.A06.05) Take measures to raise Sri Lanka’s ranking in the Global Competitive Index (GCI) to attract investors.
+- 3.01.A05.06) Promote venture capital funds for new investment opportunities.
 
-- 3.01.A06.06) Promote venture capital funds for new investment opportunities.
+- 3.01.A05.07) Restructure the state institutional system to maintain the capital market efficient & productive, build investor confidence and prevent inside trading and corruption.
 
-- 3.01.A06.07) Restructure the state institutional system to maintain the capital market efficient & productive, build investor confidence and prevent inside trading and corruption.
+- 3.01.A05.08) Promote long-term foreign investments in public-private-people partnerships (PPPP) by prioritizing strategically important sectors.
 
-- 3.01.A06.08) Promote long-term foreign investments in public-private-people partnerships (PPPP) by prioritizing strategically important sectors.
+- 3.01.A05.09) Introduce investment schemes with special benefits for Sri Lankan expatriates to invest their earnings.
 
-- 3.01.A06.09) Introduce investment schemes with special benefits for Sri Lankan expatriates to invest their earnings.
+- 3.01.A05.10) Provide appropriate tax concessions for initial public offerings (IPOs) for capital formation.
 
-- 3.01.A06.10) Provide appropriate tax concessions for initial public offerings (IPOs) for capital formation.
+- 3.01.A05.11) Enhance and expand the capital market as an efficient and developed security exchange that facilitates SME listing conveniently, and ensures responsible reporting &compliance, transparency and governance.
 
-- 3.01.A06.11) Enhance and expand the capital market as an efficient and developed security exchange that facilitates SME listing conveniently, and ensures responsible reporting &compliance, transparency and governance.
+- 3.01.A05.12) Protect employee rights including fair treatment, fair wages, and secured working conditions in compliance with the principles International Labour Organization (ILO).
 
-- 3.01.A06.12) Protect employee rights including fair treatment, fair wages, and secured working conditions in compliance with the principles International Labour Organization (ILO).
+- 3.01.A05.13) Enhance labour and production relations through collective efforts that empower employees via collaboration and cooperation, increase productivity, and assign responsibilities democratically to each party.
 
-- 3.01.A06.13) Enhance labour and production relations through collective efforts that empower employees via collaboration and cooperation, increase productivity, and assign responsibilities democratically to each party.
+- 3.01.A05.14) Set up a mechanism to resolve conflicts and issues in production relations through stakeholder engagement.
 
-- 3.01.A06.14) Set up a mechanism to resolve conflicts and issues in production relations through stakeholder engagement.
+##### 3.01.A06) State-Owned Enterprises (SOEs):
 
-##### 3.01.A07) State-Owned Enterprises (SOEs):
+- 3.01.A06.01) Take appropriate strategic decisions on each institution based on its strategic importance, potential for economic growth, capability to stimulate the production economy, impact on financial stability, and relevance to national security.
 
-- 3.01.A07.01) Take appropriate strategic decisions on each institution based on its strategic importance, potential for economic growth, capability to stimulate the production economy, impact on financial stability, and relevance to national security.
+- 3.01.A06.02) Provide the public with access to comprehensive information on the operations of SOEs to ensure transparency.
 
-- 3.01.A07.02) Provide the public with access to comprehensive information on the operations of SOEs to ensure transparency.
+- 3.01.A06.03) Promote research and development activities to explore new opportunities in economic trends, potentials, and developments prevailing at the national and international levels.
 
-- 3.01.A07.03) Promote research and development activities to explore new opportunities in economic trends, potentials, and developments prevailing at the national and international levels.
+##### 3.01.A07) Domestic Trade
 
-##### 3.01.A08) Domestic Trade
+- 3.01.A07.01) Ensure continuous supply of high-quality goods and services to the public at fair prices through promoting market competitiveness, directing monitoring institutions efficiently, organizing market activities and representing government stake in operations.
 
-- 3.01.A08.01) Ensure continuous supply of high-quality goods and services to the public at fair prices through promoting market competitiveness, directing monitoring institutions efficiently, organizing market activities and representing government stake in operations.
+- 3.01.A07.02) Establish large-scale economic and exchange centres at the district level.
 
-- 3.01.A08.02) Establish large-scale economic and exchange centres at the district level.
+- 3.01.A07.03) Establish a monitoring mechanism and an online information management system to ensure the continuation of trade of goods and services in a fair and high-quality manner, protection of consumer rights and transparency in trade- related information.
 
-- 3.01.A08.03) Establish a monitoring mechanism and an online information management system to ensure the continuation of trade of goods and services in a fair and high-quality manner, protection of consumer rights and transparency in trade- related information.
+- 3.01.A07.04) Implement a coordinated service management mechanism to provide auxiliary services such as finance, banking, transportation, insurance, communications, packaging, and warehousing for the smooth functioning of trade and distribution.
 
-- 3.01.A08.04) Implement a coordinated service management mechanism to provide auxiliary services such as finance, banking, transportation, insurance, communications, packaging, and warehousing for the smooth functioning of trade and distribution.
+- 3.01.A07.05) Eliminate unnecessary intermediations who do not add value in trade between production and consumption and facilitate them to transform as active value creators.
 
-- 3.01.A08.05) Eliminate unnecessary intermediations who do not add value in trade between production and consumption and facilitate them to transform as active value creators.
+- 3.01.A07.06) Introduce necessary legal reforms and new laws to remove information asymmetry prevailing in the market.
 
-- 3.01.A08.06) Introduce necessary legal reforms and new laws to remove information asymmetry prevailing in the market.
+- 3.01.A07.07) Establish, enhance and modernize marketplaces for potential products including gems, jewelry, precious stones, textiles, and handicrafts targeting foreign buyers.
 
-- 3.01.A08.07) Establish, enhance and modernize marketplaces for potential products including gems, jewelry, precious stones, textiles, and handicrafts targeting foreign buyers.
+- 3.01.A07.08) Implement a mechanism to resolve, by investigating, trade-related issues faced by micro, small and medium-scale business communities
 
-- 3.01.A08.08) Implement a mechanism to resolve, by investigating, trade-related issues faced by micro, small and medium-scale business communities
+- 3.01.A07.09) Eliminate price gouging, prevent the creation of shortages of goods, and the formation of monopolies, oligopolies and cartels in the market.
 
-- 3.01.A08.09) Eliminate price gouging, prevent the creation of shortages of goods, and the formation of monopolies, oligopolies and cartels in the market.
+- 3.01.A07.10) Establish an integrated control system to monitor and administer the quality of public services delivered through a centralized information system.
 
-- 3.01.A08.10) Establish an integrated control system to monitor and administer the quality of public services delivered through a centralized information system.
+##### 3.01.A08) Foreign Trade
 
-##### 3.01.A09) Foreign Trade
+- 3.01.A08.01) Promote the diversification of export of goods and services and provide required infrastructure facilities.
 
-- 3.01.A09.01) Promote the diversification of export of goods and services and provide required infrastructure facilities.
+- 3.01.A08.02) Provide necessary facilities to producers and exporters, by providing export credit facilities, certification services, insurance, new market and demand trends, new market innovations, and information on global value chains.
 
-- 3.01.A09.02) Provide necessary facilities to producers and exporters, by providing export credit facilities, certification services, insurance, new market and demand trends, new market innovations, and information on global value chains.
+- 3.01.A08.03) Promote trade of goods and services by focusing on India, China, sub-Saharan Africa, the Middle East, and Europe and especially focusing on global supply and value chains.
 
-- 3.01.A09.03) Promote trade of goods and services by focusing on India, China, sub-Saharan Africa, the Middle East, and Europe and especially focusing on global supply and value chains.
+- 3.01.A08.04) Transform Sri Lanka into a maritime service hub that provides naval services including maritime security, fuel, and food.
 
-- 3.01.A09.04) Transform Sri Lanka into a maritime service hub that provides naval services including maritime security, fuel, and food.
+- 3.01.A08.05) Develop port facilities to serve as an efficient regional logistic management hub with all facilities to provide services of transshipment, transloading, ship-to-ship cargo transfer, and cross-docking.
 
-- 3.01.A09.05) Develop port facilities to serve as an efficient regional logistic management hub with all facilities to provide services of transshipment, transloading, ship-to-ship cargo transfer, and cross-docking.
+- 3.01.A08.06) Establish an international trading hub that facilitates to reduce transaction costs and to increase operational efficiency for merchants to trade goods including crude oil, fuel, gas, mineral products, and spices.
 
-- 3.01.A09.06) Establish an international trading hub that facilitates to reduce transaction costs and to increase operational efficiency for merchants to trade goods including crude oil, fuel, gas, mineral products, and spices.
+- 3.01.A08.07) Establish a crew member-changing centre for ships navigating across Sri Lanka.
 
-- 3.01.A09.07) Establish a crew member-changing centre for ships navigating across Sri Lanka.
+- 3.01.A08.08) Improve technology and infrastructure for ship & vessel building and repairs.
 
-- 3.01.A09.08) Improve technology and infrastructure for ship & vessel building and repairs.
+- 3.01.A08.09) Promote production and exports of non-traditional and value-added products.
 
-- 3.01.A09.09) Promote production and exports of non-traditional and value-added products.
+- 3.01.A08.10) Amend the import policy by considering the importance of the protection of local production, assurance of food security, ease of accessing raw materials for production, priority for essential goods and investment goods and competitive access to imports.
 
-- 3.01.A09.10) Amend the import policy by considering the importance of the protection of local production, assurance of food security, ease of accessing raw materials for production, priority for essential goods and investment goods and competitive access to imports.
+- 3.01.A08.11) Strengthen anti-dumping laws, introduce new fair-trading laws, and update existing regulations.
 
-- 3.01.A09.11) Strengthen anti-dumping laws, introduce new fair-trading laws, and update existing regulations.
+- 3.01.A08.12) Promote and provide necessary facilities for value-added re-exports and entrepot trading activities without damaging the brand identity and the good image of Sri Lanka.
 
-- 3.01.A09.12) Promote and provide necessary facilities for value-added re-exports and entrepot trading activities without damaging the brand identity and the good image of Sri Lanka.
-
-- 3.01.A09.13) Provide the necessary infrastructure facilities to ensure the quality of imported goods through certification and quality inspection.
+- 3.01.A08.13) Provide the necessary infrastructure facilities to ensure the quality of imported goods through certification and quality inspection.
 
 ### 3.02) Higher productivity - Nation with food security
 
@@ -1760,25 +1788,47 @@ The fisheries and aquaculture sectors are currently facing many issues. Among th
 
 ##### 3.04.A01) Sustainable development and management
 
+- 3.04.A01.01) • A real-time information system to capture, store, analyse, and distribute all data and information related to the fisheries sector. • An effective online mechanism to obtain permits & licenses, and do registrations related to the fisheries field. • A consultation council to manage fisheries and aquaculture activities. • Amend the laws & regulations, and processes that hinder the industry, in accordance with international conventions, agreements, and standards. • Assess the oceanic fish resources, and the maximum capacities of seawater & freshwater aquatic systems, and develop the industry based on such assessments. • Identify fish breeding regions, take measures to grow their spread, and identify and conserve breeding areas of endangered aquatic species. • Encourage the fishing community to produce high-quality, eco-friendly, and safe products. • Provide financial and technical support for the use of renewable and hybrid energy and sale of such products. • Discourage illegal fishing activities, minimize ocean pollution, and establish a mechanism for emergency responses and minimization of ocean disasters. • A fund to promote the development of research on fishing and market activities.
+
 ##### 3.04.A02) Seawater fisheries
+
+- 3.04.A02.01) • Provide technical support for fisher folk to harvest fish resources in different temperatures and depths. • Expand artificial habitats and methods such as FAD to facilitate fishing and breeding. • Ensure ownership and access to traditional fishing grounds, including fishing harbors and mesh ports, and develop their infrastructure. • Provide financial and technical support to revitalize ocean fisheries which has currently faced a huge decline. • Provide a fuel subsidy to the fishing community in order to uplift the collapsed fisheries by reducing the production cost. • Introduce novel, eco-friendly, and effective fishing technologies such as vessel monitoring and identification systems, electronic notebooks, and identification of fish grounds through drones and satellites, mother vessels & hybrid vessels, and smart selling. • Introduce a GPS-based warning system to prevent local fishing vessels from entering the territorial waters of other countries. • Ensure efficient and systematic diplomatic interventions in cases of emergencies where fishing boat crews and vessels encounter issues in foreign waters.
 
 ##### 3.04.A03) Development of marine and brackish water fish products
 
+- 3.04.A03.01) • Provide modern technology for harvesting and breeding species with high market values such as sea cucumber, crabs, barramundi, oyster, prawns, lobsters, and aquatic plants. • Promote eco-friendly aquaculture by identifying new fish grounds and species suitable for marine and brackish water aquaculture. • Introduce measures to obtain higher values and share in foreign markets by standardizing processes for prawn farms. • Increase the annual production of prawns above 25,000 tons by providing required facilities including technology. • Establish a formal system to prevent and control diseases in the prawn industry. • Provide technical assistance to diversify the production of sea plants with high demand and under consumption and mediate to find markets for these products. • Increase women’s participation by promoting homebased production that uses sea plants and aquatic resources.
+
 ##### 3.04.A04) Freshwater fisheries and aquaculture
+
+- 3.04.A04.01) • Increase freshwater fisheries by connecting aquaculture around freshwater lakes, breeding fingerlings, and establishing breeding centers on a developed management system. • Implement a suitable program to stock fingerlings in regular reservoirs, seasonal reservoirs, estate reservoirs, and ponds through various aquaculture methods. • Introduce local or new specialized breeding methods, and develop human resources, technology, and infrastructure in breeding centers. • Stock fish in regular reservoirs, seasonal reservoirs, and estate reservoirs as needed to maintain proper capacity. • Breed fish in cages associated with regular reservoirs for consumption. • Provide financial support to promote entrepreneurs to establish large scale farms with modern technology for harvesting commercial freshwater fish.
 
 ##### 3.04.A05) Ornamental fish and ornamental aquatic plants industry
 
+- 3.04.A05.01) • Build a Sri Lankan brand name by aiming to increase income from ornamental fish and aquatic plant exports by 25% by 2028. • Provide financial and technical support to encourage ornamental fish harvesting. • Establish a transparent mechanism to determine the minimum selling price for exporting ornamental fish products. • Implement a program that combines institutes such as regional veterinary centers and labs to identify, prevent, and conduct site-specific testing for fish diseases and pandemics. • Set up regional collection centers to promote exports. • Offer technical and financial assistance for ornamental aquatic plant production methods such as tissue culture, greenhouses, vertical planting, and soilless planting. • Organize annual international exhibitions for ornamental fish and plants. • Provide facilities for producing non-living ornamental aquatic material such as dead plants, roots, and pieces of stones and for breeding local ornamental fish using modern techniques for the protection of the environment. • Establish facilities to educate those who collect ornamental fish using diving techniques on the use of diving equipment, sustainable harvesting methods, minimizing post-harvesting damage, and first aid, and introduce alternative livelihoods such as setting up fish breeding centres and becoming diving guides.
+
 ##### 3.04.A06) Social Welfare for the Fishing Community
+
+- 3.04.A06.01) • Introduce an insurance scheme for the fishing community, covering their families, equipment and tools used in the industry. • Establish treatment centers for decompression sickness faced by divers. • Re-activate the Fisherfolk pension scheme. • Provide training and technical guidance for the younger fishing community, by focusing on professional fishing and nautical fields. • Leverage a broad contribution of the Ocean University, faculties and technical colleges to produce professionals in the field. • Offer comprehensive facilities to meet the needs of the fishing community, including health services, housing, day-care centers for their children and the elderly, and cultural events. • Facilitate building cooperatives and banks as community-based organizations located around fishing villages and ports. • Implement programs to enhance the financial literacy of fisherfolk and aquaculture producers, for elevating them to a professional level. • Create a formal process for providing technical counselling services, foreign tours, and training programmes for field officers. • Develop programs aimed at livelihood enhancement and technical skill development for fisherwomen and other vulnerable family members.
 
 ##### 3.04.A07) Promoting the production of tools and equipment
 
+- 3.04.A07.01) • Facilitate producing material used in the fishing industry, including living and non-living food, vessels and nets, cage equipment and machinery required for harvesting aquatic species. • Provide tax relief for imported tools until sufficient domestic production is developed.
+
 ##### 3.04.A08) Post harvesting management a nd value-added products
+
+- 3.04.A08.01) • Provide the necessary technical support to develop the infrastructure, and raise awareness to harvest, handle, store, and sell fish with minimal post-harvest damages. • Promote production of fish cages, fish feed, liquid fertilizer, and other products using fish waste. • Establish a mechanism for people to buy quality fish products at a reasonable price by systematic distribution systems. • Reduce post-harvest damage through initiatives such as repairing fishing vessels, produce high-quality ice, use enclosed containers, and establish an online mechanism.
 
 ##### 3.04.A09) Uplifting export potential and earning foreign exchange
 
+- 3.04.A09.01) • Take steps to export products by identifying the new foreign market that may emerge in the future. • Promote exports and promoting the market by collaborating with relevant institutes, including Sri Lanka Export Development Board and Embassies. • Promote high quality local products and conserving foreign exchange by limiting imports. • Promote foreign investors to invest in production sectors with high export potential. • Establish an efficient and streamlined process to remove barriers in exporting fish products.
+
 ##### 3.04.A10) Uplifting financial income surrounding fisheries harbours and
 
+- 3.04.A10.01) developing fisheries harbours • Allocate service-based regions around fisheries harbours for docking vessels. • Solve issues related to fuel storage and distribution around fisheries harbours. • Upgrade all major fisheries harbours to meet international standards based on a prioritization plan. • Expand ports and enhancing facilities in the Northern and Eastern provinces to promote trawler fisheries targeting residents. • Develop fisheries harbours and management methods, based on the green port concept.
+
 ##### 3.04.A11) Blue economy
+
+- 3.04.A11.01) • Promote the sustainable use of living and non-living ocean resources and the establishment of modern oceanic industries through a blue economy approach. • Introduce measure to effectively utilize fisheries aquaculture, and aquatic resources well to enter the blue carbon finance field.
 
 ### 3.05) A digital state - An international partnership
 
@@ -1810,13 +1860,23 @@ Sri Lanka is rich with intelligent human resources, and many innovators are emer
 
 ##### 3.06.A01) Agriculture, fisheries, livesto ck, and food security
 
+- 3.06.A01.01) • Conducting socio-economic research to identify resources and optimum utilization, develop agricultural infrastructure, and find solutions to sustainable marketing strategies. • Enhancing crop resilience to climate change, improving the sustainability and economic potential of main crops, optimizing food preservation for greater economic benefits, and creating value-added products. • Researching on finding solutions to generate sustainable income and ensure competitiveness and maintain sustainability in the international markets through ornamental aquatic resources, ornamental horticultural crops, and organic agriculture as a niche market. • Conducting new research on domestic and export crops and the livestock sectors to boost productivity. • Researching on crop diversification, improved management practices, integrated local-modern technology (genetic engineering and biosafety certification), efficient agricultural inputs (such as water, organic and inorganic fertilizer, and other agro-chemicals), and greenhouse and vertical planting in suitable places/ regions. • Conducting research to develop high-yielding animal breeds, produce high- quality feed, investigating low-cost alternative housing and their management, and select/use suitable lands for small and medium scale livestock farms (milk, chicken, and pork). • Researching on identifying high-yielding and stress-tolerant crop and forage varieties (climate smart agriculture), developing local agricultural management practices, producing easily available and low-cost seeds and planting materials, and increasing production efficiency and productivity by selecting and integrating crop and forage varieties suitable for different agro-ecological regions. • Performing research regarding sales, modern markets and their predictions, social welfare, and extension services and needs. • Increasing the accuracy of the methods used to identify fish-rich areas, use solar and LNG-powered vessels, provide larger vessels with storage facilities and modernize vessels and fishing equipment. • Researching to estimate the stocks of marine fish resources, continue prediction model development and usage, and accurate estimation of the carrying capacity of freshwater and brackish water systems.
+
 ##### 3.06.A02) Research on health, education and scien ce
+
+- 3.06.A02.01) • Applying modern scientific methods such as genetics, metabolomics, proteomics, biochemistry, nanotechnology, and AI etc., to find solutions for dengue, chronic kidney disease, infectious diseases, and other special health issues related to Sri Lanka. • Producing medicines needed for the country through research and development. • Developing alternative local food products to increase the nutrition levels of children. • Modern scientific research for early diagnosis of diseases such as cancer, diabetes, and heart attack to reduce healthcare cost of long-term treatments. • Conducting island-wide research and surveys to identify quality and resource disparities among schools and recommend research and development-based solutions. • Implementing research and development-based solutions to promote inquiry- based learning in school education. • Developing AI tools and virtual training programmes for teacher training and vocational development. • Broadening of research and development units in higher educational institutes with the participation of state and private sectors. • Establishing a national commission to manage and conduct proper research and development in indigenous medicine. • Developing high quality marketable products such as herbal medicines, nutraceuticals, food supplements, cosmeceuticals etc., by encouraging medicinal plant cultivation, establishing tissue culture and genetic engineering centres, and laboratories to target local and international markets. • Applying nanotechnology-based research and development to produce solar cells, electronics, medicine, energy efficient new inventions, environmental remediation components, futuristic vehicles, and spare parts etc.
 
 ##### 3.06.A03) ICT, communication, engineering, energy, maritime,
 
+- 3.06.A03.01) transportation, tourism, and other industries • Researching on establishing multilingual communication systems powered by Artificial Intelligence (AI) in government institutions, and public places to minimize language barriers among different ethnic groups in Sri Lanka. • Developing proactive and real-time alert systems to warn against natural disasters (For example Floods, wildfires, and landslides). • Researching on establishing efficient public transportation management system (Buses & Trains) using IoT & GPS technology to minimize delays and improve passenger safety and comfort. • Conducting research on establishing air pollution monitoring systems in main cities to reduce air pollution and control vehicle emissions and industrial emissions. • Performing research on implementing Smart Meter Systems in residential houses, buildings, and public places to maximize resource utilization and minimize wastage. Example: research and development to establish electricity meters, vehicle parking meters, and water meters • Leveraging the latest satellite technology and equipment to accurately forecast the weather and calculate energy demand for the country and maximize the utilization of hydroelectricity, wind, and solar-generated electricity. • Deploying proper waste disposal bins & facilities to reduce environmental pollution by e-waste and promote recycling them. • Conducting research and development to promote locally produced roof-top solar systems, equipment, and connectivity devices to the national grid. • Providing research and development facilities and required skills for local manufacturers to build modern low-cost machinery and tools as are necessary for our country. • Conducting research and development to improve/update local standards for building materials such as soil, sand, stone, bricks, tar, and others aiming to reduce construction cost, and resource wastage and promote sustainable engineering practices. • Expediting research activities on efficient cleansing and usage of sea sand for the construction industry. • Expanding research on renewable energy (hydropower, solar, and wind) and prioritization of the Akwerala wind power project to reduce the dependency on fossil fuels consumption and reach renewable energy goals. • Establishing “Technology Development Centers” in selected districts to promote local innovators to build technical solutions for local and national needs. • Leveraging local talent, manufacturers, and innovators to build consumer materials, office supplies, hospital supplies, and equipment (beds, chairs, syringes, etc). • Researching on promoting locally adopted technological solutions to increase the productivity of agricultural products such as tea, rubber, coconut, and paddy, and to ensure the workers’ safety. • Establishing necessary systems, mechanisms, and tools to integrate the elderly community and people with disabilities into the national workforce. • Establishing a technical task force with specialist knowledge of Information Technology (IT), Big Data, Machine Learning, AI, Communication & Networking, and social media to analyze and approach local entrepreneurs and innovators and encourage them to start business ventures locally. • Conducting research to identify capacity gaps in the maritime area including emergency disaster responses and prioritizing the future vision. • Researching to identify value-added opportunities and leveraging local resources for sustainable growth in the tourism industry.
+
 ##### 3.06.A04) Environment, land, water, air, and mineral resources
 
+- 3.06.A04.01) • Implementing the most suitable methods to minimise human-animal conflicts, identified by research and development-based pilot projects. • Strengthening research and development to characterise Sri Lanka’s biodiversity ‘hot spots’ that need protection. This includes catchment and vegetation mapping and categorizing habitats based on Land use threats. • Managing agricultural, maritime, and freshwater resources efficiently and introduce necessary technologies to minimize post-harvest damage and increase diversification of products. • Developing value added products such as medicine, cosmetics, and nutritional supplements using maritime and aquatic resources. • Conducting research and explore the potentials of mineral resources in Sri Lanka, such as rare minerals (e.g. monazite in Beruwala), development of titanium dioxide using ilmenite, and the production of copper and gold using the iron ore deposit in Seruvila, etc. • Taking necessary steps to use modern engineering technology to save the mangroves and coastal environmental systems, reducing coastal erosion.
+
 ##### 3.06.A05) Human development, arts, history, culture and ancient heritage
+
+- 3.06.A05.01) studies • Updating higher education degree programmes including leadership, collaborative, and communication skill development plans, that are designed based on research and development data. • Initiating community educational programmes to share research and development-based innovations and new knowledge, as well as artistic and philosophical ideology promotions that benefit society. • Conducting R&D on home-grown robotic programs or customizing already available humanoid robotic platforms to assist people with special needs and elderly community. • Assisting the retired or elderly generation by developing modern electronic assistive devices, medication reminder systems, efficient pill dispensers, and telehealth systems and enhancing their independence and comfort by developing visual and communication aids, as well as memory aids, etc. • Research and development to produce musical instruments and dancing costumes that withstand different climatic conditions, aiming the international market. • Integrating modern technological advances into performing arts such as music, singing, dancing, theatre, opera, and cinema to produce research and development-based novel artistic creations. • Increasing the capacity and accessibility of the National Archive by use of modern technologies such as Block Chain, Cloud and AI to establish an efficient archival system and public record management. • Conducting scientific studies on palm leaf books that describe ancient heritages, beliefs, rituals, cultures and lifestyles, and initiate national-level research to identify ancient technological advances and practices that may benefit modern- day needs as well. • Conducting appropriate content analysis, surveys, focus group experiments, and participant observation for mass media communication sources, including standard electronic and print media, and improve their communication standards and overall effectiveness.
 
 ### 3.07) A modernised tourist industry - An attractive destination
 
@@ -1854,13 +1914,23 @@ Lanka’s destination marketing programs.
 
 ##### 3.07.A01) Visionary leadership, strategic management, and holistic
 
+- 3.07.A01.01) economic development • Establishing the National Tourism Council (NTC) as the main institution responsible for coordinating and managing tourism-related activities. • Establishing the Tourism Policy Formulation Council (TPFC) for developing policies for the industry. • Establishing the Sri Lanka Tourism Authority as the central institution for tourism development and promotion. • Implementing a new tourism act to enhance the productivity and efficiency of the tourism sector as a leading industry in the Sri Lankan economy. • Identifying new tourism destinations and products based on research and studies and providing facilities for stakeholders to develop them. • Adopting an ICT-based approach to prevent crimes and illegal activities in the tourism industry. • Attracting airlines and establishing connectivity from major tourism-origin countries to Sri Lanka. • Introducing domestic airline services to key tourist destinations within Sri Lanka. • Providing necessary encouragement and facilities to micro, small, and medium- scale entrepreneurs who make a significant contribution to the tourism industry, to improve the quality of their services. • Implementing an international-level standardization program to enhance the quality of all sectors in the tourism services. • Providing necessary facilities to convert informal sector tourism operators into the formal sector. • Developing infrastructure facilities needed to advance the local tourism industry as a leading and alternative tourism mechanism and encouraging private sector participation in this task. • Establishing international partnerships with non-governmental organizations, donor organizations, and institutions, and obtaining technical, financial support, and know-how as a key approach in developing the tourism sector. • Organizing an annual national tourism award ceremony to encourage and recognize entrepreneurs and stakeholders in the tourism industry.
+
 ##### 3.07.A02) Sustainable usage of natural and cultural resources
+
+- 3.07.A02.01) • A resource utilization plan to develop the tourism industry and protect natural resources. • A land bank, including a mechanism for land use in the tourism sector, with the involvement of relevant stakeholders and the state, aimed at future tourism investments. Digital technology should be utilized for this purpose. • Formulating a program to safeguard tourist attractions that are under significant threat due to over-visitation, by identifying their carrying capacity using scientific methods.
 
 ##### 3.07.A03) Developing human resources for the tourist industry
 
+- 3.07.A03.01) • A national human resource development plan for the tourism and hospitality sectors. • An analysis of tourism training needs for training and educational institutions in both the public and private sectors of the tourism industry. • Training programs for Sri Lankans to meet both local and international demand for a skilled workforce in the tourism industry. • Providing facilities to universities that offer degrees related to the tourism industry. • Practical training and work-integrated learning opportunities for postgraduate students in the tourism industry. • Updating the syllabi of educational and training programs in the tourism industry to align with global trends and demand. • A special tourism training structure to provide training for micro-entrepreneurs. • A special social protection program for individuals in the private, public, and semi-public sectors, including tourist service providers and related workers, to secure their futures in the tourism industry. • Establishing a national tourism research institute as a public-private partnership, allowing students and scholars from academic institutions, professional bodies, and universities to engage in practical research on the tourism industry.
+
 ##### 3.07.A04) Development and standardizing of new tourist products
 
+- 3.07.A04.01) • Identify and improve the critical infrastructure of all tourism destinations across the country. • Establish a special department/team to develop innovative tourism products for Sri Lanka’s tourism industry. • Conduct special promotional programs for selected markets to address the gap during the low tourist season. • Promote Sri Lanka as a destination for MICE (Meetings, Incentives, Conferences, and Exhibitions) and sports tourism. • Engage with the private sector to facilitate and provide the necessary infrastructure development to attract cruise tourism. • Develop the infrastructure and human resources needed to cater to elderly tourists and tourists with disabilities.
+
 ##### 3.07.A05) Strategic destination marketing
+
+- 3.07.A05.01) • Existing destination marketing activities will be revisited to align with the tourism objectives. • In collaboration with the Ministry of Foreign Affairs, the national airline, and state tourism institutions, a long-term global marketing campaign to promote Sri Lanka’s tourism industry will be established. • Attractive promotional material will be created for display at entry points to the country and in major tourist markets abroad. • Digital approaches will be adopted to provide important tourist information about the destination. • A program will be developed to position Sri Lanka as an authentic, eco-friendly, and tourist-friendly destination. • A marketing campaign will be launched to attract Free Independent Travelers (FITs) and transit travellers passing through Colombo airport. • Based on scientific research, a special marketing campaign focusing on emerging and modern markets will be implemented. • Foreign missions and embassies will be used productively and efficiently for Sri Lanka’s destination marketing programs.
 
 ### 3.08) An entrepreneurship explosion - An organic approach
 
@@ -1880,21 +1950,39 @@ Therefore, we consider Sri Lanka must enhance local production and transition to
 
 ##### 3.08.A01) National planning and state intervention
 
+- 3.08.A01.01) • Create national industrial think tanks for all industrial sectors dedicated to strategic planning and foresight analysis. • Enable targeted interventions in key industries, with a strong emphasis on sustainability and the distinct significance of each sector to the national economy and overall stability.
+
 ##### 3.08.A02) Taxes, law, and productive development
+
+- 3.08.A02.01) • Introduce tailored taxation frameworks for various industrial sectors, based on specific risks, strategic goals, and state priorities associated with each industry. • Enhance investment protection legislation to mitigate potential losses arising from actions taken in the national needs. • Establish legal safeguards to shield producers from undue market power influences. • Reinforce the conflict resolution framework to accelerate the resolution of commercial disputes through courts and arbitration. • Introduce a robust technical support system to ensure alignment with productivity, quality, and cost targets. • Foster a level playing field environment by ensuring the consistent and equitable enforcement of existing laws.
 
 ##### 3.08.A03) Expansion of international and local market and efficiency
 
+- 3.08.A03.01) • Implement necessary legislative reforms to enhance the efficiency and transparency of the local market. • Strategically direct operations to acquire markets based on specific criteria and broaden market opportunities through diplomatic initiatives. • Revise existing trade agreements and actively pursue the formation of new ones. • Support industries in accessing international markets by developing harbors and airports into key supply chain hubs. • Streamline the business registration process and expand certification facilities for emerging export industries. • Strengthen support for MSMEs by offering EXIM bank services, essential financial services, and export consolidation assistance. • Enhance international business opportunities by leveraging digital technology and e-commerce platforms.
+
 ##### 3.08.A04) Industrial zones and infrastructure facilities
+
+- 3.08.A04.01) • Enhance and optimize existing industrial zones by leveraging previously underutilized resources. • Establish new industrial zones aligned with identified growth potentials, fostering innovation and promoting industrial diversification. • Develop essential infrastructure to support the fisheries, agriculture, and tourism sectors in targeted regions.
 
 ##### 3.08.A05) Micro, small, and medium-scale industries
 
+- 3.08.A05.01) • Create a specialized division to support micro, small, and medium-sized entrepreneurs at both national and regional levels, offering streamlined, single- window services to meet their business needs effectively. • Implement a collateral-free loan scheme of up to Rs. 10 million, contingent on feasibility and credit score, through the financial sector to provide crucial financial support to micro, small, and medium-scale entrepreneurs. • Enhance the financial support for micro, small, and medium-sized enterprises by reinforcing the cooperative banking system, including Samurdhi Banks and regional development banks. • Encourage cooperative business models to harness and strengthen the collective power of collaboration. • Offer tax incentives for business startup incubator programs to facilitate the market entry of selected startups. • Focus on promoting industries such as agro-based value-added, mineral-based, packaging, power and energy, export-led sectors, marine services, aircraft maintenance and service delivery, telecommunications, IT and related services, construction, and transportation. • Develop a coordinated approach to advance the fisheries sector, particularly in fish farming, by integrating technology-driven fishing methods, production of fishing equipment and vessels, product preservation, packaging, and exploring local and international markets, while addressing the socio-economic concerns of the fishing community. • Design and execute a comprehensive program to achieve self-sufficiency in milk and milk-related products, engaging all relevant stakeholders in the field. • Support the promotion of indigenous products within districts or regions as part of the district development plan, considering the availability of resources, market opportunities, and growth potential. • Stimulate the production of agriculture, industry, service outputs, and the manufacture of tools, equipment, and machinery necessary for domestic consumption. • Construct an international oil transmission and cargo storage terminal in Trincomalee following the refurbishment of existing oil terminals. • Modernize the Sapugaskanda Refinery to meet domestic demand and capture a significant share of the foreign market for refined oil and related products. • Establish an aircraft service and maintenance hub to cater to the aviation requirements of the Asian region.
+
 ##### 3.08.A06) Traditional arts and crafts industry
+
+- 3.08.A06.01) • Lead and align the network of institutions dedicated to advancing this industry towards a unified objective. • Develop a program to ensure the availability of raw materials for traditional industries, such as carpentry, and initiate the planting of selected tree species. • Establish a specialized task force by integrating state institutions and non- governmental organizations to address the challenges faced by the carpentry industry. • Offer tax incentives for the acquisition of essential technical equipment for registered craftsmen. • Enhance and support producers by cooperative frameworks. • Launch a program to streamline the export process, reducing costs through an integrated system. • Establish a national program, including a safety net, to safeguard craftsmen and preserve traditional crafts.
 
 ##### 3.08.A07) Interventions needed for sustainable development
 
+- 3.08.A07.01) • Establish a comprehensive program that empowers industries to meet the standards of fair trade, labor quality, and transparency required by the global market, while driving significant progress toward sustainability. • Develop a strategic initiative aimed at ensuring environmental sustainability, addressing climate change challenges, and achieving the essential milestones for long-term resilience and skill development in the industrial sector.
+
 ##### 3.08.A08) Digitalisation and technical usage
 
+- 3.08.A08.01) • Facilitate industries for Industry 4.0/5.0 Maturity Index to expedite the realization of benefits from the Fourth Industrial Revolution and strategically position our industries for the forthcoming Fifth Industrial Revolution. • Advocate for both public and private sector investments to establish robust digital infrastructure, encompassing high-speed internet connectivity, state-of-the-art data centers, and comprehensive cybersecurity systems. • Lay the foundation for advanced technologies such as IoT, AI, cloud computing, and data analytics to drive industrial innovation and competitiveness. • Foster the adoption and integration of Industry 4.0 technologies among Sri Lankan industrial entrepreneurs, enhancing their capacity for digital transformation. • Offer technical support and financial incentives to facilitate companies in embedding digital technologies into their operational frameworks. • Committed to investing in skills development and retraining programs aimed at enhancing the technological expertise and digital literacy of the workforce. • Create a dynamic digital start-up ecosystem to promote collaboration among industry stakeholders, academia, research institutions, and emerging entrepreneurs. • Establish innovation centers, technology parks, and incubators to provide platforms for knowledge sharing, technical collaboration, and entrepreneurial growth. • Implement a comprehensive legal framework that promotes innovation, safeguards intellectual property rights, and ensures data privacy and protection and cyber security. • Develop a robust mechanism to monitor and evaluate the progress of digital transformation initiatives, ensuring alignment with established quality standards and objectives. • Deploy a state-of-the-art single window platform to streamline industry operations and enhance service efficiency and transparency through the e-government initiative.
+
 ##### 3.08.A09) Promoting the ease of doing business and entrepreneurship
+
+- 3.08.A09.01) • Facilitate access to funding by encouraging investments through venture capital, business capital funds, and development banks. • Enhance entrepreneurship by integrating education and training into professional programs and the school curriculum, while formally recognizing digital freelancing as a profession and offering essential resources. • Invest in digital infrastructure to support business activities and foster technological adoption. • Enable market access at both local and international levels through strategic trade agreements, export promotion initiatives, and networking opportunities. • Create a nurturing ecosystem for entrepreneurship by establishing incubators, accelerator programs, co-working spaces, and networking platforms.
 
 ### 3.09) A sustainable resource utilization - Generation of highest benefits
 
@@ -1914,6 +2002,8 @@ There is an ability to start industries that can provide a considerable support 
 
 ##### 3.09.A01) Gems and jewellery
 
+- 3.09.A01.01) • Modern technologies to identify gem ores. • Modern technological support to add values to gems. • An international gem and jewellery market. • An international gem centre around the Rathnapura city. • Amendments needed for the Gem and Jewelry Authority Act, aiming for the sustainable development of the mining industry and gem industry. • International level gem research labs. • Formal registration of all stakeholders in the gem industry, and an updated data system. • Standards for the safety of gem mine workers. • A process to give information in internation gem prices and standards to all mine owners. • Establishing a ‘Gem Industry Workers Protection Authority’ to uplift the living standards of labourers engaged in the gem industry. • Legally and digitally coordinating all state institutes connected to the gem and jewelry industry. • A process to provide a fair compensation in instances of full body paralysis or death that occur due to accidents that labourers face in the gem industry. • A social protection programme along with a pension for labourers engaged in the gem and jewelry industry, by formalizing the existing fund through state intervention. • Introducing educational and professional programmes related to the gem and jewelry industry and related fields, providing facilities to pursue them. • Mechanization of the gem industry by securing the traditional gem mining industry. • Introducing a taxation system that is favourable to the development of industry.
+
 ### 3.10) A secured energy centre - A sustainable revenue source
 
 #### Introduction [3.10]
@@ -1932,7 +2022,11 @@ Taking the energy mix towards a green economy through renewable sources, by stra
 
 ##### 3.10.A01) Energy Trading Hub
 
+- 3.10.A01.01) • An effective procurement process using modern digital technology carryout tendering process in a transparent and competitive manner • Conducting all transactions in the energy field including fuel importing, electricity generation, payments for power plants and other suppliers in time, providing the reliefs related to social security programs, providing promotional benefits directly to the consumers etc. through a digital platform connected to the banking system. • Encouraging the positive contribution to the national economy by industries and commercial entities through their efficient energy use • Making energy auditing necessary for industrial and commercial consumers who consume energy at a large scale, and recommending specifications on energy conservation on industrial equipment and greener new buildings • Certifying local industries engaged in exports on their good performance with the lower levels of greenhouse emissions • Developing Industrial training programs aimed at high income generating local and foreign jobs in the energy field with the partnership of training sections of the Electricity Board and Petroleum Corporation, Universities, and Industrial
+
 ##### 3.10.A02) Colleges
+
+- 3.10.A02.01) • Building productive partnerships between higher educational institutes, industries in the energy field, and productive institutes in promoting research and development activities and projects • Ensuring that local companies get equal opportunities in investments on national renewable energy projects • Encouraging local companies and international partners to work together attracting capital and technology transfer • Providing diplomatic support for local companies to engage in transactions in the international markets
 
 ### 3.11) A good public transportation service - Speedy destination
 
@@ -1946,29 +2040,55 @@ National People’s Power wishes to establish an efficient, trustworthy, safe, a
 
 ##### 3.11.A01) Railway service
 
+- 3.11.A01.01) • Repairing railway tracks which are in a delipidated state, introducing a formal maintenance programme, and establishing an automatic signal system with new technology • Based on practical requirements developing main railway lines into two-tracks, and lines around main cities as three-track lines • Gradually expanding railway lines on a priority basis to cover the regions which are not covered by the railway network at present, and thereby giving railway access to all main cities • An efficient 24/7 railway service by including more train compartments and increasing running frequency • Gradually developing the railway system to have trains run on electricity • Efficiently using the railway service to safely transport production raw material, consumer goods, and agricultural and fisheries produce • Development of parking facilities near train stations to park private vehicles owned by passengers • Gradually introducing monorail and light railway transport to strengthen public transport in populated areas, whilst prioritising the programs to develop railway and bus services
+
 ##### 3.11.A02) Bus passenger service
+
+- 3.11.A02.01) • Introducing buses manufactured specifically for passenger transport, and providing an easy financial scheme to procure such buses • A strong passenger bus service development by improving transport at night as well as on the main roads and the roads where passenger bus transport is at an unsatisfactory state • Formation of cluster bus companies using new digital technology, established by integrating state and private bus services for regions selected in a manner that income from buses is equitably distributed among the buses • POS ticket machines in all buses which allows payments by pre-paid cards through a digital platform • Allocation of bus lanes in populated areas giving priority for public transport and gradually introduce Bus Rapid Transit (BRT) system • Gradual introduction of electrically operated buses to the public transport service • Awareness creation and training among passengers and workers to instil a mindset change needed to create an environment where passengers can travel in buses with dignity without any harassment • Development of parking facilities near bus stands to park private vehicles used by passengers
 
 ##### 3.11.A03) A formal and essential timetable system
 
+- 3.11.A03.01) • An essential timetable method for both the railway service and passenger bus service • Essential public transport service that runs according to a timetable from morning until midnight • Digitalised timetables will be published online, and buses and trains will be run strictly according to the timetables displayed at the stations • Opportunities for passengers to reserve seats for long distance journeys
+
 ##### 3.11.A04) Transit cities
+
+- 3.11.A04.01) • Identify and develop facilities to establish Transit Cities where the bus and train station is located at the same place, for passengers coming from long distances to suburban cities • Efficient public transport services from transit cities to main cities • Safe parking spaces and other required public facilities in transit cities
 
 ##### 3.11.A05) Rural transport
 
+- 3.11.A05.01) • Introducing public bus services for rural areas without public transport at present • Special encouragements when needed to continue the bus service in rural roads • Transport services with the appropriate technologies to transport the produce of rural public in a safe manner
+
 ##### 3.11.A06) Roads
+
+- 3.11.A06.01) • Identification of rural and estate roads in need of immediate repair, preparation of a priority list, and the repairing and sustainable maintenance of the roads according to a prioritised program . • Effective periodic maintenance of express roads (E), highways (A, B), and provincial roads (C,D). • Resolving the issues and the completion of construction of the presently stalled central expressway from Kadawatha to Meerigama.
 
 ##### 3.11.A07) Encouraging cycling
 
+- 3.11.A07.01) • Construction of safe cycling lanes within main cities and from nearby areas to the main cities which have traffic congestion • Including required cycling infrastructure for the newly constructed roads wherever possible • Provision of cycle parking facilities at main train and bus stations, institutions, and other public places
+
 ##### 3.11.A08) Pedestrian lanes
+
+- 3.11.A08.01) • Constructing pedestrian lanes on the sides of roads in main cities • Planting trees on the roadsides to provide shade for the pedestrians
 
 ##### 3.11.A09) Using water ways for goods and passenger transport
 
+- 3.11.A09.01) • A technical unit to research and advise on promotion of waterway transportation • Passenger and goods transportation services implementation in waterways identified through feasibility studies
+
 ##### 3.11.A10) Protection for women, elderly, and disabled passengers and
+
+- 3.11.A10.01) improvements to required infrastructure • Development of the mentality within the community about the special transport needs of women, elderly, and disabled people • An app to immediately inform of harassment and issues faced by women in transport services, and a unit dedicated to act on it • Special accessibility facilities for disabled and elderly in trains and buses • Modifying train stations and bus stops for easy accessibility and use by disabled and elderly • Making it compulsory to reserve seats for elderly and disabled in public transport vehicles
 
 ##### 3.11.A11) Minimising road accidents
 
+- 3.11.A11.01) • Introducing improvements to identified problem creating points in road infrastructure to avoid possible accidents, directing all drivers and riders to more disciplined driving, and making it compulsory to abide by road rules • Systematising the process of issuing and renewing of driving licenses
+
 ##### 3.11.A12) Para-transit operations
 
+- 3.11.A12.01) • Formalising taxi services including three-wheel service, staff transport, and school transport services to improve their quality and efficiency • A digital mobile phone app for para-transit transport services
+
 ##### 3.11.A13) Organising passengers and beneficiaries
+
+- 3.11.A13.01) • The government will recognise passenger organisations as stakeholders in the field, and make them part of the decision making process • Residents of the areas will be taken in as active participants in assessing and auditing the construction and repairing activities for transport infrastructure such as roads and bridges in their respective areas
 
 ### 3.12) A sustainable marine resource - Acquiring a portion of global maritime business
 
@@ -1984,25 +2104,21 @@ Sri Lanka’s sailors hold world fame for their excellence, skill, and performan
 
 ##### 3.12.A01) Training of sailors
 
+- 3.12.A01.01) • Expansion of the state intervention to develop primary and professional nautical education • Developing professional skills and making it easier to obtain relevant certificates • A structured process to analyse and amend the curricula to fulfil the requirements of the International Maritime Organisation • Appointing a third-party evaluation committee to certify that the ministry’s examination unit is working according to the Quality Management System
+
 ##### 3.12.A02) • Developing industrial training facilities
 
-##### 3.12.A03) • Protecting and developing nautical welfare and ethics
+- 3.12.A02.01) • Broadening access to new job opportunities in the international market
 
-##### 3.12.A04) Harbour infrastructure and other services
+##### 3.12.A03) • Protecting and developing nautical welfare and ethics Harbour infrastructure and other services
 
-##### 3.12.A05) • Integrating the nautical field with the tourist industry
+- 3.12.A03.01) • Expansion of the harbour, maintenance, data storage, production processes, national vessels, infrastructure, terminals, and implementations • Improving the nautical industrial services and maintenance, operations, representatives, supply networks, special technical services, banks, ship recycling, services for the ships and other activities
 
-##### 3.12.A06) Nautical laws, environmental protection, and administration
+##### 3.12.A04) • Integrating the nautical field with the tourist industry Nautical laws, environmental protection, and administration • Analysing and amending laws related to vessel registration • A productive and cautious Port State Control (PSC) system • A transparent PSC service based on goals
 
-##### 3.12.A07) • Analysing and amending laws related to vessel registration
+- 3.12.A04.01) • Enacting the International Convention for the Prevention of Pollution from Ships
 
-##### 3.12.A08) • A productive and cautious Port State Control (PSC) system
-
-##### 3.12.A09) • A transparent PSC service based on goals
-
-##### 3.12.A10) (MARPOL) and other environmental protection laws
-
-##### 3.12.A11) • Enacting laws on nautical protection in Sri Lanka
+##### 3.12.A05) (MARPOL) and other environmental protection laws • Enacting laws on nautical protection in Sri Lanka
 
 ### 3.13) A secured data system - An ICT revolution
 
@@ -2018,21 +2134,35 @@ The National People’s Power’s telecommunication policy framework addresses a
 
 ##### 3.13.A01) Wired communication
 
+- 3.13.A01.01) • Developing and unifying the national communication network under a national strategy that facilitates infrastructure sharing and allows the seamless transfer of subscriber numbers (telephone number)between service providers. • The Urban council to hold responsibility and carry out operations in the access network from the service provider to receiver. • Increasing the public internet access points. • Building a centralized backbone network with the transmission network of the electricity board, to expand the communication facilities for rural areas. • Integrating the civic registration and the receiver data system of telephone companies. • Establishing the infrastructure for an e-government system and centralizing all services into a unified platform.
+
 ##### 3.13.A02) Wireless communication
 
-##### 3.13.A03) G for emergency services
+- 3.13.A02.01) • Priority for technology with high efficiency in the frequency range such as 5G and LTE+ • Gradually removing the use of old technology such as 3G and CDMA, and using
 
-##### 3.13.A04) Guard bands
+##### 3.13.A03) G for emergency services Guard bands
 
-##### 3.13.A05) Promoting public Wi-Fi and wired connections
+- 3.13.A03.01) • Amending the frequency ranges given to service providers, providing a continuous frequency range, and limiting guard bands
 
-##### 3.13.A06) Public procedures for the electronic communication industry
+##### 3.13.A04) Promoting public Wi-Fi and wired connections
 
-##### 3.13.A07) • Infrastructure to promote IOT applications in all fields
+- 3.13.A04.01) • Establishing wi-fi in public places, including schools, universities, libraries, educational institutes, gardens, and government offices, providing internet access at a reasonable rate with free access for IOT with all essential services
 
-##### 3.13.A08) Broadcasting industry
+##### 3.13.A05) Public procedures for the electronic communication industry
 
-##### 3.13.A09) Cinema and entertainment industry
+- 3.13.A05.01) • Providing goals for electronic communication service providers to make their networks accessible to all public • Free access to essential services such as emergency services, governmental services, public security services, health services, and education • Developing the infrastructure in rural areas, areas with limited coverage, and public places • Free access for all citizens for IOT tools with educational programs, online educational programs, and other educational tools such as documents and e-libraries
+
+##### 3.13.A06) • Infrastructure to promote IOT applications in all fields
+
+- 3.13.A06.01) • A regulatory mechanism to regulate the exchange of infrastructure among companies, communication qualities and prices
+
+##### 3.13.A07) Broadcasting industry
+
+- 3.13.A07.01) • Turning broadcasting networks into digital, absorbing the latest technology and providing services related to the public • A regulatory body for the transmission industry under the CRC-SL • Integrating state-owned radio and television institutes into a consolidated single institute/company in a way that their identities are protected • Operating the National Channel (CH-01) and Nethra Channel (CH-02) within the Public Services Broadcast (PSB) domains, while transitioning Channel EYE (CH-03) to the commercial domain. • Implementing SLBC local service and Tamil service as PSB Domains, and maintaining other channels as commercial channels • Allocating annual budget for mass communication in each ministry to the institutions maintained as PSB. • Improving and promoting the necessary technical infrastructure to broadcast programs that include entertainment and education. • Identifying the terrestrial TV network as the efficient medium for educational services and developing the required technical infrastructure. • Acting competitively in the international outside broadcasting industry as an external broadcasting engineering institute which covers and transmits external broadcastings of international ceremonies and competitions which are connected to sports, entertainment, and tourist industry in this region.
+
+##### 3.13.A08) Cinema and entertainment industry
+
+- 3.13.A08.01) • Mandating 2K as the minimum quality standard for digital cinema projection. • Establishing a regulatory body for the cinema, entertainment, digital, and new media industries. • Creating state-of-the-art studios and post-production facilities, promoting private sector investment in advanced technology and imported equipment through tax incentives and other forms of support. • Introducing new regulations for the facility service for foreign film companies and industries related to foreign film production, with a centralized office to oversee and coordinate all activities, including registration. • Promoting investments in IoT applications such as OTT and VOD services, as well as in the entertainment, digital, and new media industries.
 
 ### 3.14) A productive land management system - Integrated control plan
 
@@ -2046,23 +2176,35 @@ The ordinances and regulations imposed during the colonial period to control lan
 
 ##### 3.14.A01) Land utilization
 
+- 3.14.A01.01) • A new legal framework and land act that makes effective land administration and management
+
 ##### 3.14.A02) • National landuse plan
+
+- 3.14.A02.01) • A National Land Council to coordinate and oversee land management
 
 ##### 3.14.A03) • Up-to-date state land inventory
 
+- 3.14.A03.01) • An electronic system for land registration and digitalizing land reports
+
 ##### 3.14.A04) • Making the land valuation process formal and efficient
+
+- 3.14.A04.01) • A network of quasi-judicial institutes to resolve land-related issues quickly and fairly • Land usage and development permits will be made simple and efficient through scientific and technological methods
 
 ##### 3.14.A05) Protecting land in sensitive areas
 
+- 3.14.A05.01) • Action to preserve and protect environmentally and historically sensitive areas
+
 ##### 3.14.A06) Land registration
 
-##### 3.14.A07) Land use management
+- 3.14.A06.01) • Deeds to the people who have been living in state lands for a long period • An Integrated Land Information Infrastructure (ILII) connecting all local government authorities and land management institution • An efficient, transparent, and accountable land-related public service.
 
-##### 3.14.A08) • An integrated land use map
+##### 3.14.A07) Land use management • An integrated land use map
 
-##### 3.14.A09) • A land suitability map based on spatial data analysis
+- 3.14.A07.01) • Disaster mitigation, climatic resilience and adaptation mechanisms through land use plans. • Local development plans that align with the National landuse Planning policy
 
-##### 3.14.A10) Surveying and Mapping
+##### 3.14.A08) • A land suitability map based on spatial data analysis Surveying and Mapping
+
+- 3.14.A08.01) • Expand the control network for surveying and mapping and increase the productivity of land surveys through enhanced technology. • LiDAR surveys or appropriate technologies to cover the entire country and extract accurate elevation data. • Connecting all surveys to the national Grid for seamless integration • A mechanism to obtain the optimum service of new survey graduates • Collection and storage of accurate and timely spatial data needed for development projects on a priority basis • Providing reliable and accurate data sources and introduce new technology to update the spatial data needed for geo-information production. • A National Spatial Data Integration treaty to facilitate comprehensive data management
 
 ### 3.15) Scientifically managed construction Industry - Excellent quality workforce
 
@@ -2082,9 +2224,9 @@ Past governments invested loans from local banks and two-party and multi-party l
 
 ##### 3.15.A01) Act
 
-##### 3.15.A02) A dignified life
+- 3.15.A01.01) • A broad ethics system for all stakeholders in the construction industry • Coordination of all construction training institutes in the country and the regulation of construction technology education • Financial guarantees through the Construction Guarantee Fund to companies recognized by the CIDA • An arbitration centre and a pool of arbitrators to resolve construction conflicts quickly • Recommending the priority of main construction projects according to the national development plans • Certifying the transparency of the procurement process to increase the participation of local bidders • Methodically implementing the electronic bidding system in the construction sector • Protecting local industrialists by involving international companies in the construction sector under specific conditions • Certifying that state institutes follow similar procurement rules • Training the state and private sector technical staff on estimation and procurement processes • An ID for each worker in construction that determines and certifies the social recognition and skill level of them • A long-term insurance plan and retirement benefits for registered construction workers • Increasing the knowledge in the field about new project management and contract management • Certifying the participation of state sector construction institutes in managing national disaster situations and training the workforce • A special research and development unit for the construction industry to introduce new technology and low-cost raw material • Preparing plans and specifications to update and modify the industry according to global developments and international standards • State sponsorship for local industrialists to enter international construction projects • Making environmental accountability essential for all construction projects, with a deep assessment of environmental risks  
 
-##### 3.15.A03) A strong country
+##### 3.15.A02) A dignified life A strong country
 
 ## 4) A dignified life - A strong country
 
@@ -2096,13 +2238,19 @@ Past governments invested loans from local banks and two-party and multi-party l
 
 ##### 4.01.A01) Civil and Political Rights as basic rights
 
-##### 4.01.A02) • Introducing a new parliamentary electoral system
+- 4.01.A01.01) • Broadening the constitutional law about the rights of children, women, and people with disabilities according to international conventions • Safeguarding the voting rights of immigrants within and outside of the country • Abolishing the executive presidency and appointing a president, without executive powers, by the parliament
 
-##### 4.01.A03) • Limiting official presidential residences to one
+##### 4.01.A02) • Introducing a new parliamentary electoral system • Limiting official presidential residences to one
 
-##### 4.01.A04) • Abolishing the pension offered to MPs after 05 years
+- 4.01.A02.01) • Abolishing the pensions and special privileges given to retired presidents and their families • Appointing 25 ministers and corresponding deputy ministers to 25 logically determined ministries and abolishing State Ministerial posts • An advisory council consisting of specialists on the subject will be appointed to each ministry • Introducing a code of ethics, including not allowing members of parliament (MPs) and ministers to appoint their immediate family members to their personal staff • Abolishing allowances made to MPs for participating in parliamentary sessions
 
-##### 4.01.A05) • Removing the tax-free vehicle permits for MPs
+##### 4.01.A03) • Abolishing the pension offered to MPs after 05 years
+
+- 4.01.A03.01) • Preventing MPs or their close family members from directly or indirectly engaging in businesses or contracts with the government
+
+##### 4.01.A04) • Removing the tax-free vehicle permits for MPs
+
+- 4.01.A04.01) • Giving only one vehicle for Ministers /Deputy Ministers to be used during their period of office
 
 ### 4.02) An efficient public service - A skill based professionalism
 
@@ -2119,6 +2267,8 @@ It is our aim to convert the government service to a satisfactory state instrume
 #### Activities [4.02]
 
 ##### 4.02.A01) • Resolving issues in the service minutes and amending them
+
+- 4.02.A01.01) • Preparing a necessary mechanism to address socio-economic issues and needs identified from the ground level, based on the national development programme • Identifying the subject fields of the state departments and institutions and directing them to new ministries on a logical basis, and building vertical and horizontal connections among these institutions to maintain high efficiency in achieving socio-economic goals • Establishing new institutions as per the need, methodically integrating institutions with similar subject matter, and abolishing unnecessary institutes • Transforming the existing state management processes towards new state management systems taking into consideration the concepts of digitalization, performance management, and citizen involvement • Conducting an immediate census to identify information such as the skills and qualifications of workers to re-position them to achieve new socio-economic goals to increase the efficiency of the government service instead of the popular option of laying workers off • Introducing a performance management procedure to ensure that departments and their staff are achieving targets • Establishing Divisional Secretariat offices as multi-service provision centers using digital technology. • Introducing a process to obtain public feedback to assess officers on providing the public service in an efficient, well-mannered, and corruption-free manner, preventing the waste of public money that occurs both actively and passively in the decision-making process • Maintaining a state asset registry to manage state resources properly and efficiently • Encouraging state institutions to prevent the wastage of state resources and introducing scales to measure that • Developing digital tools to improve the efficiency of internal activities of the governmental service, including procurement, financing, auditing, planning, and administration • Revising necessary rules and regulations for appointments and promotions of officers to all types of services in the government service within a particular time frame • Increasing the capacity of SLIDA to support formulating state policies and develop the skills of officers in implementing the policies
 
 ### 4.03) Rule of law - A judicial system with equal access
 
@@ -2200,7 +2350,11 @@ Police plays a very important role in maintaining law and order in the country a
 
 ##### 4.04.A01) Implementing justice
 
+- 4.04.A01.01) • According to the pledge announced by the National People’s Power on 17-04- , appropriate legal actions will be taken against the politicians and public officials who were found guilty by the verdicts of the Supreme Court for the Easter Sunday attack. • Taking prompt legal action against the relevant politicians and officials according to the recommendations of the Presidential Commission regarding the Easter
+
 ##### 4.04.A02) Sunday attacks on 2019-04-21
+
+- 4.04.A02.01) • Promptly completing investigations into political killings and abductions of journalists, sportspersons and others that have not been solved for a long time and implementing the law against the criminals • Providing justice to journalists, security personnel, and other people who left the country under threat due to political pressure.
 
 ### 4.05) A humanitarian prison - A lawful confinement
 
@@ -2216,11 +2370,19 @@ Although it is the expectation of the National People’s Power to create a soci
 
 ##### 4.05.A01) • Preventing all forms of torture inside prisons
 
+- 4.05.A01.01) • Analysing the nature, mental status, and other qualities of the prisoners, and categorizing and placing of prisoners accordingly • Expanding facilities within prisons, including special facilities according to international standards
+
 ##### 4.05.A02) • Ensuring the quality of the food given to prisoners
+
+- 4.05.A02.01) • Referral of persons convicted of minor offences to community programs without incarceration
 
 ##### 4.05.A03) • Launching vocational counselling service to reform prisoners
 
+- 4.05.A03.01) • Introducing regular exercise programs to maintain the physical health of the prisoners • Programmes to use long-term prisoners for various production processes and services • Streamlining the process to detain prisoners with good behaviour in open-air prisons and or send them home under regular supervision
+
 ##### 4.05.A04) • Educational and vocational training courses in every prison
+
+- 4.05.A04.01) • Improving the efficiency of institutions involved in the criminal justice system to avoid prolonged detention as remand prisoners • Paying special attention to the welfare of prisoners and preventing all form of violence against them in prisons • Expanding education, health, and other services to children who live in prisons with their mothers
 
 ### 4.06) A drug-free country - A healthier citizen life
 
@@ -2340,43 +2502,79 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 ##### 4.07.A01) The role and functions of the Ministry of Foreign Affairs
 
+- 4.07.A01.01) • Development of Clear Guidelines: Formulating a comprehensive foreign policy document outlining strategic priorities, goals, and expected conduct of Sri Lanka’s representatives abroad. This document shall undergo periodic review to adapt to evolving global dynamics. • Internal restructuring the Ministry of Foreign Affairs to meet with new foreign policy objectives after comprehensive analysis. • Focused and coordinated guidance on Sri Lanka Foreign Service (SLFS). • Evaluating the economically developing, emerging countries and areas where Sri Lanka should open its missions which can strengthen the country’s economic capacity 
+
 ##### 4.07.A02) Diplomatic Missions
+
+- 4.07.A02.01) • Rationalization of Sri Lanka Overseas Missions and Right Sizing of Missions. • Having performance indicators for each Mission aligned with trade enhancement, tourism promotion, professional and vocational training and employment opportunities. • Appointing professional career diplomats, with a proven track record, to head Sri Lanka’s Missions. Appointing qualified officers for Foreign Service on merit basis with professional excellence, the highest standards of ethical conduct, and diplomatic discretion. • Immediate remedial action must be taken to de-politicize the Foreign Service and make appointments on merit. 
 
 ##### 4.07.A03) Institutional Reforms:
 
+- 4.07.A03.01) • Decentralization of Diplomatic Initiatives: Empower Embassies to take the initiative in line with the overall foreign policy framework of Sri Lanka while ensuring accountability through regular oversight. • Streamlined Processes: Simplify and streamline diplomatic processes to make them more efficient and responsive to the needs of the citizen and the State. • Creation of data bases of human resources (of all categories) and physical assets. • Restructuring and strengthening of the Diplomatic Training Institute and the Lakshman Kadirgamar Institute of International Relations and Strategic Studies (LKI).
+
 ##### 4.07.A04) Enhancing Diplom atic Training and Capacity Building:
+
+- 4.07.A04.01) • Improved Training Programs: Develop comprehensive training programs for diplomats focusing on negotiation skills, cultural diplomacy, economic diplomacy, and international law. • Tailor training sessions to address the specific challenges faced by Missions in different regions. • Continuous Professional Development: compulsory ongoing learning and professional development for diplomats.
 
 ##### 4.07.A05) Revising Diplomatic Protocols and Ethics:
 
+- 4.07.A05.01) • Ethical Guidelines: Establish a clear code of conduct for diplomats that emphasizes integrity, professionalism, and accountability.
+
 ##### 4.07.A06) Strengthening Centralized Oversight and Coordination:
+
+- 4.07.A06.01) • Centralized Monitoring and Evaluation: Establish a robust mechanism for monitoring and evaluating the performance of Sri Lankan diplomats. Regular reviews should be conducted to assess the alignment of their actions with national foreign policy objectives. • Standardized Reporting: Implement standardized reporting procedures where missions are required to regularly update the Foreign Ministry on their activities, challenges, and achievements.
 
 ##### 4.07.A07) Service Efficiency Sri Lankan Missions
 
+- 4.07.A07.01) • Increase the e-services provided by the Sri Lankan missions to reduce the time consumption for the services • Enhance the quality of the services provided to the Sri Lankan diaspora with a people oriented attitude at a reduced the cost. • Provide services in an efficient manner with the purpose of encouraging visits of foreigners to Sri Lanka while being vigilant of the National Security aspects. • Provide necessary funds, technology and technical know-how to the Sri Lankan Missions to provide services efficiently.
+
 ##### 4.07.A08) Political Diplomacy
+
+- 4.07.A08.01) • Priority shall be given to promote and strengthen the Diplomatic, economic and cultural relations with G20 countries, BRICS+ countries, ASEAN, Middle East and African Continent. After a comprehensive study, statuses of our foreign missions will be upgraded and opening new embassies shall be considered according to the recommendations of the study. • Providing an opportunity to participate in the global decision-making process for all States regardless of their size and development status. • Promoting an open, inclusive and prosperous South Asian region in which the rights of all States are respected. Ensuring maintaining a secure and peaceful environment in and around South Asia. • Supporting multilateralism through the United Nations and its affiliated agencies, including regional economic commissions. • Exploring new opportunities and new global and regional platforms which can assist to achieve national interests of Sri Lanka, especially in economic sphere. • Promoting the nation’s self-image through values such as freedom, democracy, social justice, human rights, and the rule of law and climate justice.
 
 ##### 4.07.A09) Economic Diplomacy
 
+- 4.07.A09.01) • Engaging with the international economy and positioning its domestic economy to provide economic wealth and security. • Interacting with foreign partners to bring in Foreign Direct Investments (FDI), financial assistance, and technology transfer for schemes and programmes. Attempting to diversify sources of FDI. • Analyzing and promoting Sri Lankan trade, tourism, and investment, as the country aims to become a hub of the Indian Ocean, it seeks synergies with international partners and friends as it moves towards shared aspirations. • Opening up the domestic market within the National Economic Framework pursuing positive economic management and expanding economic cooperation with other countries. • Full priority s hall be given to promote and strengthen the Diplomatic, economic and cultural relations with G20 countries, BRICS+ countries, ASEAN, Middle East and African Continent. • Modern and comprehensive investment law shall be enacted to improve the business environment for the foreign and local private sector, including, streamlining business procedures, investing in infrastructure, improving access to finance for Small and medium-sized enterprises - SMEs, and raising skilled and quality of human resources. • Improving access to other markets through new trade agreements and linking Sri Lanka to global production networks to increase exports. • Developing Sri Lanka as a critical service provider to international trade. Bilateral and multilateral trade agreements with main trade partners to promote the Sri Lankan economy. Remaining trade agreements will be analysed and upgraded according to achieve the stipulated targets with the consent of the other signing partners. • Renewable Energy Diplomacy; Positioning Sri Lanka as a leader in renewable energy by promoting international partnerships and investments in sus tainable energy projects. Participating in global renewable energy initiatives and sharing best practices.
+
 ##### 4.07.A10) National Security
+
+- 4.07.A10.01) • Safeguard Sri Lanka’s Sovereignty and territorial integrity including the rights of the territorial waters • Never allow the deployment of any military force into Sri Lanka intended to perform any activities whatsoever. • Working towards strengthening and promoting international law; regional and global stability, peace, and security; and the multilateral system. • Strengthening the engagement with Southeast Asian and ASEAN to combat terrorism, separatism, extremism, piracy, and other non-traditional security threats. • Attract and manage foreign investments without hindering Sri Lanka’s national security and economic interests. • Cyber security cooperation, while strictly adhering to the national security policy international collaborations shall be established to enhance cyber security infrastructure and strategies.
 
 ##### 4.07.A11) Maritime Diplomacy
 
+- 4.07.A11.01) • Acting to preserve a world in which all countries enjoy sea and air access as provided for under international law. • Securing a safe, stable, secure maritime domain, free and open sea lanes of communication based on UN adopted law of the Sea. • Ensuring to play an essential role in regional security in the Indian Ocean because of its strategic location proximity to major shipping lines and high-quality logistics services. • Becoming a net security provider and first responder working closely with countries who share maritime borders with Indian Ocean on anti-piracy patrols, pollution control, marine eco system and biodiversity conservation, maritime search, maritime security, resilient and reliable supply chains, data, and counter terrorism and rescue operations, joint exercises, etc.
+
 ##### 4.07.A12) Cultural Diplomacy
+
+- 4.07.A12.01) • Establishing Sri Lanka Directorate of Cultural Relations under the Ministry of Foreign Affairs. • Enhancing cultural exchanges and promoting Sri Lankan culture abroad to build soft power and foster mutual understanding. This includes establishing cultural centers, supporting Sri Lankan artists and performers in international platforms, and participating in global cultural events. • Recognizing proper mutual understanding between the peoples of Sri Lanka and other nations is an essential prerequisite for conducting diplomacy. Strengthening international cultural exchanges contributes to building international relations of peace and stability by heightening mutual understanding among nations and creating a more decadent cultural climate. • Utilizing sports diplomacy as a foundation for establishing solid relationships with other countries through sports exchanges. • Initiating specific cultural weeks/month with countries in where considerable Sri Lankan diaspora presence and countries where we get considerable inflow of tourists. • Promoting religious diplomacy to persuasion, attraction and cultural exchanges to promote the image of the country as well as to build friendship among people.
 
 ##### 4.07.A13) Science and Technology Diplomacy
 
+- 4.07.A13.01) • Making science, technology and innovation as a fundamental tool of Sri Lankan foreign policy. • Attracting global scientific community with the direct involvement of prominent Sri Lankan scientists to establish laborites, research centers, and exhibitions in Sri Lanka with regional and global significance. • Considering to grant citizenship for the scientists and research with excellence who are ready to promote Sri Lanka as an important regional center for science and technology. • Improving the quality of human capital by promoting the so-called STEAM combination of science, technology, engineering, arts and mathematics at all levels of learning and accelerating domestic economic reform. • Encouraging multinational IT companies to invest in Sri Lanka to leverage it as the Digital Gateway to Asia. Appoint dedicated representatives to multilateral agencies like UNESCAP .
+
 ##### 4.07.A14) Parliamentary Diplomacy
+
+- 4.07.A14.01) • Parliamentary diplomacy shall be strengthened as a top priority area due its global recognition, established institutional structures, multi-party representation and frequent opportunities it enjoys. Ministry of Foreign Affairs will support the Sri Lankan Parliament to establish Parliamentary friendship societies, joint programmes with other Parliaments and speaker level, Members of Parliament level and staff level programmes will be encouraged. • Ministry of Foreign Affairs will facilitate the Sri Lankan Parliament to use all regional and global Parliamentary forums to extract the best possible results for the country.
 
 ##### 4.07.A15) Public Diplomacy
 
+- 4.07.A15.01) • Promoting Sri Lankan NGOs and other reputed civil organizations in abroad for the common good of the peoples. • Ministry of Foreign Affairs will appreciate Sri Lankan diplomats, academia, security experts and experts on various fields who are ready to strengthen and promote think tanks and platforms which study and engage with regional and global political and economic developments. Ministry of Foreign Affairs will keep continuous constructive dialogue with those organizations. • Provincial Councils, Municipalities, Universities and other major public institutions etc.… shall be requested to facilitate to open Foreign Relations offices (within the stipulated laws of the country) in order to establish cordial and meaningful relations with their counterparts in other countries. • Prominent Sri Lankan individuals with par excellence in their fields shall be employed as Brand Ambassadors or Special Envoys to promote Public Diplomacy when necessary. • Encourage Sri Lankan Diaspora to engage with other communities in country they reside.
+
 ##### 4.07.A16) Humanitarian Diplomacy
+
+- 4.07.A16.01) • Enhancing Sri Lanka’s role in global humanitarian efforts by participating in international aid programs and disaster relief missions. Building capacity within Sri Lanka for rapid response to humanitarian crises both domestically and internationally. • Obtaining UN peacekeeping and peace enforcement opportunities for tri forces and police to support the genuine grievances of people of other nations.
 
 ##### 4.07.A17) Legal Reforms
 
+- 4.07.A17.01) • Reforming dual citizenship laws and immigration laws to facilitate the economic contributions of overseas Sri Lankans. • Pursuing litigation under the UN Convention on the Law of the Sea (UNCLOS) is an option that has been successfully used. • Strengthening trade rules through bilateral and regional free trade agreements (FTAs) to advance our commercial interests in overseas markets. • Establish Regional Comprehensive Economic Partnerships (RCEP) either bilaterally or multilaterally. • Promoting and protecting the international rules that support stability and prosperity and enable cooperation to tackle global challenges.
+
 ##### 4.07.A18) Diaspora engagement
 
-##### 4.07.A19) Lanka including on the bonds for development projects
+- 4.07.A18.01) • Foreign Employment Bureau will be attached to the Ministry of Foreign Affairs for a better coordination, efficient use of available human and financial resources for the purpose of providing better welfare of the Sri Lankan employees in foreign countries. • Facilitate the foreign employed Sri Lankan citizens to exercise their votes from the country they reside. • Much needed insurance and social security system including a retirement pension for the foreign employed citizens shall be introduced. • Entrepreneur Promotion Unit shall be established within the Ministry of Foreign Affairs to facilitate capable Sri Lankan entrepreneurs living in foreign countries along with the possibilities of financial facilities as well. • Establishing a Consultative body with the Sri Lankan diaspora in every country where a considerable number of Sri Lankans is present. This Consultative body will be mandated to engage with the Sri Lankan foreign mission in a permanent and routine manner with the respective foreign mission as well as the Ministry of Foreign Affairs to continuously upgrade the services for the Sri Lankan diaspora. Encouraging entering active domestic social and economic spheres in their countries of residence. • Appointing NRSLs as Honorary Consuls to further Sri Lankan interests abroad. • Providing solutions with regard to the problems occur at remitting money to Sri Lankan accounts such as higher service charges, difficulties of opening and continuing multi-currency accounts from the country of residence and much needed insurances for such accounts. • Facilitate the possibility of foreign employed Sri Lankan citizens to invest in Sri
 
-##### 4.07.A20) Current Foreign Policy Stances
+##### 4.07.A19) Lanka including on the bonds for development projects Current Foreign Policy Stances
+
+- 4.07.A19.01) • We shall not allow any country or institution to use Sri Lanka’s land, Sea and Air spaces to threaten or risk the national security any country in the region including India. • We shall support to the UN adopted Two state solution to establish a Free Sovereign Palestinian State. • We shall follow and implement to eliminate the threat of Terrorism, separatism and Extremism. • As a firm policy, Sri Lanka shall oppose foreign military bases and similar military agreements and militarizing initiatives in the Indian Ocean.
 
 ### 4.08) High level of national security - Secured state
 
@@ -2403,3 +2601,5 @@ Christian, Catholic, etc. Because of that diversity, it is essential for the wel
 #### Activities [4.09]
 
 ##### 4.09.A01) Power
+
+- 4.09.A01.01) • Increase the salaries of the upcountry plantation workers compared to the cost of living. • Providing officials, employees and translators who can work in Tamil to civil services such as police stations and government offices in the Northern and Eastern provinces and Upcountry areas. • To diplomatically solve the challenges posed by foreign fishermen to fishing activities in the North and East and other areas and make room for the necessary infrastructure and marketing facilities.  

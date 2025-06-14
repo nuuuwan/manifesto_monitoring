@@ -48,6 +48,8 @@ class ActivityList:
             activities[last_activity].append(line)
         elif activities[last_activity]:
             activities[last_activity][-1] += " " + line
+        else:
+            activities[last_activity].append(line)
 
         return activities
 
@@ -57,8 +59,18 @@ class ActivityList:
         activities = {}
         for line in activities_lines:
 
+            # flake8: noqa: F401
             if ActivityList.__is_activity_title__(line):
-                activities[line] = []
+                last_key = list(activities.keys())[-1] if activities else None
+                if last_key:
+                    if activities[last_key]:
+                        activities[line] = []
+                    else:
+                        new_key = last_key + " " + line
+                        activities[new_key] = []
+                        del activities[last_key]
+                else:
+                    activities[line] = []
                 continue
 
             if not activities:
