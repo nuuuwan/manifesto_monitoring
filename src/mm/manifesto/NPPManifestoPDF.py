@@ -1,7 +1,7 @@
+from mm.manifesto.NPPManifesto import NPPManifesto
 from mm.manifesto.NPPManifestoPDFBase import NPPManifestoPDFBase
 from mm.manifesto.NPPManifestoPDFContents import NPPManifestoPDFContents
 from mm.manifesto.NPPManifestoPDFDetails import NPPManifestoPDFDetails
-from mm.manifesto.NPPManifesto import NPPManifesto
 
 
 class NPPManifestoPDF(

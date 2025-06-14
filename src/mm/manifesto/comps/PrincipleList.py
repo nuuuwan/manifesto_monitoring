@@ -13,9 +13,8 @@ class PrincipleList:
         return len(self.principles)
 
     @staticmethod
-    def from_lines(lines: list[str], l1_num, l2_num) -> "PrincipleList":
-        principles = []
-        principles_num = 0
+    def __get_principles_lines__(lines: list[str]) -> list[str]:
+        principles_lines = []
         has_started = False
         for line in lines:
             if line.endswith("Principles"):
@@ -25,19 +24,29 @@ class PrincipleList:
                 break
 
             if has_started:
-                if line[:2] == "■ ":
-                    principles_num += 1
-                    principles.append(
-                        Principle(
-                            l1_num=l1_num,
-                            l2_num=l2_num,
-                            principle_num=principles_num,
-                            title=line[2:].strip(),
-                        )
+                principles_lines.append(line.strip())
+        return principles_lines
+
+    @staticmethod
+    def from_lines(lines: list[str], l1_num, l2_num) -> "PrincipleList":
+        principles = []
+        principles_num = 0
+
+        principle_lines = PrincipleList.__get_principles_lines__(lines)
+        for line in principle_lines:
+
+            if line[:2] == "■ ":
+                principles_num += 1
+                principles.append(
+                    Principle(
+                        l1_num=l1_num,
+                        l2_num=l2_num,
+                        principle_num=principles_num,
+                        title=line[2:].strip(),
                     )
-                else:
-                    if principles:
-                        principles[-1].title += " " + line.strip()
+                )
+            elif principles:
+                principles[-1].title += " " + line.strip()
 
         return PrincipleList(l1_num, l2_num, principles)
 
