@@ -1,6 +1,8 @@
 from dataclasses import dataclass
 from functools import cached_property
 
+from mm.manifesto.comps.Principle import Principle
+
 
 @dataclass
 class Introduction:
@@ -18,7 +20,7 @@ class Introduction:
                 continue
             if not has_started:
                 continue
-            if line.endswith("Principles"):
+            if Principle.is_principle_title_text(line):
                 break
 
             introduction_lines.append(line.strip())

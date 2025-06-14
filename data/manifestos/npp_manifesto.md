@@ -2534,25 +2534,17 @@ Therefore, the National People’s Power (NPP) has set its goals using 2018 as a
 
 Our vision is to position Sri Lanka as a prominent and unique destination, attracting tourists from around the world by offering unforgettable and authentic experiences while leveraging the industry for economic growth. The National People’s Power (NPP) aims to ensure sustainability and improve the standard of living for all stakeholders.
 
-Principles: ■ Visionary leadership, strategic approach, and holistic economic development ■ Sustainable usage of natural and cultural resources ■ Developing human resources for the tourist industry ■ Development and standardizing of new tourist products ■ Strategic destination marketing
+#### Principles [3.07]
 
-ACTIVITIES
+- 3.07.P1) Visionary leadership, strategic approach, and holistic economic development
 
-Visionary leadership, strategic management, and holistic economic development • Establishing the National Tourism Council (NTC) as the main institution responsible for coordinating and managing tourism-related activities. • Establishing the Tourism Policy Formulation Council (TPFC) for developing policies for the industry. • Establishing the Sri Lanka Tourism Authority as the central institution for tourism development and promotion. • Implementing a new tourism act to enhance the productivity and efficiency of the tourism sector as a leading industry in the Sri Lankan economy. 81• Identifying new tourism destinations and products based on research and studies and providing facilities for stakeholders to develop them. • Adopting an ICT-based approach to prevent crimes and illegal activities in the tourism industry. • Attracting airlines and establishing connectivity from major tourism-origin countries to Sri Lanka. • Introducing domestic airline services to key tourist destinations within Sri Lanka. • Providing necessary encouragement and facilities to micro, small, and medium- scale entrepreneurs who make a significant contribution to the tourism industry, to improve the quality of their services. • Implementing an international-level standardization program to enhance the quality of all sectors in the tourism services. • Providing necessary facilities to convert informal sector tourism operators into the formal sector. • Developing infrastructure facilities needed to advance the local tourism industry as a leading and alternative tourism mechanism and encouraging private sector participation in this task. • Establishing international partnerships with non-governmental organizations, donor organizations, and institutions, and obtaining technical, financial support, and know-how as a key approach in developing the tourism sector. • Organizing an annual national tourism award ceremony to encourage and recognize entrepreneurs and stakeholders in the tourism industry.
+- 3.07.P2) Sustainable usage of natural and cultural resources
 
-Sustainable usage of natural and cultural resources • A resource utilization plan to develop the tourism industry and protect natural resources. • A land bank, including a mechanism for land use in the tourism sector, with the involvement of relevant stakeholders and the state, aimed at future tourism investments. Digital technology should be utilized for this purpose. • Formulating a program to safeguard tourist attractions that are under significant threat due to over-visitation, by identifying their carrying capacity using scientific methods.
+- 3.07.P3) Developing human resources for the tourist industry
 
-Developing human resources for the tourist industry • A national human resource development plan for the tourism and hospitality sectors. • An analysis of tourism training needs for training and educational institutions in both the public and private sectors of the tourism industry. • Training programs for Sri Lankans to meet both local and international demand for a skilled workforce in the tourism industry. 82• Providing facilities to universities that offer degrees related to the tourism industry. • Practical training and work-integrated learning opportunities for postgraduate students in the tourism industry. • Updating the syllabi of educational and training programs in the tourism industry to align with global trends and demand. • A special tourism training structure to provide training for micro-entrepreneurs. • A special social protection program for individuals in the private, public, and semi-public sectors, including tourist service providers and related workers, to secure their futures in the tourism industry. • Establishing a national tourism research institute as a public-private partnership, allowing students and scholars from academic institutions, professional bodies, and universities to engage in practical research on the tourism industry.
+- 3.07.P4) Development and standardizing of new tourist products
 
-Development and standardizing of new tourist products • Identify and improve the critical infrastructure of all tourism destinations across the country. • Establish a special department/team to develop innovative tourism products for
-
-Sri Lanka’s tourism industry. • Conduct special promotional programs for selected markets to address the gap during the low tourist season. • Promote Sri Lanka as a destination for MICE (Meetings, Incentives, Conferences, and Exhibitions) and sports tourism. • Engage with the private sector to facilitate and provide the necessary infrastructure development to attract cruise tourism. • Develop the infrastructure and human resources needed to cater to elderly tourists and tourists with disabilities.
-
-Strategic destination marketing • Existing destination marketing activities will be revisited to align with the tourism objectives. • In collaboration with the Ministry of Foreign Affairs, the national airline, and state tourism institutions, a long-term global marketing campaign to promote Sri
-
-Lanka’s tourism industry will be established. • Attractive promotional material will be created for display at entry points to the country and in major tourist markets abroad. • Digital approaches will be adopted to provide important tourist information about the destination. • A program will be developed to position Sri Lanka as an authentic, eco-friendly, and tourist-friendly destination. 83• A marketing campaign will be launched to attract Free Independent Travelers (FITs) and transit travellers passing through Colombo airport. • Based on scientific research, a special marketing campaign focusing on emerging and modern markets will be implemented. • Foreign missions and embassies will be used productively and efficiently for Sri
-
-Lanka’s destination marketing programs.
+- 3.07.P5) Strategic destination marketing
 
 #### Activities [3.07]
 
@@ -3820,85 +3812,17 @@ Sri Lanka has important diplomatic recognition earned through some wise and corr
 
 Number of those countries are now not only independent but also has become major regional powers. Sri Lanka has been standing right side of the history promoting peace, sovereignty of the nations in various international issues. Sri Lanka has never supported any international war after its independence. Sri Lanka has a good name among many nations for its principled positions. These precious diplomatic assets should be employed to achieve the new challenges of the country. Sri Lanka must regain her position as an “International consensus builder” . Examples of Stewardship of the Non-Aligned Movement (NAM) in the 1970’s, Law of the Sea in the 1980’s and the Non-Proliferation Treaty (NPT) in 1995.
 
-The principles • Complying with the UN Charter and its principals and UN System. • Promote international and regional peace and security. • Peaceful Co-Existence: mutual respect for sovereignty and territorial integrity, mutual non-aggression, equality of States, mutual growth, mutual respect and non-interference in each other’s internal affairs. • Supremacy of diplomacy in managing and resolving global problems. • Promote regional and Global integration through State to State and people to people diplomacy.
+#### Principles [4.07]
 
-ACTIVITIES
+- 4.07.P1) Complying with the UN Charter and its principals and UN System.
 
-The role and functions of the Ministry of Foreign Affairs • Development of Clear Guidelines: Formulating a comprehensive foreign policy document outlining strategic priorities, goals, and expected conduct of Sri Lanka’s representatives abroad. This document shall undergo periodic review to adapt to evolving global dynamics. • Internal restructuring the Ministry of Foreign Affairs to meet with new foreign policy objectives after comprehensive analysis. • Focused and coordinated guidance on Sri Lanka Foreign Service (SLFS). • Evaluating the economically developing, emerging countries and areas where Sri
+- 4.07.P2) Promote international and regional peace and security.
 
-Lanka should open its missions which can strengthen the country’s economic capacity 118Diplomatic Missions • Rationalization of Sri Lanka Overseas Missions and Right Sizing of Missions. • Having performance indicators for each Mission aligned with trade enhancement, tourism promotion, professional and vocational training and employment opportunities. • Appointing professional career diplomats, with a proven track record, to head
+- 4.07.P3) Peaceful Co-Existence: mutual respect for sovereignty and territorial integrity, mutual non-aggression, equality of States, mutual growth, mutual respect and non-interference in each other’s internal affairs.
 
-Sri Lanka’s Missions. Appointing qualified officers for Foreign Service on merit basis with professional excellence, the highest standards of ethical conduct, and diplomatic discretion. • Immediate remedial action must be taken to de-politicize the Foreign Service and make appointments on merit.
+- 4.07.P4) Supremacy of diplomacy in managing and resolving global problems.
 
-Institutional Reforms: • Decentralization of Diplomatic Initiatives: Empower Embassies to take the initiative in line with the overall foreign policy framework of Sri Lanka while ensuring accountability through regular oversight. • Streamlined Processes: Simplify and streamline diplomatic processes to make them more efficient and responsive to the needs of the citizen and the State. • Creation of data bases of human resources (of all categories) and physical assets. • Restructuring and strengthening of the Diplomatic Training Institute and the
-
-Lakshman Kadirgamar Institute of International Relations and Strategic Studies (LKI).
-
-Enhancing Diplom atic Training and Capacity Building: • Improved Training Programs: Develop comprehensive training programs for diplomats focusing on negotiation skills, cultural diplomacy, economic diplomacy, and international law. • Tailor training sessions to address the specific challenges faced by Missions in different regions. • Continuous Professional Development: compulsory ongoing learning and professional development for diplomats.
-
-Revising Diplomatic Protocols and Ethics: • Ethical Guidelines: Establish a clear code of conduct for diplomats that emphasizes integrity, professionalism, and accountability.
-
-Strengthening Centralized Oversight and Coordination: • Centralized Monitoring and Evaluation: Establish a robust mechanism for monitoring and evaluating the performance of Sri Lankan diplomats. Regular reviews should be conducted to assess the alignment of their actions with national foreign policy objectives. • Standardized Reporting: Implement standardized reporting procedures where missions are required to regularly update the Foreign Ministry on their activities, challenges, and achievements. 119 Service Efficiency Sri Lankan Missions • Increase the e-services provided by the Sri Lankan missions to reduce the time consumption for the services • Enhance the quality of the services provided to the Sri Lankan diaspora with a people oriented attitude at a reduced the cost. • Provide services in an efficient manner with the purpose of encouraging visits of foreigners to Sri Lanka while being vigilant of the National Security aspects. • Provide necessary funds, technology and technical know-how to the Sri Lankan
-
-Missions to provide services efficiently.
-
-Political Diplomacy • Priority shall be given to promote and strengthen the Diplomatic, economic and cultural relations with G20 countries, BRICS+ countries, ASEAN, Middle
-
-East and African Continent. After a comprehensive study, statuses of our foreign missions will be upgraded and opening new embassies shall be considered according to the recommendations of the study. • Providing an opportunity to participate in the global decision-making process for all States regardless of their size and development status. • Promoting an open, inclusive and prosperous South Asian region in which the rights of all States are respected. Ensuring maintaining a secure and peaceful environment in and around South Asia. • Supporting multilateralism through the United Nations and its affiliated agencies, including regional economic commissions. • Exploring new opportunities and new global and regional platforms which can assist to achieve national interests of Sri Lanka, especially in economic sphere. • Promoting the nation’s self-image through values such as freedom, democracy, social justice, human rights, and the rule of law and climate justice.
-
-Economic Diplomacy • Engaging with the international economy and positioning its domestic economy to provide economic wealth and security. • Interacting with foreign partners to bring in Foreign Direct Investments (FDI), financial assistance, and technology transfer for schemes and programmes.
-
-Attempting to diversify sources of FDI. • Analyzing and promoting Sri Lankan trade, tourism, and investment, as the country aims to become a hub of the Indian Ocean, it seeks synergies with international partners and friends as it moves towards shared aspirations. • Opening up the domestic market within the National Economic Framework pursuing positive economic management and expanding economic cooperation with other countries. 120• Full priority s hall be given to promote and strengthen the Diplomatic, economic and cultural relations with G20 countries, BRICS+ countries, ASEAN, Middle
-
-East and African Continent. • Modern and comprehensive investment law shall be enacted to improve the business environment for the foreign and local private sector, including, streamlining business procedures, investing in infrastructure, improving access to finance for Small and medium-sized enterprises - SMEs, and raising skilled and quality of human resources. • Improving access to other markets through new trade agreements and linking Sri
-
-Lanka to global production networks to increase exports. • Developing Sri Lanka as a critical service provider to international trade. Bilateral and multilateral trade agreements with main trade partners to promote the Sri
-
-Lankan economy. Remaining trade agreements will be analysed and upgraded according to achieve the stipulated targets with the consent of the other signing partners. • Renewable Energy Diplomacy; Positioning Sri Lanka as a leader in renewable energy by promoting international partnerships and investments in sus tainable energy projects. Participating in global renewable energy initiatives and sharing best practices.
-
-National Security • Safeguard Sri Lanka’s Sovereignty and territorial integrity including the rights of the territorial waters • Never allow the deployment of any military force into Sri Lanka intended to perform any activities whatsoever. • Working towards strengthening and promoting international law; regional and global stability, peace, and security; and the multilateral system. • Strengthening the engagement with Southeast Asian and ASEAN to combat terrorism, separatism, extremism, piracy, and other non-traditional security threats. • Attract and manage foreign investments without hindering Sri Lanka’s national security and economic interests. • Cyber security cooperation, while strictly adhering to the national security policy international collaborations shall be established to enhance cyber security infrastructure and strategies.
-
-Maritime Diplomacy • Acting to preserve a world in which all countries enjoy sea and air access as provided for under international law. • Securing a safe, stable, secure maritime domain, free and open sea lanes of communication based on UN adopted law of the Sea. • Ensuring to play an essential role in regional security in the Indian Ocean because of its strategic location proximity to major shipping lines and high-quality logistics services. 121• Becoming a net security provider and first responder working closely with countries who share maritime borders with Indian Ocean on anti-piracy patrols, pollution control, marine eco system and biodiversity conservation, maritime search, maritime security, resilient and reliable supply chains, data, and counter terrorism and rescue operations, joint exercises, etc.
-
-Cultural Diplomacy • Establishing Sri Lanka Directorate of Cultural Relations under the Ministry of
-
-Foreign Affairs. • Enhancing cultural exchanges and promoting Sri Lankan culture abroad to build soft power and foster mutual understanding. This includes establishing cultural centers, supporting Sri Lankan artists and performers in international platforms, and participating in global cultural events. • Recognizing proper mutual understanding between the peoples of Sri Lanka and other nations is an essential prerequisite for conducting diplomacy. Strengthening international cultural exchanges contributes to building international relations of peace and stability by heightening mutual understanding among nations and creating a more decadent cultural climate. • Utilizing sports diplomacy as a foundation for establishing solid relationships with other countries through sports exchanges. • Initiating specific cultural weeks/month with countries in where considerable
-
-Sri Lankan diaspora presence and countries where we get considerable inflow of tourists. • Promoting religious diplomacy to persuasion, attraction and cultural exchanges to promote the image of the country as well as to build friendship among people.
-
-Science and Technology Diplomacy • Making science, technology and innovation as a fundamental tool of Sri Lankan foreign policy. • Attracting global scientific community with the direct involvement of prominent
-
-Sri Lankan scientists to establish laborites, research centers, and exhibitions in Sri
-
-Lanka with regional and global significance. • Considering to grant citizenship for the scientists and research with excellence who are ready to promote Sri Lanka as an important regional center for science and technology. • Improving the quality of human capital by promoting the so-called STEAM combination of science, technology, engineering, arts and mathematics at all levels of learning and accelerating domestic economic reform. • Encouraging multinational IT companies to invest in Sri Lanka to leverage it as the Digital Gateway to Asia. Appoint dedicated representatives to multilateral agencies like UNESCAP . 122 Parliamentary Diplomacy • Parliamentary diplomacy shall be strengthened as a top priority area due its global recognition, established institutional structures, multi-party representation and frequent opportunities it enjoys. Ministry of Foreign Affairs will support the
-
-Sri Lankan Parliament to establish Parliamentary friendship societies, joint programmes with other Parliaments and speaker level, Members of Parliament level and staff level programmes will be encouraged. • Ministry of Foreign Affairs will facilitate the Sri Lankan Parliament to use all regional and global Parliamentary forums to extract the best possible results for the country.
-
-Public Diplomacy • Promoting Sri Lankan NGOs and other reputed civil organizations in abroad for the common good of the peoples. • Ministry of Foreign Affairs will appreciate Sri Lankan diplomats, academia, security experts and experts on various fields who are ready to strengthen and promote think tanks and platforms which study and engage with regional and global political and economic developments. Ministry of Foreign Affairs will keep continuous constructive dialogue with those organizations. • Provincial Councils, Municipalities, Universities and other major public institutions etc.… shall be requested to facilitate to open Foreign Relations offices (within the stipulated laws of the country) in order to establish cordial and meaningful relations with their counterparts in other countries. • Prominent Sri Lankan individuals with par excellence in their fields shall be employed as Brand Ambassadors or Special Envoys to promote Public Diplomacy when necessary. • Encourage Sri Lankan Diaspora to engage with other communities in country they reside.
-
-Humanitarian Diplomacy • Enhancing Sri Lanka’s role in global humanitarian efforts by participating in international aid programs and disaster relief missions. Building capacity within
-
-Sri Lanka for rapid response to humanitarian crises both domestically and internationally. • Obtaining UN peacekeeping and peace enforcement opportunities for tri forces and police to support the genuine grievances of people of other nations.
-
-Legal Reforms • Reforming dual citizenship laws and immigration laws to facilitate the economic contributions of overseas Sri Lankans. • Pursuing litigation under the UN Convention on the Law of the Sea (UNCLOS) is an option that has been successfully used. • Strengthening trade rules through bilateral and regional free trade agreements (FTAs) to advance our commercial interests in overseas markets. 123• Establish Regional Comprehensive Economic Partnerships (RCEP) either bilaterally or multilaterally. • Promoting and protecting the international rules that support stability and prosperity and enable cooperation to tackle global challenges.
-
-Diaspora engagement • Foreign Employment Bureau will be attached to the Ministry of Foreign Affairs for a better coordination, efficient use of available human and financial resources for the purpose of providing better welfare of the Sri Lankan employees in foreign countries. • Facilitate the foreign employed Sri Lankan citizens to exercise their votes from the country they reside. • Much needed insurance and social security system including a retirement pension for the foreign employed citizens shall be introduced. • Entrepreneur Promotion Unit shall be established within the Ministry of Foreign
-
-Affairs to facilitate capable Sri Lankan entrepreneurs living in foreign countries along with the possibilities of financial facilities as well. • Establishing a Consultative body with the Sri Lankan diaspora in every country where a considerable number of Sri Lankans is present. This Consultative body will be mandated to engage with the Sri Lankan foreign mission in a permanent and routine manner with the respective foreign mission as well as the Ministry of
-
-Foreign Affairs to continuously upgrade the services for the Sri Lankan diaspora.
-
-Encouraging entering active domestic social and economic spheres in their countries of residence. • Appointing NRSLs as Honorary Consuls to further Sri Lankan interests abroad. • Providing solutions with regard to the problems occur at remitting money to
-
-Sri Lankan accounts such as higher service charges, difficulties of opening and continuing multi-currency accounts from the country of residence and much needed insurances for such accounts. • Facilitate the possibility of foreign employed Sri Lankan citizens to invest in Sri
-
-Lanka including on the bonds for development projects
-
-Current Foreign Policy Stances • We shall not allow any country or institution to use Sri Lanka’s land, Sea and
-
-Air spaces to threaten or risk the national security any country in the region including India. • We shall support to the UN adopted Two state solution to establish a Free
-
-Sovereign Palestinian State. • We shall follow and implement to eliminate the threat of Terrorism, separatism and Extremism. • As a firm policy, Sri Lanka shall oppose foreign military bases and similar military agreements and militarizing initiatives in the Indian Ocean.
+- 4.07.P5) Promote regional and Global integration through State to State and people to people diplomacy.
 
 #### Activities [4.07]
 

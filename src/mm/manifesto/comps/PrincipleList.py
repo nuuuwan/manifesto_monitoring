@@ -23,7 +23,7 @@ class PrincipleList:
         principles_lines = []
         has_started = False
         for line in lines:
-            if line.endswith("Principles"):
+            if Principle.is_principle_title_text(line):
                 has_started = True
                 continue
             if Activity.is_activity_title_text(line):

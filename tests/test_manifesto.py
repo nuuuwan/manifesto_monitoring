@@ -48,3 +48,14 @@ class TestCase(unittest.TestCase):
                 1 <= n_activities <= 30,
                 f"[{l2_topic.key}] {n_activities=} (Expected 1-30)",
             )
+
+    def test_principles_per_l2_topic(self):
+        for l2_topic in TEST_MANIFESTO.l2_topics:
+            n_principles = l2_topic.n_principles
+            # HACK - exceptions. These have no principles.
+            if l2_topic.key in ["2.06", "4.01", "4.06"]:
+                continue
+            self.assertTrue(
+                2 <= n_principles <= 10,
+                f"[{l2_topic.key}] {n_principles=} (Expected 2-10)",
+            )
