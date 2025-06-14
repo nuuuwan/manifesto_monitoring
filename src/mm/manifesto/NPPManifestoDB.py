@@ -55,9 +55,10 @@ class NPPManifestoDB:
             for activity_item_num, item in enumerate(
                 activity.activity_items, start=1
             ):
+                key = f"{activity.key}.{activity_item_num:02d}"
                 table.append(
                     {
-                        "key": f"{activity.key}.{activity_item_num:02d}",
+                        "key": key,
                         "l1_num": activity.l1_num,
                         "l2_num": activity.l2_num,
                         "activity_num": activity.activity_num,
@@ -65,4 +66,29 @@ class NPPManifestoDB:
                         "item": item,
                     }
                 )
+        return table
+
+    @cached_property
+    def all_table(self):
+        table = []
+        for l1_topic in self.l1_topics:
+            for l2_topic in l1_topic.l2_topics:
+                for activity in l2_topic.activity_list.activities:
+                    for activity_item_num, item in enumerate(
+                        activity.activity_items, start=1
+                    ):
+                        key = f"{activity.key}.{activity_item_num:02d}"
+                        table.append(
+                            {
+                                "key": key,
+                                "l1_num": activity.l1_num,
+                                "l2_num": activity.l2_num,
+                                "activity_num": activity.activity_num,
+                                "activity_item_num": activity_item_num,
+                                "l1_topic": l1_topic.title,
+                                "l2_topic": l2_topic.title,
+                                "activity": activity.title,
+                                "item": item,
+                            }
+                        )
         return table
