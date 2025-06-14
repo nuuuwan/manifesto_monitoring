@@ -52,6 +52,6 @@ class Introduction:
 
     def to_md_lines(self):
         lines = []
-        lines.append(f"(Introduction - {self.key})")
+        lines.append(f"#### Introduction [{self.key}]")
         lines.extend(self.introduction_lines)
         return lines

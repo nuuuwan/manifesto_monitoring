@@ -1,4 +1,5 @@
 from dataclasses import dataclass
+from functools import cached_property
 
 from mm.manifesto.comps.Principle import Principle
 
@@ -50,8 +51,12 @@ class PrincipleList:
 
         return PrincipleList(l1_num, l2_num, principles)
 
+    @cached_property
+    def key(self):
+        return f"{self.l1_num:01d}.{self.l2_num:02d}"
+
     def to_md_lines(self):
         lines = []
-        lines.append("#### Principles")
+        lines.append(f"#### Principles [{self.key}]")
         lines.extend([p.to_md_line() for p in self.principles])
         return lines
