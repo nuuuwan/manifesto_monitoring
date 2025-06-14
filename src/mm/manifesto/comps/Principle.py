@@ -11,7 +11,7 @@ class Principle:
 
     @cached_property
     def key(self):
-        return f"{self.l1_num}.{self.l2_num:02d}.{self.principle_num}"
+        return f"{self.l1_num}.{self.l2_num:02d}.P{self.principle_num}"
 
     @cached_property
     def short_title(self):
