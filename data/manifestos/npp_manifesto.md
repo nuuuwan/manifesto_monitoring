@@ -30,7 +30,7 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 - 1.01.P6) Lifelong learning
 
-#### Activities
+#### Activities [1.01]
 
 ##### 1.01.A01) Early Childhood Development Education
 
@@ -246,7 +246,7 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 - 1.02.P5) Protection of patients’ rights and safety.
 
-#### Activities
+#### Activities [1.02]
 
 ##### 1.02.A01) Effective Health Service Management
 
@@ -376,7 +376,7 @@ Our goal is to construct multi-story housing complexes wherever possible, effici
 
 - 1.03.P3) Comprehensive housing projects
 
-#### Activities
+#### Activities [1.03]
 
 ##### 1.03.A01) Urba n Housing
 
@@ -408,7 +408,7 @@ Despite the immense potential that sports offer to a country like Sri Lanka—on
 
 - 1.04.P6) Collaboration among the government, private sector, and non-governmental organizations
 
-#### Activities
+#### Activities [1.04]
 
 ### 1.05) A rich cultural life - A compassionate society
 
@@ -440,7 +440,7 @@ People’s Power movement aspires to create a new cultural individual or culture
 
 - 1.05.P7) Government support in fostering a culturally enriched society
 
-#### Activities
+#### Activities [1.05]
 
 ##### 1.05.A01) Literature
 
@@ -584,7 +584,7 @@ Lanka’s rich heritage in a sustainable and comprehensive manner for developmen
 
 - 1.06.P3) Social Innovation
 
-#### Activities
+#### Activities [1.06]
 
 ##### 1.06.A01) Research and Analysis
 
@@ -644,7 +644,7 @@ The environmental policy of the NPP with the vision of “a sustainable environm
 
 - 1.07.P10) Cleaner production
 
-#### Activities
+#### Activities [1.07]
 
 ##### 1.07.A01) Proper Land Use
 
@@ -826,7 +826,7 @@ The NPP is committed to preventing the deliberate and strategic misuse of mass m
 
 - 1.08.P4) The media as a public asset
 
-#### Activities
+#### Activities [1.08]
 
 ##### 1.08.A01) 02. An honourable life
 
@@ -864,7 +864,7 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 - 2.01.P7) Efficient and meaningful participation of beneficiaries and all relevant stakeholders in the selection of beneficiaries
 
-#### Activities
+#### Activities [2.01]
 
 ##### 2.01.A01) Social protection and Welfare Programmes
 
@@ -982,7 +982,7 @@ However, in modern society, the status and importance that should be accorded to
 
 - 2.02.P3) Equal opportunities that are not subject to discrimination
 
-#### Activities
+#### Activities [2.02]
 
 ##### 2.02.A01) Unemployed graduates:
 
@@ -1024,7 +1024,7 @@ Gender identities and sexual orientations are diverse. However, in Sri Lanka, th
 
 - 2.03.P9) Domestic laws with the standards set by the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) and the Convention on the Rights of the Child (CRC).
 
-#### Activities
+#### Activities [2.03]
 
 ### 2.04) A safer world for children - A creative future generation
 
@@ -1050,7 +1050,7 @@ The absence of a well-organized and adequate human and physically resourceful so
 
 - 2.04.P4) Protection of children from abuse and all forms of violence.
 
-#### Activities
+#### Activities [2.04]
 
 ### 2.05) A contented youth - Cultured, independent thinkers
 
@@ -1152,7 +1152,7 @@ Contributing factors to this discontent include limited educational opportunitie
 
 - 2.05.P45) Working towards eliminating harmful and stereotypical perceptions related to gender identities and sexual orientations.
 
-#### Activities
+#### Activities [2.05]
 
 ### 2.06) A respectable senior citizen- A meaningful retirement
 
@@ -1164,7 +1164,7 @@ By 2045, this percentage is projected to rise to 21%. While some policymakers vi
 
 Activities ■ Providing basic facilities needed for the care of the elderly within homes. ■ Healthcare teams conduct health check-ups for the elderly. ■ Establishing a system of elderly care centres that meet international standards. ■ Developing a program to involve the elderly in creative economic activities to maintain their mental health ■ Implement a social protection scheme for those employed in the private and informal sectors, including farmers and fishermen. ■ Establishing a fund to implement an insurance coverage system that ensures protection for all senior citizens ■ Encouraging the building of walkways and rest homes near religious sites, and government intervention to ensure that the senior citizens can enjoy their daily lives in a peaceful and happy environment 51■ Implementing priority programs for senior citizens at public service locations. ■ Providing financial assistance to elderly individuals facing financial difficulties.
 
-#### Activities
+#### Activities [2.06]
 
 ### 2.07) An unimpaired social life - An fair and equitable approach
 
@@ -1192,7 +1192,7 @@ Therefore, this policy focuses on creating an economically and socially fulfilli
 
 - 2.07.P6) Integrated Public Services and Equal Accessibility.
 
-#### Activities
+#### Activities [2.07]
 
 ##### 2.07.A01) Optimal Service Management and Administration
 
@@ -1326,7 +1326,7 @@ In formulating these policies, factors such as resource availability and accessi
 
 - 3.01.P10) Progressive and fair taxation
 
-#### Activities
+#### Activities [3.01]
 
 ##### 3.01.A01) Macroeconomic Stabilization
 
@@ -1548,7 +1548,7 @@ As a result, the current agriculture sector in Sri Lanka faces several major cha
 
 - 3.02.P10) Effective management and control of agricultural operations
 
-#### Activities
+#### Activities [3.02]
 
 ##### 3.02.A01) National food security
 
@@ -1700,7 +1700,7 @@ The NPP aspired to achieve sustainable development in the livestock sector throu
 
 - 3.03.P6) Improved living standards for stakeholders
 
-#### Activities
+#### Activities [3.03]
 
 ##### 3.03.A01) Common Activities
 
@@ -1764,7 +1764,7 @@ The fisheries in Sri Lanka can be divided into main categories: seawater fisheri
 
 The fisheries and aquaculture sectors are currently facing many issues. Among them, the high expenditure on fuel and other resources, the government’s lack of interventions to introduce better technology and techniques, illegal fishing activities by foreign vessels, an outdated legal framework and processes, and insufficient incentives for sustainable and eco-friendly techniques are the primary concerns. The main aims of this policy framework include the development and management of the fisheries in a sustainable and eco-friendly manner through proper scientific techniques and practical methods, thereby increasing fish products and making them available to consumers at a reasonable price, as well as uplifting the living standards of those engaged in fisheries.
 
-#### Activities
+#### Activities [3.04]
 
 ##### 3.04.A01) Sustainable development and management
 
@@ -1802,7 +1802,7 @@ Lanka’s ICT industry. Emerging technologies like AI, IoT, and cybersecurity pa
 
 Currently, Sri Lanka’s ICT sector employs 85,000 professionals and generates USD 1.2 billion in annual foreign exchange earnings. Our goal is to position Sri Lanka as a global leader in high-quality ICT products and solutions and to establish the country as a hub for international partnerships. We aim to increase the ICT industry’s annual export revenue to USD 5 billion, achieving sustainable economic growth through innovation and high- quality digital technology while improving citizens’ living standards through efficient digital public services.
 
-#### Activities
+#### Activities [3.05]
 
 ### 3.06) A research and development approach - scientific solutions for the society
 
@@ -1816,7 +1816,7 @@ Sri Lanka possesses many resources, including endemic flora and fauna species wi
 
 Sri Lanka is rich with intelligent human resources, and many innovators are emerging even at the village level, but a mechanism to extract their ideas and innovations or to provide the necessary infrastructure occurred at a minimum level. In the future, Sri Lanka can be turned into an innovation centre by providing resources and the correct environment to harness this human potential. The state and private sector should support with a correct vision, and efficient mechanisms to bring out their new ideas through experiments and research.
 
-#### Activities
+#### Activities [3.06]
 
 ##### 3.06.A01) Agriculture, fisheries, livesto ck, and food security
 
@@ -1860,7 +1860,7 @@ Lanka’s tourism industry will be established. • Attractive promotional mater
 
 Lanka’s destination marketing programs.
 
-#### Activities
+#### Activities [3.07]
 
 ##### 3.07.A01) Visionary leadership, strategic management, and holistic
 
@@ -1886,7 +1886,7 @@ USD 409 billion, and USD 1,700 billion, respectively, while Sri Lanka’s GDP wa
 
 Therefore, we consider Sri Lanka must enhance local production and transition to an export-driven economy to navigate the current economic crisis successfully. This requires a comprehensive short and long-term industrial development plan that leverages the country’s strategic location, inclusive human capital, and natural resources, supported by committed political leadership. The primary objectives of this policy framework include revitalizing collapsed local industries, boosting the competitiveness of export industry sectors, promoting service industries, tapping into new global market opportunities, attracting foreign direct investment aligned with a national strategy, fostering an investment-friendly environment, and ensuring the provision of low-cost infrastructure and inputs.
 
-#### Activities
+#### Activities [3.08]
 
 ##### 3.08.A01) National planning and state intervention
 
@@ -1920,7 +1920,7 @@ Lanka. However, Sri Lanka has been able to earn only USD 250 million a year from
 
 There is an ability to start industries that can provide a considerable support to the national economy using lime, calcite and dolomite, mineral sand and quarts, and silica which possess graphite, apatite, calcium carbonate. There are possibilities to develop industries based on value added products from ores that contain iron and copper, as well as other small mineral ores discovered so far. Moreover, mineral resources on land and seabed can be discovered and their mineral ores and rare earth elements (REE) can be used to earn foreign exchange.
 
-#### Activities
+#### Activities [3.09]
 
 ##### 3.09.A01) Gems and jewellery
 
@@ -1938,7 +1938,7 @@ While the trends remain such, Sri Lanka stands high up in the list of countries 
 
 Taking the energy mix towards a green economy through renewable sources, by strategically reducing its dependence on petroleum oils, will provide solutions to the basic problems. It is the aim of the National People’s Power to turn Sri Lanka’s energy system into a competitive and transparent one, empowering the customers and equipped with the latest technology. Whilst saving our environment for the future generations, the NPP hopes to consider energy as an important part of the mission to capture an appropriate portion of the world manufactured products market.
 
-#### Activities
+#### Activities [3.10]
 
 ##### 3.10.A01) Energy Trading Hub
 
@@ -1952,7 +1952,7 @@ Unsystematic and inefficient transport has wasted a considerable amount of time 
 
 National People’s Power wishes to establish an efficient, trustworthy, safe, and dignified people-oriented transport service with the long-term vision to gradually transform it into an eco-friendly system. Hence the goal is to provide 70% of the public’s transport needs through public transportation within 5 years.
 
-#### Activities
+#### Activities [3.11]
 
 ##### 3.11.A01) Railway service
 
@@ -1990,7 +1990,7 @@ Colombo and Hambantota ports as two of the biggest naval centres in the world by
 
 Sri Lanka’s sailors hold world fame for their excellence, skill, and performance, and they are a main resource in our nautical field. There is a considerable potential to earn foreign exchange and create job opportunities with high benefit for the country’s youth, through the development of the number of professional sailors in Sri Lanka. This proposed policy framework brings balanced access to the development of the industry and the contribution of different stakeholders, including the harbour, nautical companies, and specialists, to bring Sri Lanka to the forefront of the global nautical field. We hope to make Sri Lanka a main nautical centre in the world through the country’s location in the Indian Ocean, development of supply efficiency, and building a world-class maritime labour force.
 
-#### Activities
+#### Activities [3.12]
 
 ##### 3.12.A01) Training of sailors
 
@@ -2024,7 +2024,7 @@ Sri Lanka has lagged behind in adopting these advancements at the same pace as g
 
 The National People’s Power’s telecommunication policy framework addresses all areas of the communication sector, including wired and wireless communication industries, broadcasting, cinema, and entertainment. The framework advocates for a sustainable telecommunications sector that quickly adapts to new technologies while ensuring safety, consumer-friendliness, and affordability.
 
-#### Activities
+#### Activities [3.13]
 
 ##### 3.13.A01) Wired communication
 
@@ -2052,7 +2052,7 @@ According to the Land Commissioner Department, 82% of Sri Lanka’s total land a
 
 The ordinances and regulations imposed during the colonial period to control land resources have made a significant impact on land management in Sri Lanka. The governments after the independence did not make any special effort to scientifically amend these laws for the well-being of the country and its people. Instead, some land reforms and policies aimed at land distribution, driven by narrow intentions, have contributed to socio-economic inequality. Issues related to land ownership have remained unresolved for a long time, leading to various social disparities.
 
-#### Activities
+#### Activities [3.14]
 
 ##### 3.14.A01) Land utilization
 
@@ -2088,7 +2088,7 @@ Due to a lack of low-cost raw materials, new technological innovations, and limi
 
 Past governments invested loans from local banks and two-party and multi-party loans in construction projects, and the lack of benefits from these projects contributed greatly to the country’s loan crisis.
 
-#### Activities
+#### Activities [3.15]
 
 ##### 3.15.A01) Act
 
@@ -2102,7 +2102,7 @@ Past governments invested loans from local banks and two-party and multi-party l
 
 #### Introduction [4.01]
 
-#### Activities
+#### Activities [4.01]
 
 ##### 4.01.A01) Civil and Political Rights as basic rights
 
@@ -2126,7 +2126,7 @@ The inefficiency of public service and the associated bribery, corruption, fraud
 
 It is our aim to convert the government service to a satisfactory state instrument by freeing it from its current state and transforming it into a non-corrupted one which has the public faith and fulfils the public expectations.
 
-#### Activities
+#### Activities [4.02]
 
 ##### 4.02.A01) • Resolving issues in the service minutes and amending them
 
@@ -2146,7 +2146,7 @@ Power hopes to rebuild the broken public trust in it by creating an independent,
 
 - 4.03.P3) transparency and efficiency
 
-#### Activities
+#### Activities [4.03]
 
 ##### 4.03.A01) Judicial Process
 
@@ -2206,7 +2206,7 @@ Power hopes to rebuild the broken public trust in it by creating an independent,
 
 Police plays a very important role in maintaining law and order in the country as an institution close to the public. An important factor that reflects how the rule of law functions is the independent and efficient functioning of the police. However, at present, the public believes that the Sri Lanka Police is an institution from which it is impossible to get any service without political or other social connections or bribery. On the other hand, some police officers are also victims of political interference and are constantly suffering due to ill-treatment. The National People’s Power expects to make the police service an independent, efficient, and friendly service that is closer to the public.
 
-#### Activities
+#### Activities [4.04]
 
 ##### 4.04.A01) Implementing justice
 
@@ -2222,7 +2222,7 @@ The increase in the remand prisoner population is a major cause of prison overcr
 
 Although it is the expectation of the National People’s Power to create a social environment where people are not inclined to do crimes, we consider the welfare of the people serving prison sentences for any reason to be the responsibility of the government.
 
-#### Activities
+#### Activities [4.05]
 
 ##### 4.05.A01) • Preventing all forms of torture inside prisons
 
@@ -2242,7 +2242,7 @@ The current regime has failed to control the importation and distribution of dru
 
 Activities • An integrated operation to prevent drugs and organized crime in the country • Establishment of a separate Bureau for Narcotics Prevention • Development of naval and air surveillance facilities and provide modern equipment and training to officials to prevent the entry of drugs into the country 116• Regularize rehabilitation programmes for drug addicts to free them from drug use • Strengthening penalties for drug offences and taking measures for the speedy resolution of cases • Implementation of continuous programmes to educate school children • Expanding the functions of the Dangerous Drugs Control Board, and establishing monitoring committees to involve people in the fight against drugs • Educating the community about the adverse effects of drug use
 
-#### Activities
+#### Activities [4.06]
 
 ### 4.07) A dignified diplomacy - A sovereign state
 
@@ -2348,7 +2348,7 @@ Air spaces to threaten or risk the national security any country in the region i
 
 Sovereign Palestinian State. • We shall follow and implement to eliminate the threat of Terrorism, separatism and Extremism. • As a firm policy, Sri Lanka shall oppose foreign military bases and similar military agreements and militarizing initiatives in the Indian Ocean.
 
-#### Activities
+#### Activities [4.07]
 
 ##### 4.07.A01) The role and functions of the Ministry of Foreign Affairs
 
@@ -2402,7 +2402,7 @@ Law enforcement agencies such as the Armed Forces, Police, Coast Guard, Excise
 
 Department, Prisons Department and Customs, as well as intelligence services and civil defence services, play an important role in ensuring the internal security of the state. The strength and transparency of these security forces are reflected and maintained through transparent democratic governance capable of fulfilling the national power and the promotion of national interests, i.e. national inspirations. Political leadership, economic, geographical, and environmental presence, popular ideology, and defense forces can be identified as the components of national power. Non-aligned and balanced diplomatic policies, strategic foreign policies based on the understanding of global and regional geopolitical and balance security posture, as well as economic independence are the factors that affect the reduction of threats to national security globally and regionally.
 
-#### Activities
+#### Activities [4.08]
 
 ### 4.09) A Sri Lankan nation - The universal citizen
 
@@ -2414,6 +2414,6 @@ Muslim, Burgher, Malay and various religions such as Buddhist, Hindu, Islam,
 
 Christian, Catholic, etc. Because of that diversity, it is essential for the well-being and national unity of the country to live in a multicultural society that exists by nature, accepting and respecting each other. But the country has failed to build the Sri Lankan nation by taking advantage of the various opportunities in history. The country had to face a tragic war of 30 years as a result of creating mutual suspicion and mistrust and disunity between ethnicities and military groups for the sake of obtaining and maintaining power and narrow opportunistic political interests. The sorrows and sad results of that war still remain in Sri Lankan society. The National People’s Power is dedicated to creating national 127unity for the building of the Sri Lankan nation, not divided based on ethnicity, language, religion, caste, or gender, and by respecting the diversity of identities and ensuring their survival and protection.
 
-#### Activities
+#### Activities [4.09]
 
 ##### 4.09.A01) Power

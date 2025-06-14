@@ -1,11 +1,14 @@
 import re
 from dataclasses import dataclass
+from functools import cached_property
 
 from mm.manifesto.comps.Activity import Activity
 
 
 @dataclass
 class ActivityList:
+    l1_num: int
+    l2_num: int
     activities: list["Activity"]
 
     @staticmethod
@@ -71,7 +74,9 @@ class ActivityList:
     def from_lines(lines: list[str], l1_num, l2_num) -> list["Activity"]:
         activities = ActivityList.__get_activities_from_lines__(lines)
         return ActivityList(
-            [
+            l1_num=l1_num,
+            l2_num=l2_num,
+            activities=[
                 Activity(
                     l1_num=l1_num,
                     l2_num=l2_num,
@@ -82,7 +87,7 @@ class ActivityList:
                 for activity_num, (title, items) in enumerate(
                     activities.items(), start=1
                 )
-            ]
+            ],
         )
 
     def to_dense_dict(self):
@@ -91,8 +96,12 @@ class ActivityList:
             for activity in self.activities
         }
 
+    @cached_property
+    def key(self):
+        return f"{self.l1_num:01d}.{self.l2_num:02d}"
+
     def to_md_lines(self):
-        lines = ["#### Activities"]
+        lines = [f"#### Activities [{self.key}]"]
         for activity in self.activities:
             lines.extend(activity.to_md_lines())
         return lines
