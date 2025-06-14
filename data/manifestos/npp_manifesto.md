@@ -1030,9 +1030,7 @@ The NPP is committed to preventing the deliberate and strategic misuse of mass m
 
 - 1.08.A01.14) Promoting media literacy programs to foster an informed audience.
 
-- 1.08.A01.15) Establishing an independent media commission to oversee the optimal functioning of journalism process.
-
-##### 1.08.A02) 02. An honourable life A safe country
+- 1.08.A01.15) Establishing an independent media commission to oversee the optimal functioning of journalism process.   02. An honourable life A safe country
 
 ## 2) An honourable life - A safer country
 
@@ -1638,7 +1636,9 @@ Therefore, this policy focuses on creating an economically and socially fulfilli
 
 - 2.07.A06.08) Create inclusive theaters and sports facilities to enhance the artistic and cultural participation of persons with disabilities.
 
-##### 2.07.A07) A modern life A wealthy nation
+##### 2.07.A07) A modern life
+
+- 2.07.A07.01) A wealthy nation
 
 ## 3) A modern life - A wealthy nation
 
@@ -3474,7 +3474,9 @@ Past governments invested loans from local banks and two-party and multi-party l
 
 - 3.15.A02.18) Making environmental accountability essential for all construction projects, with a deep assessment of environmental risks
 
-##### 3.15.A03) A dignified life A strong country
+##### 3.15.A03) A dignified life
+
+- 3.15.A03.01) A strong country
 
 ## 4) A dignified life - A strong country
 

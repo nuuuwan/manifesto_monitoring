@@ -14,6 +14,7 @@ class ActivityList:
 
     @staticmethod
     def __is_activity_title__(line):
+
         return (
             line.strip()
             and not Common.is_bullet(line)
@@ -21,7 +22,16 @@ class ActivityList:
             and not line[0].islower()
             and line[-1] != "."
             and line
-            not in ["Childhood Development Centres", "Power"]  # HACK!
+            not in [
+                "Childhood Development Centres",
+                "Power",
+                "02. An honourable life",
+                "A safe country",
+                "03. A modern life",
+                "A wealthy nation",
+                "04. A dignified life",
+                "A strong country",
+            ]  # HACK!
         )
 
     @staticmethod
@@ -67,6 +77,7 @@ class ActivityList:
 
             # flake8: noqa: F401
             if ActivityList.__is_activity_title__(line):
+
                 last_key = list(activities.keys())[-1] if activities else None
                 if last_key:
                     if activities[last_key]:

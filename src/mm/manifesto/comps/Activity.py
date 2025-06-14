@@ -1,4 +1,5 @@
 from dataclasses import dataclass
+from functools import cached_property
 
 
 @dataclass
@@ -10,6 +11,10 @@ class Activity:
     activity_items: list[str]
 
     NO_TITLE = "NO-TITLE"
+
+    @cached_property
+    def n_items(self) -> int:
+        return len(self.activity_items)
 
     @staticmethod
     def is_activity_title_text(line: str) -> bool:

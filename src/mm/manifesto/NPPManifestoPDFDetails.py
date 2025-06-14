@@ -6,7 +6,7 @@ class NPPManifestoPDFDetails:
     @staticmethod
     def __parse_l1_heading__(line):
         # HACK!
-        if 'billion SW AP loan facilities' in line:
+        if "billion SW AP loan facilities" in line:
             return None
         pattern = r"^.{0,3}(\d)\.\s?(\d{1,2})\.?\s+(.*)$"
         match = re.match(pattern, line)
