@@ -4,7 +4,7 @@
 
 ### 1.01) A civilized citizen - An advanced human resource
 
-#### Introduction
+*Introduction - 1.01*
 
 Education is a cultural process that generates new knowledge by acquiring and disseminating existing knowledge. The existence and development of a civilized and responsible society hinge on the quality of its education. In Sri Lanka, the education system faces several crises. A major issue is the high dropout rate, with many students leaving school before completing at least 13 years of education. For example, in 2008, 11.3% of children who entered the first year left school before sitting for the GCE O/L examination in 2018. By 2020, only 64.7% of students who sat for the GCE O/L examination proceeded to the GCE A/L level, meaning that 35.3% of those who entered the first year did not reach the GCE A/L examination. Only 35.4% of these students passed the GCE A/L examination and merely 12.7% secured university entrance.
 
@@ -222,7 +222,7 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 ### 1.02) A vigorous life - Healthy people
 
-#### Introduction
+*Introduction - 1.02*
 
 According to the United Nations Universal Declaration of Human Rights, health is a human right. The right to health is intrinsically linked to all other human rights.
 
@@ -358,7 +358,7 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 ### 1.03) A comfortable home - A healthy living
 
-#### Introduction
+*Introduction - 1.03*
 
 The housing issue in Sri Lanka, particularly in urban areas, has become increasingly severe, especially for low-income families. In Colombo alone, approximately 65,000 homes in low-income settlements are spread across 1,000 acres. Residents in these areas have been largely neglected by previous governments and suffer from a lack of basic amenities such as water, electricity, sanitation, and clean air. While other urban residents can build, buy, or rent homes, varying income levels make these options challenging for many. Government employees, in particular, struggle with the high cost of rent, as their incomes are often insufficient to cover these expenses.
 
@@ -386,7 +386,7 @@ Our goal is to construct multi-story housing complexes wherever possible, effici
 
 ### 1.04) An energetic citizen - Triumphant people
 
-#### Introduction
+*Introduction - 1.04*
 
 Sports play a crucial role not only in fostering participation and achieving victory but also in shaping a healthy, disciplined, and intelligent society. Success in sports brings honor and pride to the country, while participation promotes a healthier nation, creating individuals with discipline, strong personality, and sound mental health.
 
@@ -412,7 +412,7 @@ Despite the immense potential that sports offer to a country like Sri Lanka—on
 
 ### 1.05) A rich cultural life - A compassionate society
 
-#### Introduction
+*Introduction - 1.05*
 
 The cultural and artistic space is a highly sensitive area within a society. Though culture and art seem to take time to have an impact on the human community, the decline in these areas has caused a significant erosion in contemporary Sri Lankan society. The intentional destruction of the foundation of culture and arts has weakened civil society.
 
@@ -570,7 +570,7 @@ People’s Power movement aspires to create a new cultural individual or culture
 
 ### 1.06) A conserved history - Innovating across heritage
 
-#### Introduction
+*Introduction - 1.06*
 
 In Sri Lanka, the current understanding of history, culture, and heritage is often based on post-colonial perspectives, which have limited the effective use of these elements for national development. Therefore, creating a new policy framework with an innovative vision is essential to effectively utilize these fields. Establishing new policy foundations based on research and development is a high priority for integrating history, culture, and heritage into the country’s national development strategies. This process aims to utilize Sri
 
@@ -608,7 +608,7 @@ Lanka’s rich heritage in a sustainable and comprehensive manner for developmen
 
 ### 1.07) A sustainable biotic world - An Avergreen life
 
-#### Introduction
+*Introduction - 1.07*
 
 The total land area of Sri Lanka is 65,610 square kilometers. In addition to this, it encompasses a marine zone of 18,060 square kilometres, a neighbouring marine zone of 19,620 square kilometres, and an extended economic zone of 437,400 square kilometres.
 
@@ -806,7 +806,7 @@ The environmental policy of the NPP with the vision of “a sustainable environm
 
 ### 1.08) Free media industry - An objectively informed society
 
-#### Introduction
+*Introduction - 1.08*
 
 Human communication is inherently linked and has evolved over time into a dominant social process, closely intertwined with modern technology. Mass media represents the modern state of this long-standing evolution. The term ‘media’ encompasses the technical methods, tools, institutions, technical procedures, organizational structures, and other elements used to disseminate various messages to the public. It is the means through which broad objectives such as information providing, education, persuasion, entertainment, social adaptation, cultural promotion, and mutual co-existence are achieved. The effectiveness of journalism relies on the integrity and quality of all these components.
 
@@ -836,7 +836,7 @@ The NPP is committed to preventing the deliberate and strategic misuse of mass m
 
 ### 2.01) A safer society - An enriched nation
 
-#### Introduction
+*Introduction - 2.01*
 
 Approximately 5.7 million people in Sri Lanka live below the national poverty line (set at Rs. 16,326 per month as of May 2024 as confirmed by the Department of Census and
 
@@ -968,7 +968,7 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 ### 2.02) An efficient workforce - A respectable professional life
 
-#### Introduction
+*Introduction - 2.02*
 
 Human labor is both a key factor of production and a driving force in social development.
 
@@ -994,7 +994,7 @@ However, in modern society, the status and importance that should be accorded to
 
 ### 2.03) Impartial human identity - Gender equality in social-life
 
-#### Introduction
+*Introduction - 2.03*
 
 Although women are an integral part of society, they consistently occupy an unequal position due to marginalization within major socio-economic, cultural, and political systems. This inequality occurs across all sectors, including the home, community, workplace, and politics. In recent decades, the situation has worsened due to neoliberal economic policies. Despite women being the primary earners of foreign remittances, the necessary structural and ideological changes for equality and justice have not yet taken place. Instead, the commodification of women’s identities and their marginalization in the labor market have intensified.
 
@@ -1028,7 +1028,7 @@ Gender identities and sexual orientations are diverse. However, in Sri Lanka, th
 
 ### 2.04) A safer world for children - A creative future generation
 
-#### Introduction
+*Introduction - 2.04*
 
 By 2023, Sri Lanka’s population was 22,037,000 and 6,642,331, which is 30.14% of the total population, were children under 18 years of age, according to the definition of the United Nations. Today, children face significant issues such as weak justice systems, inadequate protection services, educational challenges, and malnutrition. The judicial process for children who fall victim to crimes often drags on for excessively long periods, sometimes extending even 6 to 10 years.
 
@@ -1054,7 +1054,7 @@ The absence of a well-organized and adequate human and physically resourceful so
 
 ### 2.05) A contented youth - Cultured, independent thinkers
 
-#### Introduction
+*Introduction - 2.05*
 
 In Sri Lanka, 38% of the total population, that is approximately 8.5 million individuals belong to young generation. Since the independence, youth in Sri Lanka have experienced unsatisfactory lives. Particularly over the last seven decades, the prevailing political system and culture have prevented them from effective political participation. The three major uprisings in the North and South in recent decades, during which hundreds of thousands of young people lost their lives, were driven by the unfulfilled dreams of a youth that the political establishment failed to satisfy.
 
@@ -1156,7 +1156,7 @@ Contributing factors to this discontent include limited educational opportunitie
 
 ### 2.06) A respectable senior citizen- A meaningful retirement
 
-#### Introduction
+*Introduction - 2.06*
 
 Taking care of the elderly is a responsibility of the children and relatives within a family and is a cultural value. The elderly, who have contributed to the socio-economic development of their families and communities for most of their lives, deserve care and attention during their later years. In 2023, the population of senior citizens in Sri Lanka (those aged 60 and above) was 3.7 million, representing 17.2% of the total population.
 
@@ -1168,7 +1168,7 @@ Activities ■ Providing basic facilities needed for the care of the elderly wit
 
 ### 2.07) An unimpaired social life - An fair and equitable approach
 
-#### Introduction
+*Introduction - 2.07*
 
 At some point in their lives, everyone is likely to experience difficulties functioning normally, especially as they age. When a family member is born with a disability or acquires one during childhood, adolescence, or old age, it can be a painful experience.
 
@@ -1284,7 +1284,7 @@ Therefore, this policy focuses on creating an economically and socially fulfilli
 
 ### 3.01) A democratic economy - An affluent country
 
-#### Introduction
+*Introduction - 3.01*
 
 The quality of life and socio-cultural development of citizens of a country depends on correct economic policies adopted and actions taken. The destructive economic policies and corrupt political culture followed by the leaders of the country have left us today with a battered and crippled economy and society where human lives have been shattered in every aspect.
 
@@ -1514,7 +1514,7 @@ In formulating these policies, factors such as resource availability and accessi
 
 ### 3.02) Higher productivity - Nation with food security
 
-#### Introduction
+*Introduction - 3.02*
 
 Currently, the agricultural sector contributes 8.4% to GDP , while employment in this sector accounts for approximately 27%. Additionally, 15.3% of export revenue is generated from agricultural crops. This highlights the significant role agriculture plays in
 
@@ -1676,7 +1676,7 @@ As a result, the current agriculture sector in Sri Lanka faces several major cha
 
 ### 3.03) High-quality livestock production - An entrepreneurial approach
 
-#### Introduction
+*Introduction - 3.03*
 
 The livestock sector plays a vital role in providing essential proteins and other nutrients to the people of Sri Lanka. Additionally, it significantly strengthens the national economy and improves livelihoods through import substitution. The sustainability of the livestock industry depends on factors such as production capacity, the number of livestock farms, infrastructure, the labour force, and the availability of policymakers, administrators, researchers, and other stakeholders.
 
@@ -1754,7 +1754,7 @@ The NPP aspired to achieve sustainable development in the livestock sector throu
 
 ### 3.04) A sustainable management - A quality fish resource
 
-#### Introduction
+*Introduction - 3.04*
 
 The need for protein has been identified as a major component in human nutrition, with fish and related products recognized as a high-quality, safe source of protein.
 
@@ -1790,7 +1790,7 @@ The fisheries and aquaculture sectors are currently facing many issues. Among th
 
 ### 3.05) A digital state - An international partnership
 
-#### Introduction
+*Introduction - 3.05*
 
 Sri Lanka has a skilled workforce comprising educated and trainable professionals. The country’s strategic location makes it a hub for offering services to Asian, European,
 
@@ -1806,7 +1806,7 @@ Currently, Sri Lanka’s ICT sector employs 85,000 professionals and generates U
 
 ### 3.06) A research and development approach - scientific solutions for the society
 
-#### Introduction
+*Introduction - 3.06*
 
 Research and development (R&D) combined with science and technology produces value-added products and services, uplifting the country’s economy, and supporting human and social development. Sri Lanka allocates only the limited amount of 0.12% of its annual GDP for research and development, while countries with similar geo-political characteristics such as Malaysia allocates 1%, with Thailand 1.2% and Vietnam 0.42%.
 
@@ -1830,7 +1830,7 @@ Sri Lanka is rich with intelligent human resources, and many innovators are emer
 
 ### 3.07) A modernised tourist industry - An attractive destination
 
-#### Introduction
+*Introduction - 3.07*
 
 The tourism industry is one of the leading industries globally, bringing economic, socio- cultural, and environmental benefits to host countries. The main resources of the tourism industry can be identified in four key areas: natural, cultural, human, and capital. A well- planned tourism industry can be developed by effectively combining these resources.
 
@@ -1874,7 +1874,7 @@ Lanka’s destination marketing programs.
 
 ### 3.08) An entrepreneurship explosion - An organic approach
 
-#### Introduction
+*Introduction - 3.08*
 
 In comparison to other developing nations, Sri Lanka has not been able to reach its potential in industrial development when compared to countries like Bangladesh,
 
@@ -1908,7 +1908,7 @@ Therefore, we consider Sri Lanka must enhance local production and transition to
 
 ### 3.09) A sustainable resource utilization - Generation of highest benefits
 
-#### Introduction
+*Introduction - 3.09*
 
 Sri Lanka has an abundance of mineral resources, accumulated throughout the land space of 65,610 square kilometers. The peninsular basin, which is about twenty times the land area and including the ocean region which will be nominally granted according to the UN ocean laws, is also rich in ocean minerals. Varieties of ores of minerals such as graphite, mica, apatite, lime and dolomite, mineral sand, quartz and silica sand, feldspar, serpentine, laterite, different clay types, and gems which had been created because of different geological factors are abundantly found in Sri Lanka. Many industries such as mineral sand, cement, phosphate, ceramic, glass, and roof tiles were originated from mineral resources discovered through the mineral resource expeditions in the 1980s.
 
@@ -1926,7 +1926,7 @@ There is an ability to start industries that can provide a considerable support 
 
 ### 3.10) A secured energy centre - A sustainable revenue source
 
-#### Introduction
+*Introduction - 3.10*
 
 The global energy field is passing a transformative era with sustainability and innovation, adjusting to constantly evolving customer needs and regulation frameworks. New energy methods such as solar power, wind power, and energy storing systems are achieving a rapid development due to the global aim of reducing greenhouse emissions and the need to reduce cost. Further, technology with low harmful emissions such as green hydrogen and small-scale nuclear power plants are coming forward. The cost of producing batteries is rapidly reducing, and the global transportation field is rapidly becoming electrified.
 
@@ -1946,7 +1946,7 @@ Taking the energy mix towards a green economy through renewable sources, by stra
 
 ### 3.11) A good public transportation service - Speedy destination
 
-#### Introduction
+*Introduction - 3.11*
 
 Unsystematic and inefficient transport has wasted a considerable amount of time of most of the public. Heavy traffic, wasting a lot of time on the road, transport services not working at night, too many road accidents, and sexual and other harassment faced by women and children in public services characterises our passenger transport service. The reporting of around 30,000 road accidents a year is an indication of the lack of safety and its intensity in the transport sector. The contribution of the railway service has dropped to 5% in the transport sector. The portion of the SLTB in bus passenger service has dropped to 14%. Around 55% of the citizens opt to use private vehicles to fulfil their transport needs due to the decline in public transport, and they have to spend a large amount of their income on transport as a result. It has also resulted in high road traffic. 88,200 km of the entire 119,382 km road network of Sri Lanka belongs to local government institutes, and many roads at the rural and semi-urban areas are in a dilapidated state due to lack of maintenance. A large amount of money flows out annually to import fuel, and around 65% of the fuel burned in the country are spent in the transport sector. It thereby contributed to half of the air pollution. Further, around 35% of fruits and vegetables go into waste due to unsatisfactory transportation.
 
@@ -1982,7 +1982,7 @@ National People’s Power wishes to establish an efficient, trustworthy, safe, a
 
 ### 3.12) A sustainable marine resource - Acquiring a portion of global maritime business
 
-#### Introduction
+*Introduction - 3.12*
 
 Sri Lanka plays a big role in the global nautical field based on its strategic location at a centre where Eastern and Western sea routes meet. Yearly, thousands of tons of goods are transported by ships that sail past our country. The Colombo Harbour is located at an ideal spot to conduct this sea transportation, while the Hambantota Harbour, located in the South, operates much lower than its capacity. There is potential to develop the
 
@@ -2016,7 +2016,7 @@ Sri Lanka’s sailors hold world fame for their excellence, skill, and performan
 
 ### 3.13) A secured data system - An ICT revolution
 
-#### Introduction
+*Introduction - 3.13*
 
 The global telecommunications sector is rapidly evolving with the integration of new technologies and innovative business models. Technologies like 5G wireless communication, cloud computing, decentralized telecom networks, mobile network services, and AI are driving the delivery of cutting-edge services to consumers. However,
 
@@ -2046,7 +2046,7 @@ The National People’s Power’s telecommunication policy framework addresses a
 
 ### 3.14) A productive land management system - Integrated control plan
 
-#### Introduction
+*Introduction - 3.14*
 
 According to the Land Commissioner Department, 82% of Sri Lanka’s total land area, which stands at 6.6 million hectares, belongs to the government, while the remaining 18%, amounting to 1.2 million hectares, is private land. 32% of the 5.4 million hectares that belong to the state, which is 1.7 million hectares, are forests. In general, lands have been categorized as agricultural, commercial, or residential according to their usage for ease of administration and management.
 
@@ -2076,7 +2076,7 @@ The ordinances and regulations imposed during the colonial period to control lan
 
 ### 3.15) Scientifically managed construction Industry - Excellent quality workforce
 
-#### Introduction
+*Introduction - 3.15*
 
 The development and sustenance of the construction industry, which reflects the country’s economic development, depend on state and private investment in infrastructure and projects. Before the 2022 downfall, the construction industry contributed 7% to the country’s GDP and provided direct and indirect employment to over 1 million individuals. Despite the recent crisis, the industry has the potential for significant growth with the right investments and strategies.
 
@@ -2100,7 +2100,7 @@ Past governments invested loans from local banks and two-party and multi-party l
 
 ### 4.01) A new constitution - A united Sri Lankan nation
 
-#### Introduction
+*Introduction - 4.01*
 
 #### Activities
 
@@ -2116,7 +2116,7 @@ Past governments invested loans from local banks and two-party and multi-party l
 
 ### 4.02) An efficient public service - A skill based professionalism
 
-#### Introduction
+*Introduction - 4.02*
 
 Sri Lanka’s public service is the main instrument that implements state policies. The
 
@@ -2132,7 +2132,7 @@ It is our aim to convert the government service to a satisfactory state instrume
 
 ### 4.03) Rule of law - A judicial system with equal access
 
-#### Introduction
+*Introduction - 4.03*
 
 Independent and efficient administration of justice and public confidence in the process is crucial in establishing the rule of law. However, the public has lost its faith due to the allegations of undue influence, lack of independency and transparency, delays in the process and expensive nature of litigation in the judicial process. The National People’s
 
@@ -2202,7 +2202,7 @@ Power hopes to rebuild the broken public trust in it by creating an independent,
 
 ### 4.04) Public security assuring - People friendly service
 
-#### Introduction
+*Introduction - 4.04*
 
 Police plays a very important role in maintaining law and order in the country as an institution close to the public. An important factor that reflects how the rule of law functions is the independent and efficient functioning of the police. However, at present, the public believes that the Sri Lanka Police is an institution from which it is impossible to get any service without political or other social connections or bribery. On the other hand, some police officers are also victims of political interference and are constantly suffering due to ill-treatment. The National People’s Power expects to make the police service an independent, efficient, and friendly service that is closer to the public.
 
@@ -2214,7 +2214,7 @@ Police plays a very important role in maintaining law and order in the country a
 
 ### 4.05) A humanitarian prison - A lawful confinement
 
-#### Introduction
+*Introduction - 4.05*
 
 The vision of the Prisons Department in Sri Lanka is to social reintegration of inmates as good citizens through rehabilitation. But in the recent past, incidents of killing and inhumane torture of prisoners in various prisons show that people who are imprisoned face different forms of abuse. Also, there is a public opinion that powerful prisoners with certain political connections enjoy special privileges. “Prisoners are also human” is only limited to a theme at present, and overcrowding and lack of basic facilities for prisoners are serious problems faced by prisons. The prison has become a place to punish prisoners rather than to reform them. Prisons at present have become criminal centres due to drug trafficking and underworld activities and have hindered the people who are serving their prison life with good behaviour.
 
@@ -2234,7 +2234,7 @@ Although it is the expectation of the National People’s Power to create a soci
 
 ### 4.06) A drug-free country - A healthier citizen life
 
-#### Introduction
+*Introduction - 4.06*
 
 At present, drug use has become a social problem due to its rapid rise. Drug use has caused many serious problems in the family as well as in society. The tendency of schoolchildren to get addicted to drugs has increased.
 
@@ -2246,7 +2246,7 @@ Activities • An integrated operation to prevent drugs and organized crime in t
 
 ### 4.07) A dignified diplomacy - A sovereign state
 
-#### Introduction
+*Introduction - 4.07*
 
 Sri Lanka’s strategic location at the center of the Indian Ocean and the Bay of Bengal has deep rooted historical antecedents. Archeological evidence provides ample materials to establish that Sri Lanka has had vibrant trade relations across the Bay of Bengal and with Southeast Asia. Sri Lanka’s geostrategic location within the Indian Ocean is a blessing as the island is astride one of the world’s busiest sea lanes of communication that connect
 
@@ -2392,7 +2392,7 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 ### 4.08) High level of national security - Secured state
 
-#### Introduction
+*Introduction - 4.08*
 
 National security is the mechanism of facing dealing with any challenges that may be posed externally or internally for the security of the citizen, the territorial integrity, and sovereignty of the country, or by natural and human activities while managing such challenges through geopolitical and geostrategic means from the security measures provided by the defence forces.
 
@@ -2406,7 +2406,7 @@ Department, Prisons Department and Customs, as well as intelligence services and
 
 ### 4.09) A Sri Lankan nation - The universal citizen
 
-#### Introduction
+*Introduction - 4.09*
 
 Sri Lanka is a country with people of various ethnicities such as Sinhalese, Tamil,
 
