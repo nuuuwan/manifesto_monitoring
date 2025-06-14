@@ -20,8 +20,8 @@ class ActivityList:
         )
 
     @staticmethod
-    def from_lines(lines: list[str], l1_num, l2_num) -> list["Activity"]:
-        activities = {}
+    def __get_activities_lines__(lines: list[str]) -> list[str]:
+        activities_lines = []
         has_started = False
         for line in lines:
             if line.endswith("ACTIVITIES"):
@@ -30,26 +30,46 @@ class ActivityList:
             if not has_started:
                 continue
             line = re.sub(r"^\d+\.?\s*", "", line)
+            line = line.strip()
+            activities_lines.append(line)
+        return activities_lines
+
+    @staticmethod
+    def __parse_activity_line__(line: str, activities) -> str:
+
+        is_bullet = line[:2] == "■ "
+        line = line[2:].strip() if is_bullet else line
+
+        last_activity = list(activities.keys())[-1]
+        if is_bullet:
+            activities[last_activity].append(line)
+        elif activities[last_activity]:
+            activities[last_activity][-1] += " " + line
+
+        return activities
+
+    @staticmethod
+    def __get_activities_from_lines__(lines: list[str]) -> list[str]:
+        activities_lines = ActivityList.__get_activities_lines__(lines)
+        activities = {}
+        for line in activities_lines:
+
             if ActivityList.__is_activity_title__(line):
                 activities[line] = []
                 continue
 
-            clean_line = line.strip()
-            if line[:2] == "■ ":
-                clean_line = clean_line[2:].strip()
-                to_previous = False
-            else:
-                clean_line = clean_line.strip()
-                to_previous = True
+            if not activities:
+                continue
 
-            if activities.keys():
-                last_activity = list(activities.keys())[-1]
-                if to_previous:
-                    if activities[last_activity]:
-                        activities[last_activity][-1] += " " + clean_line
-                else:
-                    activities[last_activity].append(clean_line)
+            activities = ActivityList.__parse_activity_line__(
+                line, activities
+            )
 
+        return activities
+
+    @staticmethod
+    def from_lines(lines: list[str], l1_num, l2_num) -> list["Activity"]:
+        activities = ActivityList.__get_activities_from_lines__(lines)
         return ActivityList(
             [
                 Activity(
