@@ -28,6 +28,13 @@ class L1Topic:
     def short_title(self):
         return f"{self.l1_num}) {self.title}"
 
+    def to_dict(self):
+        return {
+            "l1_num": self.l1_num,
+            "title": self.title,
+            "n_l2_topics": len(self.l2_topics),
+        }
+
     def to_dense_dict(self):
         return {
             l2_topic.short_title: l2_topic.to_dense_dict()
