@@ -42,11 +42,24 @@ class TestCase(unittest.TestCase):
         self.assertTrue(os.path.exists(md_path))
 
     def test_activities_per_l2_topic(self):
+        min_n_activities = None
+        max_n_activities = None
         for l2_topic in TEST_MANIFESTO.l2_topics:
             n_activities = l2_topic.n_activities
             self.assertTrue(
-                1 <= n_activities <= 30,
-                f"[{l2_topic.key}] {n_activities=} (Expected 1-30)",
+                1 <= n_activities <= 20,
+                f"[{l2_topic.key}] {n_activities=} (Expected 1-20)",
+            )
+
+            min_n_activities = (
+                n_activities
+                if min_n_activities is None
+                else min(min_n_activities, n_activities)
+            )
+            max_n_activities = (
+                n_activities
+                if max_n_activities is None
+                else max(max_n_activities, n_activities)
             )
 
     def test_principles_per_l2_topic(self):
