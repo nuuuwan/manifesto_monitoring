@@ -20,6 +20,14 @@ class L2Topic:
     principle_list: PrincipleList
     activity_list: ActivityList
 
+    @cached_property
+    def n_principles(self):
+        return len(self.principle_list)
+
+    @cached_property
+    def n_activities(self):
+        return len(self.activity_list)
+
     def expand_fields_from_lines(self, lines: list[str]) -> "L2Topic":
         self.introduction = Introduction.from_lines(
             lines, l1_num=self.l1_num, l2_num=self.l2_num
@@ -61,8 +69,8 @@ class L2Topic:
             "l1_num": self.l1_num,
             "l2_num": self.l2_num,
             "title": self.title,
-            "n_principles": len(self.principle_list),
-            "n_activities": len(self.activity_list),
+            "n_principles": self.n_principles,
+            "n_activities": self.n_activities,
         }
 
     def to_dense_dict(self):

@@ -40,3 +40,11 @@ class TestCase(unittest.TestCase):
         md_lines = TEST_MANIFESTO.to_md_lines()
         File(md_path).write("\n\n".join(md_lines))
         self.assertTrue(os.path.exists(md_path))
+
+    def test_activities_per_l2_topic(self):
+        for l2_topic in TEST_MANIFESTO.l2_topics:
+            n_activities = l2_topic.n_activities
+            self.assertTrue(
+                1 <= n_activities <= 30,
+                f"[{l2_topic.key}] {n_activities=} (Expected 1-30)",
+            )
