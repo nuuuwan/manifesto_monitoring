@@ -31,7 +31,7 @@ class TestCase(unittest.TestCase):
         s = json.dumps(
             TEST_MANIFESTO.to_dense_dict(), indent=2, ensure_ascii=False
         )
-        self.assertEqual(len(s), 156200)
+        self.assertEqual(len(s), 171041)
 
     def test_to_md_lines(self):
         md_path = os.path.join("data", "manifestos", "npp_manifesto.md")

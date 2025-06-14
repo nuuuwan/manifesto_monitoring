@@ -440,6 +440,70 @@ Despite the immense potential that sports offer to a country like Sri Lanka—on
 
 - 1.04.P6) Collaboration among the government, private sector, and non-governmental organizations
 
+#### Activities [1.04]
+
+##### 1.04.A01) NO-TITLE
+
+- 1.04.A01.01) Amending sports legislation.
+
+- 1.04.A01.02) Establishing a National Sports Commission mandated to develop a national policy ensuring standards and equity in sports.
+
+- 1.04.A01.03) Accelerating the implementation of the draft Constitution for Sri Lanka Cricket.
+
+- 1.04.A01.04) Investigating corruption and malpractice allegations within Sri Lanka Cricket and other sports administrative bodies.
+
+- 1.04.A01.05) Integrating sports and physical activities into public health policy.
+
+- 1.04.A01.06) Ensuring every school-aged child can participate in at least one sport.
+
+- 1.04.A01.07) Providing all government schools with sports teachers and coaches.
+
+- 1.04.A01.08) Identifying talented children at the school level and creating pathways for their advancement to the national level.
+
+- 1.04.A01.09) Equitably distributing necessary sports equipment and facilities to all schools through government intervention.
+
+- 1.04.A01.10) Developing specialized programs at the school and district levels to provide economic support, nutrition, and training for athletes with exceptional skills.
+
+- 1.04.A01.11) Establishing a network of modern sports schools across all provinces, centered around a National Sports Training School.
+
+- 1.04.A01.12) Expanding university degree programs to produce professionals for physical education with international-level expertise.
+
+- 1.04.A01.13) Establishing an International Center of Excellence for Sports Research.
+
+- 1.04.A01.14) Implementing a national certification and licensing program for coaches and management personnel, ensuring fair salaries and benefits
+
+- 1.04.A01.15) Providing training and resources for athletes with disabilities through experienced trainers, enabling them to compete internationally.
+
+- 1.04.A01.16) Offering special tax incentives for investors in sports and local sports equipment manufacturers.
+
+- 1.04.A01.17) Promoting sports-tourism industry.
+
+- 1.04.A01.18) Developing structured educational programs for sports media professionals.
+
+- 1.04.A01.19) Establishing mechanisms to eliminate all forms of fraud and corruption, including illegal drug use, match-fixing, and other malpractices.
+
+- 1.04.A01.20) Developing a strategic investment plan to support and upgrade sports and recreational facilities nationwide, ensuring proper regulation.
+
+- 1.04.A01.21) Developing and maintaining a national database of sports facilities.
+
+- 1.04.A01.22) Transforming politically controlled sports institutions into independent, well- developed bodies focused on clear sports-related goals.
+
+- 1.04.A01.23) Developing a unified sports training program from the grassroots to the national level.
+
+- 1.04.A01.24) Establishing modern sports complexes with residential facilities and access for people with disabilities in every province.
+
+- 1.04.A01.25) Constructing comprehensive sports grounds in each divisional secretariat.
+
+- 1.04.A01.26) Setting up 1,000 Community Physical Wellness Centers.
+
+- 1.04.A01.27) Establishing a National Sports Regulatory Authority.
+
+- 1.04.A01.28) Updating existing codes of conduct and sports laws.
+
+- 1.04.A01.29) Implementing a pension and insurance scheme for athletes, coaches, and technical officials registered in the National Sports Pool.
+
+- 1.04.A01.30) Developing sports as an industry through a coordinated approach between the state and private sector.
+
 ### 1.05) A rich cultural life - A compassionate society
 
 #### Introduction [1.05]
@@ -472,131 +536,163 @@ People’s Power movement aspires to create a new cultural individual or culture
 
 #### Activities [1.05]
 
-##### 1.05.A01) Literature
+##### 1.05.A01) NO-TITLE
 
-- 1.05.A01.01) Distributing critically acclaimed publications that are appreciated and recognized at a national level to school and public libraries.
+- 1.05.A01.01) Implementing an educational policy that highlights culture as a broad and dynamic domain.
 
-- 1.05.A01.02) Establishing well-developed libraries in every city and suburb to cultivate an active reading community.
+- 1.05.A01.02) Updating school curricula to modern standards, encompassing national and world literature, audiovisual media, drama, dance, visual arts, sculpture, photography, and lyrical literature.
 
-- 1.05.A01.03) Reviving a literary magazine culture dedicated to literary criticism and appreciation.
+- 1.05.A01.03) Recognizing the educational sector as the foundation for building a culturally aware society, and integrating arts and cultural subjects into the formal education system and providing systematic training for teachers to make these subjects more attractive and intellectually stimulating for students
 
-- 1.05.A01.04) Encouraging authors and publishers to organize national and regional book fairs and participate in prominent international book fairs.
+- 1.05.A01.04) Establishing a ‘National Fund’ for literature, cinema, drama, and other arts, supported continuously by both the government and the private sector.
 
-- 1.05.A01.05) Fostering a new generation of readers by organizing literary appreciation workshops for schoolteachers and students.
+- 1.05.A01.05) Using media and social networks to promote appreciation of the arts, and encouraging public discourse to create a culturally enriched society in the 21st century.
 
-- 1.05.A01.06) Promoting the translation of outstanding world literature into Sinhala and Tamil and supporting those involved in such translations.
+- 1.05.A01.06) Designing and implementing creative activities that engage youth with culture, thus fostering the development of a new cultural citizen.
 
-- 1.05.A01.07) Modernizing and reorganizing the National Archives by providing latest technological advancements.
+- 1.05.A01.07) Providing scholarships to eligible individuals and sending them to international institutions to acquire new knowledge and training in all fields of art.
 
-- 1.05.A01.08) Supporting the management of digital knowledge repositories for e-publications and digital libraries affiliated with educational and research centers.
+- 1.05.A01.08) Establishing cultural zones in every major city with institutions for arts and culture and launching programs to attract citizens to these zones continuously.
 
-- 1.05.A01.09) Establishing a research fund for the literary arts sector, systematically providing resources for research, and organizing annual international research sessions.
+- 1.05.A01.09) Enforcing a strong intellectual property law in line with World Intellectual Propery Organization to protect intellectual rights, including artists’ creative rights.
 
-##### 1.05.A02) Film and Tele Drama
+- 1.05.A01.10) Encouraging the translation of world literature and drama scripts into national languages and systematically securing international translation rights.
 
-- 1.05.A02.01) Reforming the National Film Corporation and establishing a National Film Institute.
+- 1.05.A01.11) Reviewing the weaknesses of current state award ceremonies for arts and organizing a comprehensive national awards ceremony that covers all fields of art.
 
-- 1.05.A02.02) Modernizing cinema halls with an organized plan and ensuring that each district has three cinemas.
+- 1.05.A01.12) Providing tax exemptions to various art sectors on selected materials and equipment, such as paper
 
-- 1.05.A02.03) Standardizing loans and other assistance for film and tele drama production.
+- 1.05.A01.13) Establishing a social security system for the well-being of retired art practitioners.
 
-- 1.05.A02.04) Ensuring fair and organized distribution of every cinematic work by following a systematic categorization .
+- 1.05.A01.14) Creating a database and comprehensive plan to make available physical resources such as conference halls, theaters, open-air stages, and other infrastructure to the arts and culture sectors.
 
-- 1.05.A02.05) Establishing a classification board for film and television works to standardize content.
+- 1.05.A01.15) Transforming cultural centres at the divisional secretariat level into multifunctional cultural hubs equipped with stages, training, lighting, and sound facilities and organizing cultural experiences like book readings, workshops, discussions, and exhibitions centred around these hubs.
 
-- 1.05.A02.06) Hosting an annual international film festival and supporting submissions to international festivals.
+##### 1.05.A02) Literature
 
-- 1.05.A02.07) Utilizing multi-purpose cultural centers to screen outstanding films and organizing discussions based on these screenings.
+- 1.05.A02.01) Distributing critically acclaimed publications that are appreciated and recognized at a national level to school and public libraries.
 
-- 1.05.A02.08) Establishing a National Film and Television Study Institute for emerging filmmakers and creating a National Film Archive.
+- 1.05.A02.02) Establishing well-developed libraries in every city and suburb to cultivate an active reading community.
 
-- 1.05.A02.09) Facilitating the reformation and integration of existing private film archives into a national archive network.
+- 1.05.A02.03) Reviving a literary magazine culture dedicated to literary criticism and appreciation.
 
-- 1.05.A02.10) Initiating film and television societies at the school level.
+- 1.05.A02.04) Encouraging authors and publishers to organize national and regional book fairs and participate in prominent international book fairs.
 
-- 1.05.A02.11) Updating intellectual property laws related to film and television in line with international standards.
+- 1.05.A02.05) Fostering a new generation of readers by organizing literary appreciation workshops for schoolteachers and students.
 
-- 1.05.A02.12) Organizing an annual short film and mobile cinema festival and creating programs to gain knowledge and experience from international festivals.
+- 1.05.A02.06) Promoting the translation of outstanding world literature into Sinhala and Tamil and supporting those involved in such translations.
 
-##### 1.05.A03) Theatre
+- 1.05.A02.07) Modernizing and reorganizing the National Archives by providing latest technological advancements.
 
-- 1.05.A03.01) Establishing a National Institute for Research and Training in contemporary theatre arts.
+- 1.05.A02.08) Supporting the management of digital knowledge repositories for e-publications and digital libraries affiliated with educational and research centers.
 
-- 1.05.A03.02) Maintaining a National Theatre Archive to systematically collect and preserve scripts, props, memorabilia, and recordings related to old and new theatre productions.
+- 1.05.A02.09) Establishing a research fund for the literary arts sector, systematically providing resources for research, and organizing annual international research sessions.
 
-- 1.05.A03.03) Organizing grants and tax relief for theatre production and exhibition.
+##### 1.05.A03) Film and Tele Drama
 
-- 1.05.A03.04) Creating a structured plan to promote theatre from the grassroots level to the national level through a network of multi-purpose cultural centers.
+- 1.05.A03.01) Reforming the National Film Corporation and establishing a National Film Institute.
 
-- 1.05.A03.05) Constructing modern theatres with full facilities in every major city and upgrading existing ones to be part of this network.
+- 1.05.A03.02) Modernizing cinema halls with an organized plan and ensuring that each district has three cinemas.
 
-- 1.05.A03.06) Promoting international scholarships related to theatre arts and organizing their distribution at regional and national levels.
+- 1.05.A03.03) Standardizing loans and other assistance for film and tele drama production.
 
-- 1.05.A03.07) Develop programs to enhance appreciation of theatre and promote the concept of open-air theatre spaces.
+- 1.05.A03.04) Ensuring fair and organized distribution of every cinematic work by following a systematic categorization .
 
-- 1.05.A03.08) Providing facilities for alternative theatre spaces.
+- 1.05.A03.05) Establishing a classification board for film and television works to standardize content.
 
-##### 1.05.A04) Dance
+- 1.05.A03.06) Hosting an annual international film festival and supporting submissions to international festivals.
 
-- 1.05.A04.01) Involving dance institutions, traditional dance schools and teachers, and veterans in the reform process of dance education.
+- 1.05.A03.07) Utilizing multi-purpose cultural centers to screen outstanding films and organizing discussions based on these screenings.
 
-- 1.05.A04.02) Establishing a National Institute dedicated to the preservation and promotion of dance and integrating it with multi-purpose cultural centres.
+- 1.05.A03.08) Establishing a National Film and Television Study Institute for emerging filmmakers and creating a National Film Archive.
 
-- 1.05.A04.03) Promote research on Sri Lankan folk dances and direct research towards international studies.
+- 1.05.A03.09) Facilitating the reformation and integration of existing private film archives into a national archive network.
 
-- 1.05.A04.04) Encouraging traditional dance forms
+- 1.05.A03.10) Initiating film and television societies at the school level.
 
-- 1.05.A04.05) Building a network of registered dance institutions.
+- 1.05.A03.11) Updating intellectual property laws related to film and television in line with international standards.
 
-- 1.05.A04.06) Facilitating international study opportunities related to dance and organizing scholarships.
+- 1.05.A03.12) Organizing an annual short film and mobile cinema festival and creating programs to gain knowledge and experience from international festivals.
 
-- 1.05.A04.07) Identifying and promoting talented dancers from the rural level to the international stage.
+##### 1.05.A04) Theatre
 
-- 1.05.A04.08) Printing trilingual academic texts on dance and encouraging international knowledge translation into Sinhala and Tamil.
+- 1.05.A04.01) Establishing a National Institute for Research and Training in contemporary theatre arts.
 
-- 1.05.A04.09) Providing facilities for the study, research, and preservation of both contemporary and traditional dance forms.
+- 1.05.A04.02) Maintaining a National Theatre Archive to systematically collect and preserve scripts, props, memorabilia, and recordings related to old and new theatre productions.
 
-##### 1.05.A05) Visual Arts, Sculpture, and Photography
+- 1.05.A04.03) Organizing grants and tax relief for theatre production and exhibition.
 
-- 1.05.A05.01) Establishing a National Institute to oversee the preservation, study, and national and international research of past and present visual arts and photography.
+- 1.05.A04.04) Creating a structured plan to promote theatre from the grassroots level to the national level through a network of multi-purpose cultural centers.
 
-- 1.05.A05.02) Facilitating participation in international conferences and exhibitions for artists.
+- 1.05.A04.05) Constructing modern theatres with full facilities in every major city and upgrading existing ones to be part of this network.
 
-- 1.05.A05.03) Setting up regional training centers and guiding these spaces towards professional opportunities.
+- 1.05.A04.06) Promoting international scholarships related to theatre arts and organizing their distribution at regional and national levels.
 
-- 1.05.A05.04) Promoting national and international markets for the visual arts and integrating them with the tourism industry. Establishing art societies from the school level and organizing competitions.
+- 1.05.A04.07) Develop programs to enhance appreciation of theatre and promote the concept of open-air theatre spaces.
 
-##### 1.05.A06) Music and Song
+- 1.05.A04.08) Providing facilities for alternative theatre spaces.
 
-- 1.05.A06.01) Establishing a National Institute for the preservation and promotion of musical traditions.
+##### 1.05.A05) Dance
 
-- 1.05.A06.02) Promoting and preserving research on Sri Lankan folk music.
+- 1.05.A05.01) Involving dance institutions, traditional dance schools and teachers, and veterans in the reform process of dance education.
 
-- 1.05.A06.03) Providing opportunities for the systematic study and research of preserved knowledge.
+- 1.05.A05.02) Establishing a National Institute dedicated to the preservation and promotion of dance and integrating it with multi-purpose cultural centres.
 
-- 1.05.A06.04) Building a network of registered music institutions.
+- 1.05.A05.03) Promote research on Sri Lankan folk dances and direct research towards international studies.
 
-- 1.05.A06.05) Revising and updating intellectual property laws related to music and song creation.
+- 1.05.A05.04) Encouraging traditional dance forms
 
-- 1.05.A06.06) Facilitating international study and research opportunities in music and organizing scholarships.
+- 1.05.A05.05) Building a network of registered dance institutions.
 
-- 1.05.A06.07) Maintaining a digital unit for preserving the original copies of every recorded song and musical creation.
+- 1.05.A05.06) Facilitating international study opportunities related to dance and organizing scholarships.
 
-- 1.05.A06.08) Securing the intellectual property rights of authors and composers by obtaining membership in collective management organizations in the music sector.
+- 1.05.A05.07) Identifying and promoting talented dancers from the rural level to the international stage.
 
-##### 1.05.A07) Intangible Cultural Heritage and Traditional Arts
+- 1.05.A05.08) Printing trilingual academic texts on dance and encouraging international knowledge translation into Sinhala and Tamil.
 
-- 1.05.A07.01) Establishing a National Research Institute for intangible heritage and traditional arts, identifying and preserving existing heritage.
+- 1.05.A05.09) Providing facilities for the study, research, and preservation of both contemporary and traditional dance forms.
 
-- 1.05.A07.02) Reforming and promoting regional knowledge, tools, gurukula, traditions, and human resources continuously from the regional level to the national and international levels.
+##### 1.05.A06) Visual Arts, Sculpture, and Photography
 
-- 1.05.A07.03) Developing programs to integrate tourism with this sector, to ensure that cultural heritage becomes a significant part of the tourism industry.
+- 1.05.A06.01) Establishing a National Institute to oversee the preservation, study, and national and international research of past and present visual arts and photography.
 
-- 1.05.A07.04) Promoting sub-sectors related to intangible heritage, such as traditional medicine, production of eco-friendly products, entertainment industries, and mental wellness promotion.
+- 1.05.A06.02) Facilitating participation in international conferences and exhibitions for artists.
 
-- 1.05.A07.05) Fostering relationships with international universities and research institutions related to this field and facilitating postgraduate studies.
+- 1.05.A06.03) Setting up regional training centers and guiding these spaces towards professional opportunities.
 
-- 1.05.A07.06) Identifying, networking, and updating traditional artists, gurukuls, and craft institutions to ensure their continued relevance and vitality.
+- 1.05.A06.04) Promoting national and international markets for the visual arts and integrating them with the tourism industry. Establishing art societies from the school level and organizing competitions.
+
+##### 1.05.A07) Music and Song
+
+- 1.05.A07.01) Establishing a National Institute for the preservation and promotion of musical traditions.
+
+- 1.05.A07.02) Promoting and preserving research on Sri Lankan folk music.
+
+- 1.05.A07.03) Providing opportunities for the systematic study and research of preserved knowledge.
+
+- 1.05.A07.04) Building a network of registered music institutions.
+
+- 1.05.A07.05) Revising and updating intellectual property laws related to music and song creation.
+
+- 1.05.A07.06) Facilitating international study and research opportunities in music and organizing scholarships.
+
+- 1.05.A07.07) Maintaining a digital unit for preserving the original copies of every recorded song and musical creation.
+
+- 1.05.A07.08) Securing the intellectual property rights of authors and composers by obtaining membership in collective management organizations in the music sector.
+
+##### 1.05.A08) Intangible Cultural Heritage and Traditional Arts
+
+- 1.05.A08.01) Establishing a National Research Institute for intangible heritage and traditional arts, identifying and preserving existing heritage.
+
+- 1.05.A08.02) Reforming and promoting regional knowledge, tools, gurukula, traditions, and human resources continuously from the regional level to the national and international levels.
+
+- 1.05.A08.03) Developing programs to integrate tourism with this sector, to ensure that cultural heritage becomes a significant part of the tourism industry.
+
+- 1.05.A08.04) Promoting sub-sectors related to intangible heritage, such as traditional medicine, production of eco-friendly products, entertainment industries, and mental wellness promotion.
+
+- 1.05.A08.05) Fostering relationships with international universities and research institutions related to this field and facilitating postgraduate studies.
+
+- 1.05.A08.06) Identifying, networking, and updating traditional artists, gurukuls, and craft institutions to ensure their continued relevance and vitality.
 
 ### 1.06) A conserved history - Innovating across heritage
 
@@ -856,7 +952,39 @@ The NPP is committed to preventing the deliberate and strategic misuse of mass m
 
 #### Activities [1.08]
 
-##### 1.08.A01) 02. An honourable life A safe country
+##### 1.08.A01) NO-TITLE
+
+- 1.08.A01.01) Facilitating university journalism units and other rating institutions in streamlining the mass media rating system based on the quality and popularity of news and programs.
+
+- 1.08.A01.02) Amending the 2024 No. 09 Online Safety Act by removing restrictions on freedom of expression.
+
+- 1.08.A01.03) Introducing new rating criteria, including language use, promotion of intercultural and interethnic harmony, education, and science promotion, and making these ratings publicly available.
+
+- 1.08.A01.04) Reviewing existing media laws, regulations, agreements, and ethics with a focus on media freedom to develop an optimal media policy.
+
+- 1.08.A01.05) Introducing a code of ethics for media institutions and journalists that aligns with international standards and local social contexts.
+
+- 1.08.A01.06) Introducing programs to foster free and healthy competition in media by evaluating newspapers, radio and TV channels, media personnel, programs, articles, and photographs.
+
+- 1.08.A01.07) Organizing an awards ceremony to recognize media professionals across all sectors.
+
+- 1.08.A01.08) Providing low-interest loans to journalists for purchasing essential equipment, such as cameras.
+
+- 1.08.A01.09) Guiding state media institutions in upholding high standards of media ethics and excellence.
+
+- 1.08.A01.10) Promoting media development, communication, and education programs to the public.
+
+- 1.08.A01.11) Supporting artists and producers in achieving international recognition in fields such as cinema, television, and music.
+
+- 1.08.A01.12) Encouraging local companies and producers to create high-quality advertisements and promotional programs and enter international markets.
+
+- 1.08.A01.13) Implementing a systematic archival process for media creators and their works.
+
+- 1.08.A01.14) Promoting media literacy programs to foster an informed audience.
+
+- 1.08.A01.15) Establishing an independent media commission to oversee the optimal functioning of journalism process.  
+
+##### 1.08.A02) 02. An honourable life A safe country
 
 ## 2) An honourable life - A safer country
 
@@ -1014,15 +1142,57 @@ However, in modern society, the status and importance that should be accorded to
 
 #### Activities [2.02]
 
-##### 2.02.A01) Unemployed graduates:
+##### 2.02.A01) NO-TITLE
 
-- 2.02.A01.01) Graduates who have been unemployed for a long period will be employed as follows. Thereafter, a mechanism will be developed to create new job opportunities for graduates as the economy expands.
+- 2.02.A01.01) Formulation and implementation of a labor policy.
 
-- 2.02.A01.02) 20,000 to the teaching profession.
+- 2.02.A01.02) Resolving issues within service contracts and amending them accordingly.
 
-- 2.02.A01.03) 3,000 STEM graduates and 9,000 non-STEM graduates to the information technology sector.
+- 2.02.A01.03) Updating and introducing new laws and regulations for an efficient labor force.
 
-- 2.02.A01.04) Another 3,000 to the Inland Revenue Department, Customs Department, Foreign Service, and tourism industry.
+- 2.02.A01.04) Incorporation of vocational education extending up to the degree level in the school curriculum.
+
+- 2.02.A01.05) Establishment of a national salary structure that minimizes wage disparities and motivates employees.
+
+- 2.02.A01.06) Ensuring non-discriminatory selection and equal opportunities for all in job opportunities.
+
+- 2.02.A01.07) A health/life insurance scheme covering all levels of workers in the private sector.
+
+- 2.02.A01.08) Eliminating disparities in the current pension schemes.
+
+- 2.02.A01.09) Creation of a social security fund that covers all workers.
+
+- 2.02.A01.10) Removal of obstacles preventing women from effectively engaging in executive and managerial roles.
+
+- 2.02.A01.11) Providing opportunities for women and people with disabilities, who face difficulties or lack interest in entering the job market, to work according to their preferences.
+
+- 2.02.A01.12) Gradual reduction of working hours with the help of modern technology and creating more opportunities to work from home.
+
+- 2.02.A01.13) Recruitment, promotions, and transfers in the public sector based on qualifications and skills without political interference.
+
+- 2.02.A01.14) Necessary measures to send skilled and trained workers abroad instead of untrained workers.
+
+- 2.02.A01.15) Interim allowances for those unable to enter the labor force due to special reasons.
+
+- 2.02.A01.16) A maximum of one year of leave with 25% of the basic salary for those taking care of children under the age of 5 or those taking care of sick parents over the age of 
+
+- 2.02.A01.17) Two weeks of leave in the event of a spouse’s death.
+
+- 2.02.A01.18) Strengthening of gratuity insurance benefits (AGRAHARA).
+
+- 2.02.A01.19) Amendment of the PAYE tax
+
+- 2.02.A01.20) Ensure fair salaries and job security of Manpower workers
+
+##### 2.02.A02) Unemployed graduates:
+
+- 2.02.A02.01) Graduates who have been unemployed for a long period will be employed as follows. Thereafter, a mechanism will be developed to create new job opportunities for graduates as the economy expands.
+
+- 2.02.A02.02) 20,000 to the teaching profession.
+
+- 2.02.A02.03) 3,000 STEM graduates and 9,000 non-STEM graduates to the information technology sector.
+
+- 2.02.A02.04) Another 3,000 to the Inland Revenue Department, Customs Department, Foreign Service, and tourism industry.
 
 ### 2.03) Impartial human identity - Gender equality in social-life
 
@@ -1056,6 +1226,50 @@ Gender identities and sexual orientations are diverse. However, in Sri Lanka, th
 
 - 2.03.P9) Domestic laws with the standards set by the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) and the Convention on the Rights of the Child (CRC).
 
+#### Activities [2.03]
+
+##### 2.03.A01) NO-TITLE
+
+- 2.03.A01.01) Identifying and addressing gender pay gap in the workforce.
+
+- 2.03.A01.02) Tackling legal and practical obstacles that adversely affect women’s land rights.
+
+- 2.03.A01.03) Revising existing labor laws and introduce new regulations to address specific challenges faced by working women and ensure job security.
+
+- 2.03.A01.04) Taking measures to alleviate the burden of predatory microfinance loans with high interest rates on women.
+
+- 2.03.A01.05) Enhancing the access to banking and financial services to support women’s entrepreneurship.
+
+- 2.03.A01.06) Institutionalizing national labor force surveys to recognize and account for unpaid care work, including childcare, elderly care, and support for the people with disabilities.
+
+- 2.03.A01.07) Reducing the burden of unpaid care work on women
+
+- 2.03.A01.08) Increasing women’s political participation through political education and organizing.
+
+- 2.03.A01.09) Enacting laws and policies to ensure at least 50% representation of women gradually, in political institutions.
+
+- 2.03.A01.10) Improving education, healthcare, transportation, and other public services to ease the challenges faced by women.
+
+- 2.03.A01.11) Implementing the Law Commission’s 2012 recommendations to ensure safe termination of pregnancy.
+
+- 2.03.A01.12) Offering comprehensive sexual and reproductive health education and services tailored to all age groups.
+
+- 2.03.A01.13) Combating period poverty by providing women and girls tax relief, financial support, and other essential resources.
+
+- 2.03.A01.14) Revising laws and procedures to guarantee protection from gender-based violence and harassment in workplaces, public transport, and other places.
+
+- 2.03.A01.15) Revising discriminatory laws, including panel code 365 and 365 (a) that oppress women, children and other marginalized groups.
+
+- 2.03.A01.16) Expanding constitutional protections to ensure no discrimination based on gender identity or sexual orientation.
+
+- 2.03.A01.17) Increasing access to state services, including healthcare, legal assistance, social protection, and justice for the LGBTIQ+ communities.
+
+- 2.03.A01.18) Implementing legal and institutional reforms in relevant bodies, such as the Human Rights Commission and Legal Aid Commission, to safeguard the rights of marginalized groups.
+
+- 2.03.A01.19) Developing a code of conduct and establish standards for state officials, including law enforcement, on interacting with gender identity groups.
+
+- 2.03.A01.20) Creating a dedicated secretariat to protect the rights of marginalized groups.
+
 ### 2.04) A safer world for children - A creative future generation
 
 #### Introduction [2.04]
@@ -1079,6 +1293,40 @@ The absence of a well-organized and adequate human and physically resourceful so
 - 2.04.P3) The well-being and development of all children.
 
 - 2.04.P4) Protection of children from abuse and all forms of violence.
+
+#### Activities [2.04]
+
+##### 2.04.A01) NO-TITLE
+
+- 2.04.A01.01) R eviewing, amending, or repealing outdated laws such as the Children and Young Persons Ordinance, Adoption of Children Ordinance, Vagrants Ordinance, and Orphanages Ordinance.
+
+- 2.04.A01.02) Establishing specialized high courts dedicated solely to handling cases involving children
+
+- 2.04.A01.03) Setting up a more efficient mechanism for collecting child victims’ testimonies and improving the current investigative process to minimize their re-victimization.
+
+- 2.04.A01.04) Direct children accused of minor offenses to intervention and community-based rehabilitation programs instead of the court system.
+
+- 2.04.A01.05) Providing family-based care and support to identify at-risk children and prevent unnecessary separation from their families.
+
+- 2.04.A01.06) Implementing a child-friendly transportation system to ensure safe and dignified transportation of children for legal purposes.
+
+- 2.04.A01.07) Streamlining coordination between the National Child Protection Authority and agencies such as Probation and Child Protection Services and capacity building of those agencies.
+
+- 2.04.A01.08) Establishing an efficient and responsive service for reporting child abuse incidents and ensuring proper follow-up.
+
+- 2.04.A01.09) Increasing budgetary allocation to critical areas, including education, health, social services and other essential child welfare sectors with a special focus on marginalised and vulnerable groups.
+
+- 2.04.A01.10) Implementing community, family, and school-based cooperative programs with the support of international and local organizations to improve overall child health, including providing nutritious food.
+
+- 2.04.A01.11) Train field officers related to child affairs in Divisional Secretariats and direct them to provide direct services to families whose children are at risk.
+
+- 2.04.A01.12) Establish a robust mechanism for early identification and intervention of at-risk children, including children with disabilities, street children and out-of-school children.
+
+- 2.04.A01.13) Educational reforms in line with international standards aimed at fostering life skills and knowledge in a child-friendly educational environment.
+
+- 2.04.A01.14) Broad reforms to the foster care system to ensure that every child in need of alternative care receives care and stability in family-based environments.
+
+- 2.04.A01.15) School and community-based programs for early detection and prevention of psych osocial and mental health issues in children.
 
 ### 2.05) A contented youth - Cultured, independent thinkers
 

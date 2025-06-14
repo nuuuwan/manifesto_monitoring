@@ -9,6 +9,8 @@ class Activity:
     title: str
     activity_items: list[str]
 
+    NO_TITLE = "NO-TITLE"
+
     def to_dense_dict(self):
         return {self.title: self.activity_items}
 

@@ -39,9 +39,13 @@ class ActivityList:
 
     @staticmethod
     def __parse_activity_line__(line: str, activities) -> str:
-
         is_bullet = line[:2] == "■ "
         line = line[2:].strip() if is_bullet else line
+
+        if not activities:
+            if is_bullet:
+                activities[Activity.NO_TITLE] = [line]
+            return activities
 
         last_activity = list(activities.keys())[-1]
         if is_bullet:
@@ -71,9 +75,6 @@ class ActivityList:
                         del activities[last_key]
                 else:
                     activities[line] = []
-                continue
-
-            if not activities:
                 continue
 
             activities = ActivityList.__parse_activity_line__(
