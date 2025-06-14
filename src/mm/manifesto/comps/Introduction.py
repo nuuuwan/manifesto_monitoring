@@ -6,7 +6,7 @@ class Introduction:
     introduction_lines: list[str]
 
     @staticmethod
-    def from_lines(lines: list[str]) -> list[str]:
+    def __get_introduction_lines__(lines: list[str]) -> list[str]:
         introduction_lines = []
         has_started = False
         for line in lines:
@@ -18,16 +18,28 @@ class Introduction:
             if line.endswith("Principles"):
                 break
 
-            introduction_lines.append(line)
+            introduction_lines.append(line.strip())
+        return introduction_lines
 
-        compressed_introdiction_lines = []
-        for line in introduction_lines:
+    @staticmethod
+    def __compress_introduction_lines__(lines: list[str]) -> list[str]:
+        compressed_lines = []
+        for line in lines:
             if not line:
                 continue
             if not line[0].isupper():
-                compressed_introdiction_lines[-1] += " " + line.strip()
+                compressed_lines[-1] += " " + line.strip()
             else:
-                compressed_introdiction_lines.append(line.strip())
+                compressed_lines.append(line.strip())
+        return compressed_lines
+
+    @staticmethod
+    def from_lines(lines: list[str]) -> list[str]:
+        introduction_lines = Introduction.__get_introduction_lines__(lines)
+
+        compressed_introdiction_lines = (
+            Introduction.__compress_introduction_lines__(introduction_lines)
+        )
 
         return Introduction(compressed_introdiction_lines)
 
