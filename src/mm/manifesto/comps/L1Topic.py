@@ -11,6 +11,10 @@ class L1Topic:
     title: str
     l2_topics: list[L2Topic]
 
+    @cached_property
+    def key(self):
+        return f"{self.l1_num:01d}"
+
     @staticmethod
     def from_line(line):
         pattern = r"^(?:(\d+)\s+)?(\d+)\.\s+(.*)$"
@@ -26,10 +30,11 @@ class L1Topic:
 
     @cached_property
     def short_title(self):
-        return f"{self.l1_num}) {self.title}"
+        return f"{self.key}) {self.title}"
 
     def to_dict(self):
         return {
+            "key": self.key,
             "l1_num": self.l1_num,
             "title": self.title,
             "n_l2_topics": len(self.l2_topics),

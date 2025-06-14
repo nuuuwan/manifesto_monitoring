@@ -48,8 +48,12 @@ class L2Topic:
         )
 
     @cached_property
+    def key(self):
+        return f"{self.l1_num:01d}.{self.l2_num:02d}"
+
+    @cached_property
     def short_title(self):
-        return f"{self.l1_num:01d}.{self.l2_num:02d}) {self.title}"
+        return f"{self.key}) {self.title}"
 
     def to_dense_dict(self):
         return self.activity_list.to_dense_dict()
