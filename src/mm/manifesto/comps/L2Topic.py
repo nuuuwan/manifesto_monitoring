@@ -6,7 +6,7 @@ from utils import Log
 
 from mm.manifesto.comps.ActivityList import ActivityList
 from mm.manifesto.comps.Introduction import Introduction
-from mm.manifesto.comps.Principles import Principles
+from mm.manifesto.comps.PrincipleList import PrincipleList
 
 log = Log("L2Topic")
 
@@ -17,12 +17,12 @@ class L2Topic:
     l2_num: int
     title: str
     introduction: Introduction
-    principles: Principles
+    principles: PrincipleList
     activity_list: ActivityList
 
     def expand_fields_from_lines(self, lines: list[str]) -> "L2Topic":
         self.introduction = Introduction.from_lines(lines)
-        self.principles = Principles.from_lines(
+        self.principles = PrincipleList.from_lines(
             lines, l1_num=self.l1_num, l2_num=self.l2_num
         )
         self.activity_list = ActivityList.from_lines(

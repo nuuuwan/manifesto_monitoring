@@ -1,4 +1,5 @@
 # mm (auto generate by build_inits.py)
+# flake8: noqa: F408
 
 from mm.manifesto import (
     NPPManifesto,
@@ -10,9 +11,10 @@ from mm.manifesto import (
 
 from mm.manifesto import (
     ActivityList,
+    Principle,
     Activity,
     L1Topic,
-    Principles,
     Introduction,
+    PrincipleList,
     L2Topic,
 )

@@ -18,17 +18,17 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 #### Principles
 
-- 1.01.P1) Free education and equal access
+- 1.01.1) Free education and equal access
 
-- 1.01.P2) Relevance to human development and employment
+- 1.01.2) Relevance to human development and employment
 
-- 1.01.P3) Acceptability for all
+- 1.01.3) Acceptability for all
 
-- 1.01.P4) Responsible citizens accountable to society
+- 1.01.4) Responsible citizens accountable to society
 
-- 1.01.P5) Sustainability and innovation
+- 1.01.5) Sustainability and innovation
 
-- 1.01.P6) Lifelong learning
+- 1.01.6) Lifelong learning
 
 #### Activities
 
@@ -236,15 +236,15 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 #### Principles
 
-- 1.02.P1) The right of individuals to receive the benefits of the health care system with respect and dignity.
+- 1.02.1) The right of individuals to receive the benefits of the health care system with respect and dignity.
 
-- 1.02.P2) The state’s responsibility to provide disease prevention and treatment health services to citizens without discrimination.
+- 1.02.2) The state’s responsibility to provide disease prevention and treatment health services to citizens without discrimination.
 
-- 1.02.P3) Promotion of health, disease prevention, and preventive health care.
+- 1.02.3) Promotion of health, disease prevention, and preventive health care.
 
-- 1.02.P4) Health services that meet global standards.
+- 1.02.4) Health services that meet global standards.
 
-- 1.02.P5) Protection of patients’ rights and safety.
+- 1.02.5) Protection of patients’ rights and safety.
 
 #### Activities
 
@@ -370,11 +370,11 @@ Our goal is to construct multi-story housing complexes wherever possible, effici
 
 #### Principles
 
-- 1.03.P1) A healthy home for every individual
+- 1.03.1) A healthy home for every individual
 
-- 1.03.P2) Effective land management
+- 1.03.2) Effective land management
 
-- 1.03.P3) Comprehensive housing projects
+- 1.03.3) Comprehensive housing projects
 
 #### Activities
 
@@ -396,17 +396,17 @@ Despite the immense potential that sports offer to a country like Sri Lanka—on
 
 #### Principles
 
-- 1.04.P1) Participatio n, discipline, confidence, and competitiveness
+- 1.04.1) Participatio n, discipline, confidence, and competitiveness
 
-- 1.04.P2) Professionalism and excellence at the international level
+- 1.04.2) Professionalism and excellence at the international level
 
-- 1.04.P3) Sufficient infrastructure
+- 1.04.3) Sufficient infrastructure
 
-- 1.04.P4) Equitable access
+- 1.04.4) Equitable access
 
-- 1.04.P5) International cooperation
+- 1.04.5) International cooperation
 
-- 1.04.P6) Collaboration among the government, private sector, and non-governmental organizations
+- 1.04.6) Collaboration among the government, private sector, and non-governmental organizations
 
 #### Activities
 
@@ -426,19 +426,19 @@ People’s Power movement aspires to create a new cultural individual or culture
 
 #### Principles
 
-- 1.05.P1) The right to preserve and develop the cultural identity of every community
+- 1.05.1) The right to preserve and develop the cultural identity of every community
 
-- 1.05.P2) The right of every community and individual to intervene in the development of culture
+- 1.05.2) The right of every community and individual to intervene in the development of culture
 
-- 1.05.P3) Intercultural enrichment and evolution.
+- 1.05.3) Intercultural enrichment and evolution.
 
-- 1.05.P4) The development of a compassionate individual with intellectual, spiritual, and aesthetic capacities with both local and global cultural knowledge.
+- 1.05.4) The development of a compassionate individual with intellectual, spiritual, and aesthetic capacities with both local and global cultural knowledge.
 
-- 1.05.P5) Acceptance of cultural diversity and cultural critique.
+- 1.05.5) Acceptance of cultural diversity and cultural critique.
 
-- 1.05.P6) Cultural products free from political interference.
+- 1.05.6) Cultural products free from political interference.
 
-- 1.05.P7) Government support in fostering a culturally enriched society
+- 1.05.7) Government support in fostering a culturally enriched society
 
 #### Activities
 
@@ -578,11 +578,11 @@ Lanka’s rich heritage in a sustainable and comprehensive manner for developmen
 
 #### Principles
 
-- 1.06.P1) Protection of Cultural Resources
+- 1.06.1) Protection of Cultural Resources
 
-- 1.06.P2) Value of Cultural Heritage and History
+- 1.06.2) Value of Cultural Heritage and History
 
-- 1.06.P3) Social Innovation
+- 1.06.3) Social Innovation
 
 #### Activities
 
@@ -624,25 +624,25 @@ The environmental policy of the NPP with the vision of “a sustainable environm
 
 #### Principles
 
-- 1.07.P1) Environmental justice and fairness
+- 1.07.1) Environmental justice and fairness
 
-- 1.07.P2) Balance between environment and development
+- 1.07.2) Balance between environment and development
 
-- 1.07.P3) Sustainable use of resources and precautionary approach
+- 1.07.3) Sustainable use of resources and precautionary approach
 
-- 1.07.P4) Ecosystem approach
+- 1.07.4) Ecosystem approach
 
-- 1.07.P5) Institutional coordination and public participation
+- 1.07.5) Institutional coordination and public participation
 
-- 1.07.P6) Polluter pays principle
+- 1.07.6) Polluter pays principle
 
-- 1.07.P7) Environmental good governance
+- 1.07.7) Environmental good governance
 
-- 1.07.P8) Community empowerment
+- 1.07.8) Community empowerment
 
-- 1.07.P9) Environmental protection
+- 1.07.9) Environmental protection
 
-- 1.07.P10) Cleaner production
+- 1.07.10) Cleaner production
 
 #### Activities
 
@@ -818,13 +818,13 @@ The NPP is committed to preventing the deliberate and strategic misuse of mass m
 
 #### Principles
 
-- 1.08.P1) The right of people to access truthful and accurate information
+- 1.08.1) The right of people to access truthful and accurate information
 
-- 1.08.P2) A media industry that is responsible and humanistic
+- 1.08.2) A media industry that is responsible and humanistic
 
-- 1.08.P3) Freedom and independence of the media
+- 1.08.3) Freedom and independence of the media
 
-- 1.08.P4) The media as a public asset
+- 1.08.4) The media as a public asset
 
 #### Activities
 
@@ -848,19 +848,19 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 #### Principles
 
-- 2.01.P1) Social solidarity
+- 2.01.1) Social solidarity
 
-- 2.01.P2) Social empowerment
+- 2.01.2) Social empowerment
 
-- 2.01.P3) Financial grants to those in need
+- 2.01.3) Financial grants to those in need
 
-- 2.01.P4) Inter-ministerial coordination
+- 2.01.4) Inter-ministerial coordination
 
-- 2.01.P5) Life cycle based social protection for all
+- 2.01.5) Life cycle based social protection for all
 
-- 2.01.P6) Ensuring social justice and leaving no one behind
+- 2.01.6) Ensuring social justice and leaving no one behind
 
-- 2.01.P7) Efficient and meaningful participation of beneficiaries and all relevant stakeholders in the selection of beneficiaries
+- 2.01.7) Efficient and meaningful participation of beneficiaries and all relevant stakeholders in the selection of beneficiaries
 
 #### Activities
 
@@ -976,11 +976,11 @@ However, in modern society, the status and importance that should be accorded to
 
 #### Principles
 
-- 2.02.P1) Protection of the dignity and the value of labor
+- 2.02.1) Protection of the dignity and the value of labor
 
-- 2.02.P2) Equal treatment and diversity in labor
+- 2.02.2) Equal treatment and diversity in labor
 
-- 2.02.P3) Equal opportunities that are not subject to discrimination
+- 2.02.3) Equal opportunities that are not subject to discrimination
 
 #### Activities
 
@@ -1006,23 +1006,23 @@ Gender identities and sexual orientations are diverse. However, in Sri Lanka, th
 
 #### Principles
 
-- 2.03.P1) Economic justice as a cornerstone for achieving gender equality.
+- 2.03.1) Economic justice as a cornerstone for achieving gender equality.
 
-- 2.03.P2) State policies acknowledging the value of unpaid care work within the national economy. 44■ Legislation that ensures fair and equal treatment for all marginalized groups.
+- 2.03.2) State policies acknowledging the value of unpaid care work within the national economy. 44■ Legislation that ensures fair and equal treatment for all marginalized groups.
 
-- 2.03.P3) Enhanced women’s political representation, participation, and roles in society.
+- 2.03.3) Enhanced women’s political representation, participation, and roles in society.
 
-- 2.03.P4) Condemning all forms of violence, including systemic violence, across all settings.
+- 2.03.4) Condemning all forms of violence, including systemic violence, across all settings.
 
-- 2.03.P5) Prioritized public services in policy development to alleviate the pressures on women.
+- 2.03.5) Prioritized public services in policy development to alleviate the pressures on women.
 
-- 2.03.P6) Women’s involvement in creating sustainable environmental conservation strategies.
+- 2.03.6) Women’s involvement in creating sustainable environmental conservation strategies.
 
-- 2.03.P7) A society free from regressive stereotypes perpetuated by social institutions and practices.
+- 2.03.7) A society free from regressive stereotypes perpetuated by social institutions and practices.
 
-- 2.03.P8) Equal access to state services, rights, and justice for all identity groups, including women.
+- 2.03.8) Equal access to state services, rights, and justice for all identity groups, including women.
 
-- 2.03.P9) Domestic laws with the standards set by the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) and the Convention on the Rights of the Child (CRC).
+- 2.03.9) Domestic laws with the standards set by the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) and the Convention on the Rights of the Child (CRC).
 
 #### Activities
 
@@ -1042,13 +1042,13 @@ The absence of a well-organized and adequate human and physically resourceful so
 
 #### Principles
 
-- 2.04.P1) A legal system aligned with international conventions like the UNCRC (United Nations Convention on the Rights of the Child) that ensures freedom and safety for children.
+- 2.04.1) A legal system aligned with international conventions like the UNCRC (United Nations Convention on the Rights of the Child) that ensures freedom and safety for children.
 
-- 2.04.P2) Proper care and nutrition for children.
+- 2.04.2) Proper care and nutrition for children.
 
-- 2.04.P3) The well-being and development of all children.
+- 2.04.3) The well-being and development of all children.
 
-- 2.04.P4) Protection of children from abuse and all forms of violence.
+- 2.04.4) Protection of children from abuse and all forms of violence.
 
 #### Activities
 
@@ -1062,95 +1062,95 @@ Contributing factors to this discontent include limited educational opportunitie
 
 #### Principles
 
-- 2.05.P1) Youth who are actively involved in the economic process
+- 2.05.1) Youth who are actively involved in the economic process
 
-- 2.05.P2) Freedom from oppression, exploitation, and discriminatory practices
+- 2.05.2) Freedom from oppression, exploitation, and discriminatory practices
 
-- 2.05.P3) Contribution to social development
+- 2.05.3) Contribution to social development
 
-- 2.05.P4) Advancement of science and modern technology, with a desire to overcome societal challenges
+- 2.05.4) Advancement of science and modern technology, with a desire to overcome societal challenges
 
-- 2.05.P5) Youth capable of providing leadership in political, social, and economic processes
+- 2.05.5) Youth capable of providing leadership in political, social, and economic processes
 
-- 2.05.P6) A vibrant cultural life and independent thinking
+- 2.05.6) A vibrant cultural life and independent thinking
 
-- 2.05.P7) A skilled youth capable of assuming national and international leadership
+- 2.05.7) A skilled youth capable of assuming national and international leadership
 
-- 2.05.P8) Youth who stands against social injustice 48ACTIONS A Flourishing Youth
+- 2.05.8) Youth who stands against social injustice 48ACTIONS A Flourishing Youth
 
-- 2.05.P9) Protecting the right of young people to secure suitable employment by the State.
+- 2.05.9) Protecting the right of young people to secure suitable employment by the State.
 
-- 2.05.P10) Establishing a database to collect information on unemployed youth, setting up a job bank for placements, and managing the process through an online platform, to reduce unemployment systematically.
+- 2.05.10) Establishing a database to collect information on unemployed youth, setting up a job bank for placements, and managing the process through an online platform, to reduce unemployment systematically.
 
-- 2.05.P11) Review the current competitive examination system for government employments and update the selection process.
+- 2.05.11) Review the current competitive examination system for government employments and update the selection process.
 
-- 2.05.P12) Providing vocational and technical education for youth who have passed A/L examinations but could not gain admission to state universities.
+- 2.05.12) Providing vocational and technical education for youth who have passed A/L examinations but could not gain admission to state universities.
 
-- 2.05.P13) Facilitating financial support for entrepreneurial development through proposed Development Banks.
+- 2.05.13) Facilitating financial support for entrepreneurial development through proposed Development Banks.
 
-- 2.05.P14) Facilitating unemployed youth with special skills by providing initial capital to develop entrepreneurship and find suitable markets.
+- 2.05.14) Facilitating unemployed youth with special skills by providing initial capital to develop entrepreneurship and find suitable markets.
 
-- 2.05.P15) Using We for the Renaissance (V4R) digital platform to facilitate the transformation of new ideas and concepts into marketable products, encouraging young innovators.
+- 2.05.15) Using We for the Renaissance (V4R) digital platform to facilitate the transformation of new ideas and concepts into marketable products, encouraging young innovators.
 
-- 2.05.P16) Enabling young people to acquire the necessary technical skills and resources to participate in the global online job market
+- 2.05.16) Enabling young people to acquire the necessary technical skills and resources to participate in the global online job market
 
-- 2.05.P17) Removing barriers for young freelancers who are already earning foreign exchange through online platforms.
+- 2.05.17) Removing barriers for young freelancers who are already earning foreign exchange through online platforms.
 
-- 2.05.P18) Providing guidance and support for young people coming from overseas to engage in various investment projects of their interest Prospects for Future (Education, Science, and Technology, and Innovation)
+- 2.05.18) Providing guidance and support for young people coming from overseas to engage in various investment projects of their interest Prospects for Future (Education, Science, and Technology, and Innovation)
 
-- 2.05.P19) Revising and upgrading outdated industrial, technical, and advanced technological courses, progressing them to degree and postgraduate levels.
+- 2.05.19) Revising and upgrading outdated industrial, technical, and advanced technological courses, progressing them to degree and postgraduate levels.
 
-- 2.05.P20) Allowing young people to present proposals for new educational and developmental projects through the “We for the Renaissance - V4R Digital platform” directly to the government.
+- 2.05.20) Allowing young people to present proposals for new educational and developmental projects through the “We for the Renaissance - V4R Digital platform” directly to the government.
 
-- 2.05.P21) Conducting ITES program, the theme of IT English and Soft Skills for Youth in the afternoons throughout the island, with the aim of developing technical and language literacy.
+- 2.05.21) Conducting ITES program, the theme of IT English and Soft Skills for Youth in the afternoons throughout the island, with the aim of developing technical and language literacy.
 
-- 2.05.P22) Establishing Multi-Model Centers (MMC) at the local level to provide specialized programs and advisory services for youth and adults.
+- 2.05.22) Establishing Multi-Model Centers (MMC) at the local level to provide specialized programs and advisory services for youth and adults.
 
-- 2.05.P23) Creating youth exchange programs to foster understanding among different ethnicities and religions. 49Empathetic Youth (Art, Culture and Leisure):
+- 2.05.23) Creating youth exchange programs to foster understanding among different ethnicities and religions. 49Empathetic Youth (Art, Culture and Leisure):
 
-- 2.05.P24) Developing a streamlined system to evaluate artistic and cultural skills of youth from school to national levels.
+- 2.05.24) Developing a streamlined system to evaluate artistic and cultural skills of youth from school to national levels.
 
-- 2.05.P25) Providing financial support for the production and promotion of creative work by young creators.
+- 2.05.25) Providing financial support for the production and promotion of creative work by young creators.
 
-- 2.05.P26) Organizing an annual awards ceremony to recognize and encourage young creators. A Healthy Youth (Physical and Mental Wellbeing, Substance Abuse, Sex Education)
+- 2.05.26) Organizing an annual awards ceremony to recognize and encourage young creators. A Healthy Youth (Physical and Mental Wellbeing, Substance Abuse, Sex Education)
 
-- 2.05.P27) Educating young people from school age on addiction, and how substance abuse negatively impacts the body
+- 2.05.27) Educating young people from school age on addiction, and how substance abuse negatively impacts the body
 
-- 2.05.P28) Revising and improving existing rehabilitation programs to offer medical-based rehabilitation approach for substance abuse.
+- 2.05.28) Revising and improving existing rehabilitation programs to offer medical-based rehabilitation approach for substance abuse.
 
-- 2.05.P29) Establishing a 24-hour confidential counseling service and a Youth App and hotline number to prevent suicide and mental health issues. A Youth Connected to the World (Cyber Space, Information Technology)
+- 2.05.29) Establishing a 24-hour confidential counseling service and a Youth App and hotline number to prevent suicide and mental health issues. A Youth Connected to the World (Cyber Space, Information Technology)
 
-- 2.05.P30) Ensuring data freedom and data privacy.
+- 2.05.30) Ensuring data freedom and data privacy.
 
-- 2.05.P31) Providing free internet access to all State universities, technical colleges, schools, and libraries.
+- 2.05.31) Providing free internet access to all State universities, technical colleges, schools, and libraries.
 
-- 2.05.P32) Introducing e-library systems in all local libraries and connect them to global e-library networks.
+- 2.05.32) Introducing e-library systems in all local libraries and connect them to global e-library networks.
 
-- 2.05.P33) Encouraging and supporting young people to develop software and mobile applications that are important for education, economy, and daily life. Future of the Leadership
+- 2.05.33) Encouraging and supporting young people to develop software and mobile applications that are important for education, economy, and daily life. Future of the Leadership
 
-- 2.05.P34) Increasing youth representation in political institutions through suitable quotas.
+- 2.05.34) Increasing youth representation in political institutions through suitable quotas.
 
-- 2.05.P35) Restructuring National Youth Services Council and related institutions such as National Youth Corpse, Youth Clubs to develop knowledgeable, skilled young leaders.
+- 2.05.35) Restructuring National Youth Services Council and related institutions such as National Youth Corpse, Youth Clubs to develop knowledgeable, skilled young leaders.
 
-- 2.05.P36) Establishing Youth Circles at local levels.
+- 2.05.36) Establishing Youth Circles at local levels.
 
-- 2.05.P37) Ensuring youth representation in ministerial advisory councils.
+- 2.05.37) Ensuring youth representation in ministerial advisory councils.
 
-- 2.05.P38) Establishing a National Political Education Academy to improve political leadership skills
+- 2.05.38) Establishing a National Political Education Academy to improve political leadership skills
 
-- 2.05.P39) Addressing unresolved and unprosecuted cases related to the 2022 protests and expedite legal proceedings with proper protocols. 50Together with Nature
+- 2.05.39) Addressing unresolved and unprosecuted cases related to the 2022 protests and expedite legal proceedings with proper protocols. 50Together with Nature
 
-- 2.05.P40) Creating a National Environmental Action Center by together with all environmental organizations and activists
+- 2.05.40) Creating a National Environmental Action Center by together with all environmental organizations and activists
 
-- 2.05.P41) A skilled group of volunteers to help with the restoration damaged ecosystems.
+- 2.05.41) A skilled group of volunteers to help with the restoration damaged ecosystems.
 
-- 2.05.P42) Establishing youth environmental committees at local government levels.
+- 2.05.42) Establishing youth environmental committees at local government levels.
 
-- 2.05.P43) Collaborating with international environmental organizations for knowledge and experience exchange.
+- 2.05.43) Collaborating with international environmental organizations for knowledge and experience exchange.
 
-- 2.05.P44) Engaging young environmental activists in managing human-wildlife conflicts, especially elephant-human interactions. Different, but Equal (Gender Identity and Sexual Orientation)
+- 2.05.44) Engaging young environmental activists in managing human-wildlife conflicts, especially elephant-human interactions. Different, but Equal (Gender Identity and Sexual Orientation)
 
-- 2.05.P45) Working towards eliminating harmful and stereotypical perceptions related to gender identities and sexual orientations.
+- 2.05.45) Working towards eliminating harmful and stereotypical perceptions related to gender identities and sexual orientations.
 
 #### Activities
 
@@ -1180,17 +1180,17 @@ Therefore, this policy focuses on creating an economically and socially fulfilli
 
 #### Principles
 
-- 2.07.P1) Provision of optimal services.
+- 2.07.1) Provision of optimal services.
 
-- 2.07.P2) Inclusive Education.
+- 2.07.2) Inclusive Education.
 
-- 2.07.P3) Economic Independence.
+- 2.07.3) Economic Independence.
 
-- 2.07.P4) Safety and Rights.
+- 2.07.4) Safety and Rights.
 
-- 2.07.P5) Health and Well-being.
+- 2.07.5) Health and Well-being.
 
-- 2.07.P6) Integrated Public Services and Equal Accessibility.
+- 2.07.6) Integrated Public Services and Equal Accessibility.
 
 #### Activities
 
@@ -1306,25 +1306,25 @@ In formulating these policies, factors such as resource availability and accessi
 
 #### Principles
 
-- 3.01.P1) Priority for humanity
+- 3.01.1) Priority for humanity
 
-- 3.01.P2) Economic democracy
+- 3.01.2) Economic democracy
 
-- 3.01.P3) People’s participation, equitable and inclusive society
+- 3.01.3) People’s participation, equitable and inclusive society
 
-- 3.01.P4) Food security
+- 3.01.4) Food security
 
-- 3.01.P5) Fair share of economic benefits
+- 3.01.5) Fair share of economic benefits
 
-- 3.01.P6) Sustainable resource utilization
+- 3.01.6) Sustainable resource utilization
 
-- 3.01.P7) Non-commodified public services and social security
+- 3.01.7) Non-commodified public services and social security
 
-- 3.01.P8) International cooperation and solidarity
+- 3.01.8) International cooperation and solidarity
 
-- 3.01.P9) Recognition of unpaid labour contribution as a care economy
+- 3.01.9) Recognition of unpaid labour contribution as a care economy
 
-- 3.01.P10) Progressive and fair taxation
+- 3.01.10) Progressive and fair taxation
 
 #### Activities
 
@@ -1528,25 +1528,25 @@ As a result, the current agriculture sector in Sri Lanka faces several major cha
 
 #### Principles
 
-- 3.02.P1) National food and nutrition security
+- 3.02.1) National food and nutrition security
 
-- 3.02.P2) High productivity and efficiency in agricultural systems
+- 3.02.2) High productivity and efficiency in agricultural systems
 
-- 3.02.P3) Strong agricultural entrepreneurship and sustainable markets
+- 3.02.3) Strong agricultural entrepreneurship and sustainable markets
 
-- 3.02.P4) Correct land management
+- 3.02.4) Correct land management
 
-- 3.02.P5) Proper management of agricultural practices
+- 3.02.5) Proper management of agricultural practices
 
-- 3.02.P6) Environmentally friendly operations
+- 3.02.6) Environmentally friendly operations
 
-- 3.02.P7) Empowering the agricultural producers
+- 3.02.7) Empowering the agricultural producers
 
-- 3.02.P8) Mitigation of climate and other risks
+- 3.02.8) Mitigation of climate and other risks
 
-- 3.02.P9) Agricultural research, extension, and knowledge management
+- 3.02.9) Agricultural research, extension, and knowledge management
 
-- 3.02.P10) Effective management and control of agricultural operations
+- 3.02.10) Effective management and control of agricultural operations
 
 #### Activities
 
@@ -1688,17 +1688,17 @@ The NPP aspired to achieve sustainable development in the livestock sector throu
 
 #### Principles
 
-- 3.03.P1) High-quality, hygienic animal production
+- 3.03.1) High-quality, hygienic animal production
 
-- 3.03.P2) Fair pricing and sustainable market
+- 3.03.2) Fair pricing and sustainable market
 
-- 3.03.P3) Investment incentives
+- 3.03.3) Investment incentives
 
-- 3.03.P4) Youth and female participation in livestock entrepreneurship
+- 3.03.4) Youth and female participation in livestock entrepreneurship
 
-- 3.03.P5) Public, private, and community partnerships for livestock development
+- 3.03.5) Public, private, and community partnerships for livestock development
 
-- 3.03.P6) Improved living standards for stakeholders
+- 3.03.6) Improved living standards for stakeholders
 
 #### Activities
 
@@ -2102,11 +2102,11 @@ Power hopes to rebuild the broken public trust in it by creating an independent,
 
 #### Principles
 
-- 4.03.P1) Equality and equal protection of law
+- 4.03.1) Equality and equal protection of law
 
-- 4.03.P2) Independence and public trust
+- 4.03.2) Independence and public trust
 
-- 4.03.P3) transparency and efficiency
+- 4.03.3) transparency and efficiency
 
 #### Activities
 
