@@ -1,15 +1,11 @@
 from dataclasses import dataclass
+
 from mm.manifesto.comps import L1Topic
 
 
 @dataclass
 class NPPManifesto:
     l1_topics: list[L1Topic]
-
-    def to_dict(self):
-        return dict(
-            l1_topics=[l1_topic.to_dict() for l1_topic in self.l1_topics]
-        )
 
     def to_dense_dict(self):
         return {
@@ -18,7 +14,7 @@ class NPPManifesto:
         }
 
     def to_md_lines(self):
-        lines = ['# NPP Manifesto']
+        lines = ["# NPP Manifesto"]
         for l1_topic in self.l1_topics:
             lines.extend(l1_topic.to_md_lines())
         return lines

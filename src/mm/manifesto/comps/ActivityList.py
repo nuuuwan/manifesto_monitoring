@@ -77,9 +77,6 @@ class ActivityList:
             ]
         )
 
-    def to_dict(self):
-        return [activity.to_dict() for activity in self.activities]
-
     def to_dense_dict(self):
         return {
             activity.title: activity.activity_items

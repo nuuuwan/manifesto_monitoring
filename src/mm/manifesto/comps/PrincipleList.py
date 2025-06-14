@@ -41,13 +41,6 @@ class PrincipleList:
 
         return PrincipleList(l1_num, l2_num, principles)
 
-    def to_dict(self):
-        return {
-            "l1_num": self.l1_num,
-            "l2_num": self.l2_num,
-            "principles": [p.to_dict() for p in self.principles],
-        }
-
     def to_md_lines(self):
         lines = []
         lines.append("#### Principles")

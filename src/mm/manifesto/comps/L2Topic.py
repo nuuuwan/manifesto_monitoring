@@ -45,16 +45,6 @@ class L2Topic:
             activity_list=None,
         )
 
-    def to_dict(self):
-        return dict(
-            l1_num=self.l1_num,
-            l2_num=self.l2_num,
-            title=self.title,
-            introduction=self.introduction.to_dict(),
-            principles=self.principles.to_dict(),
-            activity_list=self.activity_list.to_dict(),
-        )
-
     @cached_property
     def short_title(self):
         return f"{self.l1_num:01d}.{self.l2_num:02d}) {self.title}"

@@ -1,7 +1,8 @@
+import re
 from dataclasses import dataclass
 from functools import cached_property
+
 from mm.manifesto.comps.L2Topic import L2Topic
-import re
 
 
 @dataclass
@@ -23,16 +24,9 @@ class L1Topic:
             l2_topics=[],
         )
 
-    def to_dict(self):
-        return dict(
-            l1_num=self.l1_num,
-            title=self.title,
-            l2_topics=[l2_topic.to_dict() for l2_topic in self.l2_topics],
-        )
-
     @cached_property
     def short_title(self):
-        return f'{self.l1_num}) {self.title}'
+        return f"{self.l1_num}) {self.title}"
 
     def to_dense_dict(self):
         return {
@@ -41,7 +35,7 @@ class L1Topic:
         }
 
     def to_md_lines(self):
-        lines = [f'## {self.short_title}']
+        lines = [f"## {self.short_title}"]
         for l2_topic in self.l2_topics:
             lines.extend(l2_topic.to_md_lines())
         return lines

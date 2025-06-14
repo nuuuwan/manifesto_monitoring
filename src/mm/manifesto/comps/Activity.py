@@ -9,15 +9,6 @@ class Activity:
     title: str
     activity_items: list[str]
 
-    def to_dict(self):
-        return {
-            "l1_num": self.l1_num,
-            "l2_num": self.l2_num,
-            "activity_num": self.activity_num,
-            "title": self.title,
-            "activity_items": self.activity_items,
-        }
-
     def to_dense_dict(self):
         return {self.title: self.activity_items}
 

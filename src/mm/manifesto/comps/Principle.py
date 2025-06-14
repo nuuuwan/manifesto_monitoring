@@ -9,14 +9,6 @@ class Principle:
     principle_num: int
     title: str
 
-    def to_dict(self):
-        return {
-            "l1_num": self.l1_num,
-            "l2_num": self.l2_num,
-            "principle_num": self.principle_num,
-            "principle": self.title,
-        }
-
     @cached_property
     def key(self):
         return f"{self.l1_num}.{self.l2_num:02d}.{self.principle_num}"

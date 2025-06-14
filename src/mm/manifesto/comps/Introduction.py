@@ -31,9 +31,6 @@ class Introduction:
 
         return Introduction(compressed_introdiction_lines)
 
-    def to_dict(self):
-        return self.introduction_lines
-
     def to_md_lines(self):
         lines = []
         lines.append("#### Introduction")
