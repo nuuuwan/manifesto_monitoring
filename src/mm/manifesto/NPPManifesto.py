@@ -1,10 +1,11 @@
 from dataclasses import dataclass
 
 from mm.manifesto.comps import L1Topic
+from mm.manifesto.NPPManifestoDB import NPPManifestoDB
 
 
 @dataclass
-class NPPManifesto:
+class NPPManifesto(NPPManifestoDB):
     l1_topics: list[L1Topic]
 
     def to_dense_dict(self):

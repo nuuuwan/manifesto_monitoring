@@ -1,0 +1,2 @@
+class NPPManifestoDB:
+    pass

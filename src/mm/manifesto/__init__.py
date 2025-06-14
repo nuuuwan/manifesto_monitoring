@@ -4,6 +4,7 @@
 from mm.manifesto.comps import (Activity, ActivityList, Introduction, L1Topic,
                                 L2Topic, Principle, PrincipleList)
 from mm.manifesto.NPPManifesto import NPPManifesto
+from mm.manifesto.NPPManifestoDB import NPPManifestoDB
 from mm.manifesto.NPPManifestoPDF import NPPManifestoPDF
 from mm.manifesto.NPPManifestoPDFBase import NPPManifestoPDFBase
 from mm.manifesto.NPPManifestoPDFContents import NPPManifestoPDFContents
