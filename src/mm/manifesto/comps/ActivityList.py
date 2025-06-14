@@ -42,7 +42,7 @@ class ActivityList:
     @staticmethod
     def __parse_activity_line__(line: str, activities) -> str:
         is_bullet = Common.is_bullet(line)
-        line = line[2:].strip() if is_bullet else line
+        line = line[2:].strip() if is_bullet else line.strip()
 
         if not activities:
             if is_bullet:
@@ -96,8 +96,8 @@ class ActivityList:
                     l1_num=l1_num,
                     l2_num=l2_num,
                     activity_num=activity_num,
-                    title=title,
-                    activity_items=items,
+                    title=title.strip(),
+                    activity_items=[item.strip() for item in items],
                 )
                 for activity_num, (title, items) in enumerate(
                     activities.items(), start=1

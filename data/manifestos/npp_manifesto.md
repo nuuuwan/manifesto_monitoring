@@ -1030,7 +1030,7 @@ The NPP is committed to preventing the deliberate and strategic misuse of mass m
 
 - 1.08.A01.14) Promoting media literacy programs to foster an informed audience.
 
-- 1.08.A01.15) Establishing an independent media commission to oversee the optimal functioning of journalism process.  
+- 1.08.A01.15) Establishing an independent media commission to oversee the optimal functioning of journalism process.
 
 ##### 1.08.A02) 02. An honourable life A safe country
 
@@ -1222,7 +1222,7 @@ However, in modern society, the status and importance that should be accorded to
 
 - 2.02.A01.15) Interim allowances for those unable to enter the labor force due to special reasons.
 
-- 2.02.A01.16) A maximum of one year of leave with 25% of the basic salary for those taking care of children under the age of 5 or those taking care of sick parents over the age of 
+- 2.02.A01.16) A maximum of one year of leave with 25% of the basic salary for those taking care of children under the age of 5 or those taking care of sick parents over the age of
 
 - 2.02.A01.17) Two weeks of leave in the event of a spouse’s death.
 
@@ -1594,7 +1594,7 @@ Therefore, this policy focuses on creating an economically and socially fulfilli
 
 - 2.07.A06.07) Recognize sign language as the language of communication for persons with hearing impairments.
 
-- 2.07.A06.08) Create inclusive theaters and sports facilities to enhance the artistic and cultural participation of persons with disabilities.  
+- 2.07.A06.08) Create inclusive theaters and sports facilities to enhance the artistic and cultural participation of persons with disabilities.
 
 ##### 2.07.A07) A modern life A wealthy nation
 
@@ -3438,7 +3438,7 @@ Past governments invested loans from local banks and two-party and multi-party l
 
 - 3.15.A02.17) State sponsorship for local industrialists to enter international construction projects
 
-- 3.15.A02.18) Making environmental accountability essential for all construction projects, with a deep assessment of environmental risks  
+- 3.15.A02.18) Making environmental accountability essential for all construction projects, with a deep assessment of environmental risks
 
 ##### 3.15.A03) A dignified life A strong country
 
@@ -3848,7 +3848,7 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 - 4.07.A01.03) Focused and coordinated guidance on Sri Lanka Foreign Service (SLFS).
 
-- 4.07.A01.04) Evaluating the economically developing, emerging countries and areas where Sri Lanka should open its missions which can strengthen the country’s economic capacity 
+- 4.07.A01.04) Evaluating the economically developing, emerging countries and areas where Sri Lanka should open its missions which can strengthen the country’s economic capacity
 
 ##### 4.07.A02) Diplomatic Missions
 
@@ -3858,7 +3858,7 @@ Sovereign Palestinian State. • We shall follow and implement to eliminate the 
 
 - 4.07.A02.03) Appointing professional career diplomats, with a proven track record, to head Sri Lanka’s Missions. Appointing qualified officers for Foreign Service on merit basis with professional excellence, the highest standards of ethical conduct, and diplomatic discretion.
 
-- 4.07.A02.04) Immediate remedial action must be taken to de-politicize the Foreign Service and make appointments on merit. 
+- 4.07.A02.04) Immediate remedial action must be taken to de-politicize the Foreign Service and make appointments on merit.
 
 ##### 4.07.A03) Institutional Reforms:
 
@@ -4198,4 +4198,4 @@ Christian, Catholic, etc. Because of that diversity, it is essential for the wel
 
 - 4.09.A01.19) Providing officials, employees and translators who can work in Tamil to civil services such as police stations and government offices in the Northern and Eastern provinces and Upcountry areas.
 
-- 4.09.A01.20) To diplomatically solve the challenges posed by foreign fishermen to fishing activities in the North and East and other areas and make room for the necessary infrastructure and marketing facilities.  
+- 4.09.A01.20) To diplomatically solve the challenges posed by foreign fishermen to fishing activities in the North and East and other areas and make room for the necessary infrastructure and marketing facilities.
