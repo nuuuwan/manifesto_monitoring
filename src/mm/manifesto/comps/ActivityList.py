@@ -16,7 +16,7 @@ class ActivityList:
     def __is_activity_title__(line):
         return (
             line.strip()
-            and Common.is_bullet(line)
+            and not Common.is_bullet(line)
             and len(line) < 64
             and not line[0].islower()
             and line[-1] != "."
