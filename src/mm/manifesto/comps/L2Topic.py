@@ -17,14 +17,14 @@ class L2Topic:
     l2_num: int
     title: str
     introduction: Introduction
-    principles: PrincipleList
+    property_list: PrincipleList
     activity_list: ActivityList
 
     def expand_fields_from_lines(self, lines: list[str]) -> "L2Topic":
         self.introduction = Introduction.from_lines(
             lines, l1_num=self.l1_num, l2_num=self.l2_num
         )
-        self.principles = PrincipleList.from_lines(
+        self.property_list = PrincipleList.from_lines(
             lines, l1_num=self.l1_num, l2_num=self.l2_num
         )
         self.activity_list = ActivityList.from_lines(
@@ -43,7 +43,7 @@ class L2Topic:
             l2_num=int(match.group(2)),
             title=match.group(3),
             introduction=None,
-            principles=None,
+            property_list=None,
             activity_list=None,
         )
 
@@ -61,7 +61,7 @@ class L2Topic:
             "l1_num": self.l1_num,
             "l2_num": self.l2_num,
             "title": self.title,
-            "n_principles": len(self.principles),
+            "n_principles": len(self.property_list),
             "n_activities": len(self.activity_list),
         }
 
@@ -72,8 +72,8 @@ class L2Topic:
         lines = [f"### {self.short_title}"]
         if self.introduction:
             lines.extend(self.introduction.to_md_lines())
-        if self.principles:
-            lines.extend(self.principles.to_md_lines())
+        if self.property_list:
+            lines.extend(self.property_list.to_md_lines())
         if self.activity_list:
             lines.extend(self.activity_list.to_md_lines())
         return lines
