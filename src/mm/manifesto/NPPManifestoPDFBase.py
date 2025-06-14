@@ -6,7 +6,6 @@ from PyPDF2 import PdfReader
 
 
 class NPPManifestoPDFBase:
-    REMOTE_URL = "https://www.npp.lk/up/policies/en/npppolicystatement.pdf"
     LOCAL_PATH = os.path.join("data", "manifestos", "npp_manifesto.pdf")
 
     @cached_property
