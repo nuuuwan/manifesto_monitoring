@@ -1628,11 +1628,7 @@ Therefore, this policy focuses on creating an economically and socially fulfilli
 
 - 2.07.A06.07) Recognize sign language as the language of communication for persons with hearing impairments.
 
-- 2.07.A06.08) Create inclusive theaters and sports facilities to enhance the artistic and cultural participation of persons with disabilities.
-
-##### 2.07.A07) A modern life
-
-- 2.07.A07.01) A wealthy nation
+- 2.07.A06.08) Create inclusive theaters and sports facilities to enhance the artistic and cultural participation of persons with disabilities.   A modern life A wealthy nation
 
 ## 3) A modern life - A wealthy nation
 
@@ -3456,11 +3452,7 @@ Past governments invested loans from local banks and two-party and multi-party l
 
 - 3.15.A02.17) State sponsorship for local industrialists to enter international construction projects
 
-- 3.15.A02.18) Making environmental accountability essential for all construction projects, with a deep assessment of environmental risks
-
-##### 3.15.A03) A dignified life
-
-- 3.15.A03.01) A strong country
+- 3.15.A02.18) Making environmental accountability essential for all construction projects, with a deep assessment of environmental risks   A dignified life A strong country
 
 ## 4) A dignified life - A strong country
 

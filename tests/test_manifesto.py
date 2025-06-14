@@ -66,7 +66,7 @@ class TestCase(unittest.TestCase):
             n_items = activity.n_items
             self.assertTrue(
                 1 <= n_items <= 32,
-                f"[{activity.key}] {n_items=} (Expected 1-10)",
+                f"[{activity.key}] {n_items=} (Expected 1-32)",
             )
 
     def test_items(self):
@@ -76,4 +76,10 @@ class TestCase(unittest.TestCase):
                     not item[0].islower(),
                     f"[{activity.key}] Item '{item}'"
                     + " should not start with lowercase.",
+                )
+                len_item = len(item)
+                self.assertTrue(
+                    21 <= len_item <= 532,
+                    f"[{activity.key}] Item '{item}'"
+                    + f" {len_item=} (Expected 20-100)",
                 )

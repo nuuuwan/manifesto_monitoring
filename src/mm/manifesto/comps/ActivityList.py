@@ -41,10 +41,13 @@ class ActivityList:
                 "Childhood Development Centres",
                 "Power",
                 "02. An honourable life",
+                "An honourable life",
                 "A safe country",
                 "03. A modern life",
+                "A modern life",
                 "A wealthy nation",
                 "04. A dignified life",
+                "A dignified life",
                 "A strong country",
             ]  # HACK!
         )
