@@ -1,6 +1,7 @@
 from dataclasses import dataclass
 from functools import cached_property
 
+from mm.manifesto.comps.Activity import Activity
 from mm.manifesto.comps.Common import Common
 from mm.manifesto.comps.Principle import Principle
 
@@ -25,7 +26,7 @@ class PrincipleList:
             if line.endswith("Principles"):
                 has_started = True
                 continue
-            if line.endswith("ACTIVITIES"):
+            if Activity.is_activity_title_text(line):
                 break
 
             if has_started:

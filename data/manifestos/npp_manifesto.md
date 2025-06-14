@@ -1400,81 +1400,101 @@ Contributing factors to this discontent include limited educational opportunitie
 
 - 2.05.P7) A skilled youth capable of assuming national and international leadership
 
-- 2.05.P8) Youth who stands against social injustice 48ACTIONS A Flourishing Youth
+- 2.05.P8) Youth who stands against social injustice
 
-- 2.05.P9) Protecting the right of young people to secure suitable employment by the State.
+#### Activities [2.05]
 
-- 2.05.P10) Establishing a database to collect information on unemployed youth, setting up a job bank for placements, and managing the process through an online platform, to reduce unemployment systematically.
+##### 2.05.A01) A Flourishing Youth
 
-- 2.05.P11) Review the current competitive examination system for government employments and update the selection process.
+- 2.05.A01.01) Protecting the right of young people to secure suitable employment by the State.
 
-- 2.05.P12) Providing vocational and technical education for youth who have passed A/L examinations but could not gain admission to state universities.
+- 2.05.A01.02) Establishing a database to collect information on unemployed youth, setting up a job bank for placements, and managing the process through an online platform, to reduce unemployment systematically.
 
-- 2.05.P13) Facilitating financial support for entrepreneurial development through proposed Development Banks.
+- 2.05.A01.03) Review the current competitive examination system for government employments and update the selection process.
 
-- 2.05.P14) Facilitating unemployed youth with special skills by providing initial capital to develop entrepreneurship and find suitable markets.
+- 2.05.A01.04) Providing vocational and technical education for youth who have passed A/L examinations but could not gain admission to state universities.
 
-- 2.05.P15) Using We for the Renaissance (V4R) digital platform to facilitate the transformation of new ideas and concepts into marketable products, encouraging young innovators.
+- 2.05.A01.05) Facilitating financial support for entrepreneurial development through proposed Development Banks.
 
-- 2.05.P16) Enabling young people to acquire the necessary technical skills and resources to participate in the global online job market
+- 2.05.A01.06) Facilitating unemployed youth with special skills by providing initial capital to develop entrepreneurship and find suitable markets.
 
-- 2.05.P17) Removing barriers for young freelancers who are already earning foreign exchange through online platforms.
+- 2.05.A01.07) Using We for the Renaissance (V4R) digital platform to facilitate the transformation of new ideas and concepts into marketable products, encouraging young innovators.
 
-- 2.05.P18) Providing guidance and support for young people coming from overseas to engage in various investment projects of their interest Prospects for Future (Education, Science, and Technology, and Innovation)
+- 2.05.A01.08) Enabling young people to acquire the necessary technical skills and resources to participate in the global online job market
 
-- 2.05.P19) Revising and upgrading outdated industrial, technical, and advanced technological courses, progressing them to degree and postgraduate levels.
+- 2.05.A01.09) Removing barriers for young freelancers who are already earning foreign exchange through online platforms.
 
-- 2.05.P20) Allowing young people to present proposals for new educational and developmental projects through the “We for the Renaissance - V4R Digital platform” directly to the government.
+- 2.05.A01.10) Providing guidance and support for young people coming from overseas to engage in various investment projects of their interest
 
-- 2.05.P21) Conducting ITES program, the theme of IT English and Soft Skills for Youth in the afternoons throughout the island, with the aim of developing technical and language literacy.
+##### 2.05.A02) Prospects for Future (Education, Science, and Technology,
 
-- 2.05.P22) Establishing Multi-Model Centers (MMC) at the local level to provide specialized programs and advisory services for youth and adults.
+- 2.05.A02.01) and Innovation)
 
-- 2.05.P23) Creating youth exchange programs to foster understanding among different ethnicities and religions. 49Empathetic Youth (Art, Culture and Leisure):
+- 2.05.A02.02) Revising and upgrading outdated industrial, technical, and advanced technological courses, progressing them to degree and postgraduate levels.
 
-- 2.05.P24) Developing a streamlined system to evaluate artistic and cultural skills of youth from school to national levels.
+- 2.05.A02.03) Allowing young people to present proposals for new educational and developmental projects through the “We for the Renaissance - V4R Digital platform” directly to the government.
 
-- 2.05.P25) Providing financial support for the production and promotion of creative work by young creators.
+- 2.05.A02.04) Conducting ITES program, the theme of IT English and Soft Skills for Youth in the afternoons throughout the island, with the aim of developing technical and language literacy.
 
-- 2.05.P26) Organizing an annual awards ceremony to recognize and encourage young creators. A Healthy Youth (Physical and Mental Wellbeing, Substance Abuse, Sex Education)
+- 2.05.A02.05) Establishing Multi-Model Centers (MMC) at the local level to provide specialized programs and advisory services for youth and adults.
 
-- 2.05.P27) Educating young people from school age on addiction, and how substance abuse negatively impacts the body
+- 2.05.A02.06) Creating youth exchange programs to foster understanding among different ethnicities and religions.
 
-- 2.05.P28) Revising and improving existing rehabilitation programs to offer medical-based rehabilitation approach for substance abuse.
+##### 2.05.A03) Empathetic Youth (Art, Culture and Leisure):
 
-- 2.05.P29) Establishing a 24-hour confidential counseling service and a Youth App and hotline number to prevent suicide and mental health issues. A Youth Connected to the World (Cyber Space, Information Technology)
+- 2.05.A03.01) Developing a streamlined system to evaluate artistic and cultural skills of youth from school to national levels.
 
-- 2.05.P30) Ensuring data freedom and data privacy.
+- 2.05.A03.02) Providing financial support for the production and promotion of creative work by young creators.
 
-- 2.05.P31) Providing free internet access to all State universities, technical colleges, schools, and libraries.
+- 2.05.A03.03) Organizing an annual awards ceremony to recognize and encourage young creators. A Healthy Youth (Physical and Mental Wellbeing, Substance Abuse,
 
-- 2.05.P32) Introducing e-library systems in all local libraries and connect them to global e-library networks.
+##### 2.05.A04) Sex Education)
 
-- 2.05.P33) Encouraging and supporting young people to develop software and mobile applications that are important for education, economy, and daily life. Future of the Leadership
+- 2.05.A04.01) Educating young people from school age on addiction, and how substance abuse negatively impacts the body
 
-- 2.05.P34) Increasing youth representation in political institutions through suitable quotas.
+- 2.05.A04.02) Revising and improving existing rehabilitation programs to offer medical-based rehabilitation approach for substance abuse.
 
-- 2.05.P35) Restructuring National Youth Services Council and related institutions such as National Youth Corpse, Youth Clubs to develop knowledgeable, skilled young leaders.
+- 2.05.A04.03) Establishing a 24-hour confidential counseling service and a Youth App and hotline number to prevent suicide and mental health issues.
 
-- 2.05.P36) Establishing Youth Circles at local levels.
+##### 2.05.A05) A Youth Connected to the World (Cyber Space, Information Technology)
 
-- 2.05.P37) Ensuring youth representation in ministerial advisory councils.
+- 2.05.A05.01) Ensuring data freedom and data privacy.
 
-- 2.05.P38) Establishing a National Political Education Academy to improve political leadership skills
+- 2.05.A05.02) Providing free internet access to all State universities, technical colleges, schools, and libraries.
 
-- 2.05.P39) Addressing unresolved and unprosecuted cases related to the 2022 protests and expedite legal proceedings with proper protocols. 50Together with Nature
+- 2.05.A05.03) Introducing e-library systems in all local libraries and connect them to global e-library networks.
 
-- 2.05.P40) Creating a National Environmental Action Center by together with all environmental organizations and activists
+- 2.05.A05.04) Encouraging and supporting young people to develop software and mobile applications that are important for education, economy, and daily life.
 
-- 2.05.P41) A skilled group of volunteers to help with the restoration damaged ecosystems.
+##### 2.05.A06) Future of the Leadership
 
-- 2.05.P42) Establishing youth environmental committees at local government levels.
+- 2.05.A06.01) Increasing youth representation in political institutions through suitable quotas.
 
-- 2.05.P43) Collaborating with international environmental organizations for knowledge and experience exchange.
+- 2.05.A06.02) Restructuring National Youth Services Council and related institutions such as National Youth Corpse, Youth Clubs to develop knowledgeable, skilled young leaders.
 
-- 2.05.P44) Engaging young environmental activists in managing human-wildlife conflicts, especially elephant-human interactions. Different, but Equal (Gender Identity and Sexual Orientation)
+- 2.05.A06.03) Establishing Youth Circles at local levels.
 
-- 2.05.P45) Working towards eliminating harmful and stereotypical perceptions related to gender identities and sexual orientations.
+- 2.05.A06.04) Ensuring youth representation in ministerial advisory councils.
+
+- 2.05.A06.05) Establishing a National Political Education Academy to improve political leadership skills
+
+- 2.05.A06.06) Addressing unresolved and unprosecuted cases related to the 2022 protests and expedite legal proceedings with proper protocols.
+
+##### 2.05.A07) Together with Nature
+
+- 2.05.A07.01) Creating a National Environmental Action Center by together with all environmental organizations and activists
+
+- 2.05.A07.02) A skilled group of volunteers to help with the restoration damaged ecosystems.
+
+- 2.05.A07.03) Establishing youth environmental committees at local government levels.
+
+- 2.05.A07.04) Collaborating with international environmental organizations for knowledge and experience exchange.
+
+- 2.05.A07.05) Engaging young environmental activists in managing human-wildlife conflicts, especially elephant-human interactions.
+
+##### 2.05.A08) Different, but Equal (Gender Identity and Sexual Orientation)
+
+- 2.05.A08.01) Working towards eliminating harmful and stereotypical perceptions related to gender identities and sexual orientations.
 
 ### 2.06) A respectable senior citizen- A meaningful retirement
 
@@ -1485,6 +1505,28 @@ Taking care of the elderly is a responsibility of the children and relatives wit
 By 2045, this percentage is projected to rise to 21%. While some policymakers view the increasing elderly population as a challenge, the NPP believes that it is a national responsibility to understand and address this situation with special attention to the well- being of the elderly.
 
 Activities ■ Providing basic facilities needed for the care of the elderly within homes. ■ Healthcare teams conduct health check-ups for the elderly. ■ Establishing a system of elderly care centres that meet international standards. ■ Developing a program to involve the elderly in creative economic activities to maintain their mental health ■ Implement a social protection scheme for those employed in the private and informal sectors, including farmers and fishermen. ■ Establishing a fund to implement an insurance coverage system that ensures protection for all senior citizens ■ Encouraging the building of walkways and rest homes near religious sites, and government intervention to ensure that the senior citizens can enjoy their daily lives in a peaceful and happy environment 51■ Implementing priority programs for senior citizens at public service locations. ■ Providing financial assistance to elderly individuals facing financial difficulties.
+
+#### Activities [2.06]
+
+##### 2.06.A01) NO-TITLE
+
+- 2.06.A01.01) Providing basic facilities needed for the care of the elderly within homes.
+
+- 2.06.A01.02) Healthcare teams conduct health check-ups for the elderly.
+
+- 2.06.A01.03) Establishing a system of elderly care centres that meet international standards.
+
+- 2.06.A01.04) Developing a program to involve the elderly in creative economic activities to maintain their mental health
+
+- 2.06.A01.05) Implement a social protection scheme for those employed in the private and informal sectors, including farmers and fishermen.
+
+- 2.06.A01.06) Establishing a fund to implement an insurance coverage system that ensures protection for all senior citizens
+
+- 2.06.A01.07) Encouraging the building of walkways and rest homes near religious sites, and government intervention to ensure that the senior citizens can enjoy their daily lives in a peaceful and happy environment
+
+- 2.06.A01.08) Implementing priority programs for senior citizens at public service locations.
+
+- 2.06.A01.09) Providing financial assistance to elderly individuals facing financial difficulties.
 
 ### 2.07) An unimpaired social life - An fair and equitable approach
 
@@ -2018,7 +2060,7 @@ The NPP aspired to achieve sustainable development in the livestock sector throu
 
 #### Activities [3.03]
 
-##### 3.03.A01) Common Activities
+##### 3.03.A01) NO-TITLE
 
 - 3.03.A01.01) Maximizing production capacity through modernization of farms
 
@@ -3733,6 +3775,26 @@ At present, drug use has become a social problem due to its rapid rise. Drug use
 The current regime has failed to control the importation and distribution of drugs into the country, and jailing drug users alone is not adequate to curbing this menace. Currently, drug use has created a social tragedy and in 2022, 152,979 people were arrested for drug offences. However, only 1930 people among these were referred to rehabilitation programmes. About 60% of the offenders who go to prison are in prison for drug- related offences. Sri Lanka has become a hub for drug trafficking in the region, under the protection of political and other forces, which has contributed to the growth of organized crime. Therefore, the National People’s Power prioritizes drug prevention.
 
 Activities • An integrated operation to prevent drugs and organized crime in the country • Establishment of a separate Bureau for Narcotics Prevention • Development of naval and air surveillance facilities and provide modern equipment and training to officials to prevent the entry of drugs into the country 116• Regularize rehabilitation programmes for drug addicts to free them from drug use • Strengthening penalties for drug offences and taking measures for the speedy resolution of cases • Implementation of continuous programmes to educate school children • Expanding the functions of the Dangerous Drugs Control Board, and establishing monitoring committees to involve people in the fight against drugs • Educating the community about the adverse effects of drug use
+
+#### Activities [4.06]
+
+##### 4.06.A01) NO-TITLE
+
+- 4.06.A01.01) An integrated operation to prevent drugs and organized crime in the country
+
+- 4.06.A01.02) Establishment of a separate Bureau for Narcotics Prevention
+
+- 4.06.A01.03) Development of naval and air surveillance facilities and provide modern equipment and training to officials to prevent the entry of drugs into the country
+
+- 4.06.A01.04) Regularize rehabilitation programmes for drug addicts to free them from drug use
+
+- 4.06.A01.05) Strengthening penalties for drug offences and taking measures for the speedy resolution of cases
+
+- 4.06.A01.06) Implementation of continuous programmes to educate school children
+
+- 4.06.A01.07) Expanding the functions of the Dangerous Drugs Control Board, and establishing monitoring committees to involve people in the fight against drugs
+
+- 4.06.A01.08) Educating the community about the adverse effects of drug use
 
 ### 4.07) A dignified diplomacy - A sovereign state
 

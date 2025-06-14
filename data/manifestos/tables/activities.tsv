@@ -80,6 +80,15 @@ key	l1_num	l2_num	activity_num	title	n_items
 2.02.A02	2	2	2	Unemployed graduates:	4
 2.03.A01	2	3	1	NO-TITLE	20
 2.04.A01	2	4	1	NO-TITLE	15
+2.05.A01	2	5	1	A Flourishing Youth	10
+2.05.A02	2	5	2	Prospects for Future (Education, Science, and Technology,	6
+2.05.A03	2	5	3	Empathetic Youth (Art, Culture and Leisure):	3
+2.05.A04	2	5	4	Sex Education)	3
+2.05.A05	2	5	5	A Youth Connected to the World (Cyber Space, Information Technology)	4
+2.05.A06	2	5	6	Future of the Leadership	6
+2.05.A07	2	5	7	Together with Nature	5
+2.05.A08	2	5	8	Different, but Equal (Gender Identity and Sexual Orientation)	1
+2.06.A01	2	6	1	NO-TITLE	9
 2.07.A01	2	7	1	Optimal Service Management and Administration	5
 2.07.A02	2	7	2	Education	10
 2.07.A03	2	7	3	Economic Independence	4
@@ -105,7 +114,7 @@ key	l1_num	l2_num	activity_num	title	n_items
 3.02.A08	3	2	8	Management of Climate Risks:	2
 3.02.A09	3	2	9	Agricultural Research, and Knowledge Management:	6
 3.02.A10	3	2	10	Effective Management and Control of Agricultural Operations	2
-3.03.A01	3	3	1	Common Activities	7
+3.03.A01	3	3	1	NO-TITLE	7
 3.03.A02	3	3	2	Dairy Sector	8
 3.03.A03	3	3	3	Marketing of Milk and Dairy Products	3
 3.03.A04	3	3	4	Poultry Meat and Egg Production	3
@@ -187,6 +196,7 @@ key	l1_num	l2_num	activity_num	title	n_items
 4.04.A02	4	4	2	Implementing justice	2
 4.04.A03	4	4	3	Sunday attacks on 2019-04-21	2
 4.05.A01	4	5	1	NO-TITLE	13
+4.06.A01	4	6	1	NO-TITLE	8
 4.07.A01	4	7	1	The role and functions of the Ministry of Foreign Affairs	4
 4.07.A02	4	7	2	Diplomatic Missions	4
 4.07.A03	4	7	3	Institutional Reforms:	4

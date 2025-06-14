@@ -29,7 +29,7 @@ class ActivityList:
         activities_lines = []
         has_started = False
         for line in lines:
-            if line.endswith("ACTIVITIES"):
+            if Activity.is_activity_title_text(line):
                 has_started = True
                 continue
             if not has_started:

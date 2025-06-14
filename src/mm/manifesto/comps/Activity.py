@@ -11,6 +11,14 @@ class Activity:
 
     NO_TITLE = "NO-TITLE"
 
+    @staticmethod
+    def is_activity_title_text(line: str) -> bool:
+        return (
+            line.endswith("ACTIVITIES")
+            or line.endswith("ACTIONS")
+            or line.endswith("Activities")
+        )
+
     def to_dense_dict(self):
         return {self.title: self.activity_items}
 
