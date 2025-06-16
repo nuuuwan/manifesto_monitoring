@@ -2,12 +2,14 @@ from utils import Log
 
 from mm.ai import EmbIdx
 from mm.cabinet_decisions import CabinetDecision
+from mm.manifesto import NPPManifestoPDF
 
 log = Log("CompareManifesto")
 
 
 class CompareManifesto:
     N_LIMIT_CABINET_DECISIONS = 10
+    N_LIMIT_MANIFESTO = 10
     CABINET_DECISIONS_ID = "cabinet_decisions"
     MANIFESTO_ID = "manifesto"
 
@@ -29,4 +31,28 @@ class CompareManifesto:
 
         idx = emb_idx.multiget(text_list)
         log.info(f"Built EmbIdx for {len(text_list)} cabinet decisions")
+        return idx
+
+    def build_emb_idx_for_manifesto(self):
+        manifesto = NPPManifestoPDF().get_manifesto()
+        all_table = manifesto.all_table
+        if self.N_LIMIT_MANIFESTO:
+            all_table = all_table[: self.N_LIMIT_MANIFESTO]
+
+        emb_idx = EmbIdx(self.MANIFESTO_ID)
+        text_list = []
+        for item in all_table:
+            text = (
+                item["l1_topic"]
+                + " "
+                + item["l2_topic"]
+                + " "
+                + item["activity"]
+                + " "
+                + item["item"]
+            )
+            text_list.append(text)
+
+        idx = emb_idx.multiget(text_list)
+        log.info(f"Built EmbIdx for {len(text_list)} manifesto items")
         return idx
