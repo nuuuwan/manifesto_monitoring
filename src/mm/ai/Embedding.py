@@ -1,8 +1,10 @@
 import os
-from functools import cached_property
+from functools import cache
 
 from openai import OpenAI
+from utils import Log
 
+log = Log("Embedding")
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
 
@@ -12,9 +14,16 @@ class Embedding:
     def __init__(self, text_list):
         self.text_list = text_list
 
-    @cached_property
-    def embedding(self) -> list[str]:
+    @cache
+    def get_idx(self) -> list[str]:
         response = client.embeddings.create(
             input=self.text_list, model=self.MODEL
         )
-        return [item.embedding for item in response.data]
+
+        idx = {}
+        for text, item in zip(self.text_list, response.data):
+            idx[text] = item.embedding
+
+        n = len(idx)
+        log.info(f"⚠️  Got {n} embeddings for 🤑 {self.MODEL}")
+        return idx

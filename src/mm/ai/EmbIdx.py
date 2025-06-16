@@ -1,0 +1,50 @@
+import os
+from functools import cached_property
+
+from utils import JSONFile, Log
+
+from mm.ai.Embedding import Embedding
+
+log = Log("EmbIdx")
+
+
+class EmbIdx:
+    DIR_EMBEDDING = os.path.join("data", "ai", "embeddings")
+
+    def __init__(self, emb_id: str):
+        self.emb_id = emb_id
+        self.load()
+
+    @cached_property
+    def idx_path(self):
+        return os.path.join(self.DIR_EMBEDDING, f"{self.emb_id}.emb_idx.json")
+
+    def load(self):
+        if not os.path.exists(self.idx_path):
+            return {}
+        idx = JSONFile(self.idx_path).read()
+        n = len(idx)
+        log.info(f"Read {n} embs from {self.idx_path}")
+        self.idx = idx
+
+    def store(self):
+        if not os.path.exists(self.DIR_EMBEDDING):
+            os.makedirs(self.DIR_EMBEDDING)
+        n = len(self.idx)
+        JSONFile(self.idx_path).write(self.idx)
+        file_size = os.path.getsize(self.idx_path) / 1000_000
+        log.info(f"Wrote {n} embs to {self.idx_path} ({file_size:.3f}MB)")
+
+    def multiget(self, text_list):
+        hot_text_list = [text for text in text_list if text not in self.idx]
+        if hot_text_list:
+            hot_idx = Embedding(hot_text_list).get_idx()
+            for text in hot_text_list:
+                self.idx[text] = hot_idx[text]
+
+        output_idx = {}
+        for text in text_list:
+            output_idx[text] = self.idx[text]
+
+        self.store()
+        return output_idx
