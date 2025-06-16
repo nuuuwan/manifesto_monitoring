@@ -1,7 +1,8 @@
 import os
+import pickle
 from functools import cached_property
 
-from utils import Hash, JSONFile, Log
+from utils import Hash, Log
 
 from mm.ai.Embedding import Embedding
 
@@ -18,12 +19,14 @@ class EmbIdx:
 
     @cached_property
     def idx_path(self):
-        return os.path.join(self.DIR_EMBEDDING, f"{self.emb_id}.emb_idx.json")
+        return os.path.join(self.DIR_EMBEDDING, f"{self.emb_id}.emb_idx.pkl")
 
     def load(self):
         if not os.path.exists(self.idx_path):
             return {}
-        idx = JSONFile(self.idx_path).read()
+        with open(self.idx_path, "rb") as f:
+            idx = pickle.load(f)
+
         n = len(idx)
         log.info(f"Read {n} embs from {self.idx_path}")
         self.idx = idx
@@ -31,10 +34,17 @@ class EmbIdx:
     def store(self):
         if not os.path.exists(self.DIR_EMBEDDING):
             os.makedirs(self.DIR_EMBEDDING)
+        with open(self.idx_path, "wb") as f:
+            pickle.dump(self.idx, f)
+
         n = len(self.idx)
-        JSONFile(self.idx_path).write(self.idx)
-        file_size = os.path.getsize(self.idx_path) / 1000_000
-        log.info(f"Wrote {n} embs to {self.idx_path} ({file_size:.3f}MB)")
+        file_size = os.path.getsize(self.idx_path)
+        file_size_per_emb = file_size / n
+        log.info(
+            f"Wrote {n} embs to {self.idx_path}"
+            f" ({file_size / 1000_000:.1f}MB, "
+            f" {file_size_per_emb / 1000:.1f}KB/emb)"
+        )
 
     @staticmethod
     def __hash_text__(text: str) -> str:
