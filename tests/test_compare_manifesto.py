@@ -17,9 +17,11 @@ class TestCase(unittest.TestCase):
         m = comp.get_similarity_matrix()
         self.assertIsNotNone(m)
         max_sim = max([x[1] for x in m])
-        self.assertAlmostEqual(max_sim, 0.5, places=1)
-        for (text1, text2), sim in m:
-            if sim > 0.5:
+
+        e_max_sim = 0.6
+        self.assertAlmostEqual(max_sim, e_max_sim, places=1)
+        for (text1, text2), sim in reversed(m):
+            if sim > e_max_sim - 0.1:
                 print("=" * 64)
                 print(f"Similarity: {sim:.4f}")
                 print("-" * 64)

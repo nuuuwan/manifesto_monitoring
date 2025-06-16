@@ -8,8 +8,8 @@ log = Log("CompareManifesto")
 
 
 class CompareManifesto:
-    N_LIMIT_CABINET_DECISIONS = 100
-    N_LIMIT_MANIFESTO = 100
+    N_LIMIT_CABINET_DECISIONS = 200
+    N_LIMIT_MANIFESTO = 200
     CABINET_DECISIONS_ID = "cabinet_decisions"
     MANIFESTO_ID = "manifesto"
 
