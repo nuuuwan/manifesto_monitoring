@@ -8,8 +8,8 @@ log = Log("CompareManifesto")
 
 
 class CompareManifesto:
-    N_LIMIT_CABINET_DECISIONS = 10
-    N_LIMIT_MANIFESTO = 10
+    N_LIMIT_CABINET_DECISIONS = 100
+    N_LIMIT_MANIFESTO = 100
     CABINET_DECISIONS_ID = "cabinet_decisions"
     MANIFESTO_ID = "manifesto"
 
@@ -25,6 +25,8 @@ class CompareManifesto:
             text = "\n\n".join(
                 [
                     f"# {cabinet_decision.title}",
+                    f"({cabinet_decision.date_str},"
+                    f" {cabinet_decision.decision_num})",
                     f"{cabinet_decision.decision_details}",
                 ]
             )
@@ -50,6 +52,7 @@ class CompareManifesto:
                     f'## {item["l2_topic"]}',
                     f'### {item["activity"]}',
                     f'{item["item"]}',
+                    f'({item["key"]})',
                 ]
             )
 
