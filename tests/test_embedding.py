@@ -15,7 +15,7 @@ class TestCase(unittest.TestCase):
         self.assertEqual(len(e1), 1536)
         self.assertAlmostEqual(e1[0], -0.0263)
 
-        m = Embedding.get_similarity_matrix(idx)
+        m = Embedding.get_similarity_matrix(idx, idx)
         print(m)
         self.assertEqual(
             m,

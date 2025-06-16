@@ -1,6 +1,6 @@
 from utils import Log
 
-from mm.ai import EmbIdx
+from mm.ai import Embedding, EmbIdx
 from mm.cabinet_decisions import CabinetDecision
 from mm.manifesto import NPPManifestoPDF
 
@@ -22,11 +22,13 @@ class CompareManifesto:
         emb_idx = EmbIdx(self.CABINET_DECISIONS_ID)
         text_list = []
         for cabinet_decision in cabinet_decisions:
-            text = (
-                cabinet_decision.title
-                + " "
-                + cabinet_decision.decision_details
+            text = "\n\n".join(
+                [
+                    f"# {cabinet_decision.title}",
+                    f"{cabinet_decision.decision_details}",
+                ]
             )
+
             text_list.append(text)
 
         idx = emb_idx.multiget(text_list)
@@ -42,17 +44,26 @@ class CompareManifesto:
         emb_idx = EmbIdx(self.MANIFESTO_ID)
         text_list = []
         for item in all_table:
-            text = (
-                item["l1_topic"]
-                + " "
-                + item["l2_topic"]
-                + " "
-                + item["activity"]
-                + " "
-                + item["item"]
+            text = "\n\n".join(
+                [
+                    f'# {item["l1_topic"]}',
+                    f'## {item["l2_topic"]}',
+                    f'### {item["activity"]}',
+                    f'{item["item"]}',
+                ]
             )
+
             text_list.append(text)
 
         idx = emb_idx.multiget(text_list)
         log.info(f"Built EmbIdx for {len(text_list)} manifesto items")
         return idx
+
+    def get_similarity_matrix(self):
+        idx_cabinet_decisions = self.build_emb_idx_for_cabinet_decisions()
+        idx_manifesto = self.build_emb_idx_for_manifesto()
+        m = Embedding.get_similarity_matrix(
+            idx_cabinet_decisions, idx_manifesto
+        )
+        log.info(f"Got similarity matrix with {len(m)} items")
+        return m

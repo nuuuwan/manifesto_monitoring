@@ -43,17 +43,20 @@ class Embedding:
         return Embedding.round(dot_product / (norm1 * norm2))
 
     @staticmethod
-    def get_similarity_matrix(idx):
-        text_list = list(idx.keys())
-        n = len(text_list)
+    def get_similarity_matrix(idx1, idx2):
+        text_list1 = list(idx1.keys())
+        text_list2 = list(idx2.keys())
+        n1 = len(text_list1)
+        n2 = len(text_list2)
+
         m = []
-        for i in range(n):
-            text_i = text_list[i]
-            emb_i = idx[text_i]
-            for j in range(n):
-                text_j = text_list[j]
-                emb_j = idx[text_j]
-                sim = Embedding.cosine_similarity(emb_i, emb_j)
-                m.append(((text_i, text_j), sim))
+        for i1 in range(n1):
+            text1 = text_list1[i1]
+            emb1 = idx1[text1]
+            for i2 in range(n2):
+                text2 = text_list2[i2]
+                emb2 = idx2[text2]
+                sim = Embedding.cosine_similarity(emb1, emb2)
+                m.append(((text1, text2), sim))
         m.sort(key=lambda x: x[1], reverse=True)
         return m
