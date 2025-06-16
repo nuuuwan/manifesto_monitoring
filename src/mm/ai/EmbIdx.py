@@ -1,7 +1,7 @@
 import os
 from functools import cached_property
 
-from utils import JSONFile, Log
+from utils import Hash, JSONFile, Log
 
 from mm.ai.Embedding import Embedding
 
@@ -13,6 +13,7 @@ class EmbIdx:
 
     def __init__(self, emb_id: str):
         self.emb_id = emb_id
+        self.idx = {}
         self.load()
 
     @cached_property
@@ -35,16 +36,24 @@ class EmbIdx:
         file_size = os.path.getsize(self.idx_path) / 1000_000
         log.info(f"Wrote {n} embs to {self.idx_path} ({file_size:.3f}MB)")
 
+    @staticmethod
+    def __hash_text__(text: str) -> str:
+        return Hash.md5(text)
+
     def multiget(self, text_list):
-        hot_text_list = [text for text in text_list if text not in self.idx]
+        hot_text_list = [
+            text
+            for text in text_list
+            if self.__hash_text__(text) not in self.idx
+        ]
         if hot_text_list:
             hot_idx = Embedding(hot_text_list).get_idx()
             for text in hot_text_list:
-                self.idx[text] = hot_idx[text]
+                self.idx[self.__hash_text__(text)] = hot_idx[text]
 
         output_idx = {}
         for text in text_list:
-            output_idx[text] = self.idx[text]
+            output_idx[text] = self.idx[self.__hash_text__(text)]
 
         self.store()
         return output_idx
