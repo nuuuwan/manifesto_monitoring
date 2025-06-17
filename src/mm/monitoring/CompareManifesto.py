@@ -72,10 +72,10 @@ class CompareManifesto:
         return idx
 
     def get_similarity_matrix(self):
-        idx_cabinet_decisions = self.build_emb_idx_for_cabinet_decisions()
         idx_manifesto = self.build_emb_idx_for_manifesto()
+        idx_cabinet_decisions = self.build_emb_idx_for_cabinet_decisions()
         m = Embedding.get_similarity_matrix(
-            idx_cabinet_decisions, idx_manifesto
+            idx_manifesto, idx_cabinet_decisions
         )
         log.info(f"Got similarity matrix with {len(m)} items")
         return m

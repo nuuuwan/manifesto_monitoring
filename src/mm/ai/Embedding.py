@@ -46,17 +46,10 @@ class Embedding:
 
     @staticmethod
     def get_similarity_matrix(idx1, idx2):
-        keys1, mat1 = zip(*[(k, v) for k, v in idx1.items()])
-        keys2, mat2 = zip(*[(k, v) for k, v in idx2.items()])
-
+        mat1 = list(idx1.values())
+        mat2 = list(idx2.values())
         mat1 = normalize(np.array(mat1, dtype=np.float32), axis=1)
         mat2 = normalize(np.array(mat2, dtype=np.float32), axis=1)
         similarity_matrix = np.dot(mat1, mat2.T)
 
-        top_matches = []
-        for i, row in enumerate(similarity_matrix):
-            j = np.argmax(row)
-            sim = row[j]
-            top_matches.append(((keys1[i], keys2[j]), sim))
-
-        return top_matches
+        return similarity_matrix
