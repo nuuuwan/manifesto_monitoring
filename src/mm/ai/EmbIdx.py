@@ -15,6 +15,7 @@ class EmbIdx:
     def __init__(self, emb_id: str):
         self.emb_id = emb_id
         self.idx = {}
+        self.is_updated = False
         self.load()
 
     @cached_property
@@ -57,6 +58,7 @@ class EmbIdx:
             if self.__hash_text__(text) not in self.idx
         ]
         if hot_text_list:
+            self.is_updated = True
             hot_idx = Embedding(hot_text_list).get_idx()
             for text in hot_text_list:
                 self.idx[self.__hash_text__(text)] = hot_idx[text]
@@ -65,5 +67,6 @@ class EmbIdx:
         for text in text_list:
             output_idx[text] = self.idx[self.__hash_text__(text)]
 
-        self.store()
+        if self.is_updated:
+            self.store()
         return output_idx
