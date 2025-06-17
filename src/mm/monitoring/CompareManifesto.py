@@ -30,7 +30,9 @@ class CompareManifesto:
         if self.MAX_CABINET_DECISIONS and self.MAX_CABINET_DECISIONS < len(
             cabinet_decisions
         ):
-            cabinet_decisions = cabinet_decisions[: self.MAX_CABINET_DECISIONS]
+            cabinet_decisions = cabinet_decisions[
+                : self.MAX_CABINET_DECISIONS
+            ]
 
         return cabinet_decisions
 
@@ -119,8 +121,8 @@ class CompareManifesto:
             )
             data_list.append(data)
         log.info(
-            f"Found {
-                len(data_list)} similarity data items with sim >= {min_sim}"
+            f"Found {len(data_list)} similarity data items"
+            f" with sim >= {min_sim}"
         )
 
         return data_list
