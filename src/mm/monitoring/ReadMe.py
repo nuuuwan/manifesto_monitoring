@@ -172,6 +172,13 @@ class ReadMe:
             self.get_table_data(x, manifesto_idx, cabinet_decision_idx)
             for x in data_list
         ]
+
+        table_data_list.sort(key=lambda x: (x["Similarity"],), reverse=True)
+
+        table_data_list = [
+            dict(row=x[0]) | x[1] for x in enumerate(table_data_list, start=1)
+        ]
+
         return [
             self.build_markdown_table(table_data_list),
         ]
