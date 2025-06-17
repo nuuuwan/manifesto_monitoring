@@ -19,20 +19,20 @@ class ReadMe:
         return [
             "# 🇱🇰 Manifesto Monitoring",
             "",
-            "This repository contains utility libraries and tools for"
-            " tracking, analyzing, and visualizing the implementation of the"
+            "This repository contains utility libraries & tools for"
+            " tracking, analyzing, & visualizing the implementation of the"
             f" [2024 NPP manifesto]({self.SOURCE_URL}) —"
             " now the **de facto policy framework**"
             " of the 🇱🇰 Sri Lankan Government (2025).",
             "",
-            "🛠️ Built for researchers, developers, journalists, and citizens"
-            " who want **accountability and transparency** in governance.",
+            "🛠️ Built for researchers, developers, journalists, & citizens"
+            " who want **accountability & transparency** in governance.",
             "",
             "🔍 Use this repo to:",
             "",
             "- Track progress on key promises",
             "- Analyze policy implementation",
-            "- Build visual dashboards and reports",
+            "- Build visual dashboards & reports",
             "",
             "📢 Public Data. Share. Fork. Contribute.",
             "",
@@ -157,7 +157,7 @@ class ReadMe:
     def compare_lines(self):
         return (
             [
-                "## Comparison of NPP Manifesto Promises and Cabinet Decisions",
+                "## 🤖 AI Comparison of NPP Manifesto Promises & Cabinet Decisions",
                 "",
                 "This section compares the NPP manifesto promises with"
                 " Cabinet Decisions,"
