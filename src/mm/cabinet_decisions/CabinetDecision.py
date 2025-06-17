@@ -57,3 +57,9 @@ class CabinetDecision:
             )
             for data in CabinetDecision.__get_data_list__()
         ]
+
+    @staticmethod
+    def idx():
+        return {
+            decision.key: decision for decision in CabinetDecision.list_all()
+        }
