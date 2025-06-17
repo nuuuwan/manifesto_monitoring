@@ -12,10 +12,10 @@ log = Log("CompareManifesto")
 
 class CompareManifesto:
     MIN_DATE_CABINET_DECISIONS = "2024-09-24"
-    MAX_CABINET_DECISIONS = 100
-    MAX_MANIFESTO_ITEMS = 100
+    MAX_CABINET_DECISIONS = 2000
+    MAX_MANIFESTO_ITEMS = 2000
 
-    VERSION_ID = "test-100"
+    VERSION_ID = "prod"
     CABINET_DECISIONS_ID = f"cabinet_decisions-{VERSION_ID}"
     MANIFESTO_ID = f"manifesto-{VERSION_ID}"
 
