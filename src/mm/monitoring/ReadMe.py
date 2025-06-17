@@ -62,7 +62,7 @@ class ReadMe:
 
         idx = {
             "all": {
-                "l1": "   ",
+                "l1": "all",
                 "l1_topic": "all",
                 "n": 0,
                 "⚪ 0.5 - 0.6": 0,
