@@ -168,7 +168,7 @@ class ReadMe:
                 "",
             ]
             + self.compare_summary_lines
-            + self.compare_data_lines
+            + self.compare_detail_lines
         )
 
     @cached_property

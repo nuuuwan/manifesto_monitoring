@@ -27,6 +27,8 @@ l1 | l1_topic | n | ⚪ 0.5 - 0.7 | 🟡 0.7 - 0.9 | 🟢 0.9 <
 3 | A modern life - A wealthy nation | 605 | 147 | 0 | 0
 4 | A dignified life - A strong country | 222 | 78 | 0 | 0
 
+### Manifesto/Decision Pairs with Similarity >= 0.7
+
 Manifesto | Cabinet Decision | Similarity
 --- | --- | ---
 `1.01.A01.06` **Early Childhood Development Education**  Activities that improve children’s health and nutritional status | [2024-12-18-008](https://www.cabinetoffice.gov.lk/cab/index.php?option=com_content&view=article&id=16&Itemid=49&lang=en&dID=12936) **Programme for providing morning meal to children in Early Childhood Development Centres/Pre-schools** | ⚪ 0.52
