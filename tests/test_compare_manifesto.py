@@ -16,3 +16,8 @@ class TestCase(unittest.TestCase):
         comp = CompareManifesto()
         m = comp.get_similarity_matrix()
         self.assertIsNotNone(m)
+
+    def test_get_high_similarity_pairs(self):
+        comp = CompareManifesto()
+        data_list = comp.get_high_similarity_pairs(min_sim=0.5)
+        self.assertGreater(len(data_list), 0)

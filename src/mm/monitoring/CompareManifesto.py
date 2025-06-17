@@ -1,3 +1,6 @@
+from functools import cache
+
+import numpy as np
 from utils import Log
 
 from mm.ai import Embedding, EmbIdx
@@ -14,6 +17,7 @@ class CompareManifesto:
     CABINET_DECISIONS_ID = "cabinet_decisions"
     MANIFESTO_ID = "manifesto"
 
+    @cache
     def build_emb_idx_for_cabinet_decisions(self):
         cabinet_decisions = CabinetDecision.list_all()
         cabinet_decisions = [
@@ -27,7 +31,7 @@ class CompareManifesto:
             cabinet_decisions = cabinet_decisions[
                 : self.MAX_CABINET_DECISIONS
             ]
-        log.info(f"Processing {len(cabinet_decisions)} cabinet decisions")
+
         emb_idx = EmbIdx(self.CABINET_DECISIONS_ID)
         text_list = []
         for cabinet_decision in cabinet_decisions:
@@ -43,9 +47,10 @@ class CompareManifesto:
             text_list.append(text)
 
         idx = emb_idx.multiget(text_list)
-        log.info(f"Built EmbIdx for {len(text_list)} cabinet decisions")
+        log.debug(f"Built EmbIdx for {len(text_list)} cabinet decisions")
         return idx
 
+    @cache
     def build_emb_idx_for_manifesto(self):
         manifesto = NPPManifestoPDF().get_manifesto()
         all_table = manifesto.all_table
@@ -68,9 +73,10 @@ class CompareManifesto:
             text_list.append(text)
 
         idx = emb_idx.multiget(text_list)
-        log.info(f"Built EmbIdx for {len(text_list)} manifesto items")
+        log.debug(f"Built EmbIdx for {len(text_list)} manifesto items")
         return idx
 
+    @cache
     def get_similarity_matrix(self):
         idx_manifesto = self.build_emb_idx_for_manifesto()
         idx_cabinet_decisions = self.build_emb_idx_for_cabinet_decisions()
@@ -79,3 +85,29 @@ class CompareManifesto:
         )
         log.info(f"Got similarity matrix with {len(m)} items")
         return m
+
+    @cache
+    def get_high_similarity_pairs(self, min_sim=0.5):
+        idx_manifesto = self.build_emb_idx_for_manifesto()
+        idx_cabinet_decisions = self.build_emb_idx_for_cabinet_decisions()
+        keys1 = list(idx_manifesto.keys())
+        keys2 = list(idx_cabinet_decisions.keys())
+
+        m = self.get_similarity_matrix()
+        data_list = []
+        for i, row in enumerate(m):
+            j = np.argmax(row)
+            value = row[j]
+            if value < min_sim:
+                continue
+            data = dict(
+                manifest_item=keys1[i],
+                cabinet_decision=keys2[j],
+                similarity=value,
+            )
+            data_list.append(data)
+        log.info(
+            f"Found {
+                len(data_list)} high similarity pairs with min_sim={min_sim}"
+        )
+        return data_list

@@ -29,7 +29,7 @@ class EmbIdx:
             idx = pickle.load(f)
 
         n = len(idx)
-        log.info(f"Read {n} embs from {self.idx_path}")
+        log.debug(f"Read {n} embs from {self.idx_path}")
         self.idx = idx
 
     def store(self):
