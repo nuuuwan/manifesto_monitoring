@@ -60,7 +60,16 @@ class ReadMe:
         CabinetDecision.idx()
         manifesto_to_datalist = {x["manifesto_key"]: x for x in data_list}
 
-        idx = {}
+        idx = {
+            "all": {
+                "l1": "-",
+                "l1_topic": "all",
+                "n": 0,
+                "⚪ 0.5 - 0.6": 0,
+                "🟡 0.6 - 0.7": 0,
+                "🟢 0.7 < ": 0,
+            }
+        }
         for manifesto_key, manifesto in manifesto_idx.items():
             l1 = manifesto_key[:1]
             if l1 not in idx:
@@ -68,26 +77,47 @@ class ReadMe:
                     "l1": l1,
                     "l1_topic": manifesto["l1_topic"],
                     "n": 0,
-                    "⚪ 0.5 - 0.67": 0,
-                    "🟡 0.67 - 0.75": 0,
-                    "🟢 0.75 < ": 0,
+                    "⚪ 0.5 - 0.6": 0,
+                    "🟡 0.6 - 0.7": 0,
+                    "🟢 0.7 < ": 0,
                 }
 
-            idx[l1]["n"] += 1
-            sim_data = manifesto_to_datalist.get(manifesto_key)
-            if sim_data:
-                similarity = sim_data["similarity"]
-                if similarity > 0.75:
-                    idx[l1]["🟢 0.75 < "] += 1
-                elif similarity > 0.67:
-                    idx[l1]["🟡 0.67 - 0.75"] += 1
-                else:
-                    idx[l1]["⚪ 0.5 - 0.67"] += 1
+            for k in ["all", l1]:
+                idx[k]["n"] += 1
+                sim_data = manifesto_to_datalist.get(manifesto_key)
+                if sim_data:
+                    similarity = sim_data["similarity"]
+                    if similarity > 0.7:
+                        idx[k]["🟢 0.7 < "] += 1
+                    elif similarity > 0.6:
+                        idx[k]["🟡 0.6 - 0.7"] += 1
+                    else:
+                        idx[k]["⚪ 0.5 - 0.6"] += 1
+
+        d_list = [x[1] for x in sorted(list(idx.items()), key=lambda x: x[0])]
+
+        new_d_list = []
+        for d in d_list:
+
+            def f(x):
+                p = d[x] / d["n"]
+                return f"{p:.0%}"
+
+            new_d_list.append(
+                {
+                    "l1": d["l1"],
+                    "l1_topic": d["l1_topic"],
+                    "n": d["n"],
+                    "⚪ 0.5 - 0.6": f("⚪ 0.5 - 0.6"),
+                    "🟡 0.6 - 0.7": f("🟡 0.6 - 0.7"),
+                    "🟢 0.7 < ": f("🟢 0.7 < "),
+                }
+            )
 
         return [
             "### Summary",
             "",
-            self.build_markdown_table(list(idx.values())),
+            self.build_markdown_table(new_d_list),
             "",
         ]
 
@@ -113,9 +143,9 @@ class ReadMe:
     @staticmethod
     def get_similarity_markdown(similarity):
         emoji = "⚪"
-        if similarity >= 0.75:
+        if similarity >= 0.7:
             emoji = "🟢"
-        elif similarity >= 0.67:
+        elif similarity >= 0.6:
             emoji = "🟡"
         return f"{emoji} {similarity:.2f}"
 
