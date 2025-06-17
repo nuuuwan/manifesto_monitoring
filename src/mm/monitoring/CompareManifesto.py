@@ -8,17 +8,26 @@ log = Log("CompareManifesto")
 
 
 class CompareManifesto:
-    N_LIMIT_CABINET_DECISIONS = 200
-    N_LIMIT_MANIFESTO = 200
+    MIN_DATE_CABINET_DECISIONS = "2024-09-24"
+    MAX_CABINET_DECISIONS = 1_000
+    MAX_MANIFESTO_ITEMS = 2_000
     CABINET_DECISIONS_ID = "cabinet_decisions"
     MANIFESTO_ID = "manifesto"
 
     def build_emb_idx_for_cabinet_decisions(self):
         cabinet_decisions = CabinetDecision.list_all()
-        if self.N_LIMIT_CABINET_DECISIONS:
+        cabinet_decisions = [
+            x
+            for x in cabinet_decisions
+            if x.date_str >= self.MIN_DATE_CABINET_DECISIONS
+        ]
+        if self.MAX_CABINET_DECISIONS and self.MAX_CABINET_DECISIONS > len(
+            cabinet_decisions
+        ):
             cabinet_decisions = cabinet_decisions[
-                : self.N_LIMIT_CABINET_DECISIONS
+                : self.MAX_CABINET_DECISIONS
             ]
+        log.info(f"Processing {len(cabinet_decisions)} cabinet decisions")
         emb_idx = EmbIdx(self.CABINET_DECISIONS_ID)
         text_list = []
         for cabinet_decision in cabinet_decisions:
@@ -40,8 +49,8 @@ class CompareManifesto:
     def build_emb_idx_for_manifesto(self):
         manifesto = NPPManifestoPDF().get_manifesto()
         all_table = manifesto.all_table
-        if self.N_LIMIT_MANIFESTO:
-            all_table = all_table[: self.N_LIMIT_MANIFESTO]
+        if self.MAX_MANIFESTO_ITEMS:
+            all_table = all_table[: self.MAX_MANIFESTO_ITEMS]
 
         emb_idx = EmbIdx(self.MANIFESTO_ID)
         text_list = []
