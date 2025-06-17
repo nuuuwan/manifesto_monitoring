@@ -14,6 +14,9 @@ log = Log("EmbeddingStore")
 
 class EmbeddingStore:
     MODEL = "text-embedding-3-small"
+    MODEL_URL = (
+        "https://platform.openai.com/docs/models/text-embedding-3-small"
+    )
     DIR_EMBEDDING = os.path.join("data", "ai", "embeddings")
 
     @staticmethod

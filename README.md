@@ -16,7 +16,11 @@ NPP Manifesto Source: [https://www.npp.lk/up/policies/en/npppolicystatement.pdf]
 
 ## Comparison of NPP Manifesto Promises and Cabinet Decisions
 
-This section compares the NPP manifesto promises with Cabinet Decisions, using OpenAI's **text-embedding-3-small** Embedding Model.
+This section compares the NPP manifesto promises with Cabinet Decisions, using OpenAI's [text-embedding-3-small](https://platform.openai.com/docs/models/text-embedding-3-small) Model.
+
+### Manifesto/Decision Pairs with Similarity >= 0.5
+
+### Summary
 
 Manifesto | Cabinet Decision | Similarity
 --- | --- | ---

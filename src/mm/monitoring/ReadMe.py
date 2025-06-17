@@ -51,6 +51,13 @@ class ReadMe:
 
         return f"{header_row}\n{separator_row}\n{data_rows}"
 
+    @cached_property
+    def compare_summary_lines(self):
+        return [
+            "### Summary",
+            "",
+        ]
+
     @staticmethod
     def get_manifesto_markdown(manifesto):
         return " ".join(
@@ -107,6 +114,13 @@ class ReadMe:
         ]
 
     @cached_property
+    def compare_detail_lines(self):
+        return [
+            "### Manifesto/Decision Pairs with Similarity >= 0.7",
+            "",
+        ] + self.compare_data_lines
+
+    @cached_property
     def compare_lines(self):
         return (
             [
@@ -114,13 +128,16 @@ class ReadMe:
                 "",
                 "This section compares the NPP manifesto promises with"
                 " Cabinet Decisions,"
-                f" using OpenAI's **{EmbeddingStore.MODEL}** Embedding Model.",
+                " using OpenAI's"
+                f" [{
+                    EmbeddingStore.MODEL}]({
+                    EmbeddingStore.MODEL_URL}) Model.",
                 "",
-                "### Manifesto/Decision Pairs with Similarity >= 0.7",
+                "### Manifesto/Decision Pairs with Similarity >= 0.5",
                 "",
             ]
+            + self.compare_summary_lines
             + self.compare_data_lines
-            + [""]
         )
 
     @cached_property
