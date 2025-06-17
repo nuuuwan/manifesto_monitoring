@@ -18,9 +18,14 @@ NPP Manifesto Source: [https://www.npp.lk/up/policies/en/npppolicystatement.pdf]
 
 This section compares the NPP manifesto promises with Cabinet Decisions, using OpenAI's [text-embedding-3-small](https://platform.openai.com/docs/models/text-embedding-3-small) Model.
 
-### Manifesto/Decision Pairs with Similarity >= 0.5
-
 ### Summary
+
+l1 | l1_topic | n | ⚪ 0.5 - 0.7 | 🟡 0.7 - 0.9 | 🟢 0.9 < 
+--- | --- | --- | --- | --- | ---
+1 | A fulfilling life - A comfortable country | 337 | 37 | 0 | 0
+2 | An honourable life - A safer country | 181 | 36 | 0 | 0
+3 | A modern life - A wealthy nation | 605 | 147 | 0 | 0
+4 | A dignified life - A strong country | 222 | 78 | 0 | 0
 
 Manifesto | Cabinet Decision | Similarity
 --- | --- | ---

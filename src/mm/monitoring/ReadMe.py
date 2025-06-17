@@ -51,10 +51,43 @@ class ReadMe:
 
         return f"{header_row}\n{separator_row}\n{data_rows}"
 
+    # flake8: noqa: C901 - HACK!
     @cached_property
     def compare_summary_lines(self):
+
+        data_list = CompareManifesto().high_similarity_pairs
+        manifesto_idx = NPPManifestoPDF().get_manifesto().all_idx
+        CabinetDecision.idx()
+        manifesto_to_datalist = {x["manifesto_key"]: x for x in data_list}
+
+        idx = {}
+        for manifesto_key, manifesto in manifesto_idx.items():
+            l1 = manifesto_key[:1]
+            if l1 not in idx:
+                idx[l1] = {
+                    "l1": l1,
+                    "l1_topic": manifesto["l1_topic"],
+                    "n": 0,
+                    "⚪ 0.5 - 0.7": 0,
+                    "🟡 0.7 - 0.9": 0,
+                    "🟢 0.9 < ": 0,
+                }
+
+            idx[l1]["n"] += 1
+            sim_data = manifesto_to_datalist.get(manifesto_key)
+            if sim_data:
+                similarity = sim_data["similarity"]
+                if similarity > 0.9:
+                    idx[l1]["🟢 0.9 < "] += 1
+                elif similarity > 0.7:
+                    idx[l1]["🟡 0.7 - 0.9"] += 1
+                else:
+                    idx[l1]["⚪ 0.5 - 0.7"] += 1
+
         return [
             "### Summary",
+            "",
+            self.build_markdown_table(list(idx.values())),
             "",
         ]
 
@@ -132,8 +165,6 @@ class ReadMe:
                 f" [{
                     EmbeddingStore.MODEL}]({
                     EmbeddingStore.MODEL_URL}) Model.",
-                "",
-                "### Manifesto/Decision Pairs with Similarity >= 0.5",
                 "",
             ]
             + self.compare_summary_lines
