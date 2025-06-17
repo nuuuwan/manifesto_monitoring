@@ -1,7 +1,9 @@
 import os
 from functools import cache
 
+import numpy as np
 from openai import OpenAI
+from sklearn.preprocessing import normalize
 from utils import Log
 
 log = Log("Embedding")
@@ -44,19 +46,17 @@ class Embedding:
 
     @staticmethod
     def get_similarity_matrix(idx1, idx2):
-        text_list1 = list(idx1.keys())
-        text_list2 = list(idx2.keys())
-        n1 = len(text_list1)
-        n2 = len(text_list2)
+        keys1, mat1 = zip(*[(k, v) for k, v in idx1.items()])
+        keys2, mat2 = zip(*[(k, v) for k, v in idx2.items()])
 
-        m = []
-        for i1 in range(n1):
-            text1 = text_list1[i1]
-            emb1 = idx1[text1]
-            for i2 in range(n2):
-                text2 = text_list2[i2]
-                emb2 = idx2[text2]
-                sim = Embedding.cosine_similarity(emb1, emb2)
-                m.append(((text1, text2), sim))
-        m.sort(key=lambda x: x[1], reverse=True)
-        return m
+        mat1 = normalize(np.array(mat1, dtype=np.float32), axis=1)
+        mat2 = normalize(np.array(mat2, dtype=np.float32), axis=1)
+        similarity_matrix = np.dot(mat1, mat2.T)
+
+        top_matches = []
+        for i, row in enumerate(similarity_matrix):
+            j = np.argmax(row)
+            sim = row[j]
+            top_matches.append(((keys1[i], keys2[j]), sim))
+
+        return top_matches
