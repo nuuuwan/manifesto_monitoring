@@ -35,16 +35,6 @@ class Embedding:
         return idx
 
     @staticmethod
-    def cosine_similarity(emb1, emb2) -> float:
-
-        dot_product = sum(a * b for a, b in zip(emb1, emb2))
-        norm1 = sum(a**2 for a in emb1) ** 0.5
-        norm2 = sum(b**2 for b in emb2) ** 0.5
-        if norm1 == 0 or norm2 == 0:
-            return 0.0
-        return Embedding.round(dot_product / (norm1 * norm2))
-
-    @staticmethod
     def get_similarity_matrix(idx1, idx2):
         mat1 = list(idx1.values())
         mat2 = list(idx2.values())
