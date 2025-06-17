@@ -15,7 +15,7 @@ class CompareManifesto:
     MAX_CABINET_DECISIONS = 2000
     MAX_MANIFESTO_ITEMS = 2000
 
-    VERSION_ID = "prod"
+    VERSION_ID = "prod-v3"
     CABINET_DECISIONS_ID = f"cabinet_decisions-{VERSION_ID}"
     MANIFESTO_ID = f"manifesto-{VERSION_ID}"
 
@@ -43,8 +43,8 @@ class CompareManifesto:
             text = "\n\n".join(
                 [
                     f"# {cabinet_decision.title}",
-                    f"({cabinet_decision.date_str},"
-                    f" {cabinet_decision.decision_num})",
+                    # f"({cabinet_decision.date_str},"
+                    # f" {cabinet_decision.decision_num})",
                     f"{cabinet_decision.decision_details}",
                 ]
             )
@@ -73,11 +73,10 @@ class CompareManifesto:
             key = item["key"]
             text = "\n\n".join(
                 [
-                    f'# {item["l1_topic"]}',
-                    f'## {item["l2_topic"]}',
+                    # f'# {item["l1_topic"]}',
+                    # f'## {item["l2_topic"]}',
                     f'### {item["activity"]}',
                     f'{item["item"]}',
-                    f'({item["key"]})',
                 ]
             )
             key_to_text[key] = text

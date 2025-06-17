@@ -56,9 +56,9 @@ class ReadMe:
     def get_manifesto_markdown(manifesto):
         return " ".join(
             [
-                f"**{manifesto['activity']}**: ",
-                f"{manifesto["item"]}",
                 f"`{manifesto["key"]}`",
+                f"**{manifesto['activity']}** ",
+                f"{manifesto["item"]}",
             ]
         )
 
@@ -66,8 +66,8 @@ class ReadMe:
     def get_cabinet_decision_markdown(cabinet_decision):
         return " ".join(
             [
-                f"**{cabinet_decision.title}**: ",
                 f"`{cabinet_decision.key}`",
+                f"{cabinet_decision.title} ",
             ]
         )
 
