@@ -26,9 +26,9 @@ l1 | l1_topic | n | ⚪ 0.5 - 0.6 | 🟡 0.6 - 0.7 | 🟢 0.7 <
 2 | An honourable life - A safer country | 181 | 18% | 2% | 0%
 3 | A modern life - A wealthy nation | 605 | 21% | 3% | 0%
 4 | A dignified life - A strong country | 222 | 32% | 4% | 0%
-- | all | 1345 | 20% | 2% | 0%
+    | all | 1345 | 20% | 2% | 0%
 
-### Manifesto/Decision Pairs with Similarity >= 0.7
+### Manifesto/Decision Pairs with Similarity >= 0.5
 
 Manifesto | Cabinet Decision | Similarity
 --- | --- | ---

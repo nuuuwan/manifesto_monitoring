@@ -62,7 +62,7 @@ class ReadMe:
 
         idx = {
             "all": {
-                "l1": "-",
+                "l1": "   ",
                 "l1_topic": "all",
                 "n": 0,
                 "⚪ 0.5 - 0.6": 0,
@@ -179,7 +179,7 @@ class ReadMe:
     @cached_property
     def compare_detail_lines(self):
         return [
-            "### Manifesto/Decision Pairs with Similarity >= 0.7",
+            "### Manifesto/Decision Pairs with Similarity >= 0.5",
             "",
         ] + self.compare_data_lines
 
