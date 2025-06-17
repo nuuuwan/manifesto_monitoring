@@ -10,6 +10,7 @@ from mm.monitoring.CompareManifesto import CompareManifesto
 log = Log("ReadMe")
 
 
+# HACK!
 class ReadMe:
     README_PATH = "README.md"
     SOURCE_URL = "https://www.npp.lk/up/policies/en/npppolicystatement.pdf"
@@ -57,7 +58,6 @@ class ReadMe:
 
         data_list = CompareManifesto().high_similarity_pairs
         manifesto_idx = NPPManifestoPDF().get_manifesto().all_idx
-        CabinetDecision.idx()
         manifesto_to_datalist = {x["manifesto_key"]: x for x in data_list}
 
         idx = {
@@ -185,9 +185,16 @@ class ReadMe:
 
     @cached_property
     def compare_lines(self):
+        n_manifesto = len(CompareManifesto().manifesto_key_to_text)
+        n_cabinet_decisions = len(
+            CompareManifesto().cabinet_decisions_key_to_text
+        )
+
         return (
             [
-                "## 🤖 AI Comparison of NPP Manifesto Promises & Cabinet Decisions",
+                "## 🤖 AI Comparison of "
+                f" {n_manifesto:,} NPP Manifesto Promises &"
+                f" {n_cabinet_decisions:,} NPP Cabinet Decisions",
                 "",
                 "This section compares the NPP manifesto promises with"
                 " Cabinet Decisions,"

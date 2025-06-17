@@ -14,7 +14,7 @@ This repository contains utility libraries & tools for tracking, analyzing, & vi
 
 NPP Manifesto Source: [https://www.npp.lk/up/policies/en/npppolicystatement.pdf](https://www.npp.lk/up/policies/en/npppolicystatement.pdf)
 
-## 🤖 AI Comparison of NPP Manifesto Promises & Cabinet Decisions
+## 🤖 AI Comparison of  1,345 NPP Manifesto Promises & 402 NPP Cabinet Decisions
 
 This section compares the NPP manifesto promises with Cabinet Decisions, using OpenAI's [text-embedding-3-small](https://platform.openai.com/docs/models/text-embedding-3-small) Model.
 
