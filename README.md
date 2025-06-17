@@ -2,21 +2,21 @@
 
 This repository contains utility libraries and tools for tracking, analyzing, and visualizing the implementation of the [2024 NPP manifesto](https://www.npp.lk/up/policies/en/npppolicystatement.pdf) — now the **de facto policy framework** of the 🇱🇰 Sri Lankan Government (2025).
 
+🛠️ Built for researchers, developers, journalists, and citizens who want **accountability and transparency** in governance.
+
 🔍 Use this repo to:
 
 - Track progress on key promises
 - Analyze policy implementation
 - Build visual dashboards and reports
 
-🛠️ Built for researchers, developers, journalists, and citizens who want **accountability and transparency** in governance.
-
-📢 Share. Fork. Contribute.
-
-🇱🇰 #SriLanka #OpenGovernment
+📢 Public Data. Share. Fork. Contribute.
 
 NPP Manifesto Source: [https://www.npp.lk/up/policies/en/npppolicystatement.pdf](https://www.npp.lk/up/policies/en/npppolicystatement.pdf)
 
 ## Comparison of NPP Manifesto Promises and Cabinet Decisions
+
+This section compares the NPP manifesto promises with Cabinet Decisions, using OpenAI's **text-embedding-3-small** Embedding Model.
 
 Manifesto | Cabinet Decision | Similarity
 --- | --- | ---

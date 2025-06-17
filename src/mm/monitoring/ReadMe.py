@@ -2,6 +2,7 @@ from functools import cached_property
 
 from utils import File, Log
 
+from mm.ai import EmbeddingStore
 from mm.cabinet_decisions import CabinetDecision
 from mm.manifesto import NPPManifestoPDF
 from mm.monitoring.CompareManifesto import CompareManifesto
@@ -24,18 +25,16 @@ class ReadMe:
             " now the **de facto policy framework**"
             " of the 🇱🇰 Sri Lankan Government (2025).",
             "",
+            "🛠️ Built for researchers, developers, journalists, and citizens"
+            " who want **accountability and transparency** in governance.",
+            "",
             "🔍 Use this repo to:",
             "",
             "- Track progress on key promises",
             "- Analyze policy implementation",
             "- Build visual dashboards and reports",
             "",
-            "🛠️ Built for researchers, developers, journalists, and citizens"
-            " who want **accountability and transparency** in governance.",
-            "",
-            "📢 Share. Fork. Contribute.",
-            "",
-            "🇱🇰 #SriLanka #OpenGovernment",
+            "📢 Public Data. Share. Fork. Contribute.",
             "",
             f"NPP Manifesto Source: [{self.SOURCE_URL}]({self.SOURCE_URL})",
             "",
@@ -112,6 +111,12 @@ class ReadMe:
         return (
             [
                 "## Comparison of NPP Manifesto Promises and Cabinet Decisions",
+                "",
+                "This section compares the NPP manifesto promises with"
+                " Cabinet Decisions,"
+                f" using OpenAI's **{EmbeddingStore.MODEL}** Embedding Model.",
+                "",
+                "### Manifesto/Decision Pairs with Similarity >= 0.7",
                 "",
             ]
             + self.compare_data_lines
