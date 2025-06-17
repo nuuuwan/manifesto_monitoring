@@ -68,21 +68,21 @@ class ReadMe:
                     "l1": l1,
                     "l1_topic": manifesto["l1_topic"],
                     "n": 0,
-                    "⚪ 0.5 - 0.7": 0,
-                    "🟡 0.7 - 0.9": 0,
-                    "🟢 0.9 < ": 0,
+                    "⚪ 0.5 - 0.67": 0,
+                    "🟡 0.67 - 0.75": 0,
+                    "🟢 0.75 < ": 0,
                 }
 
             idx[l1]["n"] += 1
             sim_data = manifesto_to_datalist.get(manifesto_key)
             if sim_data:
                 similarity = sim_data["similarity"]
-                if similarity > 0.9:
-                    idx[l1]["🟢 0.9 < "] += 1
-                elif similarity > 0.7:
-                    idx[l1]["🟡 0.7 - 0.9"] += 1
+                if similarity > 0.75:
+                    idx[l1]["🟢 0.75 < "] += 1
+                elif similarity > 0.67:
+                    idx[l1]["🟡 0.67 - 0.75"] += 1
                 else:
-                    idx[l1]["⚪ 0.5 - 0.7"] += 1
+                    idx[l1]["⚪ 0.5 - 0.67"] += 1
 
         return [
             "### Summary",
@@ -113,10 +113,10 @@ class ReadMe:
     @staticmethod
     def get_similarity_markdown(similarity):
         emoji = "⚪"
-        if similarity >= 0.7:
-            emoji = "🟡"
-        elif similarity >= 0.9:
+        if similarity >= 0.75:
             emoji = "🟢"
+        elif similarity >= 0.67:
+            emoji = "🟡"
         return f"{emoji} {similarity:.2f}"
 
     @staticmethod
