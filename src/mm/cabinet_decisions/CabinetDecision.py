@@ -1,5 +1,6 @@
 import os
 from dataclasses import dataclass
+from functools import cached_property
 
 from utils import JSONFile, Log
 
@@ -20,6 +21,10 @@ class CabinetDecision:
     CABINET_DESICIONS_TABLE_PATH = os.path.join(
         DIR_DATA, "cabinet_decisions.tsv"
     )
+
+    @cached_property
+    def key(self):
+        return f"{self.date_str}-{self.decision_num:03d}"
 
     @staticmethod
     def __get_data_file_path_list__():

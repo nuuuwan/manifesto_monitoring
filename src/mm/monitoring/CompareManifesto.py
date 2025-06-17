@@ -1,9 +1,9 @@
-from functools import cache
+from functools import cached_property
 
 import numpy as np
 from utils import Log
 
-from mm.ai import Embedding, EmbIdx
+from mm.ai import EmbeddingStore
 from mm.cabinet_decisions import CabinetDecision
 from mm.manifesto import NPPManifestoPDF
 
@@ -12,29 +12,34 @@ log = Log("CompareManifesto")
 
 class CompareManifesto:
     MIN_DATE_CABINET_DECISIONS = "2024-09-24"
-    MAX_CABINET_DECISIONS = 1_000
-    MAX_MANIFESTO_ITEMS = 2_000
-    CABINET_DECISIONS_ID = "cabinet_decisions"
-    MANIFESTO_ID = "manifesto"
+    MAX_CABINET_DECISIONS = 100
+    MAX_MANIFESTO_ITEMS = 100
 
-    @cache
-    def build_emb_idx_for_cabinet_decisions(self):
+    VERSION_ID = "test-100"
+    CABINET_DECISIONS_ID = f"cabinet_decisions-{VERSION_ID}"
+    MANIFESTO_ID = f"manifesto-{VERSION_ID}"
+
+    @cached_property
+    def cabinet_decisions_for_compare(self):
         cabinet_decisions = CabinetDecision.list_all()
         cabinet_decisions = [
             x
             for x in cabinet_decisions
             if x.date_str >= self.MIN_DATE_CABINET_DECISIONS
         ]
-        if self.MAX_CABINET_DECISIONS and self.MAX_CABINET_DECISIONS > len(
+        if self.MAX_CABINET_DECISIONS and self.MAX_CABINET_DECISIONS < len(
             cabinet_decisions
         ):
             cabinet_decisions = cabinet_decisions[
                 : self.MAX_CABINET_DECISIONS
             ]
 
-        emb_idx = EmbIdx(self.CABINET_DECISIONS_ID)
-        text_list = []
-        for cabinet_decision in cabinet_decisions:
+        return cabinet_decisions
+
+    @cached_property
+    def cabinet_decisions_key_to_text(self):
+        key_to_text = {}
+        for cabinet_decision in self.cabinet_decisions_for_compare:
             text = "\n\n".join(
                 [
                     f"# {cabinet_decision.title}",
@@ -43,23 +48,29 @@ class CompareManifesto:
                     f"{cabinet_decision.decision_details}",
                 ]
             )
+            key = cabinet_decision.key
+            key_to_text[key] = text
 
-            text_list.append(text)
+        return key_to_text
 
-        idx = emb_idx.multiget(text_list)
-        log.debug(f"Built EmbIdx for {len(text_list)} cabinet decisions")
-        return idx
+    @cached_property
+    def cabinet_decisions_embedding_store(self):
+        embedding_store = EmbeddingStore(
+            emb_id=self.CABINET_DECISIONS_ID,
+            key_to_text=self.cabinet_decisions_key_to_text,
+        )
+        return embedding_store
 
-    @cache
-    def build_emb_idx_for_manifesto(self):
+    @cached_property
+    def manifesto_key_to_text(self):
         manifesto = NPPManifestoPDF().get_manifesto()
         all_table = manifesto.all_table
         if self.MAX_MANIFESTO_ITEMS:
             all_table = all_table[: self.MAX_MANIFESTO_ITEMS]
 
-        emb_idx = EmbIdx(self.MANIFESTO_ID)
-        text_list = []
+        key_to_text = {}
         for item in all_table:
+            key = item["key"]
             text = "\n\n".join(
                 [
                     f'# {item["l1_topic"]}',
@@ -69,31 +80,32 @@ class CompareManifesto:
                     f'({item["key"]})',
                 ]
             )
+            key_to_text[key] = text
 
-            text_list.append(text)
+        return key_to_text
 
-        idx = emb_idx.multiget(text_list)
-        log.debug(f"Built EmbIdx for {len(text_list)} manifesto items")
-        return idx
-
-    @cache
-    def get_similarity_matrix(self):
-        idx_manifesto = self.build_emb_idx_for_manifesto()
-        idx_cabinet_decisions = self.build_emb_idx_for_cabinet_decisions()
-        m = Embedding.get_similarity_matrix(
-            idx_manifesto, idx_cabinet_decisions
+    @cached_property
+    def manifesto_embedding_store(self):
+        embedding_store = EmbeddingStore(
+            emb_id=self.MANIFESTO_ID,
+            key_to_text=self.manifesto_key_to_text,
         )
-        log.info(f"Got similarity matrix with {len(m)} items")
-        return m
+        return embedding_store
 
-    @cache
-    def get_high_similarity_pairs(self, min_sim=0.5):
-        idx_manifesto = self.build_emb_idx_for_manifesto()
-        idx_cabinet_decisions = self.build_emb_idx_for_cabinet_decisions()
-        keys1 = list(idx_manifesto.keys())
-        keys2 = list(idx_cabinet_decisions.keys())
+    @cached_property
+    def similarity_matrix(self):
+        manifesto_es = self.manifesto_embedding_store
+        cabinet_decisions_es = self.cabinet_decisions_embedding_store
+        mat1 = manifesto_es.embedding_matrix
+        mat2 = cabinet_decisions_es.embedding_matrix
+        similarity_matrix = np.dot(mat1, mat2.T)
+        return similarity_matrix
 
-        m = self.get_similarity_matrix()
+    @cached_property
+    def high_similarity_pairs(self, min_sim=0.5):
+        items_i = list(self.manifesto_key_to_text.items())
+        items_j = list(self.cabinet_decisions_key_to_text.items())
+        m = self.similarity_matrix
         data_list = []
         for i, row in enumerate(m):
             j = np.argmax(row)
@@ -101,13 +113,16 @@ class CompareManifesto:
             if value < min_sim:
                 continue
             data = dict(
-                manifest_item=keys1[i],
-                cabinet_decision=keys2[j],
-                similarity=value,
+                manifesto_key=items_i[i][0],
+                manifesto_text=items_i[i][1],
+                cabinet_decision_key=items_j[j][0],
+                cabinet_decision_text=items_j[j][1],
+                similarity=float(value),
             )
             data_list.append(data)
         log.info(
             f"Found {
                 len(data_list)} high similarity pairs with min_sim={min_sim}"
         )
+        print(data_list[0])
         return data_list
