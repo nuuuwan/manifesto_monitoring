@@ -18,12 +18,16 @@ class ReadMeCompareSummary:
     }
 
     @staticmethod
-    def get_sim_data_summary(old_d):
+    def get_group_to_n(old_d):
         group_to_n = {}
         for sim in old_d["sim_list"]:
             group = ReadMeCompareSummary.get_group(sim)
             group_to_n[group] = group_to_n.get(group, 0) + 1
+        return group_to_n
 
+    @staticmethod
+    def get_sim_data_summary(old_d):
+        group_to_n = ReadMeCompareSummary.get_group_to_n(old_d)
         n = old_d["n"]
         d = {
             "l1": old_d["l1"],
