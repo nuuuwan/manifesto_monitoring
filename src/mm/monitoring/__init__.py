@@ -3,3 +3,5 @@
 
 from mm.monitoring.CompareManifesto import CompareManifesto
 from mm.monitoring.ReadMe import ReadMe
+from mm.monitoring.ReadMeCompare import ReadMeCompare
+from mm.monitoring.ReadMeHeader import ReadMeHeader

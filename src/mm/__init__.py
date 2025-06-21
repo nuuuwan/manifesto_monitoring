@@ -8,4 +8,4 @@ from mm.manifesto import (Activity, ActivityList, Common, Introduction,
                           NPPManifestoPDF, NPPManifestoPDFBase,
                           NPPManifestoPDFContents, NPPManifestoPDFDetails,
                           Principle, PrincipleList)
-from mm.monitoring import CompareManifesto, ReadMe
+from mm.monitoring import CompareManifesto, ReadMe, ReadMeCompare, ReadMeHeader
