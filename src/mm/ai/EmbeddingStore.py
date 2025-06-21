@@ -5,7 +5,7 @@ from functools import cached_property
 import numpy as np
 from openai import OpenAI
 from sklearn.preprocessing import normalize
-from utils import Log
+from utils import Hash, Log
 
 log = Log("Embedding")
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
@@ -35,11 +35,14 @@ class EmbeddingStore:
     def __init__(self, emb_id: str, key_to_text: dict[str, str]):
         self.emb_id = emb_id
         self.key_to_text = key_to_text
+        self.hash = Hash.md5(str(self.key_to_text))[:6]
         self.embedding_matrix = self.__build__()
 
     @cached_property
     def data_path(self):
-        return os.path.join(self.DIR_EMBEDDING, f"{self.emb_id}.emb_idx.pkl")
+        return os.path.join(
+            self.DIR_EMBEDDING, f"{self.emb_id}.{self.hash}.pkl"
+        )
 
     def __build__(self) -> list[list[float]]:
         if os.path.exists(self.data_path):
