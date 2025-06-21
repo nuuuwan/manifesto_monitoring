@@ -32,7 +32,9 @@ class ReadMeCompareDetails:
         return f"{emoji} {similarity:.0%}"
 
     @staticmethod
-    def get_table_data(x, manifesto_idx, cabinet_decision_idx):
+    def get_compare_details_table_row_data(
+        x, manifesto_idx, cabinet_decision_idx
+    ):
         manifesto = manifesto_idx[x["manifesto_key"]]
         cabinet_decision = cabinet_decision_idx[x["cabinet_decision_key"]]
         similarity = x["similarity"]
@@ -48,23 +50,25 @@ class ReadMeCompareDetails:
             ),
         }
 
-    @cached_property
-    def compare_data_lines(self):
+    def get_compare_details_table_data(self):
         table_data_list = [
-            self.get_table_data(
+            self.get_compare_details_table_row_data(
                 x, self.manifesto_idx, self.cabinet_decision_idx
             )
             for x in self.data_list
         ]
-
         table_data_list.sort(key=lambda x: (x["Similarity"],), reverse=True)
-
         table_data_list = [
             dict(row=x[0]) | x[1] for x in enumerate(table_data_list, start=1)
         ]
+        return table_data_list
+
+    def get_compare_details_table(self):
 
         return [
-            Markdown.build_markdown_table(table_data_list),
+            Markdown.build_markdown_table(
+                self.get_compare_details_table_data()
+            ),
         ]
 
     @cached_property
@@ -72,4 +76,4 @@ class ReadMeCompareDetails:
         return [
             "### Manifesto/Decision Pairs with Similarity >= 0.5",
             "",
-        ] + self.compare_data_lines
+        ] + self.get_compare_details_table()
