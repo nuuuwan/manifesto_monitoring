@@ -120,3 +120,4 @@ class HeatMap:
         plt.tight_layout()
 
         plt.savefig(HeatMap.CHART_PATH, dpi=300)
+        plt.close()

@@ -1,7 +1,8 @@
+import os
 from functools import cache, cached_property
 
 import numpy as np
-from utils import Log, Time, TimeFormat, TimeUnit
+from utils import JSONFile, Log, Time, TimeFormat, TimeUnit
 
 from mm.ai import EmbeddingStore
 from mm.cabinet_decisions import CabinetDecision
@@ -19,6 +20,11 @@ class CompareManifesto:
     VERSION_ID = "prod-v3"
     CABINET_DECISIONS_ID = f"cabinet_decisions-{VERSION_ID}"
     MANIFESTO_ID = f"manifesto-{VERSION_ID}"
+
+    PROGRESS_PATH_PREFIX = os.path.join(
+        "data",
+        "progress",
+    )
 
     @cached_property
     def cabinet_decisions_for_compare(self):
@@ -171,7 +177,7 @@ class CompareManifesto:
         return total_similarity / n if n > 0 else 0.0
 
     @cache
-    def get_overall_progress_by_date(self):
+    def __get_overall_progress_by_date_hot__(self):
         min_t = TimeFormat.DATE.parse(self.MIN_DATE_CABINET_DECISIONS).ut
         max_t = Time.now().ut
 
@@ -188,4 +194,14 @@ class CompareManifesto:
 
             d_list.append(d)
         log.info(f"Found {len(d_list)} overall progress data items")
+        return d_list
+
+    def get_overall_progress_by_date(self):
+        current_date = TimeFormat.DATE.format(Time.now())
+        progress_path = f"{self.PROGRESS_PATH_PREFIX}.{current_date}.json"
+        if os.path.exists(progress_path):
+            return JSONFile(progress_path).read()
+
+        d_list = self.__get_overall_progress_by_date_hot__()
+        JSONFile(progress_path).write(d_list)
         return d_list

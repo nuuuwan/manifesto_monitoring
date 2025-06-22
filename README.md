@@ -2,6 +2,8 @@
 
 This repository contains utility libraries & tools for tracking, analyzing, & visualizing the implementation of the 2024 NPP manifesto — now the **de facto policy framework** of the 🇱🇰 Sri Lankan Government (2025).
 
+![images/progress_chart.png](images/progress_chart.png)
+
 🛠️ Built for researchers, developers, journalists, & citizens who want **accountability & transparency** in governance.
 
 🔍 Use this repo to:
@@ -12,11 +14,11 @@ This repository contains utility libraries & tools for tracking, analyzing, & vi
 
 📢 Public Data. Share. Fork. Contribute.
 
-![images/heat_map.png](images/heat_map.png)
-
 ## 🤖 AI Comparison of  1,345 NPP Manifesto Promises & 421 NPP Cabinet Decisions
 
 This section compares the NPP manifesto promises with Cabinet Decisions, using OpenAI's [text-embedding-3-small](https://platform.openai.com/docs/models/text-embedding-3-small) Model.
+
+![images/heat_map.png](images/heat_map.png)
 
 Group | Threshold | Description
 :-- | --: | --:

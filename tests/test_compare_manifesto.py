@@ -18,7 +18,9 @@ class TestCase(unittest.TestCase):
         self.assertIsNotNone(TEST_COMPARE_MANIFESTO.similarity_matrix)
 
     def test_similarity_data_list(self):
-        self.assertIsNotNone(TEST_COMPARE_MANIFESTO.get_similarity_data_list())
+        self.assertIsNotNone(
+            TEST_COMPARE_MANIFESTO.get_similarity_data_list()
+        )
 
     def test_get_overall_progress_by_date(self):
         progress = TEST_COMPARE_MANIFESTO.get_overall_progress_by_date()
