@@ -116,40 +116,54 @@ class CompareManifesto:
         similarity_matrix = np.dot(mat1, mat2.T)
         return similarity_matrix
 
-    @cache
-    def get_similarity_data_list(  # noqa: C901
-        self, max_cabinet_decision_date=None
+    @staticmethod
+    def __analyze_similarity_row__(
+        row, items_j, cabinet_decision_idx, max_cabinet_decision_date
     ):
+        max_j = None
+        max_sim = None
+        for j, sim in enumerate(row):
+            cabinet_decision_key = items_j[j][0]
+            cabinet_decision_date = cabinet_decision_idx[
+                cabinet_decision_key
+            ].date_str
+            if max_cabinet_decision_date and (
+                cabinet_decision_date > max_cabinet_decision_date
+            ):
+                continue
+            if max_sim is None or sim > max_sim:
+                max_sim = sim
+                max_j = j
+        return max_j, float(max_sim)
+
+    @cache
+    def get_similarity_data_list(self, max_cabinet_decision_date=None):
         items_i = list(self.manifesto_key_to_text.items())
         items_j = list(self.cabinet_decisions_key_to_text.items())
         cabinet_decision_idx = CabinetDecision.idx()
         m = self.similarity_matrix
         data_list = []
         for i, row in enumerate(m):
-            max_j = None
-            max_sim = None
-            for j, sim in enumerate(row):
-                cabinet_decision_date = cabinet_decision_idx[
-                    items_j[j][0]
-                ].date_str
-                if max_cabinet_decision_date and (
-                    cabinet_decision_date > max_cabinet_decision_date
-                ):
-                    continue
-                if max_sim is None or sim > max_sim:
-                    max_sim = sim
-                    max_j = j
+            manifesto_key = items_i[i][0]
+            manifesto_text = items_i[i][1]
+
+            max_j, max_sim = self.__analyze_similarity_row__(
+                row, items_j, cabinet_decision_idx, max_cabinet_decision_date
+            )
             if max_j is None:
                 continue
+
+            cabinet_decision_key = items_j[max_j][0]
+            cabinet_decision_text = items_j[max_j][1]
 
             data = dict(
                 i=i,
                 j=max_j,
-                manifesto_key=items_i[i][0],
-                manifesto_text=items_i[i][1],
-                cabinet_decision_key=items_j[max_j][0],
-                cabinet_decision_text=items_j[max_j][1],
-                similarity=float(max_sim),
+                manifesto_key=manifesto_key,
+                manifesto_text=manifesto_text,
+                cabinet_decision_key=cabinet_decision_key,
+                cabinet_decision_text=cabinet_decision_text,
+                similarity=max_sim,
             )
             data_list.append(data)
 
