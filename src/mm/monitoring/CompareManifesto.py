@@ -1,7 +1,7 @@
-from functools import cached_property
+from functools import cache, cached_property
 
 import numpy as np
-from utils import Log
+from utils import Log, Time, TimeFormat, TimeUnit
 
 from mm.ai import EmbeddingStore
 from mm.cabinet_decisions import CabinetDecision
@@ -110,40 +110,82 @@ class CompareManifesto:
         similarity_matrix = np.dot(mat1, mat2.T)
         return similarity_matrix
 
-    @cached_property
-    def similarity_data_list(self):
+    @cache
+    def get_similarity_data_list(  # noqa: C901
+        self, max_cabinet_decision_date=None
+    ):
         items_i = list(self.manifesto_key_to_text.items())
         items_j = list(self.cabinet_decisions_key_to_text.items())
+        cabinet_decision_idx = CabinetDecision.idx()
         m = self.similarity_matrix
         data_list = []
         for i, row in enumerate(m):
-            j = np.argmax(row)
-            value = row[j]
+            max_j = None
+            max_sim = None
+            for j, sim in enumerate(row):
+                cabinet_decision_date = cabinet_decision_idx[
+                    items_j[j][0]
+                ].date_str
+                if max_cabinet_decision_date and (
+                    cabinet_decision_date > max_cabinet_decision_date
+                ):
+                    continue
+                if max_sim is None or sim > max_sim:
+                    max_sim = sim
+                    max_j = j
+            if max_j is None:
+                continue
 
             data = dict(
                 i=i,
-                j=j,
+                j=max_j,
                 manifesto_key=items_i[i][0],
                 manifesto_text=items_i[i][1],
-                cabinet_decision_key=items_j[j][0],
-                cabinet_decision_text=items_j[j][1],
-                similarity=float(value),
+                cabinet_decision_key=items_j[max_j][0],
+                cabinet_decision_text=items_j[max_j][1],
+                similarity=float(max_sim),
             )
             data_list.append(data)
 
         data_list.sort(key=lambda x: x["similarity"], reverse=True)
-        log.info(f"Found {len(data_list)} similarity data items")
+        log.info(
+            f"Found {len(data_list)} similarity data items"
+            f" for {max_cabinet_decision_date=}"
+        )
         return data_list
 
-    @cached_property
-    def overall_progress(self):
-        n = len(self.similarity_data_list)
+    @cache
+    def get_overall_progress(self, max_cabinet_decision_date=None):
+        similarity_data_list = self.get_similarity_data_list(
+            max_cabinet_decision_date
+        )
+        n = len(similarity_data_list)
         total_similarity = sum(
             [
                 x["similarity"]
-                for x in self.similarity_data_list
+                for x in similarity_data_list
                 if x["similarity"] > CompareThresholds.THRESHOLDS["low"]
             ]
         )
 
-        return total_similarity / n
+        return total_similarity / n if n > 0 else 0.0
+
+    @cache
+    def get_overall_progress_by_date(self):
+        min_t = TimeFormat.DATE.parse(self.MIN_DATE_CABINET_DECISIONS).ut
+        max_t = Time.now().ut
+
+        t = max_t
+        d_list = []
+        while t >= min_t:
+            date_str = TimeFormat.DATE.format(Time(t))
+            progress = self.get_overall_progress(date_str)
+            d = dict(
+                date=date_str,
+                progress=progress,
+            )
+            t -= TimeUnit.SECONDS_IN.WEEK
+
+            d_list.append(d)
+        log.info(f"Found {len(d_list)} overall progress data items")
+        return d_list

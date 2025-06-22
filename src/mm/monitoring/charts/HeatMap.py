@@ -17,7 +17,7 @@ class HeatMap:
     def __init__(self):
         self.compare_manifesto = CompareManifesto()
         self.n_manifesto_items = self.compare_manifesto.n_manifesto_items
-        self.overall_progress = self.compare_manifesto.overall_progress
+        self.overall_progress = self.compare_manifesto.get_overall_progress()
 
         self.n_x = (
             int((HeatMap.ASPECT_RATIO * self.n_manifesto_items) ** 0.5) + 1
@@ -53,7 +53,9 @@ class HeatMap:
 
     def draw_match_grid(self):
         ax = plt.gca()
-        similarity_data_list = self.compare_manifesto.similarity_data_list
+        similarity_data_list = (
+            self.compare_manifesto.get_similarity_data_list()
+        )
         for d in similarity_data_list:
             i = d["i"]
             similarity = d["similarity"]

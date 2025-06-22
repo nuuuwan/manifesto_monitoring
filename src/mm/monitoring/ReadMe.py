@@ -18,7 +18,7 @@ class ReadMe(ReadMeHeader, ReadMeCompare):
 
     def __init__(self):
         self.compare_manifesto = CompareManifesto()
-        self.data_list = self.compare_manifesto.similarity_data_list
+        self.data_list = self.compare_manifesto.get_similarity_data_list()
         self.manifesto_idx = NPPManifestoPDF().get_manifesto().all_idx
         self.manifesto_to_datalist = {
             x["manifesto_key"]: x for x in self.data_list

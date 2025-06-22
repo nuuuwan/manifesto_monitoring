@@ -1,0 +1,2 @@
+class ProgressChart:
+    pass
