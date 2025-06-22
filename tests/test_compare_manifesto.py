@@ -17,5 +17,5 @@ class TestCase(unittest.TestCase):
     def test_similarity_matrix(self):
         self.assertIsNotNone(TEST_COMPARE_MANIFESTO.similarity_matrix)
 
-    def test_high_similarity_pairs(self):
-        self.assertIsNotNone(TEST_COMPARE_MANIFESTO.high_similarity_pairs)
+    def test_similarity_data_list(self):
+        self.assertIsNotNone(TEST_COMPARE_MANIFESTO.similarity_data_list)

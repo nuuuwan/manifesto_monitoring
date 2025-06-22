@@ -55,8 +55,8 @@ class HeatMap:
 
     def draw_match_grid(self):
         ax = plt.gca()
-        high_similarity_pairs = self.compare_manifesto.high_similarity_pairs
-        for d in high_similarity_pairs:
+        similarity_data_list = self.compare_manifesto.similarity_data_list
+        for d in similarity_data_list:
             i = d["i"]
             similarity = d["similarity"]
             color = HeatMap.get_color(similarity)

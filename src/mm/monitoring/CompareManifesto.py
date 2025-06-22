@@ -108,7 +108,7 @@ class CompareManifesto:
         return similarity_matrix
 
     @cached_property
-    def high_similarity_pairs(self, min_sim=0.5):
+    def similarity_data_list(self, min_sim=0.5):
         items_i = list(self.manifesto_key_to_text.items())
         items_j = list(self.cabinet_decisions_key_to_text.items())
         m = self.similarity_matrix
