@@ -16,6 +16,7 @@ class HeatMap:
     def __init__(self):
         self.compare_manifesto = CompareManifesto()
         self.n_manifesto_items = self.compare_manifesto.n_manifesto_items
+        self.overall_progress = self.compare_manifesto.overall_progress
 
         self.n_x = (
             int((HeatMap.ASPECT_RATIO * self.n_manifesto_items) ** 0.5) + 1
@@ -33,7 +34,7 @@ class HeatMap:
             return "#f80"
         if similarity > 0.5:
             return "#0c0"
-        return "#eee"
+        return "#fff2"
 
     def draw_base_grid(self):
 
@@ -67,7 +68,7 @@ class HeatMap:
                 (i_display * self.x_dim, j_display * self.y_dim),
                 self.x_dim,
                 self.y_dim,
-                edgecolor="none",
+                edgecolor="#eee",
                 facecolor=color,
             )
             ax.add_patch(square)
@@ -114,8 +115,9 @@ class HeatMap:
         plt.gca().invert_yaxis()
         plt.axis("off")
         plt.title(
-            "Manifesto Items with Cabinet Decisions Match",
-            fontsize=16,
+            "Manifesto Items with Cabinet Decisions Match"
+            + f" (Overall Progress: {self.overall_progress:.0%})",
+            fontsize=12,
             pad=20,
         )
         plt.tight_layout()

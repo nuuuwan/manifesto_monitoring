@@ -133,3 +133,16 @@ class CompareManifesto:
         data_list.sort(key=lambda x: x["similarity"], reverse=True)
         log.info(f"Found {len(data_list)} similarity data items")
         return data_list
+
+    @cached_property
+    def overall_progress(self):
+        n = len(self.similarity_data_list)
+        total_similarity = sum(
+            [
+                x["similarity"]
+                for x in self.similarity_data_list
+                if x["similarity"] > 0.5
+            ]
+        )
+
+        return total_similarity / n
