@@ -30,9 +30,7 @@ class CompareManifesto:
         if self.MAX_CABINET_DECISIONS and self.MAX_CABINET_DECISIONS < len(
             cabinet_decisions
         ):
-            cabinet_decisions = cabinet_decisions[
-                : self.MAX_CABINET_DECISIONS
-            ]
+            cabinet_decisions = cabinet_decisions[: self.MAX_CABINET_DECISIONS]
 
         return cabinet_decisions
 
@@ -121,6 +119,8 @@ class CompareManifesto:
             if value < min_sim:
                 continue
             data = dict(
+                i=i,
+                j=j,
                 manifesto_key=items_i[i][0],
                 manifesto_text=items_i[i][1],
                 cabinet_decision_key=items_j[j][0],
