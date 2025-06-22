@@ -16,7 +16,8 @@ class ReadMe(ReadMeHeader, ReadMeCompare):
     SOURCE_URL = "https://www.npp.lk/up/policies/en/npppolicystatement.pdf"
 
     def __init__(self):
-        self.data_list = CompareManifesto().high_similarity_pairs
+        self.compare_manifesto = CompareManifesto()
+        self.data_list = self.compare_manifesto.high_similarity_pairs
         self.manifesto_idx = NPPManifestoPDF().get_manifesto().all_idx
         self.manifesto_to_datalist = {
             x["manifesto_key"]: x for x in self.data_list
