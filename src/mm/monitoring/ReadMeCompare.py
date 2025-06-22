@@ -1,7 +1,6 @@
 from functools import cached_property
 
 from mm.ai import EmbeddingStore
-from mm.monitoring.CompareManifesto import CompareManifesto
 from mm.monitoring.ReadMeCompareDetails import ReadMeCompareDetails
 from mm.monitoring.ReadMeCompareSummary import ReadMeCompareSummary
 
