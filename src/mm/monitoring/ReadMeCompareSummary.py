@@ -1,27 +1,16 @@
 from functools import cached_property
 
+from mm.monitoring.CompareThresholds import CompareThresholds
 from utils_future import Markdown
 
 
 class ReadMeCompareSummary:
-    THRESHOLDS = {
-        "high": 0.7,
-        "medium": 0.6,
-        "low": 0.5,
-    }
-
-    EMOJIS = {
-        "high": "🔴",
-        "medium": "🟠",
-        "low": "🟢",
-        "nil": "⚪️",
-    }
 
     @staticmethod
     def get_group_to_n(old_d):
         group_to_n = {}
         for sim in old_d["sim_list"]:
-            group = ReadMeCompareSummary.get_group(sim)
+            group = CompareThresholds.get_group(sim)
             group_to_n[group] = group_to_n.get(group, 0) + 1
         return group_to_n
 
@@ -34,23 +23,24 @@ class ReadMeCompareSummary:
             "l1_topic": old_d["l1_topic"],
             "n": n,
         }
-        for group in ReadMeCompareSummary.THRESHOLDS:
+        for group in CompareThresholds.THRESHOLDS:
             n_group = group_to_n.get(group, 0)
             p_group = n_group / n
             formatted_data = (
                 f"{n_group} ({p_group:.0%})" if n_group > 0 else "-"
             )
-            d[ReadMeCompareSummary.get_group_title(group)] = formatted_data
+            d[CompareThresholds.get_group_title(group)] = formatted_data
         return d
 
     @staticmethod
     def get_similarity_threshold_legend_lines():
         d_list = []
-        for group, threshold in ReadMeCompareSummary.THRESHOLDS.items():
+        for group, threshold in CompareThresholds.THRESHOLDS.items():
             d_list.append(
                 {
-                    "Group": ReadMeCompareSummary.get_group_title(group),
+                    "Group": CompareThresholds.get_group_title(group),
                     "Threshold": f"{threshold:.0%}",
+                    "Description": CompareThresholds.TEXTUAL[group],
                 }
             )
         return [Markdown.build_markdown_table(d_list), ""]
@@ -99,14 +89,3 @@ class ReadMeCompareSummary:
             Markdown.build_markdown_table(self.summary_data),
             "",
         ]
-
-    @staticmethod
-    def get_group_title(group):
-        return f"{ReadMeCompareSummary.EMOJIS[group]} {group.capitalize()}"
-
-    @staticmethod
-    def get_group(similarity):
-        for group, threshold in ReadMeCompareSummary.THRESHOLDS.items():
-            if similarity >= threshold:
-                return group
-        return "nil"

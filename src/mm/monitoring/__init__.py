@@ -3,6 +3,7 @@
 
 from mm.monitoring.charts import HeatMap
 from mm.monitoring.CompareManifesto import CompareManifesto
+from mm.monitoring.CompareThresholds import CompareThresholds
 from mm.monitoring.ReadMe import ReadMe
 from mm.monitoring.ReadMeCompare import ReadMeCompare
 from mm.monitoring.ReadMeCompareDetails import ReadMeCompareDetails

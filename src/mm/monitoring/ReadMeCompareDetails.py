@@ -1,6 +1,6 @@
 from functools import cached_property
 
-from mm.monitoring.ReadMeCompareSummary import ReadMeCompareSummary
+from mm.monitoring.CompareThresholds import CompareThresholds
 from utils_future import Markdown
 
 
@@ -28,12 +28,6 @@ class ReadMeCompareDetails:
         )
 
     @staticmethod
-    def get_similarity_markdown(similarity):
-        group = ReadMeCompareSummary.get_group(similarity)
-        emoji = ReadMeCompareSummary.EMOJIS[group]
-        return f"{emoji} {similarity:.0%}"
-
-    @staticmethod
     def get_compare_details_table_row_data(
         x, manifesto_idx, cabinet_decision_idx
     ):
@@ -48,7 +42,7 @@ class ReadMeCompareDetails:
                 manifesto
             ),
             "Cabinet Decision (Best Match)": cd,
-            "Similarity": ReadMeCompareDetails.get_similarity_markdown(
+            "Similarity": CompareThresholds.get_similarity_markdown(
                 similarity
             ),
         }

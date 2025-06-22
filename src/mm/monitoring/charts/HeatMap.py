@@ -5,6 +5,7 @@ import matplotlib.patches as patches
 import matplotlib.pyplot as plt
 
 from mm.monitoring.CompareManifesto import CompareManifesto
+from mm.monitoring.CompareThresholds import CompareThresholds
 
 
 class HeatMap:
@@ -26,15 +27,11 @@ class HeatMap:
         self.y_dim = HeatMap.HEIGHT / self.n_y
 
     @staticmethod
-    def get_color(similarity):  # noqa: CFQ004
-
-        if similarity > 0.7:
-            return "#f00"
-        if similarity > 0.6:
-            return "#f80"
-        if similarity > 0.5:
-            return "#0c0"
-        return "#fff2"
+    def get_color(similarity):
+        for group, min_similarity in CompareThresholds.THRESHOLDS.items():
+            if similarity >= min_similarity:
+                return CompareThresholds.COLORS[group]
+        return CompareThresholds.COLORS["nil"]
 
     def draw_base_grid(self):
 
@@ -77,11 +74,10 @@ class HeatMap:
         ax = plt.gca()
 
         handles = []
-        for color, label in [
-            ("#f00", ">70% match"),
-            ("#f80", "60–70% match"),
-            ("#0c0", "50–60% match"),
-        ]:
+        for group, color in CompareThresholds.COLORS.items():
+            if group == "nil":
+                continue
+            description = CompareThresholds.TEXTUAL[group]
             handles.append(
                 mlines.Line2D(
                     [],
@@ -90,14 +86,14 @@ class HeatMap:
                     marker="s",
                     linestyle="None",
                     markersize=10,
-                    label=label,
+                    label=description,
                 )
             )
 
         ax.legend(
             handles=handles,
             loc="lower center",
-            bbox_to_anchor=(0.5, -0.05),
+            bbox_to_anchor=(0.5, -0.1),
             ncol=4,
             frameon=False,
         )
@@ -109,9 +105,8 @@ class HeatMap:
         self.draw_match_grid()
         self.draw_legend()
 
-        padding = 100
-        ax.set_xlim(0, self.n_x * self.x_dim + padding)
-        ax.set_ylim(0, self.n_y * self.y_dim + padding)
+        ax.set_xlim(0, self.n_x * self.x_dim)
+        ax.set_ylim(0, self.n_y * self.y_dim)
         plt.gca().invert_yaxis()
         plt.axis("off")
         plt.title(

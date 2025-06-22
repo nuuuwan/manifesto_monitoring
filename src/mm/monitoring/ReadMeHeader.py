@@ -22,4 +22,5 @@ class ReadMeHeader:
             "- Build visual dashboards & reports",
             "",
             "📢 Public Data. Share. Fork. Contribute.",
+            "",
         ]

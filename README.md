@@ -11,17 +11,18 @@ This repository contains utility libraries & tools for tracking, analyzing, & vi
 - Build visual dashboards & reports
 
 📢 Public Data. Share. Fork. Contribute.
+
 ![images/heat_map.png](images/heat_map.png)
 
 ## 🤖 AI Comparison of  1,345 NPP Manifesto Promises & 421 NPP Cabinet Decisions
 
 This section compares the NPP manifesto promises with Cabinet Decisions, using OpenAI's [text-embedding-3-small](https://platform.openai.com/docs/models/text-embedding-3-small) Model.
 
-Group | Threshold
-:-- | --:
-🔴 High | 70%
-🟠 Medium | 60%
-🟢 Low | 50%
+Group | Threshold | Description
+:-- | --: | --:
+🔴 High | 70% | Strongly Aligned
+🟠 Medium | 60% | Moderately Aligned
+🟢 Low | 50% | Weakly Aligned
 
 ### Summary
 

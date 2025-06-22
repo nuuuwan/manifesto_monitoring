@@ -8,6 +8,6 @@ from mm.manifesto import (Activity, ActivityList, Common, Introduction,
                           NPPManifestoPDF, NPPManifestoPDFBase,
                           NPPManifestoPDFContents, NPPManifestoPDFDetails,
                           Principle, PrincipleList)
-from mm.monitoring import (CompareManifesto, HeatMap, ReadMe, ReadMeCompare,
-                           ReadMeCompareDetails, ReadMeCompareSummary,
-                           ReadMeHeader)
+from mm.monitoring import (CompareManifesto, CompareThresholds, HeatMap,
+                           ReadMe, ReadMeCompare, ReadMeCompareDetails,
+                           ReadMeCompareSummary, ReadMeHeader)

@@ -6,6 +6,7 @@ from utils import Log
 from mm.ai import EmbeddingStore
 from mm.cabinet_decisions import CabinetDecision
 from mm.manifesto import NPPManifestoPDF
+from mm.monitoring.CompareThresholds import CompareThresholds
 
 log = Log("CompareManifesto")
 
@@ -141,7 +142,7 @@ class CompareManifesto:
             [
                 x["similarity"]
                 for x in self.similarity_data_list
-                if x["similarity"] > 0.5
+                if x["similarity"] > CompareThresholds.THRESHOLDS["low"]
             ]
         )
 

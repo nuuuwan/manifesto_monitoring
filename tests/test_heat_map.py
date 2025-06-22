@@ -17,7 +17,5 @@ class TestCase(unittest.TestCase):
         )
 
     def test_draw_grid(self):
-        if os.path.exists(HeatMap.CHART_PATH):
-            os.remove(HeatMap.CHART_PATH)
         TEST_HEAT_MAP.draw()
         self.assertTrue(os.path.exists(HeatMap.CHART_PATH))
