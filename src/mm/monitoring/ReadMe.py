@@ -4,6 +4,7 @@ from utils import File, Log
 
 from mm.cabinet_decisions import CabinetDecision
 from mm.manifesto import NPPManifestoPDF
+from mm.monitoring.charts.HeatMap import HeatMap
 from mm.monitoring.CompareManifesto import CompareManifesto
 from mm.monitoring.ReadMeCompare import ReadMeCompare
 from mm.monitoring.ReadMeHeader import ReadMeHeader
@@ -25,8 +26,16 @@ class ReadMe(ReadMeHeader, ReadMeCompare):
         self.cabinet_decision_idx = CabinetDecision.idx()
 
     @cached_property
+    def heatmap_lines(self):
+        HeatMap().draw()
+        return [
+            f"![{HeatMap.CHART_PATH}]({HeatMap.CHART_PATH})",
+            "",
+        ]
+
+    @cached_property
     def lines(self):
-        return self.header_lines + self.compare_lines
+        return self.header_lines + self.heatmap_lines + self.compare_lines
 
     def build(self):
         File(self.README_PATH).write_lines(self.lines)
