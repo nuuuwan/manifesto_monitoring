@@ -37,14 +37,16 @@ class CompareManifesto:
         return cabinet_decisions
 
     @cached_property
+    def n_cabinet_decisions(self):
+        return len(self.cabinet_decisions_for_compare)
+
+    @cached_property
     def cabinet_decisions_key_to_text(self):
         key_to_text = {}
         for cabinet_decision in self.cabinet_decisions_for_compare:
             text = "\n\n".join(
                 [
                     f"# {cabinet_decision.title}",
-                    # f"({cabinet_decision.date_str},"
-                    # f" {cabinet_decision.decision_num})",
                     f"{cabinet_decision.decision_details}",
                 ]
             )
@@ -62,19 +64,26 @@ class CompareManifesto:
         return embedding_store
 
     @cached_property
-    def manifesto_key_to_text(self):
+    def manifesto_items(self):
         manifesto = NPPManifestoPDF().get_manifesto()
         all_table = manifesto.all_table
         if self.MAX_MANIFESTO_ITEMS:
             all_table = all_table[: self.MAX_MANIFESTO_ITEMS]
 
+        return all_table
+
+    @cached_property
+    def n_manifesto_items(self):
+        return len(self.manifesto_items)
+
+    @cached_property
+    def manifesto_key_to_text(self):
+        all_table = self.manifesto_items
         key_to_text = {}
         for item in all_table:
             key = item["key"]
             text = "\n\n".join(
                 [
-                    # f'# {item["l1_topic"]}',
-                    # f'## {item["l2_topic"]}',
                     f'### {item["activity"]}',
                     f'{item["item"]}',
                 ]
