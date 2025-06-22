@@ -30,7 +30,9 @@ class CompareManifesto:
         if self.MAX_CABINET_DECISIONS and self.MAX_CABINET_DECISIONS < len(
             cabinet_decisions
         ):
-            cabinet_decisions = cabinet_decisions[: self.MAX_CABINET_DECISIONS]
+            cabinet_decisions = cabinet_decisions[
+                : self.MAX_CABINET_DECISIONS
+            ]
 
         return cabinet_decisions
 
@@ -108,7 +110,7 @@ class CompareManifesto:
         return similarity_matrix
 
     @cached_property
-    def similarity_data_list(self, min_sim=0.5):
+    def similarity_data_list(self):
         items_i = list(self.manifesto_key_to_text.items())
         items_j = list(self.cabinet_decisions_key_to_text.items())
         m = self.similarity_matrix
@@ -116,8 +118,7 @@ class CompareManifesto:
         for i, row in enumerate(m):
             j = np.argmax(row)
             value = row[j]
-            if value < min_sim:
-                continue
+
             data = dict(
                 i=i,
                 j=j,
@@ -128,9 +129,7 @@ class CompareManifesto:
                 similarity=float(value),
             )
             data_list.append(data)
-        log.info(
-            f"Found {len(data_list)} similarity data items"
-            f" with sim >= {min_sim}"
-        )
 
+        data_list.sort(key=lambda x: x["similarity"], reverse=True)
+        log.info(f"Found {len(data_list)} similarity data items")
         return data_list

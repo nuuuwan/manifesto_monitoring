@@ -5,6 +5,8 @@ from utils_future import Markdown
 
 
 class ReadMeCompareDetails:
+    MIN_SIMILARITY = 0.5
+
     @staticmethod
     def get_manifesto_markdown(manifesto):
         return " ".join(
@@ -38,13 +40,14 @@ class ReadMeCompareDetails:
         manifesto = manifesto_idx[x["manifesto_key"]]
         cabinet_decision = cabinet_decision_idx[x["cabinet_decision_key"]]
         similarity = x["similarity"]
+        cd = ReadMeCompareDetails.get_cd_markdown(
+            cabinet_decision,
+        )
         return {
             "Manifesto": ReadMeCompareDetails.get_manifesto_markdown(
                 manifesto
             ),
-            "Cabinet Decision": ReadMeCompareDetails.get_cd_markdown(
-                cabinet_decision,
-            ),
+            "Cabinet Decision (Best Match)": cd,
             "Similarity": ReadMeCompareDetails.get_similarity_markdown(
                 similarity
             ),
@@ -57,7 +60,7 @@ class ReadMeCompareDetails:
             )
             for x in self.data_list
         ]
-        table_data_list.sort(key=lambda x: (x["Similarity"],), reverse=True)
+
         table_data_list = [
             dict(row=x[0]) | x[1] for x in enumerate(table_data_list, start=1)
         ]
@@ -74,6 +77,6 @@ class ReadMeCompareDetails:
     @cached_property
     def compare_detail_lines(self):
         return [
-            "### Manifesto/Decision Pairs with Similarity >= 0.5",
+            "### Manifesto Items with Best Matching Cabinet Decisions",
             "",
         ] + self.get_compare_details_table()

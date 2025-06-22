@@ -109,4 +109,4 @@ class ReadMeCompareSummary:
         for group, threshold in ReadMeCompareSummary.THRESHOLDS.items():
             if similarity >= threshold:
                 return group
-        raise ValueError(f"Invalid similarity value: {similarity}. ")
+        return "nil"
