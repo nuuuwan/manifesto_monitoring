@@ -11,10 +11,10 @@ class ReadMeCompareSummary:
     }
 
     EMOJIS = {
-        "high": "🟢",
-        "medium": "🟡",
-        "low": "🟠",
-        "nil": "🔴",
+        "high": "🔴",
+        "medium": "🟠",
+        "low": "🟢",
+        "nil": "⚪️",
     }
 
     @staticmethod
