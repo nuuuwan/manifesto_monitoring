@@ -22,10 +22,10 @@ This section compares the NPP manifesto promises with Cabinet Decisions, using O
 
 Group | Threshold | Description
 :-- | --: | --:
-🔴 High | 60% | Strongly Aligned
-🟠 Medium | 55% | Moderately Aligned
-🟡 Low | 50% | Weakly Aligned
-⚪️ Nil | 0% | No Significant Alignment
+🔴 High | [60%, 100%] | Strongly Aligned
+🟠 Medium | [55%, 60%) | Moderately Aligned
+🟡 Low | [50%, 55%) | Weakly Aligned
+⚪️ Nil | [0%, 50%) | No Significant Alignment
 
 ### Summary
 

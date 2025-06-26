@@ -35,14 +35,20 @@ class ReadMeCompareSummary:
     @staticmethod
     def get_similarity_threshold_legend_lines():
         d_list = []
+        previous_threshold = None
         for group, threshold in CompareThresholds.THRESHOLDS.items():
+            if previous_threshold:
+                threshold_str = f"[{threshold:.0%}, {previous_threshold:.0%})"
+            else:
+                threshold_str = f"[{threshold:.0%}, 100%]"
             d_list.append(
                 {
                     "Group": CompareThresholds.get_group_title(group),
-                    "Threshold": f"{threshold:.0%}",
+                    "Threshold": threshold_str,
                     "Description": CompareThresholds.TEXTUAL[group],
                 }
             )
+            previous_threshold = threshold
         return [Markdown.build_markdown_table(d_list), ""]
 
     @cached_property
