@@ -53,7 +53,8 @@ class ProgressChart:
     def draw(self):
         plt.close()
         dates = [
-            datetime.strptime(item["date"], "%Y-%m-%d") for item in self.d_list
+            datetime.strptime(item["date"], "%Y-%m-%d")
+            for item in self.d_list
         ]
 
         progress = [item["progress"] for item in self.d_list]
