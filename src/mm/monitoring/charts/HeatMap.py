@@ -112,8 +112,8 @@ class HeatMap:
         plt.gca().invert_yaxis()
         plt.axis("off")
         plt.title(
-            "Manifesto Items with Cabinet Decisions Match"
-            + f" (Overall Progress: {self.overall_progress:.1%})",
+            "Manifesto Items vs. Cabinet Decisions"
+            + f" (Progress: {self.overall_progress:.1%})",
             fontsize=12,
             pad=20,
         )

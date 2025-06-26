@@ -66,7 +66,7 @@ class ProgressChart:
         self.draw_annotate_latest_progress()
 
         plt.xlabel("Date")
-        plt.ylabel("Overall Progress (%)")
+        plt.ylabel("Progress (%)")
         date_str = self.latest_date.strftime("%Y-%m-%d")
         plt.title(f"Manifesto Items vs. Cabinet Decisions (As of {date_str})")
         plt.ylim(0, 1.0)
