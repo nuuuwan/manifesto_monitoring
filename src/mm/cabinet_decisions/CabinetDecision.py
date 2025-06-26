@@ -30,7 +30,6 @@ class CabinetDecision:
         www = WWW(CabinetDecision.REMOTE_DATA_URL)
         tsv_file = TSVFile(www.download())
         data_list = tsv_file.read()
-        print(data_list[0])
         data_list = [data for data in data_list if data.get("date_str")]
         log.info(f"Loaded {len(data_list)} cabinet decisions from {www.url}")
         return data_list
