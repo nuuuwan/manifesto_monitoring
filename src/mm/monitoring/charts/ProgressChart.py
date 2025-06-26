@@ -4,8 +4,11 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 from matplotlib.dates import relativedelta
 from matplotlib.ticker import PercentFormatter
+from utils import Log
 
 from mm.monitoring.CompareManifesto import CompareManifesto
+
+log = Log("ProgressChart")
 
 
 class ProgressChart:
@@ -77,3 +80,4 @@ class ProgressChart:
 
         plt.savefig(self.CHART_PATH, dpi=300)
         plt.close()
+        log.info(f"Wrote {self.CHART_PATH}.")

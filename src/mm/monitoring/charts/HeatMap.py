@@ -3,12 +3,16 @@ import os
 import matplotlib.lines as mlines
 import matplotlib.patches as patches
 import matplotlib.pyplot as plt
+from utils import Log
 
 from mm.monitoring.CompareManifesto import CompareManifesto
 from mm.monitoring.CompareThresholds import CompareThresholds
 
+log = Log("HeatMap")
+
 
 class HeatMap:
+
     ASPECT_RATIO = 16 / 9
     WIDTH = 1600
     HEIGHT = int(WIDTH / ASPECT_RATIO)
@@ -23,8 +27,10 @@ class HeatMap:
             int((HeatMap.ASPECT_RATIO * self.n_manifesto_items) ** 0.5) + 1
         )
         self.n_y = int(self.n_manifesto_items / self.n_x) + 1
-        self.x_dim = HeatMap.WIDTH / self.n_x
-        self.y_dim = HeatMap.HEIGHT / self.n_y
+
+        dim = min(HeatMap.WIDTH / self.n_x, HeatMap.HEIGHT / self.n_y)
+        self.x_dim = dim
+        self.y_dim = dim
 
     @staticmethod
     def get_color(similarity):
@@ -104,6 +110,7 @@ class HeatMap:
         plt.close()
         plt.figure(figsize=(8, 4.5))
         ax = plt.gca()
+        ax.set_aspect("equal")
         self.draw_base_grid()
         self.draw_match_grid()
         self.draw_legend()
@@ -122,3 +129,4 @@ class HeatMap:
 
         plt.savefig(HeatMap.CHART_PATH, dpi=300)
         plt.close()
+        log.info(f"Wrote {HeatMap.CHART_PATH}.")
