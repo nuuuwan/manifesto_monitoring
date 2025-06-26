@@ -1,8 +1,7 @@
-import os
 from dataclasses import dataclass
-from functools import cached_property
+from functools import cache, cached_property
 
-from utils import JSONFile, Log
+from utils import WWW, Log, TSVFile
 
 log = Log("CabinetDecision")
 
@@ -15,11 +14,10 @@ class CabinetDecision:
     source_url: str
     decision_details: str
 
-    DIR_PY = os.environ["DIR_PY"]
-    DIR_DATA = os.path.join(DIR_PY, "lk_cabinet_decisions", "data")
-    DIR_CABINET_DECISIONS = os.path.join(DIR_DATA, "cabinet_decisions")
-    CABINET_DESICIONS_TABLE_PATH = os.path.join(
-        DIR_DATA, "cabinet_decisions.tsv"
+    REMOTE_DATA_URL = (
+        "https://raw.githubusercontent.com"
+        + "/nuuuwan/lk_cabinet_decisions"
+        + "/refs/heads/main/data/cabinet_decisions.tsv"
     )
 
     @cached_property
@@ -27,30 +25,23 @@ class CabinetDecision:
         return f"{self.date_str}-{self.decision_num:03d}"
 
     @staticmethod
-    def __get_data_file_path_list__():
-        data_file_path_list = []
-        for root, _, files in os.walk(CabinetDecision.DIR_CABINET_DECISIONS):
-            for file_name in files:
-                if file_name.endswith(".json"):
-                    file_path = os.path.join(root, file_name)
-                    data_file_path_list.append(file_path)
-        return data_file_path_list
-
-    @staticmethod
+    @cache
     def __get_data_list__():
-        data_list = []
-        for file_path in CabinetDecision.__get_data_file_path_list__():
-            data = JSONFile(file_path).read()
-            data_list.append(data)
-        data_list.sort(key=lambda x: x["key"], reverse=True)
+        www = WWW(CabinetDecision.REMOTE_DATA_URL)
+        tsv_file = TSVFile(www.download())
+        data_list = tsv_file.read()
+        print(data_list[0])
+        data_list = [data for data in data_list if data.get("date_str")]
+        log.info(f"Loaded {len(data_list)} cabinet decisions from {www.url}")
         return data_list
 
     @staticmethod
+    @cache
     def list_all():
         return [
             CabinetDecision(
                 date_str=data["date_str"],
-                decision_num=data["decision_num"],
+                decision_num=int(data["decision_num"]),
                 title=data["title"],
                 source_url=data["source_url"],
                 decision_details=data["decision_details"],
