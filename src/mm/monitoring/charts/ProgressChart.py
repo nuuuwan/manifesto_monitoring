@@ -28,25 +28,25 @@ class ProgressChart:
         )  # Value between 0.0 and 1.0
 
         plt.annotate(
-            f"Goal: {expected_progress:.1%}",
+            f"Expected: {expected_progress:.1%}",
+            color="grey",
             xy=(latest_date, expected_progress),
-            xytext=(0, 25),
+            xytext=(-25, 0),
             textcoords="offset points",
-            ha="center",
-            va="bottom",
+            ha="right",
+            va="center",
             fontsize=9,
-            bbox=dict(boxstyle="round,pad=0.2", fc="white", ec="grey", lw=1),
             arrowprops=dict(arrowstyle="->", color="grey", lw=1),
         )
         plt.annotate(
-            f"{latest_progress:.1%}",
+            f"Actual: {latest_progress:.1%}",
+            color="red",
             xy=(latest_date, latest_progress),
-            xytext=(25, -25),
+            xytext=(25, 0),
             textcoords="offset points",
             ha="left",
-            va="top",
+            va="center",
             fontsize=10,
-            bbox=dict(boxstyle="round,pad=0.2", fc="white", ec="grey", lw=1),
             arrowprops=dict(arrowstyle="->", color="grey", lw=1),
         )
 
