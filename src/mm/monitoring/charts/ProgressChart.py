@@ -12,25 +12,29 @@ class ProgressChart:
     CHART_PATH = os.path.join("images", "progress_chart.png")
 
     def __init__(self):
-        self.d_list = CompareManifesto().get_overall_progress_by_date()
+        d_list = CompareManifesto().get_overall_progress_by_date()
+        d_list.sort(key=lambda x: x["date"])
+        self.dates = [
+            datetime.strptime(item["date"], "%Y-%m-%d") for item in d_list
+        ]
+        self.progress = [item["progress"] for item in d_list]
 
-        self.d_list.sort(key=lambda x: x["date"])
+        self.x_min = min(self.dates)
+        self.x_max = self.x_min + relativedelta(years=5)
 
-    @staticmethod
-    def draw_annotate_latest_progress(dates, progress, x_max, x_min):
-        latest_date = dates[-1]
-        latest_progress = progress[-1]
+        self.latest_date = self.dates[-1]
+        self.latest_progress = self.progress[-1]
 
-        total_duration = (x_max - x_min).total_seconds()
-        elapsed = (latest_date - x_min).total_seconds()
-        expected_progress = (
-            elapsed / total_duration
-        )  # Value between 0.0 and 1.0
+        total_duration = (self.x_max - self.x_min).total_seconds()
+        elapsed = (self.latest_date - self.x_min).total_seconds()
+        self.expected_progress = elapsed / total_duration
+
+    def draw_annotate_latest_progress(self):
 
         plt.annotate(
-            f"Expected: {expected_progress:.1%}",
+            f"Expected: {self.expected_progress:.1%}",
             color="grey",
-            xy=(latest_date, expected_progress),
+            xy=(self.latest_date, self.expected_progress),
             xytext=(-25, 0),
             textcoords="offset points",
             ha="right",
@@ -39,9 +43,9 @@ class ProgressChart:
             arrowprops=dict(arrowstyle="->", color="grey", lw=1),
         )
         plt.annotate(
-            f"Actual: {latest_progress:.1%}",
+            f"Actual: {self.latest_progress:.1%}",
             color="red",
-            xy=(latest_date, latest_progress),
+            xy=(self.latest_date, self.latest_progress),
             xytext=(25, 0),
             textcoords="offset points",
             ha="left",
@@ -52,26 +56,21 @@ class ProgressChart:
 
     def draw(self):
         plt.close()
-        dates = [
-            datetime.strptime(item["date"], "%Y-%m-%d") for item in self.d_list
-        ]
-
-        progress = [item["progress"] for item in self.d_list]
-
-        x_min = min(dates)
-        x_max = x_min + relativedelta(years=5)
 
         plt.figure(figsize=(10, 5))
-        plt.plot([x_min, x_max], [0, 1.0], linestyle=":", color="grey")
-        plt.plot(dates, progress, color="red", linewidth=3)
+        plt.plot(
+            [self.x_min, self.x_max], [0, 1.0], linestyle=":", color="grey"
+        )
+        plt.plot(self.dates, self.progress, color="red", linewidth=3)
 
-        self.draw_annotate_latest_progress(dates, progress, x_max, x_min)
+        self.draw_annotate_latest_progress()
 
         plt.xlabel("Date")
         plt.ylabel("Overall Progress (%)")
-        plt.title("Manifesto Items with Cabinet Decisions Match")
+        date_str = self.latest_date.strftime("%Y-%m-%d")
+        plt.title(f"Manifesto Items vs. Cabinet Decisions (As of {date_str})")
         plt.ylim(0, 1.0)
-        plt.xlim(min(dates), x_max)
+        plt.xlim(self.x_min, self.x_max)
         plt.gca().yaxis.set_major_formatter(PercentFormatter(1.0))
         plt.grid(True)
         plt.tight_layout()
