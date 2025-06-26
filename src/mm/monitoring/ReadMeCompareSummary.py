@@ -44,7 +44,7 @@ class ReadMeCompareSummary:
             d_list.append(
                 {
                     "Group": CompareThresholds.get_group_title(group),
-                    "Threshold": threshold_str,
+                    "Similarity Range": threshold_str,
                     "Description": CompareThresholds.TEXTUAL[group],
                 }
             )

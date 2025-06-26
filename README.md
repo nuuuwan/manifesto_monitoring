@@ -20,7 +20,7 @@ This section compares the NPP manifesto promises with Cabinet Decisions, using O
 
 ![images/heat_map.png](images/heat_map.png)
 
-Group | Threshold | Description
+Group | Similarity Range | Description
 :-- | --: | --:
 🔴 High | [60%, 100%] | Strongly Aligned
 🟠 Medium | [55%, 60%) | Moderately Aligned
