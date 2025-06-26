@@ -1,5 +1,6 @@
 from functools import cached_property
 
+from mm.cabinet_decisions import CabinetDecision
 from mm.monitoring.CompareThresholds import CompareThresholds
 from utils_future import Markdown
 
@@ -22,7 +23,8 @@ class ReadMeCompareDetails:
         # cd = cabinet decision
         return " ".join(
             [
-                f"[{cabinet_decision.key}]({cabinet_decision.source_url})",
+                f"[{cabinet_decision.key_with_emoji}]"
+                + "({cabinet_decision.source_url})",
                 f"**{cabinet_decision.title}**",
             ]
         )
@@ -72,5 +74,8 @@ class ReadMeCompareDetails:
     def compare_detail_lines(self):
         return [
             "### Manifesto Items with Best Matching Cabinet Decisions",
+            "",
+            "(🆕 = Cabinet Decisions in the last"
+            + f" {CabinetDecision.LIMIT_DAYS})",
             "",
         ] + self.get_compare_details_table()

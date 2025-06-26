@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 from functools import cache, cached_property
 
-from utils import WWW, Log, TSVFile
+from utils import WWW, Log, Time, TimeFormat, TimeUnit, TSVFile
 
 log = Log("CabinetDecision")
 
@@ -19,10 +19,27 @@ class CabinetDecision:
         + "/nuuuwan/lk_cabinet_decisions"
         + "/refs/heads/main/data/cabinet_decisions.tsv"
     )
+    LIMIT_DAYS = 28
 
     @cached_property
     def key(self):
         return f"{self.date_str}-{self.decision_num:03d}"
+
+    @cached_property
+    def is_new(self):
+
+        limit_date_str = TimeFormat.DATE.format(
+            Time(
+                Time.now().ut
+                - TimeUnit.SECONDS_IN.DAY * CabinetDecision.LIMIT_DAYS
+            )
+        )
+        return self.date_str >= limit_date_str
+
+    @cached_property
+    def key_with_emoji(self):
+        emoji = "🆕" if self.is_new else ""
+        return f"{emoji} {self.key}"
 
     @staticmethod
     @cache
