@@ -29,6 +29,10 @@ class ProgressChart:
         plt.figure(figsize=(10, 5))
         plt.plot([x_min, x_max], [0, 1.0], "r--", color="grey")
         plt.plot(dates, progress, color="red", linewidth=3)
+        self.draw_annotate_latest_progress(
+            dates,
+            progress,
+        )
 
         plt.xlabel("Date")
         plt.ylabel("Overall Progress (%)")
