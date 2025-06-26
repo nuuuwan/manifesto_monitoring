@@ -134,6 +134,8 @@ class CompareManifesto:
             if max_sim is None or sim > max_sim:
                 max_sim = sim
                 max_j = j
+        if not max_sim:
+            max_sim = 0
         return max_j, float(max_sim)
 
     @cache
