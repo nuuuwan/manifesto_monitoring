@@ -57,7 +57,7 @@ class ProgressChart:
     def draw(self):
         plt.close()
 
-        plt.figure(figsize=(10, 5))
+        plt.figure(figsize=(8, 4.5))
         plt.plot(
             [self.x_min, self.x_max], [0, 1.0], linestyle=":", color="grey"
         )

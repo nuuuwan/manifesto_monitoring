@@ -102,6 +102,7 @@ class HeatMap:
 
     def draw(self):
         plt.close()
+        plt.figure(figsize=(8, 4.5))
         ax = plt.gca()
         self.draw_base_grid()
         self.draw_match_grid()
