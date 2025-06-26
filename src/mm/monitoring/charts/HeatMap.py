@@ -113,7 +113,7 @@ class HeatMap:
         plt.axis("off")
         plt.title(
             "Manifesto Items with Cabinet Decisions Match"
-            + f" (Overall Progress: {self.overall_progress:.0%})",
+            + f" (Overall Progress: {self.overall_progress:.1%})",
             fontsize=12,
             pad=20,
         )

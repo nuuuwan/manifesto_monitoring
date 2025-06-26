@@ -28,7 +28,7 @@ class ProgressChart:
         )  # Value between 0.0 and 1.0
 
         plt.annotate(
-            f"Goal: {expected_progress:.0%}",
+            f"Goal: {expected_progress:.1%}",
             xy=(latest_date, expected_progress),
             xytext=(0, 25),
             textcoords="offset points",
@@ -39,7 +39,7 @@ class ProgressChart:
             arrowprops=dict(arrowstyle="->", color="grey", lw=1),
         )
         plt.annotate(
-            f"{latest_progress:.0%}",
+            f"{latest_progress:.1%}",
             xy=(latest_date, latest_progress),
             xytext=(25, -25),
             textcoords="offset points",
@@ -53,8 +53,7 @@ class ProgressChart:
     def draw(self):
         plt.close()
         dates = [
-            datetime.strptime(item["date"], "%Y-%m-%d")
-            for item in self.d_list
+            datetime.strptime(item["date"], "%Y-%m-%d") for item in self.d_list
         ]
 
         progress = [item["progress"] for item in self.d_list]
