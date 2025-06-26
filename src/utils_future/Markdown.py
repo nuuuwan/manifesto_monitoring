@@ -2,7 +2,12 @@ class Markdown:
 
     @staticmethod
     def __get_header_cells__(col: str) -> str:
-        if col in ["Manifesto", "Cabinet Decision", "l1_topic", "Group"]:
+        if col in [
+            "Manifesto",
+            "Cabinet Decision (Best Match)",
+            "l1_topic",
+            "Group",
+        ]:
             return ":--"
         return "--:"
 

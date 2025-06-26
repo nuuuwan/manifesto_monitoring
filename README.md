@@ -42,7 +42,7 @@ all | all | 1345 | 38 (3%) | 94 (7%) | 202 (15%) | 1011 (75%)
 (🆕 = Cabinet Decisions in the last 28)
 
 row | Manifesto | Cabinet Decision (Best Match) | Similarity
---: | :-- | --: | --:
+--: | :-- | :-- | --:
 1 | `4.03.A03.01` **Attorney General’s Department**  Introducing a Directorate of Public Prosecution (DPP) as a mechanism to eliminate delays within the judicial system and establishing a main DPP office and sub offices in the provinces which will remain independent of the Attorney General’s Department to conduct cases on behalf of the government. | [ 2025-05-07-002]({cabinet_decision.source_url}) **Establishment of the Office of Public Prosecutor** | 🔴 69%
 2 | `3.10.A01.16` **NO-TITLE**  Either upgrading / repairing the Sapugaskanda oil refinery or conducting feasibility studies to build a new refinery | [ 2025-02-09-004]({cabinet_decision.source_url}) **Developing and Expanding the Sapugaskanda Oil Refining Complex** | 🔴 69%
 3 | `2.01.A01.02` **Social protection and Welfare Programmes Prajashakthi: Poverty alleviation programme for low-income earners**  Introduction of a participatory, transparent and efficient beneficiary selection process | [ 2025-02-24-007]({cabinet_decision.source_url}) **Implementation of the “Praja Shakthi” programme as an Integrated programme including multiple approaches to alleviate poverty** | 🔴 69%
