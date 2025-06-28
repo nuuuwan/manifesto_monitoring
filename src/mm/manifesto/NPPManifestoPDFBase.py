@@ -2,7 +2,7 @@ import os
 import re
 from functools import cached_property
 
-from PyPDF2 import PdfReader
+from pypdf import PdfReader
 
 
 class NPPManifestoPDFBase:
