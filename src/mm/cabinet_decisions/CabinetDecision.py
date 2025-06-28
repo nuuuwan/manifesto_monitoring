@@ -42,13 +42,30 @@ class CabinetDecision:
         return f"{emoji} {self.key}"
 
     @staticmethod
-    @cache
-    def __get_data_list__():
+    def __download_data__():
         www = WWW(CabinetDecision.REMOTE_DATA_URL)
-        tsv_file = TSVFile(www.download())
+        t_wait = 10
+        while t_wait < 120:
+            try:
+                tmp_tsv_path = www.download()
+                return tmp_tsv_path
+            except Exception as e:
+                log.error(f"Failed to download data: {e}")
+                log.debug(f"Retrying in {t_wait} seconds...")
+                Time.sleep(t_wait)
+                t_wait *= 2
+        raise RuntimeError("Failed to download data after multiple attempts.")
+
+    @staticmethod
+    def __get_data_list__():
+        tmp_tsv_path = CabinetDecision.__download_data__()
+        tsv_file = TSVFile(tmp_tsv_path)
         data_list = tsv_file.read()
         data_list = [data for data in data_list if data.get("date_str")]
-        log.info(f"Loaded {len(data_list)} cabinet decisions from {www.url}")
+        log.info(
+            f"Loaded {len(data_list)}"
+            + f" cabinet decisions from {CabinetDecision.REMOTE_DATA_URL}"
+        )
         return data_list
 
     @staticmethod
