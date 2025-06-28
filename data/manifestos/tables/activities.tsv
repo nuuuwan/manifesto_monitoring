@@ -37,7 +37,7 @@ key	l1_num	l2_num	activity_num	title	n_items
 1.02.A19	1	2	19	Medical tourism in Sri Lanka	1
 1.02.A20	1	2	20	Private medical service	1
 1.03.A01	1	3	1	NO-TITLE	1
-1.03.A02	1	3	2	Urba n Housing	5
+1.03.A02	1	3	2	Urban Housing	5
 1.03.A03	1	3	3	Rural Housing	3
 1.03.A04	1	3	4	Estate Housing	3
 1.04.A01	1	4	1	NO-TITLE	30
@@ -68,7 +68,7 @@ key	l1_num	l2_num	activity_num	title	n_items
 1.08.A01	1	8	1	NO-TITLE	15
 2.01.A01	2	1	1	Social protection and Welfare Programmes Prajashakthi: Poverty alleviation programme for low-income earners	3
 2.01.A02	2	1	2	Empowerment	7
-2.01.A03	2	1	3	A healthy and happy retirement for senior c itizens	10
+2.01.A03	2	1	3	A healthy and happy retirement for senior citizens	10
 2.01.A04	2	1	4	Social protection for women-headed families, single parent families and women affected by Gender-based/intimate partner violence.	4
 2.01.A05	2	1	5	Health: Social Protection for Persons with Chronic Illnesses	3
 2.01.A06	2	1	6	Nourishing Future Generations: Reducing Malnutrition	3
@@ -123,13 +123,13 @@ key	l1_num	l2_num	activity_num	title	n_items
 3.04.A05	3	4	5	Ornamental fish and ornamental aquatic plants industry	9
 3.04.A06	3	4	6	Social Welfare for the Fishing Community	10
 3.04.A07	3	4	7	Promoting the production of tools and equipment	2
-3.04.A08	3	4	8	Post harvesting management a nd value-added products	4
+3.04.A08	3	4	8	Post harvesting management and value-added products	4
 3.04.A09	3	4	9	Uplifting export potential and earning foreign exchange	5
 3.04.A10	3	4	10	Uplifting financial income surrounding fisheries harbours and developing fisheries harbours	5
 3.04.A11	3	4	11	Blue economy	2
 3.05.A01	3	5	1	NO-TITLE	16
-3.06.A01	3	6	1	Agriculture, fisheries, livesto ck, and food security	10
-3.06.A02	3	6	2	Research on health, education and scien ce	11
+3.06.A01	3	6	1	Agriculture, fisheries, livestock, and food security	10
+3.06.A02	3	6	2	Research on health, education and science	11
 3.06.A03	3	6	3	ICT, communication, engineering, energy, maritime, transportation, tourism, and other industries	19
 3.06.A04	3	6	4	Environment, land, water, air, and mineral resources	6
 3.06.A05	3	6	5	Human development, arts, history, culture and ancient heritage studies	9
@@ -197,7 +197,7 @@ key	l1_num	l2_num	activity_num	title	n_items
 4.07.A01	4	7	1	The role and functions of the Ministry of Foreign Affairs	4
 4.07.A02	4	7	2	Diplomatic Missions	4
 4.07.A03	4	7	3	Institutional Reforms:	4
-4.07.A04	4	7	4	Enhancing Diplom atic Training and Capacity Building:	3
+4.07.A04	4	7	4	Enhancing Diplomatic Training and Capacity Building:	3
 4.07.A05	4	7	5	Revising Diplomatic Protocols and Ethics:	1
 4.07.A06	4	7	6	Strengthening Centralized Oversight and Coordination:	2
 4.07.A07	4	7	7	Service Efficiency Sri Lankan Missions	4

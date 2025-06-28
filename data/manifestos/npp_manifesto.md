@@ -8,7 +8,7 @@ Source: [https://www.npp.lk/up/policies/en/npppolicystatement.pdf](https://www.n
 
 #### Introduction [1.01]
 
-Education is a cultural process that generates new knowledge by acquiring and disseminating existing knowledge. The existence and development of a civilized and responsible society hinge on the quality of its education. In Sri Lanka, the education system faces several crises. A major issue is the high dropout rate, with many students leaving school before completing at least 13 years of education. For example, in 2008, 11.3% of children who entered the first year left school before sitting for the GCE O/L examination in 2018. By 2020, only 64.7% of students who sat for the GCE O/L examination proceeded to the GCE A/L level, meaning that 35.3% of those who entered the first year did not reach the GCE A/L examination. Only 35.4% of these students passed the GCE A/L examination and merely 12.7% secured university entrance.
+E ducation is a cultural process that generates new knowledge by acquiring and disseminating existing knowledge. The existence and development of a civilized and responsible society hinge on the quality of its education. In Sri Lanka, the education system faces several crises. A major issue is the high dropout rate, with many students leaving school before completing at least 13 years of education. For example, in 2008, 11.3% of children who entered the first year left school before sitting for the GCE O/L examination in 2018. By 2020, only 64.7% of students who sat for the GCE O/L examination proceeded to the GCE A/L level, meaning that 35.3% of those who entered the first year did not reach the GCE A/L examination. Only 35.4% of these students passed the GCE A/L examination and merely 12.7% secured university entrance.
 
 Another significant problem is the disparity in the distribution of human and physical resources within the school system, which has led to a breakdown in parental trust in the system. According to the 2022 school census report, out of 10,126 schools, 1,473 (14.5%) have fewer than 50 students, and 5,204 schools (51.4%) have fewer than 200 students.
 
@@ -16,7 +16,7 @@ This means that over half of the schools are underutilized and lack basic facili
 
 Furthermore, serious social criticism exists on the education system’s failure to produce quality citizens. While education is not solely about preparing individuals for the job market, it should equip citizens to fulfil social responsibilities and contribute positively to the national economy. The current mismatch between the education system and the needs of the main economic sectors, agriculture, industry, and service, is evident.
 
-The NPP’s education policy aims to provide quality education that fosters a developed, humanistic, and responsible society. To achieve these goals, we will increase public investment in the education sector, gradually raising the allocation to education as a percentage of the gross domestic product up to 6%.
+The NPP’s education policy aims to provide quality education that fosters a developed, humanistic, and responsible society. To achieve these goals, we will increase public investment in the education sector, gradually raising the allocation to education as a percentage of the gross domestic product up to 6%. 10
 
 #### Principles [1.01]
 
@@ -224,7 +224,7 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 ##### 1.01.A16) Adult Education
 
-- 1.01.A16.01) Community educatio nal centres in each divisional secretariat area, integrated with local educational institutions, libraries, and cultural centres.
+- 1.01.A16.01) Community educational centres in each divisional secretariat area, integrated with local educational institutions, libraries, and cultural centres.
 
 - 1.01.A16.02) Educational programs for citizens on fundamental laws in Sinhala, Tamil, and English, as well as on information technology and the use of technological tools.
 
@@ -236,7 +236,7 @@ The NPP’s education policy aims to provide quality education that fosters a de
 
 #### Introduction [1.02]
 
-According to the United Nations Universal Declaration of Human Rights, health is a human right. The right to health is intrinsically linked to all other human rights.
+A ccording to the United Nations Universal Declaration of Human Rights, health is a human right. The right to health is intrinsically linked to all other human rights.
 
 Patient empowerment is one of the key elements of patient-centred healthcare. Gender inequality remains a critical challenge in the health sector. Achieving Universal Health
 
@@ -256,7 +256,7 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 - 1.02.P4) Health services that meet global standards.
 
-- 1.02.P5) Protection of patients’ rights and safety.
+- 1.02.P5) Protection of patients’ rights and safety. 17
 
 #### Activities [1.02]
 
@@ -414,7 +414,7 @@ The WHO’s ranking of the world’s health systems indicated that the Sri Lanka
 
 #### Introduction [1.03]
 
-The housing issue in Sri Lanka, particularly in urban areas, has become increasingly severe, especially for low-income families. In Colombo alone, approximately 65,000 homes in low-income settlements are spread across 1,000 acres. Residents in these areas have been largely neglected by previous governments and suffer from a lack of basic amenities such as water, electricity, sanitation, and clean air. While other urban residents can build, buy, or rent homes, varying income levels make these options challenging for many. Government employees, in particular, struggle with the high cost of rent, as their incomes are often insufficient to cover these expenses.
+T he housing issue in Sri Lanka, particularly in urban areas, has become increasingly severe, especially for low-income families. In Colombo alone, approximately 65,000 homes in low-income settlements are spread across 1,000 acres. Residents in these areas have been largely neglected by previous governments and suffer from a lack of basic amenities such as water, electricity, sanitation, and clean air. While other urban residents can build, buy, or rent homes, varying income levels make these options challenging for many. Government employees, in particular, struggle with the high cost of rent, as their incomes are often insufficient to cover these expenses.
 
 Rural housing issues also persist, although they have received less attention from the government. Even when families own land, they face problems such as unclear land ownership, poor locations, lack of access roads, high costs of building materials, and unstable income levels, making it difficult to construct or maintain homes. Approximately 2% of Sri Lanka’s rural population lives in estate housing, primarily in the Central, Uva,
 
@@ -436,7 +436,7 @@ Our goal is to construct multi-story housing complexes wherever possible, effici
 
 - 1.03.A01.01) Offering financial support to newly married couples for purchasing or constructing their homes.
 
-##### 1.03.A02) Urba n Housing
+##### 1.03.A02) Urban Housing
 
 - 1.03.A02.01) Encouraging the private sector to develop affordable housing projects in urban areas and providing appropriate land for these initiatives.
 
@@ -468,11 +468,11 @@ Our goal is to construct multi-story housing complexes wherever possible, effici
 
 #### Introduction [1.04]
 
-Sports play a crucial role not only in fostering participation and achieving victory but also in shaping a healthy, disciplined, and intelligent society. Success in sports brings honor and pride to the country, while participation promotes a healthier nation, creating individuals with discipline, strong personality, and sound mental health.
+S ports play a crucial role not only in fostering participation and achieving victory but also in shaping a healthy, disciplined, and intelligent society. Success in sports brings honor and pride to the country, while participation promotes a healthier nation, creating individuals with discipline, strong personality, and sound mental health.
 
 However, inefficient management and political interference have become significant barriers to the growth of the sports sector. The current disorganized system has allowed certain sports and athletes to fall under the control of private entities. Additionally, a substantial portion of resources and services are concentrated in urban areas, leaving athletes in rural and estate sectors neglected.
 
-Despite the immense potential that sports offer to a country like Sri Lanka—one that has faced numerous challenges—the nation’s position in the international sports arena remains low. Although Sri Lankan cricket once enjoyed a prominent status, it has recently seen a decline. The NPP is committed to implementing a sports and physical well-being policy that will restore national pride and cultivate a healthy and disciplined populace.
+Despite the immense potential that sports offer to a country like Sri Lanka—one that has faced numerous challenges—the nation’s position in the international sports arena remains low. Although Sri Lankan cricket once enjoyed a prominent status, it has recently seen a decline. The NPP is committed to implementing a sports and physical well-being policy that will restore national pride and cultivate a healthy and disciplined populace. 23
 
 #### Principles [1.04]
 
@@ -556,7 +556,7 @@ Despite the immense potential that sports offer to a country like Sri Lanka—on
 
 #### Introduction [1.05]
 
-The cultural and artistic space is a highly sensitive area within a society. Though culture and art seem to take time to have an impact on the human community, the decline in these areas has caused a significant erosion in contemporary Sri Lankan society. The intentional destruction of the foundation of culture and arts has weakened civil society.
+T he cultural and artistic space is a highly sensitive area within a society. Though culture and art seem to take time to have an impact on the human community, the decline in these areas has caused a significant erosion in contemporary Sri Lankan society. The intentional destruction of the foundation of culture and arts has weakened civil society.
 
 Several past governments have neglected the cultural sector. The educational framework, which should have been effectively developed and maintained from early childhood, has often fallen victim to shifts in political power. As a result, society’s failure to cultivate a developed cultural life has led individuals to fall short of becoming complete and empowered citizens, even after progressing through stages such as preschool, school, technical college, and university. This failure has led to a loss of faith in the belief that culture is the root of human life.
 
@@ -564,7 +564,7 @@ This field of culture is shaped by the interplay of interconnected domains, incl
 
 Society is now calling for a new vision that can swiftly address these wounds and bring about essential changes. Such a transformation can only be realized through a robust revitalization of the cultural sector, aimed at fostering a national revival. The National
 
-People’s Power movement aspires to create a new cultural individual or cultured person —one that is free, critical, respectful of human dignity, and embraces diverse cultures.
+People’s Power movement aspires to create a new cultural individual or cultured person —one that is free, critical, respectful of human dignity, and embraces diverse cultures. 25
 
 #### Principles [1.05]
 
@@ -746,7 +746,7 @@ People’s Power movement aspires to create a new cultural individual or culture
 
 #### Introduction [1.06]
 
-In Sri Lanka, the current understanding of history, culture, and heritage is often based on post-colonial perspectives, which have limited the effective use of these elements for national development. Therefore, creating a new policy framework with an innovative vision is essential to effectively utilize these fields. Establishing new policy foundations based on research and development is a high priority for integrating history, culture, and heritage into the country’s national development strategies. This process aims to utilize Sri
+I n Sri Lanka, the current understanding of history, culture, and heritage is often based on post-colonial perspectives, which have limited the effective use of these elements for national development. Therefore, creating a new policy framework with an innovative vision is essential to effectively utilize these fields. Establishing new policy foundations based on research and development is a high priority for integrating history, culture, and heritage into the country’s national development strategies. This process aims to utilize Sri
 
 Lanka’s rich heritage in a sustainable and comprehensive manner for development.
 
@@ -784,7 +784,7 @@ Lanka’s rich heritage in a sustainable and comprehensive manner for developmen
 
 #### Introduction [1.07]
 
-The total land area of Sri Lanka is 65,610 square kilometers. In addition to this, it encompasses a marine zone of 18,060 square kilometres, a neighbouring marine zone of 19,620 square kilometres, and an extended economic zone of 437,400 square kilometres.
+T he total land area of Sri Lanka is 65,610 square kilometers. In addition to this, it encompasses a marine zone of 18,060 square kilometres, a neighbouring marine zone of 19,620 square kilometres, and an extended economic zone of 437,400 square kilometres.
 
 According to the topography, the area up to 300 feet is classified as the coastal zone, while areas between 300 feet to 1,000 feet and above are categorized as mountainous regions.
 
@@ -792,7 +792,7 @@ The annual rainfall varies from 900 millimetres to over 5,000 millimetres. The p
 
 Despite this, Sri Lanka has been unsuccessful in creating an environment-friendly and economically developed society. For over 20 years, it has been unsuccessful in defining the marine zone in the environmentally important continental pool under the exclusive economic zone, which is more than 20 times larger than Sri Lanka. Despite being a signatory
 
-Country to many of the international Conventions and Treaties and also having more than 100 environmental laws in the country, it has failed to build up an environmentally 31friendly nation. Due to the lack of proper land-use planning, the land is turning into barren land with soil erosion and landslides. The absence of proper water management has caused severe water shortages and disasters from excess water as well. Doubling evaporation rates over a short period of 30 years, the destruction of water resources, and other environmental factors directly affecting these resources are considered major issues.
+Country to many of the international Conventions and Treaties and also having more than 100 environmental laws in the country, it has failed to build up an environmentally 31 friendly nation. Due to the lack of proper land-use planning, the land is turning into barren land with soil erosion and landslides. The absence of proper water management has caused severe water shortages and disasters from excess water as well. Doubling evaporation rates over a short period of 30 years, the destruction of water resources, and other environmental factors directly affecting these resources are considered major issues.
 
 The environmental policy of the NPP with the vision of “a sustainable environment that ensures the healthy existence of biodiversity” gives priority to the use of natural resources ensuring the balance between socio-economic development and the environment, a participatory approach in sustainable management, minimizing climate change impacts, and a healthy society with a balanced environment built upon knowledge, skills, attitudes and mindset.
 
@@ -980,13 +980,15 @@ The environmental policy of the NPP with the vision of “a sustainable environm
 
 #### Introduction [1.08]
 
-Human communication is inherently linked and has evolved over time into a dominant social process, closely intertwined with modern technology. Mass media represents the modern state of this long-standing evolution. The term ‘media’ encompasses the technical methods, tools, institutions, technical procedures, organizational structures, and other elements used to disseminate various messages to the public. It is the means through which broad objectives such as information providing, education, persuasion, entertainment, social adaptation, cultural promotion, and mutual co-existence are achieved. The effectiveness of journalism relies on the integrity and quality of all these components.
+H uman communication is inherently linked and has evolved over time into a dominant social process, closely intertwined with modern technology. Mass media represents the modern state of this long-standing evolution. The term ‘media’ encompasses the technical methods, tools, institutions, technical procedures, organizational structures, and other elements used to disseminate various messages to the public. It is the means through which broad objectives such as information providing, education, persuasion, entertainment, social adaptation, cultural promotion, and mutual co-existence are achieved. The effectiveness of journalism relies on the integrity and quality of all these components.
 
 The media process should be tailored to the specific needs of a country, society, or community. Therefore, policies and initiatives that establish its foundation are crucial.
 
 Since gaining independence in 1948, successive governments in Sri Lanka have used print and electronic media as the mechanism to maintain their power. Consequently, instead of delivering accurate, truthful, and clear news, the media in the country has increasingly focused on promoting pro-government narratives, eulogies and personal biases. The challenge is that news and feature programs filled with deception, misrepresentation, and biased attitudes have fueled mistrust, suspicion, and conflict among ethnic groups. As journalists increasingly became political partisans more focused on profit and attention than integrity, public trust in the media began to erode.
 
-The NPP is committed to preventing the deliberate and strategic misuse of mass media. 36By positioning mass media, journalists, and the audience as catalysts for social, political, economic, and cultural renewal, the NPP is dedicated to ensuring technical support and safeguarding the professional integrity of journalists.
+The NPP is committed to preventing the deliberate and strategic misuse of mass media. 36
+
+By positioning mass media, journalists, and the audience as catalysts for social, political, economic, and cultural renewal, the NPP is dedicated to ensuring technical support and safeguarding the professional integrity of journalists.
 
 #### Principles [1.08]
 
@@ -1030,7 +1032,7 @@ The NPP is committed to preventing the deliberate and strategic misuse of mass m
 
 - 1.08.A01.14) Promoting media literacy programs to foster an informed audience.
 
-- 1.08.A01.15) Establishing an independent media commission to oversee the optimal functioning of journalism process.   02. An honourable life A safe country
+- 1.08.A01.15) Establishing an independent media commission to oversee the optimal functioning of journalism process.    An honourable life A safe country
 
 ## 2) An honourable life - A safer country
 
@@ -1038,7 +1040,7 @@ The NPP is committed to preventing the deliberate and strategic misuse of mass m
 
 #### Introduction [2.01]
 
-Approximately 5.7 million people in Sri Lanka live below the national poverty line (set at Rs. 16,326 per month as of May 2024 as confirmed by the Department of Census and
+A pproximately 5.7 million people in Sri Lanka live below the national poverty line (set at Rs. 16,326 per month as of May 2024 as confirmed by the Department of Census and
 
 Statistics. A report published by the United Nations Development Programme indicates that more than half of the population (55.7%), which is about 12.34 million people, are exposed to multidimensional poverty. This reflects a significant challenge: since gaining independence, the political parties in power have left a social legacy where a substantial portion of the population remains poor and suffers from multidimensional vulnerabilities.
 
@@ -1062,7 +1064,7 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 - 2.01.P6) Ensuring social justice and leaving no one behind
 
-- 2.01.P7) Efficient and meaningful participation of beneficiaries and all relevant stakeholders in the selection of beneficiaries
+- 2.01.P7) Efficient and meaningful participation of beneficiaries and all relevant stakeholders in the selection of beneficiaries 39
 
 #### Activities [2.01]
 
@@ -1076,7 +1078,7 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 ##### 2.01.A02) Empowerment
 
-- 2.01.A02.01) Under the key poverty alleviation programme, the NPP government will undertake the following ess ential tasks.
+- 2.01.A02.01) Under the key poverty alleviation programme, the NPP government will undertake the following essential tasks.
 
 - 2.01.A02.02) A comprehensive participatory study on the causes of poverty and family dynamics in low-income households.
 
@@ -1088,9 +1090,9 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 - 2.01.A02.06) Efficient use of the Samurdhi Banking system and staff to empower poor families.
 
-- 2.01.A02.07) Assigning a field officer for every 100 families for monitoring and to provide continuous sup port
+- 2.01.A02.07) Assigning a field officer for every 100 families for monitoring and to provide continuous support
 
-##### 2.01.A03) A healthy and happy retirement for senior c itizens
+##### 2.01.A03) A healthy and happy retirement for senior citizens
 
 - 2.01.A03.01) Providin g a monthly allowance of Rs. 5,000 to senior citizens needing assistance.
 
@@ -1104,7 +1106,7 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 - 2.01.A03.06) Provision of incentives for financial and insurance services to ensure the safety of pension funds and continuous benefits.
 
-- 2.01.A03.07) An interest rate that is 5% higher than the normal bank rate(s) for senior citizens’ fixed deposits. A Meaningful and Satisfactory Life for Persons with Disabilities
+- 2.01.A03.07) An interest rate that is 5% higher than the normal bank rate(s) for senior citizens’ fixed deposits.  A Meaningful and Satisfactory Life for Persons with Disabilities
 
 - 2.01.A03.08) Establishment of a comprehensive data-base, developed by experts, on persons with disabilities
 
@@ -1120,7 +1122,7 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 - 2.01.A04.03) Provision of alternative housing and job support when needed.
 
-- 2.01.A04.04) Establishment of mechanisms for social and psychological support for women affected by violence an d abuse.
+- 2.01.A04.04) Establishment of mechanisms for social and psychological support for women affected by violence and abuse.
 
 ##### 2.01.A05) Health: Social Protection for Persons with Chronic Illnesses
 
@@ -1140,7 +1142,7 @@ The objective of the NPP’s social protection and welfare programs is to improv
 
 ##### 2.01.A07) Nutritional Program for Pregnant Women
 
-- 2.01.A07.01) Identifying pregnant women needing additional nutrition through community health services.
+- 2.01.A07.01) I dentifying pregnant women needing additional nutrition through community health services.
 
 - 2.01.A07.02) Provision of financial support for nutritious food packages during pregnancy and the first year of childbirth for low-income families.
 
@@ -1180,7 +1182,7 @@ However, in modern society, the status and importance that should be accorded to
 
 - 2.02.P2) Equal treatment and diversity in labor
 
-- 2.02.P3) Equal opportunities that are not subject to discrimination
+- 2.02.P3) Equal opportunities that are not subject to discrimination 42
 
 #### Activities [2.02]
 
@@ -1240,7 +1242,7 @@ However, in modern society, the status and importance that should be accorded to
 
 #### Introduction [2.03]
 
-Although women are an integral part of society, they consistently occupy an unequal position due to marginalization within major socio-economic, cultural, and political systems. This inequality occurs across all sectors, including the home, community, workplace, and politics. In recent decades, the situation has worsened due to neoliberal economic policies. Despite women being the primary earners of foreign remittances, the necessary structural and ideological changes for equality and justice have not yet taken place. Instead, the commodification of women’s identities and their marginalization in the labor market have intensified.
+A lthough women are an integral part of society, they consistently occupy an unequal position due to marginalization within major socio-economic, cultural, and political systems. This inequality occurs across all sectors, including the home, community, workplace, and politics. In recent decades, the situation has worsened due to neoliberal economic policies. Despite women being the primary earners of foreign remittances, the necessary structural and ideological changes for equality and justice have not yet taken place. Instead, the commodification of women’s identities and their marginalization in the labor market have intensified.
 
 Overall, factors such as the marginalization of both women and men as vulnerable workers, the direct impact on women due to the weakening of public services like education and healthcare, and the enactment of laws controlling women’s bodies amidst militarization and ethno-religious extremism highlight women’s issues as a broader social crisis.
 
@@ -1252,21 +1254,23 @@ Gender identities and sexual orientations are diverse. However, in Sri Lanka, th
 
 - 2.03.P1) Economic justice as a cornerstone for achieving gender equality.
 
-- 2.03.P2) State policies acknowledging the value of unpaid care work within the national economy. 44■ Legislation that ensures fair and equal treatment for all marginalized groups.
+- 2.03.P2) State policies acknowledging the value of unpaid care work within the national economy. 44
 
-- 2.03.P3) Enhanced women’s political representation, participation, and roles in society.
+- 2.03.P3) Legislation that ensures fair and equal treatment for all marginalized groups.
 
-- 2.03.P4) Condemning all forms of violence, including systemic violence, across all settings.
+- 2.03.P4) Enhanced women’s political representation, participation, and roles in society.
 
-- 2.03.P5) Prioritized public services in policy development to alleviate the pressures on women.
+- 2.03.P5) Condemning all forms of violence, including systemic violence, across all settings.
 
-- 2.03.P6) Women’s involvement in creating sustainable environmental conservation strategies.
+- 2.03.P6) Prioritized public services in policy development to alleviate the pressures on women.
 
-- 2.03.P7) A society free from regressive stereotypes perpetuated by social institutions and practices.
+- 2.03.P7) Women’s involvement in creating sustainable environmental conservation strategies.
 
-- 2.03.P8) Equal access to state services, rights, and justice for all identity groups, including women.
+- 2.03.P8) A society free from regressive stereotypes perpetuated by social institutions and practices.
 
-- 2.03.P9) Domestic laws with the standards set by the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) and the Convention on the Rights of the Child (CRC).
+- 2.03.P9) Equal access to state services, rights, and justice for all identity groups, including women.
+
+- 2.03.P10) Domestic laws with the standards set by the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) and the Convention on the Rights of the Child (CRC).
 
 #### Activities [2.03]
 
@@ -1316,7 +1320,7 @@ Gender identities and sexual orientations are diverse. However, in Sri Lanka, th
 
 #### Introduction [2.04]
 
-By 2023, Sri Lanka’s population was 22,037,000 and 6,642,331, which is 30.14% of the total population, were children under 18 years of age, according to the definition of the United Nations. Today, children face significant issues such as weak justice systems, inadequate protection services, educational challenges, and malnutrition. The judicial process for children who fall victim to crimes often drags on for excessively long periods, sometimes extending even 6 to 10 years.
+B y 2023, Sri Lanka’s population was 22,037,000 and 6,642,331, which is 30.14% of the total population, were children under 18 years of age, according to the definition of the United Nations. Today, children face significant issues such as weak justice systems, inadequate protection services, educational challenges, and malnutrition. The judicial process for children who fall victim to crimes often drags on for excessively long periods, sometimes extending even 6 to 10 years.
 
 Currently, the Department of Prisons transports children to and from court alongside adult offenders, endangering their safety and privacy. Decades-old laws like the Vagrants
 
@@ -1324,7 +1328,7 @@ Ordinance, which has been in force since colonization, continue to infringe on i
 
 Education is crucial in developing the skills and mindset needed for children’s success in a rapidly changing world, but Sri Lanka’s current education system is failing to meet this need. The frustrations and lack of trust in the future caused by corruption and bribery in the country have driven many young people to seek opportunities abroad.
 
-The absence of a well-organized and adequate human and physically resourceful social service system in Sri Lanka has made child welfare a significant challenge. Although field officers are assigned to social protection and related duties, gaps in identifying and assisting at-risk children and families have weakened the services. The NPP’s policy on child protection and welfare presents a comprehensive approach to ensure the safety of children in Sri Lanka through increased budget allocations, improved health and safety measures, legal reforms, and advancement of education.
+The absence of a well-organized and adequate human and physically resourceful social service system in Sri Lanka has made child welfare a significant challenge. Although field officers are assigned to social protection and related duties, gaps in identifying and assisting at-risk children and families have weakened the services. The NPP’s policy on child protection and welfare presents a comprehensive approach to ensure the safety of children in Sri Lanka through increased budget allocations, improved health and safety measures, legal reforms, and advancement of education. 46
 
 #### Principles [2.04]
 
@@ -1368,13 +1372,13 @@ The absence of a well-organized and adequate human and physically resourceful so
 
 - 2.04.A01.14) Broad reforms to the foster care system to ensure that every child in need of alternative care receives care and stability in family-based environments.
 
-- 2.04.A01.15) School and community-based programs for early detection and prevention of psych osocial and mental health issues in children.
+- 2.04.A01.15) School and community-based programs for early detection and prevention of psychosocial and mental health issues in children.
 
 ### 2.05) A contented youth - Cultured, independent thinkers
 
 #### Introduction [2.05]
 
-In Sri Lanka, 38% of the total population, that is approximately 8.5 million individuals belong to young generation. Since the independence, youth in Sri Lanka have experienced unsatisfactory lives. Particularly over the last seven decades, the prevailing political system and culture have prevented them from effective political participation. The three major uprisings in the North and South in recent decades, during which hundreds of thousands of young people lost their lives, were driven by the unfulfilled dreams of a youth that the political establishment failed to satisfy.
+I n Sri Lanka, 38% of the total population, that is approximately 8.5 million individuals belong to young generation. Since the independence, youth in Sri Lanka have experienced unsatisfactory lives. Particularly over the last seven decades, the prevailing political system and culture have prevented them from effective political participation. The three major uprisings in the North and South in recent decades, during which hundreds of thousands of young people lost their lives, were driven by the unfulfilled dreams of a youth that the political establishment failed to satisfy.
 
 Contributing factors to this discontent include limited educational opportunities, restricted access to economic participation, insufficient opportunities for youth to engage in technological and communication advancements, the inability to live as equal members of society without being subjected to external pressures, and the lack of means to live with dignity and respect. The massive youth-led people’s struggle of 2022, which arose against economic hardship is one that extended beyond mere economic demands to call for a systemic change within the country. However, the core objectives of this movement were not achieved. All this highlight that the youth has represented and still represent a marginalized and overlooked group, despite being the most capable and powerful force that could contribute to the future development of the country.
 
@@ -1394,7 +1398,7 @@ Contributing factors to this discontent include limited educational opportunitie
 
 - 2.05.P7) A skilled youth capable of assuming national and international leadership
 
-- 2.05.P8) Youth who stands against social injustice
+- 2.05.P8) Youth who stands against social injustice 48
 
 #### Activities [2.05]
 
@@ -1460,7 +1464,7 @@ Contributing factors to this discontent include limited educational opportunitie
 
 ##### 2.05.A06) Future of the Leadership
 
-- 2.05.A06.01) Increasing youth representation in political institutions through suitable quotas.
+- 2.05.A06.01) I ncreasing youth representation in political institutions through suitable quotas.
 
 - 2.05.A06.02) Restructuring National Youth Services Council and related institutions such as National Youth Corpse, Youth Clubs to develop knowledgeable, skilled young leaders.
 
@@ -1492,11 +1496,11 @@ Contributing factors to this discontent include limited educational opportunitie
 
 #### Introduction [2.06]
 
-Taking care of the elderly is a responsibility of the children and relatives within a family and is a cultural value. The elderly, who have contributed to the socio-economic development of their families and communities for most of their lives, deserve care and attention during their later years. In 2023, the population of senior citizens in Sri Lanka (those aged 60 and above) was 3.7 million, representing 17.2% of the total population.
+T aking care of the elderly is a responsibility of the children and relatives within a family and is a cultural value. The elderly, who have contributed to the socio-economic development of their families and communities for most of their lives, deserve care and attention during their later years. In 2023, the population of senior citizens in Sri Lanka (those aged 60 and above) was 3.7 million, representing 17.2% of the total population.
 
 By 2045, this percentage is projected to rise to 21%. While some policymakers view the increasing elderly population as a challenge, the NPP believes that it is a national responsibility to understand and address this situation with special attention to the well- being of the elderly.
 
-Activities ■ Providing basic facilities needed for the care of the elderly within homes. ■ Healthcare teams conduct health check-ups for the elderly. ■ Establishing a system of elderly care centres that meet international standards. ■ Developing a program to involve the elderly in creative economic activities to maintain their mental health ■ Implement a social protection scheme for those employed in the private and informal sectors, including farmers and fishermen. ■ Establishing a fund to implement an insurance coverage system that ensures protection for all senior citizens ■ Encouraging the building of walkways and rest homes near religious sites, and government intervention to ensure that the senior citizens can enjoy their daily lives in a peaceful and happy environment 51■ Implementing priority programs for senior citizens at public service locations. ■ Providing financial assistance to elderly individuals facing financial difficulties.
+Activities ■ Providing basic facilities needed for the care of the elderly within homes. ■ Healthcare teams conduct health check-ups for the elderly. ■ Establishing a system of elderly care centres that meet international standards. ■ Developing a program to involve the elderly in creative economic activities to maintain their mental health ■ Implement a social protection scheme for those employed in the private and informal sectors, including farmers and fishermen. ■ Establishing a fund to implement an insurance coverage system that ensures protection for all senior citizens ■ Encouraging the building of walkways and rest homes near religious sites, and government intervention to ensure that the senior citizens can enjoy their daily lives in a peaceful and happy environment 51 ■ Implementing priority programs for senior citizens at public service locations. ■ Providing financial assistance to elderly individuals facing financial difficulties.
 
 #### Activities [2.06]
 
@@ -1524,7 +1528,7 @@ Activities ■ Providing basic facilities needed for the care of the elderly wit
 
 #### Introduction [2.07]
 
-At some point in their lives, everyone is likely to experience difficulties functioning normally, especially as they age. When a family member is born with a disability or acquires one during childhood, adolescence, or old age, it can be a painful experience.
+A t some point in their lives, everyone is likely to experience difficulties functioning normally, especially as they age. When a family member is born with a disability or acquires one during childhood, adolescence, or old age, it can be a painful experience.
 
 Therefore, it is essential to take steps to empower people with disabilities and ensure an environment where they can fully participate in society. There is a higher prevalence of people with disabilities among the lower socio-economic strata and in rural areas, where adequate facilities are often lacking. In Sri Lanka, approximately 8.7% of the total population consists of people with disabilities.
 
@@ -1628,7 +1632,7 @@ Therefore, this policy focuses on creating an economically and socially fulfilli
 
 - 2.07.A06.07) Recognize sign language as the language of communication for persons with hearing impairments.
 
-- 2.07.A06.08) Create inclusive theaters and sports facilities to enhance the artistic and cultural participation of persons with disabilities.   A modern life A wealthy nation
+- 2.07.A06.08) Create inclusive theaters and sports facilities to enhance the artistic and cultural participation of persons with disabilities.    A modern life A wealthy nation
 
 ## 3) A modern life - A wealthy nation
 
@@ -1636,7 +1640,7 @@ Therefore, this policy focuses on creating an economically and socially fulfilli
 
 #### Introduction [3.01]
 
-The quality of life and socio-cultural development of citizens of a country depends on correct economic policies adopted and actions taken. The destructive economic policies and corrupt political culture followed by the leaders of the country have left us today with a battered and crippled economy and society where human lives have been shattered in every aspect.
+T he quality of life and socio-cultural development of citizens of a country depends on correct economic policies adopted and actions taken. The destructive economic policies and corrupt political culture followed by the leaders of the country have left us today with a battered and crippled economy and society where human lives have been shattered in every aspect.
 
 The total government debt, Rs. 310,779 million in 1990, increased to Rs. 28,695,950 million by 2023, pushing the entire nation into a debt trap. Between 2015 and 2019 alone, the total debt increased by Rs. 13,031,543 million, reflecting a 74% increase. Additionally, there was a staggering debt growth of 51.43% in 2022 compared to 2021. As of March 31, 2024, the total public debt has reached Rs. 28,013,560 million, which exceeded USD 100,000 million.
 
@@ -1648,7 +1652,9 @@ Despite continued rhetoric about controlling inflation, the reality is that the 
 
 The external sector of the economy also continues to weaken due to the arbitrary use of foreign reserves, weak foreign exchange management, the inability to refinance foreign debt caused by the continuous downgrading of the credit rating of the country, the inability to attract foreign investment, rising import expenditure, and stagnant export earnings.
 
-Even foreign reserves at the end of May 2024 stood at USD 5.4 billion (including USD 1.5 billion SW AP loan facilities provided by the People’s Bank of China), it was mainly an outcome of unpaid interest, debt instalments in arrears, import restrictions, remittances from overseas Sri Lankans, and receipt of IMF extended fund facility, rather than a result of proactive and sustainable measures of the government. 56Inequality in income distribution has also been widening. The bottom 20% of households receive only 4.6% of the national income, while the top 20% get 51.4% of the income.
+Even foreign reserves at the end of May 2024 stood at USD 5.4 billion (including USD 1.5 billion SW AP loan facilities provided by the People’s Bank of China), it was mainly an outcome of unpaid interest, debt instalments in arrears, import restrictions, remittances from overseas Sri Lankans, and receipt of IMF extended fund facility, rather than a result of proactive and sustainable measures of the government. 56
+
+Inequality in income distribution has also been widening. The bottom 20% of households receive only 4.6% of the national income, while the top 20% get 51.4% of the income.
 
 The NPP’s economic policy framework focuses on economic democracy and is integrated with a human resource development plan and a technological development roadmap to ensure equitable opportunities in economic activities, participation in the economic decision making process with an equal say, and a fair share of economic benefits, has been developed based on ten key principles to achieve sustainable economic growth and development, aiming a Real GDP target of USD 120 billion by 2030 through a resilient production economy.
 
@@ -1764,7 +1770,7 @@ In formulating these policies, factors such as resource availability and accessi
 
 - 3.01.A04.01) Renegotiate with the IMF on the content of a more palatable and strengthened programme and how it is implemented for salvaging the poor and deprived people from that painful condition.
 
-- 3.01.A04.02) Prepare and present new proposals on efficient tax administration and government expenditure management to renegotiate the revenue-based fiscal consolidation proposals of the IMF.
+- 3.01.A04.02) Prepare and present new proposals on efficient tax administration and government expenditure management to renegotiate the revenue-based fiscal consolidation proposals of the IMF .
 
 - 3.01.A04.03) Prepare an alternative Debt Sustainability Analysis (DSA) aiming to maintain debt sustainability and to keep the interest at a bearable level for the purpose of using it as and when necessary, in pursuit of debt restructuring engagements.
 
@@ -1864,7 +1870,7 @@ In formulating these policies, factors such as resource availability and accessi
 
 #### Introduction [3.02]
 
-Currently, the agricultural sector contributes 8.4% to GDP , while employment in this sector accounts for approximately 27%. Additionally, 15.3% of export revenue is generated from agricultural crops. This highlights the significant role agriculture plays in
+C urrently, the agricultural sector contributes 8.4% to GDP , while employment in this sector accounts for approximately 27%. Additionally, 15.3% of export revenue is generated from agricultural crops. This highlights the significant role agriculture plays in
 
 Sri Lankan society.
 
@@ -1894,7 +1900,7 @@ As a result, the current agriculture sector in Sri Lanka faces several major cha
 
 - 3.02.P9) Agricultural research, extension, and knowledge management
 
-- 3.02.P10) Effective management and control of agricultural operations
+- 3.02.P10) Effective management and control of agricultural operations 63
 
 #### Activities [3.02]
 
@@ -2026,7 +2032,7 @@ As a result, the current agriculture sector in Sri Lanka faces several major cha
 
 #### Introduction [3.03]
 
-The livestock sector plays a vital role in providing essential proteins and other nutrients to the people of Sri Lanka. Additionally, it significantly strengthens the national economy and improves livelihoods through import substitution. The sustainability of the livestock industry depends on factors such as production capacity, the number of livestock farms, infrastructure, the labour force, and the availability of policymakers, administrators, researchers, and other stakeholders.
+T he livestock sector plays a vital role in providing essential proteins and other nutrients to the people of Sri Lanka. Additionally, it significantly strengthens the national economy and improves livelihoods through import substitution. The sustainability of the livestock industry depends on factors such as production capacity, the number of livestock farms, infrastructure, the labour force, and the availability of policymakers, administrators, researchers, and other stakeholders.
 
 However, livestock production in Sri Lanka has not yet reached the desired levels, and the sector faces numerous challenges. These include severe shortages of quality animal food and breeding materials, high prevalence of animal diseases, weak supply chains and services related to production, unethical and imbalanced markets, lack of organized value chain developments and proper livestock extension programs, inadequate health services, poor management of breeding activities, minimal research interventions, limited access to credit and insurance facilities, and insufficient incentives and guidance for stakeholders.
 
@@ -2104,7 +2110,7 @@ The NPP aspired to achieve sustainable development in the livestock sector throu
 
 #### Introduction [3.04]
 
-The need for protein has been identified as a major component in human nutrition, with fish and related products recognized as a high-quality, safe source of protein.
+T he need for protein has been identified as a major component in human nutrition, with fish and related products recognized as a high-quality, safe source of protein.
 
 Therefore, it is a national priority to strengthen fisheries and aquaculture to meet the country’s demand for fish. Fisheries, aquaculture, and related industries can also contribute to sectors such as gross domestic production, food security, job creation, uplifting the socio-economic status of people, and earning foreign exchange.
 
@@ -2128,7 +2134,7 @@ The fisheries and aquaculture sectors are currently facing many issues. Among th
 
 - 3.04.P7) Higher living standards and social protection for the fishing community
 
-- 3.04.P8) A Professional fishing community
+- 3.04.P8) A Professional fishing community 69
 
 #### Activities [3.04]
 
@@ -2250,7 +2256,7 @@ The fisheries and aquaculture sectors are currently facing many issues. Among th
 
 - 3.04.A07.02) Provide tax relief for imported tools until sufficient domestic production is developed.
 
-##### 3.04.A08) Post harvesting management a nd value-added products
+##### 3.04.A08) Post harvesting management and value-added products
 
 - 3.04.A08.01) Provide the necessary technical support to develop the infrastructure, and raise awareness to harvest, handle, store, and sell fish with minimal post-harvest damages.
 
@@ -2294,7 +2300,7 @@ The fisheries and aquaculture sectors are currently facing many issues. Among th
 
 #### Introduction [3.05]
 
-Sri Lanka has a skilled workforce comprising educated and trainable professionals. The country’s strategic location makes it a hub for offering services to Asian, European,
+S ri Lanka has a skilled workforce comprising educated and trainable professionals. The country’s strategic location makes it a hub for offering services to Asian, European,
 
 Middle Eastern, and African nations. However, subject fields in Sri Lanka’s education system are evolving too slowly to meet the global IT industry’s demands, leading to a skill gap. Additionally, investment opportunities to launch modern Research and Development (R&D) and Technology sectors are limited. High energy costs, uncertainty in supply, weak internet infrastructure, insufficient public transportation, and unstable state policies and economic conditions further hinder industry growth.
 
@@ -2354,13 +2360,13 @@ Currently, Sri Lanka’s ICT sector employs 85,000 professionals and generates U
 
 - 3.05.A01.16) Formalize the adoption of ICT to advance the industry to Industry 4.0/5.0, incorporating cutting-edge digital technology and automation.
 
-### 3.06) A research and development approach - scientific solutions for the society
+### 3.06) A research and development approach - scientific solutions for the society 74
 
 #### Introduction [3.06]
 
-Research and development (R&D) combined with science and technology produces value-added products and services, uplifting the country’s economy, and supporting human and social development. Sri Lanka allocates only the limited amount of 0.12% of its annual GDP for research and development, while countries with similar geo-political characteristics such as Malaysia allocates 1%, with Thailand 1.2% and Vietnam 0.42%.
+R esearch and development (R&D) combined with science and technology produces value-added products and services, uplifting the country’s economy, and supporting human and social development. Sri Lanka allocates only the limited amount of 0.12% of its annual GDP for research and development, while countries with similar geo-political characteristics such as Malaysia allocates 1%, with Thailand 1.2% and Vietnam 0.42%.
 
-Meanwhile South Korea allocates 4.6%, Japan 3.6%, USA 3.5%, and China 3%, becoming 75developed countries. Even the limited research conducted in Sri Lanka have not been used properly for economic and social development.
+Meanwhile South Korea allocates 4.6%, Japan 3.6%, USA 3.5%, and China 3%, becoming 75 developed countries. Even the limited research conducted in Sri Lanka have not been used properly for economic and social development.
 
 Sri Lanka possesses many resources, including endemic flora and fauna species with high biodiversity and herbal value, geological resources, the sea surrounding the island, freshwater resources within the country, balanced soil, tropical climate, year-round solar power, wind power, and rivers and lakes with much potential. All these elements can be used to produce value-added products and services with lower costs, giving higher profits, and they carry a huge potential in the international market.
 
@@ -2386,7 +2392,7 @@ Sri Lanka is rich with intelligent human resources, and many innovators are emer
 
 #### Activities [3.06]
 
-##### 3.06.A01) Agriculture, fisheries, livesto ck, and food security
+##### 3.06.A01) Agriculture, fisheries, livestock, and food security
 
 - 3.06.A01.01) Conducting socio-economic research to identify resources and optimum utilization, develop agricultural infrastructure, and find solutions to sustainable marketing strategies.
 
@@ -2408,7 +2414,7 @@ Sri Lanka is rich with intelligent human resources, and many innovators are emer
 
 - 3.06.A01.10) Researching to estimate the stocks of marine fish resources, continue prediction model development and usage, and accurate estimation of the carrying capacity of freshwater and brackish water systems.
 
-##### 3.06.A02) Research on health, education and scien ce
+##### 3.06.A02) Research on health, education and science
 
 - 3.06.A02.01) Applying modern scientific methods such as genetics, metabolomics, proteomics, biochemistry, nanotechnology, and AI etc., to find solutions for dengue, chronic kidney disease, infectious diseases, and other special health issues related to Sri Lanka.
 
@@ -2626,7 +2632,7 @@ Our vision is to position Sri Lanka as a prominent and unique destination, attra
 
 #### Introduction [3.08]
 
-In comparison to other developing nations, Sri Lanka has not been able to reach its potential in industrial development when compared to countries like Bangladesh,
+I n comparison to other developing nations, Sri Lanka has not been able to reach its potential in industrial development when compared to countries like Bangladesh,
 
 Vietnam, and South Korea who have significantly expanded their share of the global product and service market by consistently growing their gross domestic products (GDP).
 
@@ -2644,11 +2650,13 @@ Therefore, we consider Sri Lanka must enhance local production and transition to
 
 - 3.08.P3) Provision of affordable infrastructure, including energy, transportation, telecommunications, finance, and other essential services.
 
-- 3.08.P4) Enhancement of market efficiency and transparency within supply chains. 84• Promotion of export-oriented service industries alongside the reinforcement of domestic industries.
+- 3.08.P4) Enhancement of market efficiency and transparency within supply chains. 84
 
-- 3.08.P5) Diversification of products and services driven by research and development outcomes.
+- 3.08.P5) Promotion of export-oriented service industries alongside the reinforcement of domestic industries.
 
-- 3.08.P6) Adoption of sustainable and environmentally responsible practices.
+- 3.08.P6) Diversification of products and services driven by research and development outcomes.
+
+- 3.08.P7) Adoption of sustainable and environmentally responsible practices.
 
 #### Activities [3.08]
 
@@ -2786,7 +2794,7 @@ Therefore, we consider Sri Lanka must enhance local production and transition to
 
 #### Introduction [3.09]
 
-Sri Lanka has an abundance of mineral resources, accumulated throughout the land space of 65,610 square kilometers. The peninsular basin, which is about twenty times the land area and including the ocean region which will be nominally granted according to the UN ocean laws, is also rich in ocean minerals. Varieties of ores of minerals such as graphite, mica, apatite, lime and dolomite, mineral sand, quartz and silica sand, feldspar, serpentine, laterite, different clay types, and gems which had been created because of different geological factors are abundantly found in Sri Lanka. Many industries such as mineral sand, cement, phosphate, ceramic, glass, and roof tiles were originated from mineral resources discovered through the mineral resource expeditions in the 1980s.
+S ri Lanka has an abundance of mineral resources, accumulated throughout the land space of 65,610 square kilometers. The peninsular basin, which is about twenty times the land area and including the ocean region which will be nominally granted according to the UN ocean laws, is also rich in ocean minerals. Varieties of ores of minerals such as graphite, mica, apatite, lime and dolomite, mineral sand, quartz and silica sand, feldspar, serpentine, laterite, different clay types, and gems which had been created because of different geological factors are abundantly found in Sri Lanka. Many industries such as mineral sand, cement, phosphate, ceramic, glass, and roof tiles were originated from mineral resources discovered through the mineral resource expeditions in the 1980s.
 
 Since then, minerals have been sold as raw material without any value additions, and many of these industries have either been sold out or closed by now.
 
@@ -2804,7 +2812,7 @@ There is an ability to start industries that can provide a considerable support 
 
 - 3.09.P3) Optimum utilization
 
-- 3.09.P4) Maximum benefits from local and foreign markets
+- 3.09.P4) Maximum benefits from local and foreign markets 89
 
 #### Activities [3.09]
 
@@ -2896,7 +2904,7 @@ The global energy field is passing a transformative era with sustainability and 
 
 Total electrification of energy consumption is a method of achieving zero emission goals.
 
-Fossil fuel continues to fulfill a considerable role in meeting global energy demands, and 91a global discourse has come up which urges the minimization of the harm it has on the environment. It is also important to maintain a strategic mixture of energy towards energy protection amidst geo-political conflicts and disagreements. In this case much attention has been directed towards natural gas as an interim step in transitioning towards renewable energy. International investments are expanding towards broadening the exploration and production of new gas resources and infrastructure for LNG.
+Fossil fuel continues to fulfill a considerable role in meeting global energy demands, and 91 a global discourse has come up which urges the minimization of the harm it has on the environment. It is also important to maintain a strategic mixture of energy towards energy protection amidst geo-political conflicts and disagreements. In this case much attention has been directed towards natural gas as an interim step in transitioning towards renewable energy. International investments are expanding towards broadening the exploration and production of new gas resources and infrastructure for LNG.
 
 While the trends remain such, Sri Lanka stands high up in the list of countries in the region with the highest electricity costs. It is this unbearable energy expenditure which stays a main hindrance in taking the country out of the pit of economic collapse due to decades of wrong economic management. The main factor for the electricity cost to remain high is the high cost of generation due to the strong dependency on petroleum products. A reason of this is the construction of high-cost power plants such as those which run on diesel by the former governments instead of investing in low-cost power plants in time.
 
@@ -3006,7 +3014,7 @@ Taking the energy mix towards a green economy through renewable sources, by stra
 
 #### Introduction [3.11]
 
-Unsystematic and inefficient transport has wasted a considerable amount of time of most of the public. Heavy traffic, wasting a lot of time on the road, transport services not working at night, too many road accidents, and sexual and other harassment faced by women and children in public services characterises our passenger transport service. The reporting of around 30,000 road accidents a year is an indication of the lack of safety and its intensity in the transport sector. The contribution of the railway service has dropped to 5% in the transport sector. The portion of the SLTB in bus passenger service has dropped to 14%. Around 55% of the citizens opt to use private vehicles to fulfil their transport needs due to the decline in public transport, and they have to spend a large amount of their income on transport as a result. It has also resulted in high road traffic. 88,200 km of the entire 119,382 km road network of Sri Lanka belongs to local government institutes, and many roads at the rural and semi-urban areas are in a dilapidated state due to lack of maintenance. A large amount of money flows out annually to import fuel, and around 65% of the fuel burned in the country are spent in the transport sector. It thereby contributed to half of the air pollution. Further, around 35% of fruits and vegetables go into waste due to unsatisfactory transportation.
+U nsystematic and inefficient transport has wasted a considerable amount of time of most of the public. Heavy traffic, wasting a lot of time on the road, transport services not working at night, too many road accidents, and sexual and other harassment faced by women and children in public services characterises our passenger transport service. The reporting of around 30,000 road accidents a year is an indication of the lack of safety and its intensity in the transport sector. The contribution of the railway service has dropped to 5% in the transport sector. The portion of the SLTB in bus passenger service has dropped to 14%. Around 55% of the citizens opt to use private vehicles to fulfil their transport needs due to the decline in public transport, and they have to spend a large amount of their income on transport as a result. It has also resulted in high road traffic. 88,200 km of the entire 119,382 km road network of Sri Lanka belongs to local government institutes, and many roads at the rural and semi-urban areas are in a dilapidated state due to lack of maintenance. A large amount of money flows out annually to import fuel, and around 65% of the fuel burned in the country are spent in the transport sector. It thereby contributed to half of the air pollution. Further, around 35% of fruits and vegetables go into waste due to unsatisfactory transportation.
 
 National People’s Power wishes to establish an efficient, trustworthy, safe, and dignified people-oriented transport service with the long-term vision to gradually transform it into an eco-friendly system. Hence the goal is to provide 70% of the public’s transport needs through public transportation within 5 years.
 
@@ -3044,7 +3052,7 @@ National People’s Power wishes to establish an efficient, trustworthy, safe, a
 
 ##### 3.11.A02) Bus passenger service
 
-- 3.11.A02.01) Introducing buses manufactured specifically for passenger transport, and providing an easy financial scheme to procure such buses
+- 3.11.A02.01) I ntroducing buses manufactured specifically for passenger transport, and providing an easy financial scheme to procure such buses
 
 - 3.11.A02.02) A strong passenger bus service development by improving transport at night as well as on the main roads and the roads where passenger bus transport is at an unsatisfactory state
 
@@ -3148,7 +3156,7 @@ National People’s Power wishes to establish an efficient, trustworthy, safe, a
 
 #### Introduction [3.12]
 
-Sri Lanka plays a big role in the global nautical field based on its strategic location at a centre where Eastern and Western sea routes meet. Yearly, thousands of tons of goods are transported by ships that sail past our country. The Colombo Harbour is located at an ideal spot to conduct this sea transportation, while the Hambantota Harbour, located in the South, operates much lower than its capacity. There is potential to develop the
+S ri Lanka plays a big role in the global nautical field based on its strategic location at a centre where Eastern and Western sea routes meet. Yearly, thousands of tons of goods are transported by ships that sail past our country. The Colombo Harbour is located at an ideal spot to conduct this sea transportation, while the Hambantota Harbour, located in the South, operates much lower than its capacity. There is potential to develop the
 
 Colombo and Hambantota ports as two of the biggest naval centres in the world by attracting a considerable portion of the global maritime industry, providing competitive services and investing in infrastructure. The main ports of Colombo, Galle, Hambantota, and Trincomalee greatly contribute to the country’s business and economic development and affect a large portion of the country’s market.
 
@@ -3168,7 +3176,7 @@ Sri Lanka’s sailors hold world fame for their excellence, skill, and performan
 
 - 3.12.P6) Benefits of maritime resources being
 
-- 3.12.P7) Fair distribution of the benefits of maritime resources among the public
+- 3.12.P7) Fair distribution of the benefits of maritime resources among the public 99
 
 #### Activities [3.12]
 
@@ -3214,7 +3222,7 @@ Sri Lanka’s sailors hold world fame for their excellence, skill, and performan
 
 #### Introduction [3.13]
 
-The global telecommunications sector is rapidly evolving with the integration of new technologies and innovative business models. Technologies like 5G wireless communication, cloud computing, decentralized telecom networks, mobile network services, and AI are driving the delivery of cutting-edge services to consumers. However,
+T he global telecommunications sector is rapidly evolving with the integration of new technologies and innovative business models. Technologies like 5G wireless communication, cloud computing, decentralized telecom networks, mobile network services, and AI are driving the delivery of cutting-edge services to consumers. However,
 
 Sri Lanka has lagged behind in adopting these advancements at the same pace as global trends. Additionally, the high costs of telecommunication services negatively impact both local consumers and the industries that rely on these services.
 
@@ -3314,9 +3322,9 @@ The National People’s Power’s telecommunication policy framework addresses a
 
 #### Introduction [3.14]
 
-According to the Land Commissioner Department, 82% of Sri Lanka’s total land area, which stands at 6.6 million hectares, belongs to the government, while the remaining 18%, amounting to 1.2 million hectares, is private land. 32% of the 5.4 million hectares that belong to the state, which is 1.7 million hectares, are forests. In general, lands have been categorized as agricultural, commercial, or residential according to their usage for ease of administration and management.
+A ccording to the Land Commissioner Department, 82% of Sri Lanka’s total land area, which stands at 6.6 million hectares, belongs to the government, while the remaining 18%, amounting to 1.2 million hectares, is private land. 32% of the 5.4 million hectares that belong to the state, which is 1.7 million hectares, are forests. In general, lands have been categorized as agricultural, commercial, or residential according to their usage for ease of administration and management.
 
-The ordinances and regulations imposed during the colonial period to control land resources have made a significant impact on land management in Sri Lanka. The governments after the independence did not make any special effort to scientifically amend these laws for the well-being of the country and its people. Instead, some land reforms and policies aimed at land distribution, driven by narrow intentions, have contributed to socio-economic inequality. Issues related to land ownership have remained unresolved for a long time, leading to various social disparities.
+The ordinances and regulations imposed during the colonial period to control land resources have made a significant impact on land management in Sri Lanka. The governments after the independence did not make any special effort to scientifically amend these laws for the well-being of the country and its people. Instead, some land reforms and policies aimed at land distribution, driven by narrow intentions, have contributed to socio-economic inequality. Issues related to land ownership have remained unresolved for a long time, leading to various social disparities. 103
 
 #### Principles [3.14]
 
@@ -3324,7 +3332,7 @@ The ordinances and regulations imposed during the colonial period to control lan
 
 - 3.14.P2) Protecting the sensitive areas
 
-- 3.14.P3) Efficient and prod uctive land administration and management
+- 3.14.P3) Efficient and productive land administration and management
 
 #### Activities [3.14]
 
@@ -3388,7 +3396,7 @@ The ordinances and regulations imposed during the colonial period to control lan
 
 #### Introduction [3.15]
 
-The development and sustenance of the construction industry, which reflects the country’s economic development, depend on state and private investment in infrastructure and projects. Before the 2022 downfall, the construction industry contributed 7% to the country’s GDP and provided direct and indirect employment to over 1 million individuals. Despite the recent crisis, the industry has the potential for significant growth with the right investments and strategies.
+T he development and sustenance of the construction industry, which reflects the country’s economic development, depend on state and private investment in infrastructure and projects. Before the 2022 downfall, the construction industry contributed 7% to the country’s GDP and provided direct and indirect employment to over 1 million individuals. Despite the recent crisis, the industry has the potential for significant growth with the right investments and strategies.
 
 Currently, most of the constructors and advisors in the field are from the private sector, and the construction companies owned by the government show less performance due to interventions and inefficient control.
 
@@ -3396,7 +3404,7 @@ Shortcomings in the procurement process, inefficiency, weak project management p
 
 Due to a lack of low-cost raw materials, new technological innovations, and limited investments in research and development, the industry has achieved only a tiny portion in the international arena. Further, brain drain has affected the industry’s lack of trained labour, daily operations, and development.
 
-Past governments invested loans from local banks and two-party and multi-party loans in construction projects, and the lack of benefits from these projects contributed greatly to the country’s loan crisis.
+Past governments invested loans from local banks and two-party and multi-party loans in construction projects, and the lack of benefits from these projects contributed greatly to the country’s loan crisis. 105
 
 #### Principles [3.15]
 
@@ -3452,7 +3460,7 @@ Past governments invested loans from local banks and two-party and multi-party l
 
 - 3.15.A02.17) State sponsorship for local industrialists to enter international construction projects
 
-- 3.15.A02.18) Making environmental accountability essential for all construction projects, with a deep assessment of environmental risks   A dignified life A strong country
+- 3.15.A02.18) Making environmental accountability essential for all construction projects, with a deep assessment of environmental risks    A dignified life A strong country
 
 ## 4) A dignified life - A strong country
 
@@ -3500,7 +3508,7 @@ Past governments invested loans from local banks and two-party and multi-party l
 
 #### Introduction [4.02]
 
-Sri Lanka’s public service is the main instrument that implements state policies. The
+S ri Lanka’s public service is the main instrument that implements state policies. The
 
 Sri Lankan government service, which consists of a 1.4 million workforce, consists of different professionals and officers from ministry secretaries to office support staff, and the state spends a considerable portion of its income on maintaining it. Even though it consists of officers with different educational and professional levels possessing other skills, at present, the government service has become inefficient, failing to fulfil public expectations and losing public faith.
 
@@ -3538,7 +3546,7 @@ It is our aim to convert the government service to a satisfactory state instrume
 
 - 4.02.A01.02) Preparing a necessary mechanism to address socio-economic issues and needs identified from the ground level, based on the national development programme
 
-- 4.02.A01.03) Identifying the subject fields of the state departments and institutions and directing them to new ministries on a logical basis, and building vertical and horizontal connections among these institutions to maintain high efficiency in achieving socio-economic goals
+- 4.02.A01.03) Identifying the subject fields of the state departments and institutions and  directing them to new ministries on a logical basis, and building vertical and horizontal connections among these institutions to maintain high efficiency in achieving socio-economic goals
 
 - 4.02.A01.04) Establishing new institutions as per the need, methodically integrating institutions with similar subject matter, and abolishing unnecessary institutes
 
@@ -3566,9 +3574,9 @@ It is our aim to convert the government service to a satisfactory state instrume
 
 #### Introduction [4.03]
 
-Independent and efficient administration of justice and public confidence in the process is crucial in establishing the rule of law. However, the public has lost its faith due to the allegations of undue influence, lack of independency and transparency, delays in the process and expensive nature of litigation in the judicial process. The National People’s
+I ndependent and efficient administration of justice and public confidence in the process is crucial in establishing the rule of law. However, the public has lost its faith due to the allegations of undue influence, lack of independency and transparency, delays in the process and expensive nature of litigation in the judicial process. The National People’s
 
-Power hopes to rebuild the broken public trust in it by creating an independent, efficient, transparent and affordable judicial system.
+Power hopes to rebuild the broken public trust in it by creating an independent, efficient, transparent and affordable judicial system. 111
 
 #### Principles [4.03]
 
@@ -3636,7 +3644,7 @@ Power hopes to rebuild the broken public trust in it by creating an independent,
 
 #### Introduction [4.04]
 
-Police plays a very important role in maintaining law and order in the country as an institution close to the public. An important factor that reflects how the rule of law functions is the independent and efficient functioning of the police. However, at present, the public believes that the Sri Lanka Police is an institution from which it is impossible to get any service without political or other social connections or bribery. On the other hand, some police officers are also victims of political interference and are constantly suffering due to ill-treatment. The National People’s Power expects to make the police service an independent, efficient, and friendly service that is closer to the public.
+P olice plays a very important role in maintaining law and order in the country as an institution close to the public. An important factor that reflects how the rule of law functions is the independent and efficient functioning of the police. However, at present, the public believes that the Sri Lanka Police is an institution from which it is impossible to get any service without political or other social connections or bribery. On the other hand, some police officers are also victims of political interference and are constantly suffering due to ill-treatment. The National People’s Power expects to make the police service an independent, efficient, and friendly service that is closer to the public. 113
 
 #### Principles [4.04]
 
@@ -3694,7 +3702,7 @@ Police plays a very important role in maintaining law and order in the country a
 
 #### Introduction [4.05]
 
-The vision of the Prisons Department in Sri Lanka is to social reintegration of inmates as good citizens through rehabilitation. But in the recent past, incidents of killing and inhumane torture of prisoners in various prisons show that people who are imprisoned face different forms of abuse. Also, there is a public opinion that powerful prisoners with certain political connections enjoy special privileges. “Prisoners are also human” is only limited to a theme at present, and overcrowding and lack of basic facilities for prisoners are serious problems faced by prisons. The prison has become a place to punish prisoners rather than to reform them. Prisons at present have become criminal centres due to drug trafficking and underworld activities and have hindered the people who are serving their prison life with good behaviour.
+T he vision of the Prisons Department in Sri Lanka is to social reintegration of inmates as good citizens through rehabilitation. But in the recent past, incidents of killing and inhumane torture of prisoners in various prisons show that people who are imprisoned face different forms of abuse. Also, there is a public opinion that powerful prisoners with certain political connections enjoy special privileges. “Prisoners are also human” is only limited to a theme at present, and overcrowding and lack of basic facilities for prisoners are serious problems faced by prisons. The prison has become a place to punish prisoners rather than to reform them. Prisons at present have become criminal centres due to drug trafficking and underworld activities and have hindered the people who are serving their prison life with good behaviour.
 
 The increase in the remand prisoner population is a major cause of prison overcrowding due to the long time it takes to complete legal proceedings. In 2022, there were 108,250 remand prisoners, 30,331 convicted prisoners, and a total of 138,581 prisoners living in prisons. Men show a higher tendency to be imprisoned than women, and the percentage of women among the total number of prisoners in 2022 was 3.23%. 19,094 or 62.95% of convicted prisoners were convicted of drug related charges. Further, 92% of the convicted prisoners had been educated up to G.E.C. O/L exam or less, while 62% were under 40.
 
@@ -3740,11 +3748,11 @@ Although it is the expectation of the National People’s Power to create a soci
 
 #### Introduction [4.06]
 
-At present, drug use has become a social problem due to its rapid rise. Drug use has caused many serious problems in the family as well as in society. The tendency of schoolchildren to get addicted to drugs has increased.
+A t present, drug use has become a social problem due to its rapid rise. Drug use has caused many serious problems in the family as well as in society. The tendency of schoolchildren to get addicted to drugs has increased.
 
 The current regime has failed to control the importation and distribution of drugs into the country, and jailing drug users alone is not adequate to curbing this menace. Currently, drug use has created a social tragedy and in 2022, 152,979 people were arrested for drug offences. However, only 1930 people among these were referred to rehabilitation programmes. About 60% of the offenders who go to prison are in prison for drug- related offences. Sri Lanka has become a hub for drug trafficking in the region, under the protection of political and other forces, which has contributed to the growth of organized crime. Therefore, the National People’s Power prioritizes drug prevention.
 
-Activities • An integrated operation to prevent drugs and organized crime in the country • Establishment of a separate Bureau for Narcotics Prevention • Development of naval and air surveillance facilities and provide modern equipment and training to officials to prevent the entry of drugs into the country 116• Regularize rehabilitation programmes for drug addicts to free them from drug use • Strengthening penalties for drug offences and taking measures for the speedy resolution of cases • Implementation of continuous programmes to educate school children • Expanding the functions of the Dangerous Drugs Control Board, and establishing monitoring committees to involve people in the fight against drugs • Educating the community about the adverse effects of drug use
+Activities • An integrated operation to prevent drugs and organized crime in the country • Establishment of a separate Bureau for Narcotics Prevention • Development of naval and air surveillance facilities and provide modern equipment and training to officials to prevent the entry of drugs into the country 116 • Regularize rehabilitation programmes for drug addicts to free them from drug use • Strengthening penalties for drug offences and taking measures for the speedy resolution of cases • Implementation of continuous programmes to educate school children • Expanding the functions of the Dangerous Drugs Control Board, and establishing monitoring committees to involve people in the fight against drugs • Educating the community about the adverse effects of drug use
 
 #### Activities [4.06]
 
@@ -3770,7 +3778,7 @@ Activities • An integrated operation to prevent drugs and organized crime in t
 
 #### Introduction [4.07]
 
-Sri Lanka’s strategic location at the center of the Indian Ocean and the Bay of Bengal has deep rooted historical antecedents. Archeological evidence provides ample materials to establish that Sri Lanka has had vibrant trade relations across the Bay of Bengal and with Southeast Asia. Sri Lanka’s geostrategic location within the Indian Ocean is a blessing as the island is astride one of the world’s busiest sea lanes of communication that connect
+S ri Lanka’s strategic location at the center of the Indian Ocean and the Bay of Bengal has deep rooted historical antecedents. Archeological evidence provides ample materials to establish that Sri Lanka has had vibrant trade relations across the Bay of Bengal and with Southeast Asia. Sri Lanka’s geostrategic location within the Indian Ocean is a blessing as the island is astride one of the world’s busiest sea lanes of communication that connect
 
 East and West.
 
@@ -3784,7 +3792,7 @@ When the current situation of Sri Lanka is considered, we are passing a period o
 
 Foreign and domestic policies are intertwined more closely than ever before. Sri Lanka’s current foreign relations are influenced significantly by attempts to recover from the worst economic crisis in 2022 and stands as a challenge we should overcome. Rising geopolitical tension among international and regional powers in our region has become a key challenge to Sri Lanka’s security and regional stability.
 
-However, its geographical location as well as Sri Lanka’s long invested diplomatic and cultural assets will become cornerstone our success. Comparatively higher human 117development indicators such as the level of education and health, education of women, etc.. than other south Asian countries have provided Sri Lanka a relatively positive cultural level of the population which will be a pro factor for achieving ambitious Economic and foreign policy targets also.
+However, its geographical location as well as Sri Lanka’s long invested diplomatic and cultural assets will become cornerstone our success. Comparatively higher human 117 development indicators such as the level of education and health, education of women, etc.. than other south Asian countries have provided Sri Lanka a relatively positive cultural level of the population which will be a pro factor for achieving ambitious Economic and foreign policy targets also.
 
 Sri Lanka has important diplomatic recognition earned through some wise and correct actions of the past. For instance, Sri Lanka has been a traditional friend of oppressed and colonized nations in the world and Sri Lanka has always supported their independence.
 
@@ -3834,7 +3842,7 @@ Number of those countries are now not only independent but also has become major
 
 - 4.07.A03.04) Restructuring and strengthening of the Diplomatic Training Institute and the Lakshman Kadirgamar Institute of International Relations and Strategic Studies (LKI).
 
-##### 4.07.A04) Enhancing Diplom atic Training and Capacity Building:
+##### 4.07.A04) Enhancing Diplomatic Training and Capacity Building:
 
 - 4.07.A04.01) Improved Training Programs: Develop comprehensive training programs for diplomats focusing on negotiation skills, cultural diplomacy, economic diplomacy, and international law.
 
@@ -3886,7 +3894,7 @@ Number of those countries are now not only independent but also has become major
 
 - 4.07.A09.04) Opening up the domestic market within the National Economic Framework pursuing positive economic management and expanding economic cooperation with other countries.
 
-- 4.07.A09.05) Full priority s hall be given to promote and strengthen the Diplomatic, economic and cultural relations with G20 countries, BRICS+ countries, ASEAN, Middle East and African Continent.
+- 4.07.A09.05) Full priority shall be given to promote and strengthen the Diplomatic, economic and cultural relations with G20 countries, BRICS+ countries, ASEAN, Middle East and African Continent.
 
 - 4.07.A09.06) Modern and comprehensive investment law shall be enacted to improve the business environment for the foreign and local private sector, including, streamlining business procedures, investing in infrastructure, improving access to finance for Small and medium-sized enterprises - SMEs, and raising skilled and quality of human resources.
 
@@ -4014,7 +4022,7 @@ Number of those countries are now not only independent but also has become major
 
 #### Introduction [4.08]
 
-National security is the mechanism of facing dealing with any challenges that may be posed externally or internally for the security of the citizen, the territorial integrity, and sovereignty of the country, or by natural and human activities while managing such challenges through geopolitical and geostrategic means from the security measures provided by the defence forces.
+N ational security is the mechanism of facing dealing with any challenges that may be posed externally or internally for the security of the citizen, the territorial integrity, and sovereignty of the country, or by natural and human activities while managing such challenges through geopolitical and geostrategic means from the security measures provided by the defence forces.
 
 Independent and balanced diplomacy, democratic governance that respects human rights, equality and harmony that embraces diversity, and a professional military dedicated to the protection of the citizens and the state are essential factors to ensure national security.
 
@@ -4104,11 +4112,11 @@ Department, Prisons Department and Customs, as well as intelligence services and
 
 #### Introduction [4.09]
 
-Sri Lanka is a country with people of various ethnicities such as Sinhalese, Tamil,
+S ri Lanka is a country with people of various ethnicities such as Sinhalese, Tamil,
 
 Muslim, Burgher, Malay and various religions such as Buddhist, Hindu, Islam,
 
-Christian, Catholic, etc. Because of that diversity, it is essential for the well-being and national unity of the country to live in a multicultural society that exists by nature, accepting and respecting each other. But the country has failed to build the Sri Lankan nation by taking advantage of the various opportunities in history. The country had to face a tragic war of 30 years as a result of creating mutual suspicion and mistrust and disunity between ethnicities and military groups for the sake of obtaining and maintaining power and narrow opportunistic political interests. The sorrows and sad results of that war still remain in Sri Lankan society. The National People’s Power is dedicated to creating national 127unity for the building of the Sri Lankan nation, not divided based on ethnicity, language, religion, caste, or gender, and by respecting the diversity of identities and ensuring their survival and protection.
+Christian, Catholic, etc. Because of that diversity, it is essential for the well-being and national unity of the country to live in a multicultural society that exists by nature, accepting and respecting each other. But the country has failed to build the Sri Lankan nation by taking advantage of the various opportunities in history. The country had to face a tragic war of 30 years as a result of creating mutual suspicion and mistrust and disunity between ethnicities and military groups for the sake of obtaining and maintaining power and narrow opportunistic political interests. The sorrows and sad results of that war still remain in Sri Lankan society. The National People’s Power is dedicated to creating national 127 unity for the building of the Sri Lankan nation, not divided based on ethnicity, language, religion, caste, or gender, and by respecting the diversity of identities and ensuring their survival and protection.
 
 #### Principles [4.09]
 

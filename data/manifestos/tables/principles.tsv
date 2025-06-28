@@ -9,7 +9,7 @@ key	l1_num	l2_num	principle_num	title
 1.02.P2	1	2	2	The state’s responsibility to provide disease prevention and treatment health services to citizens without discrimination.
 1.02.P3	1	2	3	Promotion of health, disease prevention, and preventive health care.
 1.02.P4	1	2	4	Health services that meet global standards.
-1.02.P5	1	2	5	Protection of patients’ rights and safety.
+1.02.P5	1	2	5	Protection of patients’ rights and safety. 17
 1.03.P1	1	3	1	A healthy home for every individual
 1.03.P2	1	3	2	Effective land management
 1.03.P3	1	3	3	Comprehensive housing projects
@@ -49,19 +49,20 @@ key	l1_num	l2_num	principle_num	title
 2.01.P4	2	1	4	Inter-ministerial coordination
 2.01.P5	2	1	5	Life cycle based social protection for all
 2.01.P6	2	1	6	Ensuring social justice and leaving no one behind
-2.01.P7	2	1	7	Efficient and meaningful participation of beneficiaries and all relevant stakeholders in the selection of beneficiaries
+2.01.P7	2	1	7	Efficient and meaningful participation of beneficiaries and all relevant stakeholders in the selection of beneficiaries 39
 2.02.P1	2	2	1	Protection of the dignity and the value of labor
 2.02.P2	2	2	2	Equal treatment and diversity in labor
-2.02.P3	2	2	3	Equal opportunities that are not subject to discrimination
+2.02.P3	2	2	3	Equal opportunities that are not subject to discrimination 42
 2.03.P1	2	3	1	Economic justice as a cornerstone for achieving gender equality.
-2.03.P2	2	3	2	State policies acknowledging the value of unpaid care work within the national economy. 44■ Legislation that ensures fair and equal treatment for all marginalized groups.
-2.03.P3	2	3	3	Enhanced women’s political representation, participation, and roles in society.
-2.03.P4	2	3	4	Condemning all forms of violence, including systemic violence, across all settings.
-2.03.P5	2	3	5	Prioritized public services in policy development to alleviate the pressures on women.
-2.03.P6	2	3	6	Women’s involvement in creating sustainable environmental conservation strategies.
-2.03.P7	2	3	7	A society free from regressive stereotypes perpetuated by social institutions and practices.
-2.03.P8	2	3	8	Equal access to state services, rights, and justice for all identity groups, including women.
-2.03.P9	2	3	9	Domestic laws with the standards set by the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) and the Convention on the Rights of the Child (CRC).
+2.03.P2	2	3	2	State policies acknowledging the value of unpaid care work within the national economy. 44
+2.03.P3	2	3	3	Legislation that ensures fair and equal treatment for all marginalized groups.
+2.03.P4	2	3	4	Enhanced women’s political representation, participation, and roles in society.
+2.03.P5	2	3	5	Condemning all forms of violence, including systemic violence, across all settings.
+2.03.P6	2	3	6	Prioritized public services in policy development to alleviate the pressures on women.
+2.03.P7	2	3	7	Women’s involvement in creating sustainable environmental conservation strategies.
+2.03.P8	2	3	8	A society free from regressive stereotypes perpetuated by social institutions and practices.
+2.03.P9	2	3	9	Equal access to state services, rights, and justice for all identity groups, including women.
+2.03.P10	2	3	10	Domestic laws with the standards set by the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) and the Convention on the Rights of the Child (CRC).
 2.04.P1	2	4	1	A legal system aligned with international conventions like the UNCRC (United Nations Convention on the Rights of the Child) that ensures freedom and safety for children.
 2.04.P2	2	4	2	Proper care and nutrition for children.
 2.04.P3	2	4	3	The well-being and development of all children.
@@ -73,7 +74,7 @@ key	l1_num	l2_num	principle_num	title
 2.05.P5	2	5	5	Youth capable of providing leadership in political, social, and economic processes
 2.05.P6	2	5	6	A vibrant cultural life and independent thinking
 2.05.P7	2	5	7	A skilled youth capable of assuming national and international leadership
-2.05.P8	2	5	8	Youth who stands against social injustice
+2.05.P8	2	5	8	Youth who stands against social injustice 48
 2.07.P1	2	7	1	Provision of optimal services.
 2.07.P2	2	7	2	Inclusive Education.
 2.07.P3	2	7	3	Economic Independence.
@@ -99,7 +100,7 @@ key	l1_num	l2_num	principle_num	title
 3.02.P7	3	2	7	Empowering the agricultural producers
 3.02.P8	3	2	8	Mitigation of climate and other risks
 3.02.P9	3	2	9	Agricultural research, extension, and knowledge management
-3.02.P10	3	2	10	Effective management and control of agricultural operations
+3.02.P10	3	2	10	Effective management and control of agricultural operations 63
 3.03.P1	3	3	1	High-quality, hygienic animal production
 3.03.P2	3	3	2	Fair pricing and sustainable market
 3.03.P3	3	3	3	Investment incentives
@@ -113,7 +114,7 @@ key	l1_num	l2_num	principle_num	title
 3.04.P5	3	4	5	Prevention of environmental pollution, and protection of oceans
 3.04.P6	3	4	6	Fair market accessibility for fish and related products
 3.04.P7	3	4	7	Higher living standards and social protection for the fishing community
-3.04.P8	3	4	8	A Professional fishing community
+3.04.P8	3	4	8	A Professional fishing community 69
 3.05.P1	3	5	1	Sustained growth fueled by innovation
 3.05.P2	3	5	2	Digital transformation of government services
 3.05.P3	3	5	3	Rebranding Sri Lanka’s market identity
@@ -136,13 +137,14 @@ key	l1_num	l2_num	principle_num	title
 3.08.P1	3	8	1	Implementation of a national policy framework to deliver essential institutional, capital, technical, and market support for industrial development.
 3.08.P2	3	8	2	Encouragement of new investments, both domestic and foreign, as well as fostering entrepreneurship.
 3.08.P3	3	8	3	Provision of affordable infrastructure, including energy, transportation, telecommunications, finance, and other essential services.
-3.08.P4	3	8	4	Enhancement of market efficiency and transparency within supply chains. 84• Promotion of export-oriented service industries alongside the reinforcement of domestic industries.
-3.08.P5	3	8	5	Diversification of products and services driven by research and development outcomes.
-3.08.P6	3	8	6	Adoption of sustainable and environmentally responsible practices.
+3.08.P4	3	8	4	Enhancement of market efficiency and transparency within supply chains. 84
+3.08.P5	3	8	5	Promotion of export-oriented service industries alongside the reinforcement of domestic industries.
+3.08.P6	3	8	6	Diversification of products and services driven by research and development outcomes.
+3.08.P7	3	8	7	Adoption of sustainable and environmentally responsible practices.
 3.09.P1	3	9	1	Scientific exploration
 3.09.P2	3	9	2	Sustainable excavations and usage
 3.09.P3	3	9	3	Optimum utilization
-3.09.P4	3	9	4	Maximum benefits from local and foreign markets
+3.09.P4	3	9	4	Maximum benefits from local and foreign markets 89
 3.10.P1	3	10	1	Energy supply as an essential national service
 3.10.P2	3	10	2	Sustainable and safe energy supply and consumption
 3.10.P3	3	10	3	Foreign revenue through an energy economy
@@ -157,7 +159,7 @@ key	l1_num	l2_num	principle_num	title
 3.12.P4	3	12	4	Precautionary approach in decision-making on maritime control and administration
 3.12.P5	3	12	5	Community participation in the planning, usage, and conservation of maritime and coastal areas and their resources
 3.12.P6	3	12	6	Benefits of maritime resources being
-3.12.P7	3	12	7	Fair distribution of the benefits of maritime resources among the public
+3.12.P7	3	12	7	Fair distribution of the benefits of maritime resources among the public 99
 3.13.P1	3	13	1	Ensuring communication access for every citizen
 3.13.P2	3	13	2	Easy access to information and data
 3.13.P3	3	13	3	Fair pricing
@@ -166,7 +168,7 @@ key	l1_num	l2_num	principle_num	title
 3.13.P6	3	13	6	Green infrastructure
 3.14.P1	3	14	1	Optimum land utilization
 3.14.P2	3	14	2	Protecting the sensitive areas
-3.14.P3	3	14	3	Efficient and prod uctive land administration and management
+3.14.P3	3	14	3	Efficient and productive land administration and management
 3.15.P1	3	15	1	A creative construction industry
 3.15.P2	3	15	2	Transparent and fair procurement
 3.15.P3	3	15	3	Monitoring, supporting, and regulating the construction sector
