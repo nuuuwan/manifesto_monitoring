@@ -5,8 +5,8 @@ from mm.manifesto.comps import L1Topic, L2Topic
 
 
 class NPPManifestoPDFContents:
-    I_LINE_CONTENTS_START = 15
-    I_LINE_CONTENTS_END = 63
+    I_LINE_CONTENTS_START = 17
+    I_LINE_CONTENTS_END = 67
 
     @cached_property
     def contents_lines(self):
