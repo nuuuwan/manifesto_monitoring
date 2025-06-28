@@ -4,3 +4,4 @@ scikit-learn
 utils-nuuuwan
 matplotlib
 openai
+pypdf
