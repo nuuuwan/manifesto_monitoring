@@ -22,7 +22,7 @@ class ReadMeCompare(ReadMeCompareDetails, ReadMeCompareSummary):
 
         return (
             [
-                "## 🤖 AI Comparison of "
+                "## 🤖 AI Comparison of"
                 f" {n_manifesto_items:,} NPP Manifesto Promises &"
                 f" {n_cabinet_decisions:,} NPP Cabinet Decisions",
                 "",
