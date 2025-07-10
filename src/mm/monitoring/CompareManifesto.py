@@ -37,9 +37,7 @@ class CompareManifesto:
         if self.MAX_CABINET_DECISIONS and self.MAX_CABINET_DECISIONS < len(
             cabinet_decisions
         ):
-            cabinet_decisions = cabinet_decisions[
-                : self.MAX_CABINET_DECISIONS
-            ]
+            cabinet_decisions = cabinet_decisions[: self.MAX_CABINET_DECISIONS]
 
         return cabinet_decisions
 
@@ -215,8 +213,6 @@ class CompareManifesto:
     def get_overall_progress_by_date(self):
         current_date = TimeFormat.DATE.format(Time.now())
         progress_path = f"{self.PROGRESS_PATH_PREFIX}.{current_date}.json"
-        if os.path.exists(progress_path):
-            return JSONFile(progress_path).read()
 
         d_list = self.__get_overall_progress_by_date_hot__()
         JSONFile(progress_path).write(d_list)
