@@ -3,7 +3,7 @@ name: pipeline
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 2,14 * * *"
+    - cron: "0 2 * * *"
 
 jobs:
   pipeline:
