@@ -14,7 +14,7 @@ This repository contains utility libraries & tools for tracking, analyzing, & vi
 
 📢 Public Data. Share. Fork. Contribute.
 
-## 🤖 AI Comparison of  1,345 NPP Manifesto Promises & 470 NPP Cabinet Decisions
+## 🤖 AI Comparison of 1,345 NPP Manifesto Promises & **470** NPP Cabinet Decisions
 
 This section compares the NPP manifesto promises with Cabinet Decisions, using OpenAI's [text-embedding-3-small](https://platform.openai.com/docs/models/text-embedding-3-small) Model.
 
