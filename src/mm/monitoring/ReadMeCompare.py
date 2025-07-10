@@ -24,7 +24,7 @@ class ReadMeCompare(ReadMeCompareDetails, ReadMeCompareSummary):
             [
                 "## 🤖 AI Comparison of"
                 f" {n_manifesto_items:,} NPP Manifesto Promises &"
-                f" {n_cabinet_decisions:,} NPP Cabinet Decisions",
+                f" **{n_cabinet_decisions:,}** NPP Cabinet Decisions",
                 "",
                 "This section compares the NPP manifesto promises with"
                 " Cabinet Decisions,"

@@ -14,8 +14,6 @@ log = Log("CompareManifesto")
 
 class CompareManifesto:
     MIN_DATE_CABINET_DECISIONS = "2024-09-24"
-    MAX_CABINET_DECISIONS = 2000
-    MAX_MANIFESTO_ITEMS = 2000
 
     VERSION_ID = "prod-v3"
     CABINET_DECISIONS_ID = f"cabinet_decisions-{VERSION_ID}"
@@ -34,10 +32,6 @@ class CompareManifesto:
             for x in cabinet_decisions
             if x.date_str >= self.MIN_DATE_CABINET_DECISIONS
         ]
-        if self.MAX_CABINET_DECISIONS and self.MAX_CABINET_DECISIONS < len(
-            cabinet_decisions
-        ):
-            cabinet_decisions = cabinet_decisions[: self.MAX_CABINET_DECISIONS]
 
         return cabinet_decisions
 
@@ -72,8 +66,6 @@ class CompareManifesto:
     def manifesto_items(self):
         manifesto = NPPManifestoPDF().get_manifesto()
         all_table = manifesto.all_table
-        if self.MAX_MANIFESTO_ITEMS:
-            all_table = all_table[: self.MAX_MANIFESTO_ITEMS]
 
         return all_table
 
