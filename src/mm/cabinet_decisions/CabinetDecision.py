@@ -1,3 +1,4 @@
+import time
 from dataclasses import dataclass
 from functools import cache, cached_property
 
@@ -52,7 +53,7 @@ class CabinetDecision:
             except Exception as e:
                 log.error(f"Failed to download data: {e}")
                 log.debug(f"Retrying in {t_wait} seconds...")
-                Time.sleep(t_wait)
+                time.sleep(t_wait)
                 t_wait *= 2
         raise RuntimeError("Failed to download data after multiple attempts.")
 
