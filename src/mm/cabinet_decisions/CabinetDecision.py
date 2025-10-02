@@ -9,6 +9,8 @@ log = Log("CabinetDecision")
 
 @dataclass
 class CabinetDecision:
+    # ⚠️ WARNING: Does not use the same format as CabinetDecision (AbstractDoc)
+    # Format "translated" in list_all.
     date_str: str
     decision_num: int
     title: str
@@ -19,6 +21,12 @@ class CabinetDecision:
         "https://raw.githubusercontent.com"
         + "/nuuuwan/lk_cabinet_decisions"
         + "/refs/heads/main/data/cabinet_decisions.tsv"
+    )
+    REMOTE_DATA_URL = (
+        "https://raw.githubusercontent.com"
+        + "/nuuuwan/lk_cabinet_decisions"
+        + "/refs/heads/data"
+        + "/data/lk_cabinet_decisions/docs_all.tsv"
     )
     LIMIT_DAYS = 28
 
@@ -75,10 +83,10 @@ class CabinetDecision:
         return [
             CabinetDecision(
                 date_str=data["date_str"],
-                decision_num=int(data["decision_num"]),
-                title=data["title"],
-                source_url=data["source_url"],
-                decision_details=data["decision_details"],
+                decision_num=int(data["num"]),
+                title=data["decision_details_title"],
+                source_url=data["url_metadata"],
+                decision_details=data["decision_details_body"],
             )
             for data in CabinetDecision.__get_data_list__()
         ]
