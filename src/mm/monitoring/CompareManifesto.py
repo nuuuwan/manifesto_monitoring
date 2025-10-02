@@ -185,7 +185,9 @@ class CompareManifesto:
     @cache
     def __get_overall_progress_by_date_hot__(self):
         min_t = TimeFormat.DATE.parse(self.MIN_DATE_CABINET_DECISIONS).ut
-        max_t = Time.now().ut
+        max_t = TimeFormat.DATE.parse(
+            self.cabinet_decisions_for_compare[0].date_str
+        ).ut
 
         t = max_t
         d_list = []
