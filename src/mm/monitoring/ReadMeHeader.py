@@ -29,12 +29,6 @@ class ReadMeHeader:
                 "🛠️ Built for researchers, developers, journalists, & citizens"
                 " who want **accountability & transparency** in governance.",
                 "",
-                "🔍 Use this repo to:",
-                "",
-                "- Track progress on key promises",
-                "- Analyze policy implementation",
-                "- Build visual dashboards & reports",
-                "",
                 "📢 Public Data. Share. Fork. Contribute.",
                 "",
             ]
