@@ -84,7 +84,7 @@ class CabinetDecision:
             CabinetDecision(
                 date_str=data["date_str"],
                 decision_num=int(data["num"]),
-                title=data["decision_details_title"],
+                title=data["description"],
                 source_url=data["url_metadata"],
                 decision_details=data["decision_details_body"],
             )
