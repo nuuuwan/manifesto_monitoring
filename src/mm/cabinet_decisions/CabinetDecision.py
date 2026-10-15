@@ -56,7 +56,10 @@ class CabinetDecision:
         t_wait = 10
         while t_wait < 120:
             try:
-                tmp_tsv_path = www.download()
+                content = www.read()
+                tmp_tsv_path = "/tmp/cabinet_decisions.tsv"
+                with open(tmp_tsv_path, "w", encoding="utf-8") as f:
+                    f.write(content)
                 return tmp_tsv_path
             except Exception as e:
                 log.error(f"Failed to download data: {e}")
