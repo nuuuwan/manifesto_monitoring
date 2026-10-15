@@ -4,4 +4,5 @@ scikit-learn
 utils-nuuuwan
 matplotlib
 openai
+tiktoken
 pypdf

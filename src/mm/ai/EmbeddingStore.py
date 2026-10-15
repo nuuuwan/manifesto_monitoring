@@ -3,7 +3,8 @@ import pickle
 from functools import cached_property
 
 import numpy as np
-from openai import OpenAI
+import tiktoken
+from openai import BadRequestError, OpenAI
 from sklearn.preprocessing import normalize
 from utils import Hash, Log
 
@@ -14,17 +15,73 @@ log = Log("EmbeddingStore")
 
 class EmbeddingStore:
     MODEL = "text-embedding-3-small"
+    MAX_TOKENS_PER_REQUEST = 200_000
     MODEL_URL = (
         "https://platform.openai.com/docs/models/text-embedding-3-small"
     )
     DIR_EMBEDDING = os.path.join("data", "ai", "embeddings")
 
+    @classmethod
+    def __get_text_batches__(cls, text_list: list[str]) -> list[list[str]]:
+        encoding = tiktoken.encoding_for_model(cls.MODEL)
+        batches = []
+        batch = []
+        batch_token_count = 0
+
+        for text in text_list:
+            token_count = len(encoding.encode(text, disallowed_special=()))
+            if token_count > cls.MAX_TOKENS_PER_REQUEST:
+                raise ValueError(
+                    "A single embedding input contains "
+                    f"{token_count:,} tokens, exceeding the "
+                    f"{cls.MAX_TOKENS_PER_REQUEST:,}-token request limit."
+                )
+
+            if (
+                batch
+                and batch_token_count + token_count
+                > cls.MAX_TOKENS_PER_REQUEST
+            ):
+                batches.append(batch)
+                batch = []
+                batch_token_count = 0
+
+            batch.append(text)
+            batch_token_count += token_count
+
+        if batch:
+            batches.append(batch)
+
+        return batches
+
+    @classmethod
+    def __get_embeddings__(cls, text_batch: list[str]) -> list[list[float]]:
+        try:
+            response = client.embeddings.create(
+                input=text_batch, model=cls.MODEL
+            )
+        except BadRequestError as error:
+            if (
+                error.code != "max_tokens_per_request"
+                or len(text_batch) == 1
+            ):
+                raise
+
+            split_index = len(text_batch) // 2
+            return cls.__get_embeddings__(
+                text_batch[:split_index]
+            ) + cls.__get_embeddings__(text_batch[split_index:])
+
+        return [item.embedding for item in response.data]
+
     @staticmethod
     def __get_embedding_matrix__(text_list: list[str]) -> list[list[float]]:
-        response = client.embeddings.create(
-            input=text_list, model=EmbeddingStore.MODEL
-        )
-        embeddings = [item.embedding for item in response.data]
+        embeddings = []
+        for text_batch in EmbeddingStore.__get_text_batches__(text_list):
+            embeddings.extend(
+                EmbeddingStore.__get_embeddings__(text_batch)
+            )
+
         n = len(embeddings)
         log.warning(f"⚠️  Got {n} embeddings for 🤑 {EmbeddingStore.MODEL}")
         embedding_matrix = normalize(
